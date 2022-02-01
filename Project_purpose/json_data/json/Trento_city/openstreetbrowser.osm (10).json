@@ -1,0 +1,483 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 562715340,
+            "version": 4,
+            "timestamp": "2017-01-21T08:31:43Z",
+            "changeset": 45345016,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "addr:city": "Lavis",
+                "addr:country": "IT",
+                "addr:housenumber": "2",
+                "addr:postcode": "38015",
+                "addr:street": "Piazza Manci",
+                "amenity": "restaurant",
+                "cuisine": "pizza;regional",
+                "name": "Pizzeria Corona",
+                "tourism": "hotel"
+            },
+            "lat": 46.1385343,
+            "lon": 11.1139574
+        },
+        {
+            "type": "node",
+            "id": 562715342,
+            "version": 4,
+            "timestamp": "2014-05-21T08:51:40Z",
+            "changeset": 22460525,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "addr:city": "Lavis",
+                "addr:country": "IT",
+                "addr:housenumber": "33",
+                "addr:postcode": "38015",
+                "addr:street": "Via Matteotti",
+                "amenity": "fast_food",
+                "contact:email": "kmsrl@yahoo.it",
+                "contact:phone": "+39 0461 240321",
+                "contact:website": "http://www.pizzagrandalavis.com/",
+                "cuisine": "pizza",
+                "name": "Pizza Granda",
+                "operator": "KM SRL",
+                "ref:vatin": "IT02033020229",
+                "takeaway": "yes"
+            },
+            "lat": 46.1389748,
+            "lon": 11.1127669
+        },
+        {
+            "type": "node",
+            "id": 562715344,
+            "version": 4,
+            "timestamp": "2016-10-26T09:54:38Z",
+            "changeset": 43187278,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Pizzeria Dolomiti",
+                "phone": "+39 0461 246795"
+            },
+            "lat": 46.1400657,
+            "lon": 11.1114152
+        },
+        {
+            "type": "node",
+            "id": 940654673,
+            "version": 2,
+            "timestamp": "2011-06-23T18:04:00Z",
+            "changeset": 8525030,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Caffé Marta"
+            },
+            "lat": 46.1396248,
+            "lon": 11.1090346
+        },
+        {
+            "type": "node",
+            "id": 1870408863,
+            "version": 2,
+            "timestamp": "2014-12-15T10:18:21Z",
+            "changeset": 27478110,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "addr:city": "Lavis",
+                "addr:housenumber": "23",
+                "addr:postcode": "38015",
+                "addr:street": "Via Giacomo Matteotti",
+                "amenity": "bar"
+            },
+            "lat": 46.1388818,
+            "lon": 11.1132387
+        },
+        {
+            "type": "node",
+            "id": 1870411537,
+            "version": 2,
+            "timestamp": "2013-05-17T17:36:22Z",
+            "changeset": 16170551,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Acli"
+            },
+            "lat": 46.1387797,
+            "lon": 11.1130463
+        },
+        {
+            "type": "node",
+            "id": 1899168155,
+            "version": 1,
+            "timestamp": "2012-09-04T23:13:20Z",
+            "changeset": 12988900,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bottega del Dersut"
+            },
+            "lat": 46.1384075,
+            "lon": 11.1140736
+        },
+        {
+            "type": "node",
+            "id": 2314672636,
+            "version": 2,
+            "timestamp": "2017-01-21T08:31:41Z",
+            "changeset": 45345016,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "addr:city": "Lavis",
+                "addr:country": "IT",
+                "addr:housenumber": "4",
+                "addr:postcode": "38015",
+                "addr:street": "Piazza Manci",
+                "amenity": "bar",
+                "name": "Bar Corona"
+            },
+            "lat": 46.1386775,
+            "lon": 11.1139864
+        },
+        {
+            "type": "node",
+            "id": 2872204373,
+            "version": 3,
+            "timestamp": "2019-05-05T10:28:24Z",
+            "changeset": 69900126,
+            "uid": 1462614,
+            "user": "_Andrea_",
+            "tags": {
+                "addr:city": "Lavis",
+                "addr:housenumber": "32",
+                "addr:postcode": "38015",
+                "addr:street": "Via Nazionale",
+                "amenity": "cafe",
+                "name": "Buongiorno Lavis",
+                "opening_hours": "Mo-Sa 06:00-20:00; Su 06:00-13:00,15:00-20:00",
+                "ref:vatin": "IT02288500222",
+                "smoking": "outside"
+            },
+            "lat": 46.1373285,
+            "lon": 11.1097078
+        },
+        {
+            "type": "node",
+            "id": 2872204377,
+            "version": 3,
+            "timestamp": "2016-10-26T09:54:38Z",
+            "changeset": 43187278,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "addr:city": "Lavis",
+                "addr:housenumber": "4",
+                "addr:postcode": "38015",
+                "addr:street": "Via Antonio Rosmini",
+                "amenity": "fast_food",
+                "cuisine": "kebab",
+                "name": "Break time"
+            },
+            "lat": 46.1401898,
+            "lon": 11.1112215
+        },
+        {
+            "type": "node",
+            "id": 562715347,
+            "version": 5,
+            "timestamp": "2013-06-25T18:31:48Z",
+            "changeset": 16703376,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "name": "Lavis Pizza"
+            },
+            "lat": 46.1417257,
+            "lon": 11.1077894
+        },
+        {
+            "type": "node",
+            "id": 1402449109,
+            "version": 2,
+            "timestamp": "2012-02-01T17:04:08Z",
+            "changeset": 10560463,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Lavis",
+                "addr:country": "IT",
+                "addr:housenumber": "58",
+                "addr:postcode": "38015",
+                "addr:street": "Via Giovanni Clementi",
+                "amenity": "bar",
+                "contact:phone": "+39 0461 246646",
+                "name": "Caffè Millennium",
+                "operator": "Tommasi Tiziano",
+                "ref:vatin": "IT01650980228"
+            },
+            "lat": 46.1410483,
+            "lon": 11.1079534
+        },
+        {
+            "type": "node",
+            "id": 4464623568,
+            "version": 1,
+            "timestamp": "2016-10-26T09:54:38Z",
+            "changeset": 43187278,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "addr:city": "Lavis",
+                "addr:housenumber": "34",
+                "addr:postcode": "38015",
+                "addr:street": "Via Antonio Rosmini",
+                "amenity": "cafe",
+                "name": "Bar Sport",
+                "phone": "+39 0461 246699"
+            },
+            "lat": 46.1408354,
+            "lon": 11.1106053
+        },
+        {
+            "type": "node",
+            "id": 2304121848,
+            "version": 1,
+            "timestamp": "2013-05-14T19:50:12Z",
+            "changeset": 16130224,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Leon D'Oro"
+            },
+            "lat": 46.1380783,
+            "lon": 11.1155677
+        },
+        {
+            "type": "node",
+            "id": 3134826456,
+            "version": 1,
+            "timestamp": "2014-10-17T09:46:38Z",
+            "changeset": 26140297,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 46.1380842,
+            "lon": 11.1187976
+        },
+        {
+            "type": "node",
+            "id": 9208227296,
+            "version": 1,
+            "timestamp": "2021-10-28T18:01:05Z",
+            "changeset": 113092888,
+            "uid": 1861652,
+            "user": "pippo67",
+            "tags": {
+                "addr:city": "Giovo",
+                "addr:postcode": "38030",
+                "addr:street": "Strada Statale 612 della Val di Cembra",
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "email": "info@masofranch.it",
+                "name": "Maso Franch",
+                "opening_hours": "Mo-Su 12:00-14:30, 19:00-22:00",
+                "phone": "+39 0461 245533",
+                "source": "https://www.lastampa.it/il-gusto/2021/08/12/news/in_val_di_cembra_cose_buone_e_fatte_in_casa_con_una_piccola_spesa-313514674/",
+                "website": "https://www.masofranch.it/ristorante/"
+            },
+            "lat": 46.143114,
+            "lon": 11.1185963
+        },
+        {
+            "type": "way",
+            "id": 163216447,
+            "version": 2,
+            "timestamp": "2014-05-07T16:49:28Z",
+            "changeset": 22192245,
+            "uid": 1984792,
+            "user": "dorigatti",
+            "tags": {
+                "amenity": "bar",
+                "building": "yes"
+            },
+            "nodes": [
+                1749649066,
+                1749649061,
+                1749649044,
+                1749649060,
+                1749649066
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1749649066,
+            "version": 1,
+            "timestamp": "2012-05-12T13:43:25Z",
+            "changeset": 11576672,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1402111,
+            "lon": 11.1139596
+        },
+        {
+            "type": "node",
+            "id": 1749649061,
+            "version": 1,
+            "timestamp": "2012-05-12T13:43:25Z",
+            "changeset": 11576672,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1401318,
+            "lon": 11.1140716
+        },
+        {
+            "type": "node",
+            "id": 1749649044,
+            "version": 1,
+            "timestamp": "2012-05-12T13:43:25Z",
+            "changeset": 11576672,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1400517,
+            "lon": 11.1139536
+        },
+        {
+            "type": "node",
+            "id": 1749649060,
+            "version": 1,
+            "timestamp": "2012-05-12T13:43:25Z",
+            "changeset": 11576672,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.140131,
+            "lon": 11.1138415
+        },
+        {
+            "type": "node",
+            "id": 667341321,
+            "version": 4,
+            "timestamp": "2016-09-18T09:47:52Z",
+            "changeset": 42243214,
+            "uid": 4429352,
+            "user": "Rio16",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Perla d'Oro"
+            },
+            "lat": 46.1385894,
+            "lon": 11.1043856
+        },
+        {
+            "type": "node",
+            "id": 663429535,
+            "version": 8,
+            "timestamp": "2014-06-03T14:25:48Z",
+            "changeset": 22715626,
+            "uid": 20610,
+            "user": "napo",
+            "tags": {
+                "addr:city": "Lavis",
+                "addr:country": "IT",
+                "addr:housenumber": "27",
+                "addr:postcode": "38015",
+                "addr:street": "Via Cembra",
+                "amenity": "cafe",
+                "contact:phone": "+39 0461 245148",
+                "cuisine": "ice_cream",
+                "name": "Gelateria Serafini",
+                "opening_hours": "Tu-Su 7:30-00:30",
+                "operator": "Serafini Rocco e C. Snc",
+                "ref:vatin": "IT02101410229"
+            },
+            "lat": 46.1435381,
+            "lon": 11.1072387
+        },
+        {
+            "type": "way",
+            "id": 37832976,
+            "version": 3,
+            "timestamp": "2011-02-07T18:47:10Z",
+            "changeset": 7219259,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Lavis",
+                "addr:country": "IT",
+                "addr:housename": "Ristorante Vindimian",
+                "addr:housenumber": "46",
+                "addr:street": "Via Rodolofo Zandonai",
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "italian",
+                "name": "Ristorante Vindimian"
+            },
+            "nodes": [
+                443688513,
+                443688514,
+                443688523,
+                1141110668,
+                443688513
+            ]
+        },
+        {
+            "type": "node",
+            "id": 443688513,
+            "version": 3,
+            "timestamp": "2011-02-07T18:47:02Z",
+            "changeset": 7219259,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1392201,
+            "lon": 11.1012012
+        },
+        {
+            "type": "node",
+            "id": 443688514,
+            "version": 3,
+            "timestamp": "2011-02-07T18:47:11Z",
+            "changeset": 7219259,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.13911,
+            "lon": 11.101184
+        },
+        {
+            "type": "node",
+            "id": 443688523,
+            "version": 3,
+            "timestamp": "2011-02-07T18:47:06Z",
+            "changeset": 7219259,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1390815,
+            "lon": 11.1015635
+        },
+        {
+            "type": "node",
+            "id": 1141110668,
+            "version": 1,
+            "timestamp": "2011-02-07T18:45:46Z",
+            "changeset": 7219259,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1391917,
+            "lon": 11.1015807
+        }
+    ]
+}

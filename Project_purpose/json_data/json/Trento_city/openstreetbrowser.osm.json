@@ -1,0 +1,309 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1331576651,
+            "version": 4,
+            "timestamp": "2019-01-27T18:59:28Z",
+            "changeset": 66684731,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Caffè Al Centro"
+            },
+            "lat": 46.0066628,
+            "lon": 11.1276685
+        },
+        {
+            "type": "node",
+            "id": 1331577392,
+            "version": 3,
+            "timestamp": "2019-01-27T18:59:29Z",
+            "changeset": 66684731,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Alla Vecchia Fontana"
+            },
+            "lat": 46.005828,
+            "lon": 11.1274056
+        },
+        {
+            "type": "node",
+            "id": 1685067432,
+            "version": 4,
+            "timestamp": "2019-01-27T18:59:28Z",
+            "changeset": 66684731,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Snack Bar Flora"
+            },
+            "lat": 46.0066637,
+            "lon": 11.1275091
+        },
+        {
+            "type": "node",
+            "id": 1905543727,
+            "version": 5,
+            "timestamp": "2020-09-01T20:42:58Z",
+            "changeset": 90264346,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "addr:city": "Mattarello",
+                "addr:country": "IT",
+                "addr:housenumber": "106",
+                "addr:postcode": "38123",
+                "addr:street": "Via Giulio Catoni",
+                "amenity": "restaurant",
+                "contact:email": "info@anticastellatrento.com",
+                "contact:facebook": "https://www.facebook.com/anticastellaristorante/",
+                "contact:fax": "+39 0461 942899",
+                "contact:phone": "+39 0461 944401",
+                "contact:website": "http://www.anticastellatrento.com/",
+                "cuisine": "steak_house;burger;pizza;cotoletteria",
+                "level": "0",
+                "name": "Antica Stella",
+                "opening_hours": "Mo-Sa 12:00-14:00, 19:00-23:00; Th Off; Su 19:00-23:00",
+                "operator": "Andrea Pasquazzo",
+                "phone": "+39 0461 944401",
+                "ref:vatin": "IT01897590228"
+            },
+            "lat": 46.0054795,
+            "lon": 11.1267956
+        },
+        {
+            "type": "node",
+            "id": 7105717814,
+            "version": 1,
+            "timestamp": "2020-01-03T22:41:04Z",
+            "changeset": 79175967,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "addr:city": "Mattarello",
+                "addr:housenumber": "41",
+                "addr:postcode": "38123",
+                "addr:street": "Via Nazionale",
+                "amenity": "pub",
+                "microbrewery": "yes",
+                "name": "La Pinta Birreria"
+            },
+            "lat": 46.0062241,
+            "lon": 11.1272264
+        },
+        {
+            "type": "node",
+            "id": 430543937,
+            "version": 11,
+            "timestamp": "2021-11-08T14:00:43Z",
+            "changeset": 113523970,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "14",
+                "addr:postcode": "38123",
+                "addr:street": "Piazza Perini Quintilio",
+                "amenity": "cafe",
+                "name": "Bar Pasticceria \"Dolce Cuore\"",
+                "opening_hours": "Mo-Sa 06:30-20:00; Su 08:00-20:00",
+                "phone": "+39 0461 946271",
+                "shop": "pastry"
+            },
+            "lat": 46.0067576,
+            "lon": 11.1285775
+        },
+        {
+            "type": "node",
+            "id": 1204785293,
+            "version": 4,
+            "timestamp": "2017-10-02T12:44:32Z",
+            "changeset": 52563480,
+            "uid": 20610,
+            "user": "napo",
+            "tags": {
+                "addr:city": "Mattarello",
+                "addr:country": "IT",
+                "addr:housenumber": "39",
+                "addr:postcode": "38123",
+                "addr:street": "Via Giulio Catoni",
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "name": "L'arte della pizza",
+                "opening_hours": "Tu-Fr 11:00-13:45,17:30-21:30; Sa,Su 17:00-21:30",
+                "phone": "+39 0461 944714"
+            },
+            "lat": 46.0085347,
+            "lon": 11.1286032
+        },
+        {
+            "type": "node",
+            "id": 6239554144,
+            "version": 5,
+            "timestamp": "2021-11-08T14:53:55Z",
+            "changeset": 113525954,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "addr:housenumber": "14",
+                "addr:street": "Via Guido Poli",
+                "amenity": "fast_food",
+                "name": "Mero Pizza Kebab",
+                "opening_hours": "Mo, We, Th, Sa 11:30-13:30, 17:30-22:30; Tu Off; Fr, Su 17:30-22:30",
+                "phone": "346 560 6024",
+                "website": "https://pizzeria-mero.business.site/"
+            },
+            "lat": 46.0055777,
+            "lon": 11.1292252
+        },
+        {
+            "type": "node",
+            "id": 6240265349,
+            "version": 1,
+            "timestamp": "2019-01-27T19:22:21Z",
+            "changeset": 66685195,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Phoenix"
+            },
+            "lat": 46.0074369,
+            "lon": 11.1301462
+        },
+        {
+            "type": "node",
+            "id": 7661120689,
+            "version": 1,
+            "timestamp": "2020-06-28T16:59:30Z",
+            "changeset": 87255860,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Mensa scolastica"
+            },
+            "lat": 46.0064861,
+            "lon": 11.1292222
+        },
+        {
+            "type": "node",
+            "id": 6259990979,
+            "version": 2,
+            "timestamp": "2020-01-03T22:41:04Z",
+            "changeset": 79175967,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "amenity": "bar",
+                "name": "BarbeCus - da Francesca e Alvaro"
+            },
+            "lat": 46.008938,
+            "lon": 11.1349442
+        },
+        {
+            "type": "node",
+            "id": 3090950106,
+            "version": 1,
+            "timestamp": "2014-09-22T16:22:54Z",
+            "changeset": 25606959,
+            "uid": 606416,
+            "user": "anttit",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Ciccia & birra"
+            },
+            "lat": 46.0121323,
+            "lon": 11.1394703
+        },
+        {
+            "type": "node",
+            "id": 3803736242,
+            "version": 1,
+            "timestamp": "2015-10-26T16:17:57Z",
+            "changeset": 34885638,
+            "uid": 278581,
+            "user": "traces",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Villa Bertagnolli",
+                "tourism": "hotel"
+            },
+            "lat": 46.0115326,
+            "lon": 11.1395582
+        },
+        {
+            "type": "node",
+            "id": 955304924,
+            "version": 5,
+            "timestamp": "2021-11-09T09:46:25Z",
+            "changeset": 113557522,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "addr:city": "Mattarello",
+                "addr:housenumber": "46",
+                "addr:postcode": "38123",
+                "addr:street": "Via Pomeranos",
+                "amenity": "restaurant",
+                "cuisine": "pizza;indian;italian",
+                "disused": "yes",
+                "disused:amenity": "restaurant",
+                "disused:cuisine": "regional;pizza",
+                "email": "torrefranca@singhrestaurant.it",
+                "layer": "3",
+                "name": "Ristorante pizzeria Torrefranca",
+                "opening_hours": "Mo off; Tu-Su 10:00-14:30,18:00-23:30",
+                "phone": "+39 0461 945149",
+                "ref:vatin": "IT02349630224",
+                "website": "http://www.singhrestaurant.it/torre-franca.php"
+            },
+            "lat": 46.014365,
+            "lon": 11.1325434
+        },
+        {
+            "type": "node",
+            "id": 3090949619,
+            "version": 2,
+            "timestamp": "2021-07-11T14:32:02Z",
+            "changeset": 107785156,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "amenity": "ice_cream",
+                "description": "Secondo punto vendita",
+                "name": "Gelateria \"Al Ponte\""
+            },
+            "lat": 46.013792,
+            "lon": 11.1320816
+        },
+        {
+            "type": "node",
+            "id": 6240212648,
+            "version": 2,
+            "timestamp": "2020-09-01T21:27:43Z",
+            "changeset": 90265482,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "addr:city": "Mattarello",
+                "addr:housenumber": "36",
+                "addr:postcode": "38123",
+                "addr:street": "Via Pomeranos",
+                "amenity": "bar",
+                "name": "Bar bistrot Tavonatti"
+            },
+            "lat": 46.0139481,
+            "lon": 11.1322597
+        }
+    ]
+}

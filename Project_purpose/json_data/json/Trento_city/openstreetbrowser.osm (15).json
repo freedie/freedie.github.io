@@ -1,0 +1,205 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2706066321,
+            "version": 3,
+            "timestamp": "2021-07-30T06:16:58Z",
+            "changeset": 108859884,
+            "uid": 20610,
+            "user": "napo",
+            "tags": {
+                "amenity": "pub",
+                "name": "Il Circolino",
+                "opening_hours": "Mo-Fr 11:00-15:00,19:00-21:00",
+                "wheelchair": "yes"
+            },
+            "lat": 46.0688356,
+            "lon": 11.1287583
+        },
+        {
+            "type": "node",
+            "id": 583550447,
+            "version": 5,
+            "timestamp": "2013-10-15T20:16:29Z",
+            "changeset": 18375869,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "65",
+                "addr:postcode": "38122",
+                "addr:street": "Via alle Laste",
+                "amenity": "restaurant",
+                "contact:email": "info@pizzerialaste.it",
+                "contact:fax": "+39 0461 265000",
+                "contact:phone": "+39 0461 231570",
+                "contact:website": "http://www.pizzerialaste.it/",
+                "cuisine": "pizza",
+                "fixme": "addr:number: il sito dà come numero civico il 63. verificare",
+                "name": "Pizzeria Laste",
+                "opening_hours": "Mo-Su 11:30-14:00,18:30-23:00; Tu off",
+                "ref:vatin": "IT01424840229"
+            },
+            "lat": 46.0737011,
+            "lon": 11.1341996
+        },
+        {
+            "type": "node",
+            "id": 292021580,
+            "version": 8,
+            "timestamp": "2020-08-22T12:57:23Z",
+            "changeset": 89780671,
+            "uid": 11659344,
+            "user": "bear_on_coffee",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "36",
+                "addr:postcode": "38121",
+                "addr:street": "Via San Vito",
+                "amenity": "restaurant",
+                "contact:fax": "+39 0461 987031",
+                "contact:phone": "+39 0461 987031",
+                "cuisine": "pizza",
+                "name": "Pizzeria Quattro Stagioni",
+                "opening_hours": "Tu-Su 12:00-14:00; Tu-Su 18:30-23:00",
+                "operator": "Ristoranti Trentini Associati srl",
+                "ref:vatin": "IT00582810222",
+                "wheelchair": "yes"
+            },
+            "lat": 46.0752717,
+            "lon": 11.1379026
+        },
+        {
+            "type": "node",
+            "id": 945021993,
+            "version": 7,
+            "timestamp": "2020-02-15T19:52:26Z",
+            "changeset": 81052792,
+            "uid": 160229,
+            "user": "sorcrosc",
+            "tags": {
+                "addr:city": "Cognola",
+                "addr:housenumber": "5",
+                "addr:postcode": "38121",
+                "addr:street": "Via Don Alfonso Anselmi",
+                "amenity": "bar",
+                "name": "Caffè Argentario",
+                "shop": "pastry",
+                "wheelchair": "yes"
+            },
+            "lat": 46.0758112,
+            "lon": 11.1425019
+        },
+        {
+            "type": "node",
+            "id": 798801352,
+            "version": 1,
+            "timestamp": "2010-07-01T20:02:04Z",
+            "changeset": 5123291,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Stella"
+            },
+            "lat": 46.0690382,
+            "lon": 11.136194
+        },
+        {
+            "type": "node",
+            "id": 909818124,
+            "version": 4,
+            "timestamp": "2017-10-01T19:21:00Z",
+            "changeset": 52545515,
+            "uid": 20610,
+            "user": "napo",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "123",
+                "addr:postcode": "38122",
+                "addr:street": "Via Venezia",
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Korallo",
+                "smoking": "no"
+            },
+            "lat": 46.069728,
+            "lon": 11.1363013
+        },
+        {
+            "type": "node",
+            "id": 247887464,
+            "version": 5,
+            "timestamp": "2010-06-28T19:58:34Z",
+            "changeset": 5100798,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Pizzeria Al Villaggio"
+            },
+            "lat": 46.0718261,
+            "lon": 11.1404686
+        },
+        {
+            "type": "node",
+            "id": 663038618,
+            "version": 3,
+            "timestamp": "2010-07-01T16:14:17Z",
+            "changeset": 5121762,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Satellite"
+            },
+            "lat": 46.0711856,
+            "lon": 11.1402766
+        },
+        {
+            "type": "node",
+            "id": 945021956,
+            "version": 5,
+            "timestamp": "2019-11-08T22:31:27Z",
+            "changeset": 76832253,
+            "uid": 1987,
+            "user": "niubii",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "79",
+                "addr:postcode": "38121",
+                "addr:street": "Via Ponte Alto",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Cacio & Pepe",
+                "phone": "+39 0461 262764",
+                "smoking": "outside",
+                "takeaway": "yes",
+                "website": "http://ristorantecaciopepe.it"
+            },
+            "lat": 46.0736462,
+            "lon": 11.1486234
+        },
+        {
+            "type": "node",
+            "id": 292021803,
+            "version": 6,
+            "timestamp": "2008-08-30T18:53:03Z",
+            "changeset": 466826,
+            "uid": 56563,
+            "user": "Gusme",
+            "tags": {
+                "amenity": "pub",
+                "created_by": "Potlatch 0.10b"
+            },
+            "lat": 46.0760501,
+            "lon": 11.1467436
+        }
+    ]
+}

@@ -1,0 +1,288 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2304109638,
+            "version": 3,
+            "timestamp": "2017-10-02T11:12:53Z",
+            "changeset": 52561001,
+            "uid": 20610,
+            "user": "napo",
+            "tags": {
+                "addr:city": "Gardolo",
+                "addr:country": "IT",
+                "addr:housenumber": "101",
+                "addr:postcode": "38121",
+                "addr:street": "Via 4 Novembre (1918)",
+                "amenity": "ice_cream",
+                "name": "Peterle",
+                "operator": "Faes Annam e C",
+                "ref:vatin": "IT02026540225"
+            },
+            "lat": 46.0982251,
+            "lon": 11.112978
+        },
+        {
+            "type": "node",
+            "id": 4379398022,
+            "version": 6,
+            "timestamp": "2019-09-08T03:05:55Z",
+            "changeset": 74217946,
+            "uid": 290680,
+            "user": "wheelmap_visitor",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "8",
+                "addr:postcode": "38121",
+                "addr:street": "Via 25 Aprile 1945",
+                "amenity": "restaurant",
+                "cuisine": "fish;pizza;regional",
+                "name": "L'Anfora",
+                "operator": "Happy Hour S.A.S.",
+                "ref:vatin": "IT02002220222",
+                "wheelchair": "yes"
+            },
+            "lat": 46.0982231,
+            "lon": 11.1161873
+        },
+        {
+            "type": "node",
+            "id": 1773866574,
+            "version": 2,
+            "timestamp": "2012-06-04T11:14:26Z",
+            "changeset": 11795440,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "4",
+                "addr:postcode": "38121",
+                "addr:street": "Via Bassa",
+                "amenity": "restaurant",
+                "cuisine": "pizza;regional",
+                "name": "Canova"
+            },
+            "lat": 46.0983328,
+            "lon": 11.1099426
+        },
+        {
+            "type": "node",
+            "id": 1404110995,
+            "version": 2,
+            "timestamp": "2013-12-15T20:08:11Z",
+            "changeset": 19471167,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "fixme": "closed?"
+            },
+            "lat": 46.0998908,
+            "lon": 11.1118926
+        },
+        {
+            "type": "node",
+            "id": 1454331896,
+            "version": 3,
+            "timestamp": "2017-09-21T10:33:27Z",
+            "changeset": 52239957,
+            "uid": 6678525,
+            "user": "danielezotta",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "34/2",
+                "addr:postcode": "38121",
+                "addr:street": "Via Luigi Caneppele",
+                "amenity": "cafe",
+                "name": "Bar Lupo"
+            },
+            "lat": 46.1007503,
+            "lon": 11.1014857
+        },
+        {
+            "type": "node",
+            "id": 2700355078,
+            "version": 1,
+            "timestamp": "2014-03-03T19:18:14Z",
+            "changeset": 20895277,
+            "uid": 1965807,
+            "user": "nicholas91",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Ceresella"
+            },
+            "lat": 46.1007909,
+            "lon": 11.1085885
+        },
+        {
+            "type": "node",
+            "id": 2311431854,
+            "version": 1,
+            "timestamp": "2013-05-19T15:41:51Z",
+            "changeset": 16195349,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Sorriso"
+            },
+            "lat": 46.103731,
+            "lon": 11.10845
+        },
+        {
+            "type": "node",
+            "id": 2311431867,
+            "version": 2,
+            "timestamp": "2014-03-03T19:21:25Z",
+            "changeset": 20895277,
+            "uid": 1965807,
+            "user": "nicholas91",
+            "tags": {
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "name": "Pizza Gardolo"
+            },
+            "lat": 46.1036686,
+            "lon": 11.1084869
+        },
+        {
+            "type": "node",
+            "id": 6588479288,
+            "version": 1,
+            "timestamp": "2019-07-04T09:35:37Z",
+            "changeset": 71889150,
+            "uid": 3277757,
+            "user": "mapper0048",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Pisetta",
+                "outdoor_seating": "yes"
+            },
+            "lat": 46.1048034,
+            "lon": 11.1125086
+        },
+        {
+            "type": "way",
+            "id": 37241682,
+            "version": 7,
+            "timestamp": "2012-05-28T10:09:21Z",
+            "changeset": 11724872,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "21",
+                "addr:postcode": "38121",
+                "addr:street": "Via Martino Aichner",
+                "amenity": "restaurant",
+                "building": "yes",
+                "contact:phone": "+39 0461 990459",
+                "cuisine": "pizza;fish",
+                "name": "El Merendero",
+                "opening_hours": "Mo-Su 12:00-14:00,18:30-23:30; Tu off",
+                "oven": "wood_fired"
+            },
+            "nodes": [
+                1768481158,
+                433853997,
+                433853990,
+                433853992,
+                1026452348,
+                1768481154,
+                1768481158
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1768481158,
+            "version": 1,
+            "timestamp": "2012-05-28T10:09:20Z",
+            "changeset": 11724872,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1028134,
+            "lon": 11.1030023
+        },
+        {
+            "type": "node",
+            "id": 433853997,
+            "version": 4,
+            "timestamp": "2012-05-28T10:09:26Z",
+            "changeset": 11724872,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1029628,
+            "lon": 11.1030012
+        },
+        {
+            "type": "node",
+            "id": 433853990,
+            "version": 3,
+            "timestamp": "2012-05-28T10:09:26Z",
+            "changeset": 11724872,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1029619,
+            "lon": 11.1027481
+        },
+        {
+            "type": "node",
+            "id": 433853992,
+            "version": 4,
+            "timestamp": "2012-05-28T10:09:26Z",
+            "changeset": 11724872,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1026636,
+            "lon": 11.1027502
+        },
+        {
+            "type": "node",
+            "id": 1026452348,
+            "version": 2,
+            "timestamp": "2012-05-28T10:09:24Z",
+            "changeset": 11724872,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1026642,
+            "lon": 11.102926
+        },
+        {
+            "type": "node",
+            "id": 1768481154,
+            "version": 1,
+            "timestamp": "2012-05-28T10:09:20Z",
+            "changeset": 11724872,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1027097,
+            "lon": 11.1029256
+        },
+        {
+            "type": "node",
+            "id": 1979796467,
+            "version": 9,
+            "timestamp": "2021-08-09T14:45:05Z",
+            "changeset": 109413869,
+            "uid": 20610,
+            "user": "napo",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "21",
+                "addr:postcode": "38121",
+                "addr:street": "Via San Sebastian",
+                "amenity": "restaurant",
+                "name": "Terminal Ro.La."
+            },
+            "lat": 46.1032926,
+            "lon": 11.0970986
+        }
+    ]
+}

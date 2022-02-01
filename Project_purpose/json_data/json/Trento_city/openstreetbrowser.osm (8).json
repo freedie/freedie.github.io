@@ -1,0 +1,375 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 4302909329,
+            "version": 1,
+            "timestamp": "2016-07-14T15:20:15Z",
+            "changeset": 40741607,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Aeroporto"
+            },
+            "lat": 46.1078726,
+            "lon": 11.0988677
+        },
+        {
+            "type": "node",
+            "id": 6588442179,
+            "version": 1,
+            "timestamp": "2019-07-04T09:35:37Z",
+            "changeset": 71889150,
+            "uid": 3277757,
+            "user": "mapper0048",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Milena"
+            },
+            "lat": 46.106692,
+            "lon": 11.1112411
+        },
+        {
+            "type": "node",
+            "id": 6657331381,
+            "version": 1,
+            "timestamp": "2019-07-29T11:26:37Z",
+            "changeset": 72765680,
+            "uid": 9601757,
+            "user": "Roberta Orienteering",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Il Pioppeto"
+            },
+            "lat": 46.1090357,
+            "lon": 11.1073045
+        },
+        {
+            "type": "node",
+            "id": 1297477234,
+            "version": 1,
+            "timestamp": "2011-05-23T17:44:17Z",
+            "changeset": 8228432,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar alle Scale"
+            },
+            "lat": 46.1081612,
+            "lon": 11.1120203
+        },
+        {
+            "type": "node",
+            "id": 1297477299,
+            "version": 2,
+            "timestamp": "2017-06-24T12:30:33Z",
+            "changeset": 49792697,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 46.1084826,
+            "lon": 11.1119457
+        },
+        {
+            "type": "node",
+            "id": 3105232729,
+            "version": 3,
+            "timestamp": "2019-07-03T15:10:05Z",
+            "changeset": 71864419,
+            "uid": 3277757,
+            "user": "mapper0048",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Pingu",
+                "outdoor_seating": "no"
+            },
+            "lat": 46.1099053,
+            "lon": 11.1107976
+        },
+        {
+            "type": "node",
+            "id": 6586924485,
+            "version": 1,
+            "timestamp": "2019-07-03T15:10:05Z",
+            "changeset": 71864419,
+            "uid": 3277757,
+            "user": "mapper0048",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Cilli's Pizza",
+                "opening_hours": "Tu-Su 18:00-22:00",
+                "phone": "+39 0461 961237"
+            },
+            "lat": 46.1089724,
+            "lon": 11.1106584
+        },
+        {
+            "type": "way",
+            "id": 177004837,
+            "version": 5,
+            "timestamp": "2021-03-15T23:31:31Z",
+            "changeset": 101078745,
+            "uid": 12169583,
+            "user": "davidfaure_bot",
+            "tags": {
+                "addr:city": "Gardolo",
+                "addr:housenumber": "27/1",
+                "addr:postcode": "38121",
+                "addr:street": "Via Aeroporto",
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "regional;italian",
+                "name": "dal Birbante",
+                "opening_hours": "Mo-Sa 11:30-14:00,18:30-22:00",
+                "phone": "+39 375 5499896"
+            },
+            "nodes": [
+                1874792807,
+                1874792809,
+                1874792814,
+                1874792818,
+                1874792783,
+                1874792779,
+                1874792807
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1874792807,
+            "version": 2,
+            "timestamp": "2019-04-30T14:20:41Z",
+            "changeset": 69736737,
+            "uid": 20610,
+            "user": "napo",
+            "lat": 46.1079216,
+            "lon": 11.1097851
+        },
+        {
+            "type": "node",
+            "id": 1874792809,
+            "version": 2,
+            "timestamp": "2019-04-30T14:20:41Z",
+            "changeset": 69736737,
+            "uid": 20610,
+            "user": "napo",
+            "lat": 46.1079263,
+            "lon": 11.109866
+        },
+        {
+            "type": "node",
+            "id": 1874792814,
+            "version": 2,
+            "timestamp": "2019-04-30T14:20:41Z",
+            "changeset": 69736737,
+            "uid": 20610,
+            "user": "napo",
+            "lat": 46.107941,
+            "lon": 11.1098642
+        },
+        {
+            "type": "node",
+            "id": 1874792818,
+            "version": 2,
+            "timestamp": "2019-04-30T14:20:41Z",
+            "changeset": 69736737,
+            "uid": 20610,
+            "user": "napo",
+            "lat": 46.1079473,
+            "lon": 11.109972
+        },
+        {
+            "type": "node",
+            "id": 1874792783,
+            "version": 2,
+            "timestamp": "2019-04-30T14:20:41Z",
+            "changeset": 69736737,
+            "uid": 20610,
+            "user": "napo",
+            "lat": 46.1078333,
+            "lon": 11.1099857
+        },
+        {
+            "type": "node",
+            "id": 1874792779,
+            "version": 2,
+            "timestamp": "2019-04-30T14:20:41Z",
+            "changeset": 69736737,
+            "uid": 20610,
+            "user": "napo",
+            "lat": 46.1078224,
+            "lon": 11.1097971
+        },
+        {
+            "type": "way",
+            "id": 177004779,
+            "version": 3,
+            "timestamp": "2019-07-03T15:10:05Z",
+            "changeset": 71864419,
+            "uid": 3277757,
+            "user": "mapper0048",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "pizza;italian",
+                "name": "Il Dopolavoro",
+                "opening_hours": "Tu-Su 12:00-14:30,18:30-23:30",
+                "phone": "+39 0461 990065",
+                "website": "https://www.ildopolavororistorante.it/"
+            },
+            "nodes": [
+                1874792851,
+                6159301082,
+                6159301083,
+                1874792820,
+                1874792821,
+                1874792837,
+                1874792839,
+                1874792861,
+                1874792859,
+                1874792856,
+                1874792854,
+                1874792853,
+                1874792851
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1874792851,
+            "version": 2,
+            "timestamp": "2018-12-24T16:25:52Z",
+            "changeset": 65745298,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1085228,
+            "lon": 11.1101417
+        },
+        {
+            "type": "node",
+            "id": 6159301082,
+            "version": 1,
+            "timestamp": "2018-12-24T16:25:18Z",
+            "changeset": 65745298,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1084257,
+            "lon": 11.1101627
+        },
+        {
+            "type": "node",
+            "id": 6159301083,
+            "version": 1,
+            "timestamp": "2018-12-24T16:25:18Z",
+            "changeset": 65745298,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1084213,
+            "lon": 11.1101205
+        },
+        {
+            "type": "node",
+            "id": 1874792820,
+            "version": 2,
+            "timestamp": "2018-12-24T16:25:52Z",
+            "changeset": 65745298,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1082636,
+            "lon": 11.1101546
+        },
+        {
+            "type": "node",
+            "id": 1874792821,
+            "version": 2,
+            "timestamp": "2018-12-24T16:25:52Z",
+            "changeset": 65745298,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.108293,
+            "lon": 11.1104369
+        },
+        {
+            "type": "node",
+            "id": 1874792837,
+            "version": 2,
+            "timestamp": "2018-12-24T16:25:52Z",
+            "changeset": 65745298,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1083989,
+            "lon": 11.110414
+        },
+        {
+            "type": "node",
+            "id": 1874792839,
+            "version": 2,
+            "timestamp": "2018-12-24T16:25:52Z",
+            "changeset": 65745298,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1084097,
+            "lon": 11.1105184
+        },
+        {
+            "type": "node",
+            "id": 1874792861,
+            "version": 2,
+            "timestamp": "2018-12-24T16:25:52Z",
+            "changeset": 65745298,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1085854,
+            "lon": 11.1104803
+        },
+        {
+            "type": "node",
+            "id": 1874792859,
+            "version": 2,
+            "timestamp": "2018-12-24T16:25:52Z",
+            "changeset": 65745298,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1085734,
+            "lon": 11.1103648
+        },
+        {
+            "type": "node",
+            "id": 1874792856,
+            "version": 2,
+            "timestamp": "2018-12-24T16:25:52Z",
+            "changeset": 65745298,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1086261,
+            "lon": 11.1103534
+        },
+        {
+            "type": "node",
+            "id": 1874792854,
+            "version": 2,
+            "timestamp": "2018-12-24T16:25:52Z",
+            "changeset": 65745298,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.108616,
+            "lon": 11.1102566
+        },
+        {
+            "type": "node",
+            "id": 1874792853,
+            "version": 2,
+            "timestamp": "2018-12-24T16:25:52Z",
+            "changeset": 65745298,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1085365,
+            "lon": 11.1102738
+        }
+    ]
+}

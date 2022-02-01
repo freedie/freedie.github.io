@@ -1,0 +1,308 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 267649391,
+            "version": 4,
+            "timestamp": "2011-02-24T17:19:59Z",
+            "changeset": 7383350,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzeria Al Caminetto"
+            },
+            "lat": 46.2148653,
+            "lon": 11.1168418
+        },
+        {
+            "type": "node",
+            "id": 1023262474,
+            "version": 5,
+            "timestamp": "2012-02-01T16:58:36Z",
+            "changeset": 10560418,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Mezzocorona",
+                "addr:country": "IT",
+                "addr:housenumber": "2",
+                "addr:postcode": "38016",
+                "addr:street": "Piazza San Gottardo",
+                "amenity": "cafe",
+                "contact:phone": "+39 0461 603755",
+                "name": "Bar Centrale",
+                "operator": "Centrale S.A.S.",
+                "ref:vatin": "IT00646770222"
+            },
+            "lat": 46.2150835,
+            "lon": 11.1196248
+        },
+        {
+            "type": "node",
+            "id": 1023263517,
+            "version": 5,
+            "timestamp": "2018-11-25T15:39:18Z",
+            "changeset": 64869856,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Mezzocorona",
+                "addr:country": "IT",
+                "addr:housenumber": "7",
+                "addr:postcode": "38016",
+                "addr:street": "Piazza della Chiesa",
+                "amenity": "cafe",
+                "contact:facebook": "https://www.facebook.com/EnPiaza/",
+                "contact:phone": "+39 0461 601014",
+                "name": "En Piaza",
+                "operator": "L. & O. Lavoro e Occupazione",
+                "outdoor_seating": "yes",
+                "ref:vatin": "IT01915930224"
+            },
+            "lat": 46.216721,
+            "lon": 11.1186942
+        },
+        {
+            "type": "node",
+            "id": 1408624387,
+            "version": 6,
+            "timestamp": "2018-07-02T14:31:51Z",
+            "changeset": 60349968,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Mezzocorona",
+                "addr:country": "IT",
+                "addr:housenumber": "4",
+                "addr:postcode": "38016",
+                "addr:street": "Piazza della Chiesa",
+                "amenity": "ice_cream",
+                "contact:facebook": "https://www.facebook.com/Caffetteria-Gelateria-Pingu-534241856761082/",
+                "contact:phone": "+39 0461 987654",
+                "name": "Pingu",
+                "opening_hours": "Mo 16:00-22:00; Tu-Su 15:00-22:00",
+                "ref:vatin": "IT00653210229"
+            },
+            "lat": 46.2167338,
+            "lon": 11.1184173
+        },
+        {
+            "type": "node",
+            "id": 1754018634,
+            "version": 1,
+            "timestamp": "2012-05-15T16:53:15Z",
+            "changeset": 11606707,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Mezzocorona",
+                "addr:country": "IT",
+                "addr:housenumber": "15",
+                "addr:postcode": "38016",
+                "addr:street": "Piazza San Gottardo",
+                "amenity": "cafe",
+                "name": "Bar Tram",
+                "operator": "Rossi Maria Grazia",
+                "ref:vatin": "IT02164510220"
+            },
+            "lat": 46.2143238,
+            "lon": 11.1189223
+        },
+        {
+            "type": "node",
+            "id": 1754018654,
+            "version": 1,
+            "timestamp": "2012-05-15T16:53:16Z",
+            "changeset": 11606707,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Mezzocorona",
+                "addr:country": "IT",
+                "addr:housenumber": "24",
+                "addr:postcode": "38016",
+                "addr:street": "Piazza San Gottardo",
+                "amenity": "fast_food",
+                "cuisine": "pizza"
+            },
+            "lat": 46.2145202,
+            "lon": 11.1183331
+        },
+        {
+            "type": "node",
+            "id": 2049523808,
+            "version": 2,
+            "timestamp": "2013-01-05T19:54:52Z",
+            "changeset": 14541144,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Teer Cafè"
+            },
+            "lat": 46.2145601,
+            "lon": 11.1208637
+        },
+        {
+            "type": "node",
+            "id": 2881985266,
+            "version": 2,
+            "timestamp": "2018-11-25T15:39:18Z",
+            "changeset": 64869856,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Mezzocorona",
+                "addr:country": "IT",
+                "addr:housenumber": "29",
+                "addr:postcode": "38010",
+                "addr:street": "Piazza della Chiesa",
+                "amenity": "restaurant",
+                "contact:phone": "+39 0461 603823",
+                "cuisine": "pizza;regional",
+                "name": "Da Demetrio",
+                "operator": "Furlan Andreina & C. SNC",
+                "outdoor_seating": "yes",
+                "ref:vatin": "IT00658870225"
+            },
+            "lat": 46.21664,
+            "lon": 11.1192053
+        },
+        {
+            "type": "node",
+            "id": 4657167767,
+            "version": 1,
+            "timestamp": "2017-02-02T18:26:23Z",
+            "changeset": 45755553,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Mezzocorona",
+                "addr:country": "IT",
+                "addr:housenumber": "4",
+                "addr:postcode": "38016",
+                "addr:street": "Piazza San Gottardo",
+                "amenity": "restaurant",
+                "contact:facebook": "https://www.facebook.com/Dolce-Spina-Mezzocorona-277694462347714/",
+                "contact:phone": "+39 0461 601710",
+                "name": "Trattoria Dolce Spina"
+            },
+            "lat": 46.2150199,
+            "lon": 11.1194014
+        },
+        {
+            "type": "node",
+            "id": 2096838561,
+            "version": 1,
+            "timestamp": "2013-01-05T19:54:48Z",
+            "changeset": 14541144,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Cafè Mirò"
+            },
+            "lat": 46.2128627,
+            "lon": 11.1230939
+        },
+        {
+            "type": "node",
+            "id": 2185695786,
+            "version": 1,
+            "timestamp": "2013-03-04T16:15:53Z",
+            "changeset": 15248239,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 46.2160695,
+            "lon": 11.1216286
+        },
+        {
+            "type": "node",
+            "id": 4265067225,
+            "version": 1,
+            "timestamp": "2016-06-25T21:06:38Z",
+            "changeset": 40289770,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "fast_food",
+                "cuisine": "pizza;kebab",
+                "name": "Golosità"
+            },
+            "lat": 46.2174477,
+            "lon": 11.1257522
+        },
+        {
+            "type": "way",
+            "id": 101372428,
+            "version": 2,
+            "timestamp": "2021-07-26T14:59:11Z",
+            "changeset": 108632085,
+            "uid": 13758109,
+            "user": "Team Mountain Maps",
+            "tags": {
+                "amenity": "cafe",
+                "building": "yes",
+                "name": "Bar Campetti"
+            },
+            "nodes": [
+                1170577179,
+                1170577140,
+                1170576741,
+                1170576491,
+                1170577179
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1170577179,
+            "version": 1,
+            "timestamp": "2011-02-24T17:52:35Z",
+            "changeset": 7383669,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.2150394,
+            "lon": 11.1235188
+        },
+        {
+            "type": "node",
+            "id": 1170577140,
+            "version": 1,
+            "timestamp": "2011-02-24T17:52:34Z",
+            "changeset": 7383669,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.2150664,
+            "lon": 11.1236343
+        },
+        {
+            "type": "node",
+            "id": 1170576741,
+            "version": 2,
+            "timestamp": "2021-07-26T14:59:11Z",
+            "changeset": 108632085,
+            "uid": 13758109,
+            "user": "Team Mountain Maps",
+            "lat": 46.2148717,
+            "lon": 11.1237436
+        },
+        {
+            "type": "node",
+            "id": 1170576491,
+            "version": 2,
+            "timestamp": "2021-07-26T14:59:11Z",
+            "changeset": 108632085,
+            "uid": 13758109,
+            "user": "Team Mountain Maps",
+            "lat": 46.2148406,
+            "lon": 11.1236391
+        }
+    ]
+}

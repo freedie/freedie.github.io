@@ -1,0 +1,2450 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 580767433,
+            "version": 5,
+            "timestamp": "2019-06-17T05:55:38Z",
+            "changeset": 71317059,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:postcode": "38066",
+                "amenity": "bar",
+                "name": "Bar Roma",
+                "wheelchair": "yes"
+            },
+            "lat": 45.8882678,
+            "lon": 10.8429605
+        },
+        {
+            "type": "node",
+            "id": 9025816145,
+            "version": 1,
+            "timestamp": "2021-08-22T06:09:32Z",
+            "changeset": 110048466,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.8878055,
+            "lon": 10.8459504
+        },
+        {
+            "type": "way",
+            "id": 60582758,
+            "version": 3,
+            "timestamp": "2021-06-05T06:59:57Z",
+            "changeset": 105870012,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:country": "IT",
+                "addr:housenumber": "17",
+                "addr:postcode": "38066",
+                "addr:street": "Viale Giosuè Carducci",
+                "amenity": "bar",
+                "building": "yes",
+                "name": "Emozioni",
+                "phone": "+39 464 551078",
+                "website": "http://www.lapazcafe.com"
+            },
+            "nodes": [
+                757296318,
+                757296179,
+                1105938531,
+                757296368,
+                757296289,
+                757296318
+            ]
+        },
+        {
+            "type": "node",
+            "id": 757296318,
+            "version": 3,
+            "timestamp": "2021-06-05T06:59:57Z",
+            "changeset": 105870012,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8856301,
+            "lon": 10.8476884
+        },
+        {
+            "type": "node",
+            "id": 757296179,
+            "version": 3,
+            "timestamp": "2021-06-05T06:59:57Z",
+            "changeset": 105870012,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8855429,
+            "lon": 10.847648
+        },
+        {
+            "type": "node",
+            "id": 1105938531,
+            "version": 3,
+            "timestamp": "2020-09-20T14:24:34Z",
+            "changeset": 91177285,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:country": "IT",
+                "addr:housename": "La Paz",
+                "addr:housenumber": "17",
+                "addr:postcode": "38066",
+                "addr:street": "Via G. Carducci"
+            },
+            "lat": 45.8855126,
+            "lon": 10.8477725
+        },
+        {
+            "type": "node",
+            "id": 757296368,
+            "version": 3,
+            "timestamp": "2021-06-05T06:59:57Z",
+            "changeset": 105870012,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8854871,
+            "lon": 10.8478771
+        },
+        {
+            "type": "node",
+            "id": 757296289,
+            "version": 3,
+            "timestamp": "2021-06-05T06:59:57Z",
+            "changeset": 105870012,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8855741,
+            "lon": 10.8479173
+        },
+        {
+            "type": "node",
+            "id": 2189699302,
+            "version": 1,
+            "timestamp": "2013-03-07T14:26:26Z",
+            "changeset": 15281846,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Capriccio"
+            },
+            "lat": 45.8907811,
+            "lon": 10.8455108
+        },
+        {
+            "type": "node",
+            "id": 938753648,
+            "version": 7,
+            "timestamp": "2021-07-28T13:59:50Z",
+            "changeset": 108763216,
+            "uid": 1624486,
+            "user": "thetornado76",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:country": "IT",
+                "addr:housenumber": "11",
+                "addr:postcode": "38066",
+                "addr:street": "Piazza Catena",
+                "amenity": "bar",
+                "email": "ciao@cristallogelateria.com",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "Gelateria Cristallo",
+                "opening_hours": "07:30-01:00",
+                "phone": "+39 0464 553844",
+                "website": "https://www.cristallogelateria.com"
+            },
+            "lat": 45.8842181,
+            "lon": 10.8388394
+        },
+        {
+            "type": "node",
+            "id": 2874237075,
+            "version": 4,
+            "timestamp": "2019-06-17T05:37:29Z",
+            "changeset": 71316643,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:postcode": "38066",
+                "amenity": "bar",
+                "name": "Yachting Bar Porto",
+                "name:he": "קפה בריבה דל גארדה"
+            },
+            "lat": 45.8847332,
+            "lon": 10.8389363
+        },
+        {
+            "type": "node",
+            "id": 6810233585,
+            "version": 2,
+            "timestamp": "2020-09-07T12:50:01Z",
+            "changeset": 90532412,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "bar",
+                "name": "Moby Dick Cocktail Bar",
+                "opening_hours": "Mo-Su 10:00-02:00"
+            },
+            "lat": 45.8845946,
+            "lon": 10.8385928
+        },
+        {
+            "type": "node",
+            "id": 580767423,
+            "version": 4,
+            "timestamp": "2018-05-30T20:58:17Z",
+            "changeset": 59410117,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.8892008,
+            "lon": 10.8394013
+        },
+        {
+            "type": "node",
+            "id": 2380893435,
+            "version": 1,
+            "timestamp": "2013-07-11T07:23:14Z",
+            "changeset": 16909293,
+            "uid": 190869,
+            "user": "elbatrop",
+            "tags": {
+                "amenity": "bar",
+                "name": "Marina Beach Club"
+            },
+            "lat": 45.8839171,
+            "lon": 10.8435017
+        },
+        {
+            "type": "node",
+            "id": 7806394387,
+            "version": 1,
+            "timestamp": "2020-08-12T10:53:58Z",
+            "changeset": 89299421,
+            "uid": 11384246,
+            "user": "Gianluca Scuccimarra",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:street": "Via Gazzoletti",
+                "addr:unit": "24",
+                "amenity": "bar",
+                "name": "Poppy Bar"
+            },
+            "lat": 45.8848247,
+            "lon": 10.8402065
+        },
+        {
+            "type": "node",
+            "id": 2527717177,
+            "version": 4,
+            "timestamp": "2020-05-19T23:53:25Z",
+            "changeset": 85467323,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "bar",
+                "name": "Gelateria Flora Downtown"
+            },
+            "lat": 45.8865111,
+            "lon": 10.8425458
+        },
+        {
+            "type": "node",
+            "id": 2874104628,
+            "version": 2,
+            "timestamp": "2017-01-22T09:05:05Z",
+            "changeset": 45365390,
+            "uid": 339724,
+            "user": "Gianni Senes",
+            "tags": {
+                "amenity": "bar",
+                "atm": "yes"
+            },
+            "lat": 45.8856581,
+            "lon": 10.8406509
+        },
+        {
+            "type": "node",
+            "id": 7942506039,
+            "version": 1,
+            "timestamp": "2020-09-25T14:35:23Z",
+            "changeset": 91516235,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.8884413,
+            "lon": 10.8398186
+        },
+        {
+            "type": "node",
+            "id": 9062425321,
+            "version": 2,
+            "timestamp": "2021-10-16T09:06:45Z",
+            "changeset": 112570303,
+            "uid": 11220113,
+            "user": "ivanbranco",
+            "tags": {
+                "addr:housenumber": "94",
+                "addr:street": "Viale Dante Alighieri",
+                "amenity": "bar",
+                "name": "L'Officina del Panino"
+            },
+            "lat": 45.886775,
+            "lon": 10.8402319
+        },
+        {
+            "type": "way",
+            "id": 76654701,
+            "version": 4,
+            "timestamp": "2018-05-30T21:37:03Z",
+            "changeset": 59410992,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "amenity": "bar",
+                "building": "yes",
+                "name": "Riva Bar"
+            },
+            "nodes": [
+                903414500,
+                903414495,
+                903414489,
+                755488995,
+                903414500
+            ]
+        },
+        {
+            "type": "node",
+            "id": 903414500,
+            "version": 3,
+            "timestamp": "2020-09-14T13:23:32Z",
+            "changeset": 90868904,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8845995,
+            "lon": 10.8447882
+        },
+        {
+            "type": "node",
+            "id": 903414495,
+            "version": 3,
+            "timestamp": "2013-06-03T15:27:31Z",
+            "changeset": 16407899,
+            "uid": 152074,
+            "user": "beweta",
+            "lat": 45.8844843,
+            "lon": 10.8447511
+        },
+        {
+            "type": "node",
+            "id": 903414489,
+            "version": 4,
+            "timestamp": "2020-09-27T23:44:21Z",
+            "changeset": 91600186,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8844535,
+            "lon": 10.8449493
+        },
+        {
+            "type": "node",
+            "id": 755488995,
+            "version": 4,
+            "timestamp": "2020-09-27T23:44:21Z",
+            "changeset": 91600186,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8845673,
+            "lon": 10.8449882
+        },
+        {
+            "type": "node",
+            "id": 755622315,
+            "version": 4,
+            "timestamp": "2020-10-17T11:09:56Z",
+            "changeset": 92623965,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzoteca"
+            },
+            "lat": 45.8893226,
+            "lon": 10.8437805
+        },
+        {
+            "type": "node",
+            "id": 1889564709,
+            "version": 3,
+            "timestamp": "2021-10-16T15:09:49Z",
+            "changeset": 112582930,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "20",
+                "addr:postcode": "38066",
+                "addr:street": "Viale Trento",
+                "amenity": "restaurant",
+                "brand": "PizzaExpress",
+                "brand:wikidata": "Q662845",
+                "brand:wikipedia": "en:PizzaExpress",
+                "cuisine": "pizza",
+                "name": "PizzaExpress",
+                "opening_hours": "Mo-Su 09:00-23:00",
+                "phone": "+390464555666"
+            },
+            "lat": 45.8909775,
+            "lon": 10.8456847
+        },
+        {
+            "type": "node",
+            "id": 491426469,
+            "version": 3,
+            "timestamp": "2013-02-23T15:10:39Z",
+            "changeset": 15136535,
+            "uid": 977303,
+            "user": "fair",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:country": "IT",
+                "addr:housenumber": "16",
+                "addr:postcode": "38066",
+                "addr:street": "Piazza Catena",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Nazionale",
+                "phone": "+39 0464 552507"
+            },
+            "lat": 45.8838758,
+            "lon": 10.8387996
+        },
+        {
+            "type": "node",
+            "id": 1889573421,
+            "version": 6,
+            "timestamp": "2020-09-07T12:50:01Z",
+            "changeset": 90532412,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:postcode": "38066",
+                "addr:street": "Piazza San Rocco",
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "email": "info@osteriailgallo.com",
+                "name": "Osteria il Gallo",
+                "phone": "+39 0464 556200",
+                "website": "http://www.osteriailgallo.com",
+                "wheelchair": "yes"
+            },
+            "lat": 45.8848892,
+            "lon": 10.8384724
+        },
+        {
+            "type": "node",
+            "id": 4742364436,
+            "version": 8,
+            "timestamp": "2021-09-27T08:05:37Z",
+            "changeset": 111754613,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:postcode": "38066",
+                "addr:street": "Piazza Tre Novembre",
+                "amenity": "cafe",
+                "cuisine": "coffee_shop",
+                "name": "Antico caffè Maffei",
+                "phone": "+39 0464 522113",
+                "toilets:wheelchair": "yes",
+                "website": "https://m.facebook.com/AnticoCaffè-Maffei-180699208938402/",
+                "wheelchair": "yes"
+            },
+            "lat": 45.8850018,
+            "lon": 10.8395098
+        },
+        {
+            "type": "node",
+            "id": 803487776,
+            "version": 4,
+            "timestamp": "2013-02-23T15:10:39Z",
+            "changeset": 15136535,
+            "uid": 977303,
+            "user": "fair",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:country": "IT",
+                "addr:housenumber": "28",
+                "addr:street": "Via Fiume",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Leon D'Oro",
+                "phone": "+39 0464 552341"
+            },
+            "lat": 45.8857342,
+            "lon": 10.839254
+        },
+        {
+            "type": "node",
+            "id": 1889567042,
+            "version": 4,
+            "timestamp": "2019-06-17T05:37:32Z",
+            "changeset": 71316643,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "1",
+                "addr:postcode": "38066",
+                "addr:street": "Via Bastione",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Osteria la Contrada",
+                "phone": "+39 0464 521695"
+            },
+            "lat": 45.8866025,
+            "lon": 10.839592
+        },
+        {
+            "type": "node",
+            "id": 1889573425,
+            "version": 2,
+            "timestamp": "2020-09-16T03:22:44Z",
+            "changeset": 90953677,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "fast_food",
+                "name": "Caneva"
+            },
+            "lat": 45.8859453,
+            "lon": 10.8395115
+        },
+        {
+            "type": "node",
+            "id": 1904668687,
+            "version": 1,
+            "timestamp": "2012-09-07T19:27:12Z",
+            "changeset": 13026936,
+            "uid": 785047,
+            "user": "Keplero",
+            "tags": {
+                "addr:housenumber": "15",
+                "addr:street": "Via Fiume",
+                "amenity": "restaurant",
+                "name": "Pizzeria Trieste"
+            },
+            "lat": 45.8855793,
+            "lon": 10.839077
+        },
+        {
+            "type": "node",
+            "id": 2348266717,
+            "version": 3,
+            "timestamp": "2019-07-03T14:41:22Z",
+            "changeset": 71863343,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Ristorante Villetta Annessa"
+            },
+            "lat": 45.8865189,
+            "lon": 10.8382431
+        },
+        {
+            "type": "node",
+            "id": 4315381290,
+            "version": 2,
+            "timestamp": "2019-06-17T05:37:30Z",
+            "changeset": 71316643,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:housenumber": "38",
+                "addr:postcode": "38066",
+                "addr:street": "Via Fiume",
+                "amenity": "restaurant",
+                "cuisine": "chinese",
+                "name": "Lago d'oro"
+            },
+            "lat": 45.8858156,
+            "lon": 10.8393354
+        },
+        {
+            "type": "node",
+            "id": 4365350290,
+            "version": 5,
+            "timestamp": "2020-09-07T10:58:00Z",
+            "changeset": 90525609,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Gelateria Al Pozzo"
+            },
+            "lat": 45.8860942,
+            "lon": 10.8395912
+        },
+        {
+            "type": "node",
+            "id": 4945613322,
+            "version": 1,
+            "timestamp": "2017-07-01T13:08:19Z",
+            "changeset": 49964698,
+            "uid": 6249811,
+            "user": "Eero Haltia",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "chinese",
+                "name": "Ristorante Lago d'oro"
+            },
+            "lat": 45.8859215,
+            "lon": 10.839305
+        },
+        {
+            "type": "node",
+            "id": 5115929421,
+            "version": 2,
+            "timestamp": "2019-06-17T05:37:30Z",
+            "changeset": 71316643,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:housenumber": "23",
+                "addr:postcode": "38066",
+                "addr:street": "Piazza Tre Novembre",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Benacense"
+            },
+            "lat": 45.8851769,
+            "lon": 10.8392875
+        },
+        {
+            "type": "node",
+            "id": 6525475785,
+            "version": 2,
+            "timestamp": "2019-09-06T06:06:12Z",
+            "changeset": 74157993,
+            "uid": 97547,
+            "user": "datendelphin",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "name": "Antiche Mura",
+                "opening_hours": "Mo-Su 12:00-14:00,19:00-22:00",
+                "outdoor_seating": "yes",
+                "website": "http://www.antiche-mura.it",
+                "wheelchair": "no"
+            },
+            "lat": 45.8870079,
+            "lon": 10.8385742
+        },
+        {
+            "type": "node",
+            "id": 270673832,
+            "version": 2,
+            "timestamp": "2009-09-11T21:22:33Z",
+            "changeset": 2451356,
+            "uid": 7596,
+            "user": "ck3d",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Punta Lido Caffè"
+            },
+            "lat": 45.8824817,
+            "lon": 10.8457672
+        },
+        {
+            "type": "node",
+            "id": 511138890,
+            "version": 6,
+            "timestamp": "2021-09-27T08:05:37Z",
+            "changeset": 111754613,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "28",
+                "addr:street": "Piazza Tre Novembre",
+                "amenity": "pub",
+                "brewery": "Yes",
+                "internet_access": "yes",
+                "name": "La Cambusa"
+            },
+            "lat": 45.8849117,
+            "lon": 10.8400127
+        },
+        {
+            "type": "node",
+            "id": 926736174,
+            "version": 6,
+            "timestamp": "2021-09-27T08:05:37Z",
+            "changeset": 111754613,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:country": "IT",
+                "addr:housenumber": "27",
+                "addr:street": "Piazza Tre Novembre",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "fax": "+39 0464 552138",
+                "internet_access": "wlan",
+                "name": "Hotel Centrale",
+                "phone": "+39 0464 552344",
+                "stars": "3",
+                "tourism": "hotel"
+            },
+            "lat": 45.8849541,
+            "lon": 10.8397732
+        },
+        {
+            "type": "node",
+            "id": 1889573422,
+            "version": 9,
+            "timestamp": "2018-06-03T19:53:12Z",
+            "changeset": 59516833,
+            "uid": 125687,
+            "user": "tubeli",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "4",
+                "addr:postcode": "38066",
+                "addr:street": "Lungolago Marinai d'Italia",
+                "amenity": "restaurant",
+                "name": "Ristorante Bellavista",
+                "operator": "Cico S.r.l. Unipersonale",
+                "outdoor_seating": "yes",
+                "ref:vatin": "IT02353150226"
+            },
+            "lat": 45.88425,
+            "lon": 10.8406944
+        },
+        {
+            "type": "node",
+            "id": 1889573423,
+            "version": 7,
+            "timestamp": "2021-09-26T13:50:42Z",
+            "changeset": 111723108,
+            "uid": 290680,
+            "user": "wheelmap_visitor",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Ristorante Sole",
+                "opening_hours": "Mo-Su 11:30-22:30",
+                "toilets:wheelchair": "yes",
+                "wheelchair": "yes"
+            },
+            "lat": 45.8842388,
+            "lon": 10.839989
+        },
+        {
+            "type": "node",
+            "id": 3556927851,
+            "version": 2,
+            "timestamp": "2019-07-30T18:35:07Z",
+            "changeset": 72825650,
+            "uid": 1467180,
+            "user": "axaxax",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "33",
+                "addr:street": "Piazza Tre Novembre",
+                "amenity": "cafe",
+                "name": "Caffé Cittá",
+                "phone": "+39 0464 552191"
+            },
+            "lat": 45.8847149,
+            "lon": 10.8401078
+        },
+        {
+            "type": "node",
+            "id": 3580612001,
+            "version": 6,
+            "timestamp": "2018-05-30T21:03:48Z",
+            "changeset": 59410243,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Nuovo 900",
+                "toilets:wheelchair": "yes",
+                "wheelchair": "limited",
+                "wheelchair:description": "Kleine Stufe vorm Eingang, die etwas schwieriger zu überwinden ist, weil vor der Tür ein Gefälle ist. Große Toilette vorhanden."
+            },
+            "lat": 45.884776,
+            "lon": 10.8406478
+        },
+        {
+            "type": "node",
+            "id": 5114840532,
+            "version": 1,
+            "timestamp": "2017-09-19T10:01:32Z",
+            "changeset": 52170758,
+            "uid": 106405,
+            "user": "turbojoe",
+            "tags": {
+                "amenity": "ice_cream"
+            },
+            "lat": 45.8825172,
+            "lon": 10.8458088
+        },
+        {
+            "type": "node",
+            "id": 5306731417,
+            "version": 2,
+            "timestamp": "2020-02-25T20:07:45Z",
+            "changeset": 81471455,
+            "uid": 1462614,
+            "user": "_Andrea_",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "5",
+                "addr:postcode": "38066",
+                "addr:street": "Via Florida",
+                "amenity": "restaurant",
+                "cuisine": "regional;italian",
+                "name": "Salsamenteria Capolini",
+                "phone": "+39 338 978 4465"
+            },
+            "lat": 45.8849621,
+            "lon": 10.8406664
+        },
+        {
+            "type": "node",
+            "id": 6818200786,
+            "version": 1,
+            "timestamp": "2019-09-23T18:56:58Z",
+            "changeset": 74823292,
+            "uid": 4538774,
+            "user": "tomonymo",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "italian_pizza",
+                "name": "Ristorante Sud Cucina e Pizza Napoletana",
+                "opening_hours": "Mo-Su 12:00-14:30, 18:30-22:30"
+            },
+            "lat": 45.8846751,
+            "lon": 10.8404197
+        },
+        {
+            "type": "node",
+            "id": 901046111,
+            "version": 5,
+            "timestamp": "2013-05-10T19:26:47Z",
+            "changeset": 16069776,
+            "uid": 1436863,
+            "user": "whymango",
+            "tags": {
+                "amenity": "cafe",
+                "cuisine": "ice_cream",
+                "name": "iLike bar food ice cream"
+            },
+            "lat": 45.8844044,
+            "lon": 10.8506072
+        },
+        {
+            "type": "node",
+            "id": 1488553673,
+            "version": 6,
+            "timestamp": "2020-08-28T15:26:16Z",
+            "changeset": 90088159,
+            "uid": 11449631,
+            "user": "SimoGine",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Villa Aranci",
+                "website": "https://www.villaaranci.it"
+            },
+            "lat": 45.8834251,
+            "lon": 10.8524966
+        },
+        {
+            "type": "node",
+            "id": 6525469986,
+            "version": 1,
+            "timestamp": "2019-06-05T20:12:39Z",
+            "changeset": 70966719,
+            "uid": 8081154,
+            "user": "Liza Ivanova",
+            "tags": {
+                "addr:housenumber": "10",
+                "addr:street": "Viale Giosuè Carducci",
+                "amenity": "restaurant",
+                "name": "Il Re della Busa",
+                "website": "http://www.lido-palace.it"
+            },
+            "lat": 45.8829458,
+            "lon": 10.8464717
+        },
+        {
+            "type": "node",
+            "id": 803634498,
+            "version": 4,
+            "timestamp": "2012-09-07T19:27:13Z",
+            "changeset": 13026936,
+            "uid": 785047,
+            "user": "Keplero",
+            "tags": {
+                "addr:housenumber": "29",
+                "addr:street": "Via A. Diaz",
+                "amenity": "restaurant",
+                "name": "Bella Napoli"
+            },
+            "lat": 45.8860152,
+            "lon": 10.8396687
+        },
+        {
+            "type": "node",
+            "id": 1302018429,
+            "version": 3,
+            "timestamp": "2012-09-07T19:27:13Z",
+            "changeset": 13026936,
+            "uid": 785047,
+            "user": "Keplero",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Pizzeria La Leonessa"
+            },
+            "lat": 45.8852002,
+            "lon": 10.8397078
+        },
+        {
+            "type": "node",
+            "id": 1373698251,
+            "version": 4,
+            "timestamp": "2021-06-16T20:24:18Z",
+            "changeset": 106488394,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:postcode": "38066",
+                "amenity": "cafe",
+                "name": "Cafe Italia",
+                "wheelchair": "yes"
+            },
+            "lat": 45.8861903,
+            "lon": 10.8420818
+        },
+        {
+            "type": "node",
+            "id": 1444891925,
+            "version": 5,
+            "timestamp": "2020-09-23T20:46:25Z",
+            "changeset": 91390692,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "73",
+                "addr:postcode": "38066",
+                "addr:street": "Via Fiume",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Al Volt",
+                "phone": "+39 0464 552570"
+            },
+            "lat": 45.8863128,
+            "lon": 10.8397092
+        },
+        {
+            "type": "node",
+            "id": 1706915650,
+            "version": 4,
+            "timestamp": "2018-05-30T21:02:45Z",
+            "changeset": 59410223,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "La Sirenetta",
+                "old_name": "Mago Merlino"
+            },
+            "lat": 45.8853148,
+            "lon": 10.8435768
+        },
+        {
+            "type": "node",
+            "id": 1889561976,
+            "version": 8,
+            "timestamp": "2020-09-23T13:15:48Z",
+            "changeset": 91369849,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "7",
+                "addr:postcode": "38066",
+                "addr:street": "Viale Martiri XXVIII Giugno",
+                "amenity": "restaurant",
+                "cuisine": "japanese",
+                "name": "Sushoku",
+                "opening_hours": "Mo-Su 12:00-15:00; 18:00-24:00",
+                "phone": "+39 0464 552996",
+                "ref:vatin": "IT02310530205"
+            },
+            "lat": 45.8876603,
+            "lon": 10.8439069
+        },
+        {
+            "type": "node",
+            "id": 1889566663,
+            "version": 3,
+            "timestamp": "2020-09-11T15:47:46Z",
+            "changeset": 90767059,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "restaurant"
+            },
+            "lat": 45.8869684,
+            "lon": 10.8399072
+        },
+        {
+            "type": "node",
+            "id": 1904436954,
+            "version": 8,
+            "timestamp": "2021-09-27T08:05:37Z",
+            "changeset": 111754613,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:country": "IT",
+                "addr:housenumber": "7",
+                "addr:postcode": "38066",
+                "addr:street": "Via Andrea Maffei",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "internet_access": "wlan",
+                "name": "Ristorante Maffei",
+                "toilets:wheelchair": "yes",
+                "wheelchair": "limited",
+                "wheelchair:description": "Eingang ins Restaurant und zu den meisten Tischen stufenlos, es gibt aber einen Bereich mit Tischen, der nur über zwei Stufen erreichbar ist. Behindertentoilette ist ebenerdig vorhanden (bei den anderen Toilette, die hinterste Tür)."
+            },
+            "lat": 45.8850994,
+            "lon": 10.8408412
+        },
+        {
+            "type": "node",
+            "id": 1904668666,
+            "version": 5,
+            "timestamp": "2021-09-25T09:54:33Z",
+            "changeset": 111680261,
+            "uid": 290680,
+            "user": "wheelmap_visitor",
+            "tags": {
+                "addr:postcode": "38066",
+                "addr:street": "Via Santa Maria",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Al Vaticano",
+                "wheelchair": "yes"
+            },
+            "lat": 45.8857996,
+            "lon": 10.8415205
+        },
+        {
+            "type": "node",
+            "id": 2874070230,
+            "version": 5,
+            "timestamp": "2019-06-17T05:37:30Z",
+            "changeset": 71316643,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:postcode": "38066",
+                "amenity": "cafe",
+                "name": "Casa del Caffè"
+            },
+            "lat": 45.8850691,
+            "lon": 10.8403176
+        },
+        {
+            "type": "node",
+            "id": 2874083201,
+            "version": 3,
+            "timestamp": "2019-06-17T05:55:37Z",
+            "changeset": 71317059,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:postcode": "38066",
+                "amenity": "cafe",
+                "name": "Pasticceria Copat"
+            },
+            "lat": 45.8863993,
+            "lon": 10.8416862
+        },
+        {
+            "type": "node",
+            "id": 2874104631,
+            "version": 3,
+            "timestamp": "2020-09-02T18:58:56Z",
+            "changeset": 90319655,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:postcode": "38066",
+                "amenity": "restaurant",
+                "name": "Alpino"
+            },
+            "lat": 45.8856506,
+            "lon": 10.8403278
+        },
+        {
+            "type": "node",
+            "id": 2874104632,
+            "version": 5,
+            "timestamp": "2021-08-28T12:42:37Z",
+            "changeset": 110379038,
+            "uid": 2052948,
+            "user": "Maturi0n",
+            "tags": {
+                "addr:postcode": "38066",
+                "amenity": "restaurant",
+                "cuisine": "bavarian;german",
+                "name": "Kapuziner am See",
+                "website": "https://www.kapuzinerriva.it/"
+            },
+            "lat": 45.8864142,
+            "lon": 10.8415494
+        },
+        {
+            "type": "node",
+            "id": 2887488210,
+            "version": 6,
+            "timestamp": "2021-02-24T03:41:03Z",
+            "changeset": 99862876,
+            "uid": 1778799,
+            "user": "SomeoneElse_Revert",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "18",
+                "addr:postcode": "38066",
+                "addr:street": "Viale Roma",
+                "amenity": "cafe",
+                "description": "bar - caffè - ristorante",
+                "internet_access": "yes",
+                "name": "San Marco cafè",
+                "opening_hours": "7:00 - 20:30",
+                "smoking": "outside",
+                "website": "https://www.facebook.com/San-Marco-Cafè-200259453438085/info/?tab=overview"
+            },
+            "lat": 45.8867741,
+            "lon": 10.8423188
+        },
+        {
+            "type": "node",
+            "id": 2887488211,
+            "version": 7,
+            "timestamp": "2016-09-16T16:46:04Z",
+            "changeset": 42207126,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "16",
+                "addr:postcode": "38066",
+                "addr:street": "Viale Roma",
+                "amenity": "restaurant",
+                "capacity": "150",
+                "cuisine": "italian",
+                "description": "Bar - Ristorante self service",
+                "name": "San Marco cafè",
+                "opening_hours": "7:00 - 20:30",
+                "phone": "+39 0464 551609",
+                "smoking": "outside",
+                "takeaway": "yes"
+            },
+            "lat": 45.8867761,
+            "lon": 10.8423708
+        },
+        {
+            "type": "node",
+            "id": 3244704033,
+            "version": 1,
+            "timestamp": "2014-12-20T16:16:13Z",
+            "changeset": 27591769,
+            "uid": 235732,
+            "user": "streckentracker",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "2",
+                "addr:postcode": "38066",
+                "addr:street": "Via Santa Maria",
+                "amenity": "cafe",
+                "name": "Caffe Maroni"
+            },
+            "lat": 45.8857968,
+            "lon": 10.8417108
+        },
+        {
+            "type": "node",
+            "id": 4165217023,
+            "version": 6,
+            "timestamp": "2021-10-16T15:14:37Z",
+            "changeset": 112583120,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "11",
+                "addr:postcode": "38066",
+                "addr:street": "Viale Roma",
+                "amenity": "restaurant",
+                "cuisine": "sandwich",
+                "diet:vegan": "no",
+                "diet:vegetarian": "yes",
+                "name": "Panem",
+                "outdoor_seating": "yes",
+                "phone": "+39 0464 088066",
+                "website": "https://signorpanem.it/"
+            },
+            "lat": 45.8867104,
+            "lon": 10.8420347
+        },
+        {
+            "type": "node",
+            "id": 4310581914,
+            "version": 3,
+            "timestamp": "2018-05-30T21:02:45Z",
+            "changeset": 59410223,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Cafélac"
+            },
+            "lat": 45.8854544,
+            "lon": 10.8432545
+        },
+        {
+            "type": "node",
+            "id": 4313423619,
+            "version": 2,
+            "timestamp": "2019-06-17T05:55:36Z",
+            "changeset": 71317059,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:postcode": "38066",
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "name": "Mon Amour"
+            },
+            "lat": 45.8858153,
+            "lon": 10.8408856
+        },
+        {
+            "type": "node",
+            "id": 4315405789,
+            "version": 3,
+            "timestamp": "2020-09-11T15:47:46Z",
+            "changeset": 90767059,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "fast_food",
+                "cuisine": "kebab;pizza",
+                "name:ru": "Вкусные бургеры, пиво и вино!!!"
+            },
+            "lat": 45.8868132,
+            "lon": 10.8400032
+        },
+        {
+            "type": "node",
+            "id": 4415047275,
+            "version": 4,
+            "timestamp": "2018-05-30T21:00:41Z",
+            "changeset": 59410168,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Flora Downtown",
+                "opening_hours": "Mo-Su 08:00-23:00",
+                "phone": "+39 0464 555087",
+                "website": "http://www.gelateriaflora.com"
+            },
+            "lat": 45.8865277,
+            "lon": 10.8424609
+        },
+        {
+            "type": "node",
+            "id": 5852010719,
+            "version": 3,
+            "timestamp": "2021-09-27T08:05:37Z",
+            "changeset": 111754613,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:postcode": "38066",
+                "amenity": "restaurant",
+                "name": "Ristorante pizzeria Commercio"
+            },
+            "lat": 45.8851738,
+            "lon": 10.841491
+        },
+        {
+            "type": "node",
+            "id": 5852016632,
+            "version": 3,
+            "timestamp": "2021-09-27T08:05:37Z",
+            "changeset": 111754613,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:postcode": "38066",
+                "amenity": "restaurant",
+                "name": "Ristorante pizzeria Mediterraneo"
+            },
+            "lat": 45.8851755,
+            "lon": 10.8415945
+        },
+        {
+            "type": "node",
+            "id": 5859346986,
+            "version": 1,
+            "timestamp": "2018-08-26T17:31:50Z",
+            "changeset": 62011956,
+            "uid": 5017561,
+            "user": "AttiaM",
+            "tags": {
+                "amenity": "cafe",
+                "name:en": "Mini White Bar"
+            },
+            "lat": 45.8854033,
+            "lon": 10.8430264
+        },
+        {
+            "type": "node",
+            "id": 5934459988,
+            "version": 3,
+            "timestamp": "2021-06-16T20:24:23Z",
+            "changeset": 106488394,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "wrap",
+                "diet:vegetarian": "yes",
+                "name": "La Piadineria",
+                "outdoor_seating": "yes",
+                "website": "https://www.lapiadineria.com/",
+                "wheelchair": "yes"
+            },
+            "lat": 45.8862949,
+            "lon": 10.8418962
+        },
+        {
+            "type": "node",
+            "id": 6551596192,
+            "version": 3,
+            "timestamp": "2020-11-03T11:34:09Z",
+            "changeset": 93479630,
+            "uid": 11449631,
+            "user": "SimoGine",
+            "tags": {
+                "addr:housenumber": "86",
+                "addr:street": "Viale Dante Alighieri",
+                "amenity": "ice_cream",
+                "name": "DolceStella",
+                "opening_hours": "Mo-Su 08:00-23:00",
+                "phone": "+39 0464 567099"
+            },
+            "lat": 45.8867303,
+            "lon": 10.8405909
+        },
+        {
+            "type": "node",
+            "id": 8806886940,
+            "version": 2,
+            "timestamp": "2021-10-16T15:12:50Z",
+            "changeset": 112583060,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "14",
+                "addr:postcode": "38066",
+                "addr:street": "Via Lutti",
+                "amenity": "restaurant",
+                "cuisine": "sushi",
+                "name": "Zuin",
+                "phone": "+39 0464 088080",
+                "website": "https://www.zuinfusion.com/"
+            },
+            "lat": 45.8869488,
+            "lon": 10.8454345
+        },
+        {
+            "type": "node",
+            "id": 9019234103,
+            "version": 1,
+            "timestamp": "2021-08-19T07:35:26Z",
+            "changeset": 109914377,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "7",
+                "addr:postcode": "38066",
+                "addr:street": "Via Pilati",
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzeria Officina 33",
+                "phone": "+39 392 4710766",
+                "website": "https://www.pizzeriaofficina33.it/"
+            },
+            "lat": 45.8875694,
+            "lon": 10.8406397
+        },
+        {
+            "type": "node",
+            "id": 9025816144,
+            "version": 1,
+            "timestamp": "2021-08-22T06:09:32Z",
+            "changeset": 110048466,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza"
+            },
+            "lat": 45.8877794,
+            "lon": 10.84576
+        },
+        {
+            "type": "node",
+            "id": 9110446721,
+            "version": 1,
+            "timestamp": "2021-09-21T09:31:59Z",
+            "changeset": 111485430,
+            "uid": 379560,
+            "user": "trahflow",
+            "tags": {
+                "amenity": "cafe",
+                "internet_access": "no",
+                "level": "0",
+                "name": "Cafe Troiani",
+                "outdoor_seating": "yes"
+            },
+            "lat": 45.8860075,
+            "lon": 10.839863
+        },
+        {
+            "type": "node",
+            "id": 9141413524,
+            "version": 1,
+            "timestamp": "2021-10-03T10:45:09Z",
+            "changeset": 112028447,
+            "uid": 647304,
+            "user": "jsvbsr",
+            "tags": {
+                "addr:housenumber": "14",
+                "addr:postcode": "38066",
+                "addr:street": "Via Disciplini",
+                "amenity": "ice_cream",
+                "name": "Gelateria Eta Beta"
+            },
+            "lat": 45.8861518,
+            "lon": 10.8415873
+        },
+        {
+            "type": "node",
+            "id": 7726936704,
+            "version": 2,
+            "timestamp": "2021-09-19T13:33:21Z",
+            "changeset": 111409305,
+            "uid": 379560,
+            "user": "trahflow",
+            "tags": {
+                "addr:housenumber": "8",
+                "addr:postcode": "38066",
+                "addr:street": "Viale Giosuè Carducci",
+                "amenity": "fast_food",
+                "cuisine": "italian;italian_pizza;pizza",
+                "name": "Go Pizza",
+                "opening_hours": "Mo-Su 12:00-14:30,17:30-21:00",
+                "phone": "+39 0464 872495",
+                "wheelchair": "yes"
+            },
+            "lat": 45.8854355,
+            "lon": 10.8468042
+        },
+        {
+            "type": "node",
+            "id": 4746320522,
+            "version": 5,
+            "timestamp": "2021-10-16T15:31:24Z",
+            "changeset": 112583711,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:country": "IT",
+                "addr:housenumber": "1",
+                "addr:postcode": "38066",
+                "addr:street": "Via Padova",
+                "amenity": "restaurant",
+                "brand": "Sushiko",
+                "cuisine": "chinese;japanese",
+                "image": "https://www.bluegarden.it/wp-content/uploads/2019/03/300x200_0007_Sushiko-300x200.jpg",
+                "name": "Sushiko",
+                "name:en": "Sushiko",
+                "name:it": "Sushiko",
+                "opening_hours": "Mo-Su 12:00-15:00, 18:30-23:30",
+                "operator": "Riva SK SRL",
+                "phone": "+39 0464 521812",
+                "ref:vatin": "IT06556540489"
+            },
+            "lat": 45.8827933,
+            "lon": 10.8535154
+        },
+        {
+            "type": "node",
+            "id": 5114843920,
+            "version": 3,
+            "timestamp": "2020-09-23T12:35:22Z",
+            "changeset": 91367607,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:country": "IT",
+                "addr:postcode": "38066",
+                "amenity": "cafe",
+                "name": "Moka MO"
+            },
+            "lat": 45.8829337,
+            "lon": 10.8541133
+        },
+        {
+            "type": "node",
+            "id": 6856716373,
+            "version": 3,
+            "timestamp": "2021-10-16T15:21:50Z",
+            "changeset": 112583402,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "5",
+                "addr:postcode": "38066",
+                "addr:street": "Via Padova",
+                "amenity": "restaurant",
+                "brewery": "various",
+                "cuisine": "italian;steak_house",
+                "internet_access": "wlan",
+                "name": "La Scala Bistrò /=\\",
+                "opening_hours": "08:00 - 23:15",
+                "phone": "+39 0464 871225",
+                "wheelchair": "yes"
+            },
+            "lat": 45.883007,
+            "lon": 10.8542315
+        },
+        {
+            "type": "node",
+            "id": 9176575698,
+            "version": 2,
+            "timestamp": "2021-10-16T15:31:24Z",
+            "changeset": 112583711,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "5",
+                "addr:postcode": "38066",
+                "addr:street": "Via Padova",
+                "amenity": "pub",
+                "image": "https://www.bluegarden.it/wp-content/uploads/2020/11/NorthPub.jpg",
+                "name": "North Pub"
+            },
+            "lat": 45.8831093,
+            "lon": 10.8542075
+        },
+        {
+            "type": "node",
+            "id": 9176581959,
+            "version": 1,
+            "timestamp": "2021-10-16T15:31:24Z",
+            "changeset": 112583711,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "5",
+                "addr:postcode": "38066",
+                "addr:street": "Via Padova",
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "image": "https://www.bluegarden.it/wp-content/uploads/2019/05/1.jpg",
+                "name": "Sud",
+                "phone": "+390464661340"
+            },
+            "lat": 45.8827621,
+            "lon": 10.8536023
+        },
+        {
+            "type": "node",
+            "id": 9176581960,
+            "version": 1,
+            "timestamp": "2021-10-16T15:31:24Z",
+            "changeset": 112583711,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "5",
+                "addr:postcode": "38066",
+                "addr:street": "Via Padova",
+                "amenity": "restaurant",
+                "cuisine": "indian",
+                "image": "https://www.bluegarden.it/wp-content/uploads/2019/05/logo-png-2019-black.png",
+                "name": "Taste of India",
+                "phone": "+390464544103",
+                "website": "https://www.tasteofindiariva.it/"
+            },
+            "lat": 45.8830095,
+            "lon": 10.8532375
+        },
+        {
+            "type": "way",
+            "id": 210563371,
+            "version": 4,
+            "timestamp": "2020-09-14T13:23:32Z",
+            "changeset": 90868904,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "italian",
+                "name": "Il Veliero"
+            },
+            "nodes": [
+                2206430566,
+                2206430565,
+                7905367304,
+                903414489,
+                903414495,
+                2206430566
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2206430566,
+            "version": 3,
+            "timestamp": "2019-06-28T13:09:44Z",
+            "changeset": 71707556,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8843679,
+            "lon": 10.8447091
+        },
+        {
+            "type": "node",
+            "id": 2206430565,
+            "version": 3,
+            "timestamp": "2019-06-28T13:09:44Z",
+            "changeset": 71707556,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8843298,
+            "lon": 10.8449092
+        },
+        {
+            "type": "node",
+            "id": 7905367304,
+            "version": 2,
+            "timestamp": "2020-09-27T23:44:21Z",
+            "changeset": 91600186,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8843921,
+            "lon": 10.8449284
+        },
+        {
+            "type": "way",
+            "id": 700335914,
+            "version": 2,
+            "timestamp": "2021-06-16T20:24:55Z",
+            "changeset": 106488394,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "fast_food",
+                "building": "yes",
+                "cuisine": "kebab",
+                "name": "Doner Kebab",
+                "wheelchair": "yes"
+            },
+            "nodes": [
+                6576799374,
+                6576799375,
+                6576799376,
+                6576799377,
+                6576799374
+            ]
+        },
+        {
+            "type": "node",
+            "id": 6576799374,
+            "version": 1,
+            "timestamp": "2019-06-28T13:09:44Z",
+            "changeset": 71707556,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8842394,
+            "lon": 10.8409574
+        },
+        {
+            "type": "node",
+            "id": 6576799375,
+            "version": 1,
+            "timestamp": "2019-06-28T13:09:44Z",
+            "changeset": 71707556,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.884175,
+            "lon": 10.8409413
+        },
+        {
+            "type": "node",
+            "id": 6576799376,
+            "version": 1,
+            "timestamp": "2019-06-28T13:09:44Z",
+            "changeset": 71707556,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8841685,
+            "lon": 10.8409949
+        },
+        {
+            "type": "node",
+            "id": 6576799377,
+            "version": 1,
+            "timestamp": "2019-06-28T13:09:44Z",
+            "changeset": 71707556,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8842338,
+            "lon": 10.8410137
+        },
+        {
+            "type": "way",
+            "id": 700335915,
+            "version": 2,
+            "timestamp": "2021-06-16T20:24:54Z",
+            "changeset": 106488394,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "ice_cream",
+                "building": "yes",
+                "name": "Brolio Ice Cream",
+                "wheelchair": "yes"
+            },
+            "nodes": [
+                6576799378,
+                6576799379,
+                6576799380,
+                6576799381,
+                6576799378
+            ]
+        },
+        {
+            "type": "node",
+            "id": 6576799378,
+            "version": 2,
+            "timestamp": "2021-06-05T07:48:07Z",
+            "changeset": 105871096,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8842296,
+            "lon": 10.8410426
+        },
+        {
+            "type": "node",
+            "id": 6576799379,
+            "version": 2,
+            "timestamp": "2021-06-05T07:48:07Z",
+            "changeset": 105871096,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8841698,
+            "lon": 10.8410292
+        },
+        {
+            "type": "node",
+            "id": 6576799380,
+            "version": 2,
+            "timestamp": "2021-06-05T07:48:07Z",
+            "changeset": 105871096,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8841633,
+            "lon": 10.8410734
+        },
+        {
+            "type": "node",
+            "id": 6576799381,
+            "version": 2,
+            "timestamp": "2021-06-05T07:48:07Z",
+            "changeset": 105871096,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.884223,
+            "lon": 10.8410895
+        },
+        {
+            "type": "way",
+            "id": 486141846,
+            "version": 2,
+            "timestamp": "2020-09-15T14:03:28Z",
+            "changeset": 90931110,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "9",
+                "addr:postcode": "38066",
+                "addr:street": "Viale San Francesco",
+                "amenity": "ice_cream",
+                "building": "yes",
+                "cuisine": "italian",
+                "name": "Gelateria Adamello",
+                "takeaway": "yes"
+            },
+            "nodes": [
+                755489596,
+                755488817,
+                755489042,
+                755488571,
+                755489596
+            ]
+        },
+        {
+            "type": "node",
+            "id": 755489596,
+            "version": 1,
+            "timestamp": "2010-05-29T06:17:21Z",
+            "changeset": 4839721,
+            "uid": 66900,
+            "user": "Fabry",
+            "lat": 45.8854806,
+            "lon": 10.8427631
+        },
+        {
+            "type": "node",
+            "id": 755488817,
+            "version": 1,
+            "timestamp": "2010-05-29T06:17:10Z",
+            "changeset": 4839721,
+            "uid": 66900,
+            "user": "Fabry",
+            "lat": 45.8854621,
+            "lon": 10.8426606
+        },
+        {
+            "type": "node",
+            "id": 755489042,
+            "version": 1,
+            "timestamp": "2010-05-29T06:17:13Z",
+            "changeset": 4839721,
+            "uid": 66900,
+            "user": "Fabry",
+            "lat": 45.8855549,
+            "lon": 10.8426108
+        },
+        {
+            "type": "node",
+            "id": 755488571,
+            "version": 1,
+            "timestamp": "2010-05-29T06:17:07Z",
+            "changeset": 4839721,
+            "uid": 66900,
+            "user": "Fabry",
+            "lat": 45.8855806,
+            "lon": 10.8427095
+        },
+        {
+            "type": "node",
+            "id": 755622315,
+            "version": 4,
+            "timestamp": "2020-10-17T11:09:56Z",
+            "changeset": 92623965,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzoteca"
+            },
+            "lat": 45.8893226,
+            "lon": 10.8437805
+        },
+        {
+            "type": "node",
+            "id": 580767423,
+            "version": 4,
+            "timestamp": "2018-05-30T20:58:17Z",
+            "changeset": 59410117,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.8892008,
+            "lon": 10.8394013
+        },
+        {
+            "type": "node",
+            "id": 506781475,
+            "version": 3,
+            "timestamp": "2011-01-20T16:06:11Z",
+            "changeset": 7031827,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar degli Amici"
+            },
+            "lat": 45.8970628,
+            "lon": 10.8524388
+        },
+        {
+            "type": "node",
+            "id": 571193717,
+            "version": 4,
+            "timestamp": "2018-06-01T21:07:27Z",
+            "changeset": 59472603,
+            "uid": 160229,
+            "user": "sorcrosc",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "2",
+                "addr:postcode": "38066",
+                "addr:street": "Via San Nazzaro",
+                "amenity": "cafe",
+                "contact:facebook": "https://www.facebook.com/caffespeedsince1969/",
+                "name": "Caffè Speed Since1969"
+            },
+            "lat": 45.8964816,
+            "lon": 10.8519077
+        },
+        {
+            "type": "node",
+            "id": 2531405387,
+            "version": 1,
+            "timestamp": "2013-11-13T21:31:33Z",
+            "changeset": 18883465,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.8941778,
+            "lon": 10.8491895
+        },
+        {
+            "type": "node",
+            "id": 2531409644,
+            "version": 4,
+            "timestamp": "2021-05-15T15:39:37Z",
+            "changeset": 104739120,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "94",
+                "addr:street": "Viale Trento",
+                "amenity": "cafe",
+                "cuisine": "ice_cream",
+                "name": "Gelateria Artigianale Happy Days"
+            },
+            "lat": 45.8946986,
+            "lon": 10.8497867
+        },
+        {
+            "type": "node",
+            "id": 2531413178,
+            "version": 2,
+            "timestamp": "2017-03-23T15:02:57Z",
+            "changeset": 47099210,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "name": "Cristallo"
+            },
+            "lat": 45.8944836,
+            "lon": 10.8495582
+        },
+        {
+            "type": "node",
+            "id": 4003293513,
+            "version": 1,
+            "timestamp": "2016-02-12T21:36:57Z",
+            "changeset": 37177447,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzeria Fenice"
+            },
+            "lat": 45.8945656,
+            "lon": 10.8489157
+        },
+        {
+            "type": "node",
+            "id": 4751030319,
+            "version": 1,
+            "timestamp": "2017-03-23T15:02:57Z",
+            "changeset": 47099210,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "fast_food",
+                "cuisine": "pizza;kebab"
+            },
+            "lat": 45.8942947,
+            "lon": 10.8493084
+        },
+        {
+            "type": "node",
+            "id": 5047412337,
+            "version": 2,
+            "timestamp": "2020-08-23T09:18:40Z",
+            "changeset": 89802361,
+            "uid": 11449631,
+            "user": "SimoGine",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.8977723,
+            "lon": 10.8482009
+        },
+        {
+            "type": "node",
+            "id": 1889564709,
+            "version": 3,
+            "timestamp": "2021-10-16T15:09:49Z",
+            "changeset": 112582930,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "20",
+                "addr:postcode": "38066",
+                "addr:street": "Viale Trento",
+                "amenity": "restaurant",
+                "brand": "PizzaExpress",
+                "brand:wikidata": "Q662845",
+                "brand:wikipedia": "en:PizzaExpress",
+                "cuisine": "pizza",
+                "name": "PizzaExpress",
+                "opening_hours": "Mo-Su 09:00-23:00",
+                "phone": "+390464555666"
+            },
+            "lat": 45.8909775,
+            "lon": 10.8456847
+        },
+        {
+            "type": "node",
+            "id": 2189699302,
+            "version": 1,
+            "timestamp": "2013-03-07T14:26:26Z",
+            "changeset": 15281846,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Capriccio"
+            },
+            "lat": 45.8907811,
+            "lon": 10.8455108
+        },
+        {
+            "type": "node",
+            "id": 299801308,
+            "version": 3,
+            "timestamp": "2010-05-14T21:14:39Z",
+            "changeset": 4700273,
+            "uid": 66900,
+            "user": "Fabry",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Centro Sportivo"
+            },
+            "lat": 45.897656,
+            "lon": 10.8448605
+        },
+        {
+            "type": "node",
+            "id": 7936238142,
+            "version": 1,
+            "timestamp": "2020-09-24T04:07:30Z",
+            "changeset": 91399933,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Parisi"
+            },
+            "lat": 45.8955227,
+            "lon": 10.8433796
+        },
+        {
+            "type": "node",
+            "id": 8871703724,
+            "version": 1,
+            "timestamp": "2021-06-28T09:57:42Z",
+            "changeset": 107077685,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.8917665,
+            "lon": 10.8458134
+        },
+        {
+            "type": "node",
+            "id": 324160740,
+            "version": 2,
+            "timestamp": "2012-07-24T07:33:18Z",
+            "changeset": 12461207,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "name": "Pronto Pizza"
+            },
+            "lat": 45.9030479,
+            "lon": 10.8604296
+        },
+        {
+            "type": "node",
+            "id": 9176586464,
+            "version": 1,
+            "timestamp": "2021-10-16T15:39:30Z",
+            "changeset": 112584003,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "39",
+                "addr:postcode": "38066",
+                "addr:street": "Località San Tomaso",
+                "amenity": "restaurant",
+                "cuisine": "italian;pizza;regional",
+                "email": "info@albergorolly.it",
+                "image": "https://www.albergorolly.it/assets/images/albergorolly_logo.png",
+                "internet_access": "wlan",
+                "name": "Albergo Rolly;Ristorante Pizzeria Rolly",
+                "phone": "+39 0464 553370",
+                "tourism": "hotel",
+                "website": "https://www.albergorolly.it/"
+            },
+            "lat": 45.9032858,
+            "lon": 10.8596261
+        },
+        {
+            "type": "node",
+            "id": 2189081694,
+            "version": 2,
+            "timestamp": "2020-10-30T15:25:43Z",
+            "changeset": 93298439,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Moma"
+            },
+            "lat": 45.9102122,
+            "lon": 10.8616347
+        },
+        {
+            "type": "node",
+            "id": 514889050,
+            "version": 1,
+            "timestamp": "2009-09-30T19:53:23Z",
+            "changeset": 2692230,
+            "uid": 66900,
+            "user": "Fabry",
+            "tags": {
+                "amenity": "bar",
+                "name": "Inter Bar"
+            },
+            "lat": 45.9062109,
+            "lon": 10.8663698
+        },
+        {
+            "type": "node",
+            "id": 554977838,
+            "version": 2,
+            "timestamp": "2020-10-31T12:29:30Z",
+            "changeset": 93336304,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Peter Pan"
+            },
+            "lat": 45.9088843,
+            "lon": 10.8687096
+        },
+        {
+            "type": "node",
+            "id": 1602626070,
+            "version": 1,
+            "timestamp": "2012-01-23T20:22:04Z",
+            "changeset": 10478826,
+            "uid": 66900,
+            "user": "Fabry",
+            "tags": {
+                "amenity": "bar",
+                "name": "Euro Cafè"
+            },
+            "lat": 45.9092169,
+            "lon": 10.8688122
+        },
+        {
+            "type": "node",
+            "id": 2496764579,
+            "version": 1,
+            "timestamp": "2013-10-14T21:38:00Z",
+            "changeset": 18359267,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar",
+                "name": "Marameo"
+            },
+            "lat": 45.9082478,
+            "lon": 10.8678909
+        },
+        {
+            "type": "node",
+            "id": 2496766112,
+            "version": 2,
+            "timestamp": "2014-01-02T10:04:22Z",
+            "changeset": 19762205,
+            "uid": 1198074,
+            "user": "DoubleA",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Gelateria Isola del Gelato"
+            },
+            "lat": 45.9081716,
+            "lon": 10.8677673
+        },
+        {
+            "type": "way",
+            "id": 59180626,
+            "version": 2,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "regional",
+                "name": "Ristorante La Berlera"
+            },
+            "nodes": [
+                733938291,
+                733938133,
+                733938380,
+                6583872462,
+                6583872465,
+                733938094,
+                6583872451,
+                6583872452,
+                733938291
+            ]
+        },
+        {
+            "type": "node",
+            "id": 733938291,
+            "version": 2,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9093769,
+            "lon": 10.8513569
+        },
+        {
+            "type": "node",
+            "id": 733938133,
+            "version": 2,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9092968,
+            "lon": 10.8512547
+        },
+        {
+            "type": "node",
+            "id": 733938380,
+            "version": 2,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9092199,
+            "lon": 10.8514007
+        },
+        {
+            "type": "node",
+            "id": 6583872462,
+            "version": 1,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9092352,
+            "lon": 10.8514148
+        },
+        {
+            "type": "node",
+            "id": 6583872465,
+            "version": 1,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9092736,
+            "lon": 10.8514527
+        },
+        {
+            "type": "node",
+            "id": 733938094,
+            "version": 2,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.909298,
+            "lon": 10.8514726
+        },
+        {
+            "type": "node",
+            "id": 6583872451,
+            "version": 1,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.909316,
+            "lon": 10.8514496
+        },
+        {
+            "type": "node",
+            "id": 6583872452,
+            "version": 1,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9093692,
+            "lon": 10.8513686
+        },
+        {
+            "type": "way",
+            "id": 41772401,
+            "version": 2,
+            "timestamp": "2013-11-13T21:38:41Z",
+            "changeset": 18883611,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "regional",
+                "name": "Pizzeria Boccon d'Oro"
+            },
+            "nodes": [
+                514889036,
+                514889037,
+                514889039,
+                514889040,
+                514889036
+            ]
+        },
+        {
+            "type": "node",
+            "id": 514889036,
+            "version": 2,
+            "timestamp": "2017-12-07T10:20:04Z",
+            "changeset": 54426961,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 45.9056753,
+            "lon": 10.8670321
+        },
+        {
+            "type": "node",
+            "id": 514889037,
+            "version": 3,
+            "timestamp": "2020-06-12T20:46:42Z",
+            "changeset": 86584069,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9054976,
+            "lon": 10.8674207
+        },
+        {
+            "type": "node",
+            "id": 514889039,
+            "version": 3,
+            "timestamp": "2020-06-12T20:46:42Z",
+            "changeset": 86584069,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9053466,
+            "lon": 10.8672702
+        },
+        {
+            "type": "node",
+            "id": 514889040,
+            "version": 3,
+            "timestamp": "2020-06-12T20:46:42Z",
+            "changeset": 86584069,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9055158,
+            "lon": 10.8668775
+        }
+    ]
+}

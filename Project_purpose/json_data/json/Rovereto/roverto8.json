@@ -1,0 +1,81 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1366753189,
+            "version": 2,
+            "timestamp": "2017-10-05T05:25:57Z",
+            "changeset": 52643673,
+            "uid": 6755089,
+            "user": "Thomas Borroni",
+            "tags": {
+                "amenity": "bar",
+                "name": "Circolo Operaio San Giorgio",
+                "wheelchair": "limited"
+            },
+            "lat": 45.896613,
+            "lon": 11.0286471
+        },
+        {
+            "type": "node",
+            "id": 6191790557,
+            "version": 1,
+            "timestamp": "2019-01-08T09:04:28Z",
+            "changeset": 66121687,
+            "uid": 1987,
+            "user": "niubii",
+            "tags": {
+                "amenity": "fast_food",
+                "cuisine": "piadina",
+                "delivery": "no",
+                "level": "0",
+                "name": "Vamolà",
+                "opening_hours": "Mo-Sa 11:45-14:15,18:30-21:00; Sa-Su 18:15-21:00; PH closed",
+                "outdoor_seating": "no",
+                "takeaway": "yes",
+                "wheelchair": "yes"
+            },
+            "lat": 45.8959462,
+            "lon": 11.0302025
+        },
+        {
+            "type": "node",
+            "id": 6405061138,
+            "version": 4,
+            "timestamp": "2021-05-12T10:47:58Z",
+            "changeset": 104567228,
+            "uid": 1987,
+            "user": "niubii",
+            "tags": {
+                "addr:housenumber": "10/B",
+                "addr:street": "Via Balista",
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "level": "0",
+                "name": "Green Pizza",
+                "opening_hours": "Mo-Fr 11:00-14:30, 17:30-22:00; Sa, Su 17:30-22:00",
+                "phone": "+39-0464-710559",
+                "ref:vatin": "IT02464620224",
+                "takeaway": "yes"
+            },
+            "lat": 45.8958959,
+            "lon": 11.0300696
+        },
+        {
+            "type": "node",
+            "id": 8198607089,
+            "version": 1,
+            "timestamp": "2020-12-06T11:57:22Z",
+            "changeset": 95363061,
+            "uid": 1987,
+            "user": "niubii",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 45.8960028,
+            "lon": 11.0303563
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2984498949,
+            "version": 1,
+            "timestamp": "2014-07-28T13:55:29Z",
+            "changeset": 24402743,
+            "uid": 2219053,
+            "user": "OscarM",
+            "tags": {
+                "amenity": "cafe",
+                "internet_access": "yes",
+                "name": "Bar Sicilia"
+            },
+            "lat": 46.1963215,
+            "lon": 11.1293414
+        },
+        {
+            "type": "node",
+            "id": 1289151753,
+            "version": 1,
+            "timestamp": "2011-05-17T15:27:24Z",
+            "changeset": 8172831,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Andreis"
+            },
+            "lat": 46.1977018,
+            "lon": 11.1252121
+        },
+        {
+            "type": "way",
+            "id": 75310719,
+            "version": 5,
+            "timestamp": "2021-02-09T13:43:28Z",
+            "changeset": 98981257,
+            "uid": 2879052,
+            "user": "IlPiega",
+            "tags": {
+                "addr:city": "Grumo",
+                "addr:country": "IT",
+                "addr:housenumber": "39",
+                "addr:postcode": "38010",
+                "addr:street": "Via G. Postal",
+                "amenity": "restaurant",
+                "building": "yes",
+                "contact:email": "ristorantedapino@ristorantedapino.it",
+                "contact:fax": "+39 0461 662941",
+                "contact:phone": "+39 0461 650435",
+                "contact:website": "http://www.ristorantedapino.it/",
+                "cuisine": "italian;regional;pizza",
+                "name": "Ristorante da Pino",
+                "opening_hours": "Mo Off",
+                "operator": "Moresco DAnilo e Caset Luciana",
+                "ref:vatin": "IT00600320220"
+            },
+            "nodes": [
+                889273629,
+                889274176,
+                889274468,
+                1589724837,
+                889275824,
+                889273629
+            ]
+        },
+        {
+            "type": "node",
+            "id": 889273629,
+            "version": 2,
+            "timestamp": "2020-01-12T20:45:39Z",
+            "changeset": 79487163,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1979423,
+            "lon": 11.1241527
+        },
+        {
+            "type": "node",
+            "id": 889274176,
+            "version": 2,
+            "timestamp": "2020-01-12T20:45:39Z",
+            "changeset": 79487163,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1983225,
+            "lon": 11.1244036
+        },
+        {
+            "type": "node",
+            "id": 889274468,
+            "version": 2,
+            "timestamp": "2020-01-12T20:45:39Z",
+            "changeset": 79487163,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1982728,
+            "lon": 11.124561
+        },
+        {
+            "type": "node",
+            "id": 1589724837,
+            "version": 3,
+            "timestamp": "2021-02-09T13:43:28Z",
+            "changeset": 98981257,
+            "uid": 2879052,
+            "user": "IlPiega",
+            "tags": {
+                "addr:housenumber": "43",
+                "addr:street": "Via Postal"
+            },
+            "lat": 46.1979788,
+            "lon": 11.124367
+        },
+        {
+            "type": "node",
+            "id": 889275824,
+            "version": 2,
+            "timestamp": "2020-01-12T20:45:39Z",
+            "changeset": 79487163,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1978926,
+            "lon": 11.1243102
+        }
+    ]
+}

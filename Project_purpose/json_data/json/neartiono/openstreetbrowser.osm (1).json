@@ -1,0 +1,160 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "way",
+            "id": 101164735,
+            "version": 1,
+            "timestamp": "2011-02-23T11:19:39Z",
+            "changeset": 7371489,
+            "uid": 216326,
+            "user": "cristina",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Bar Trattoria alla Lepre",
+                "stars": "1"
+            },
+            "nodes": [
+                1167972495,
+                1167972303,
+                1167971597,
+                1167971584,
+                1167971897,
+                1167971985,
+                1167972495
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1167972495,
+            "version": 1,
+            "timestamp": "2011-02-23T11:19:31Z",
+            "changeset": 7371489,
+            "uid": 216326,
+            "user": "cristina",
+            "lat": 46.0514721,
+            "lon": 10.7760233
+        },
+        {
+            "type": "node",
+            "id": 1167972303,
+            "version": 1,
+            "timestamp": "2011-02-23T11:19:27Z",
+            "changeset": 7371489,
+            "uid": 216326,
+            "user": "cristina",
+            "lat": 46.0516282,
+            "lon": 10.7763086
+        },
+        {
+            "type": "node",
+            "id": 1167971597,
+            "version": 1,
+            "timestamp": "2011-02-23T11:19:09Z",
+            "changeset": 7371489,
+            "uid": 216326,
+            "user": "cristina",
+            "lat": 46.0515081,
+            "lon": 10.776447
+        },
+        {
+            "type": "node",
+            "id": 1167971584,
+            "version": 1,
+            "timestamp": "2011-02-23T11:19:09Z",
+            "changeset": 7371489,
+            "uid": 216326,
+            "user": "cristina",
+            "lat": 46.0514301,
+            "lon": 10.7762856
+        },
+        {
+            "type": "node",
+            "id": 1167971897,
+            "version": 1,
+            "timestamp": "2011-02-23T11:19:16Z",
+            "changeset": 7371489,
+            "uid": 216326,
+            "user": "cristina",
+            "lat": 46.0514721,
+            "lon": 10.7762366
+        },
+        {
+            "type": "node",
+            "id": 1167971985,
+            "version": 1,
+            "timestamp": "2011-02-23T11:19:19Z",
+            "changeset": 7371489,
+            "uid": 216326,
+            "user": "cristina",
+            "lat": 46.0513961,
+            "lon": 10.7761011
+        },
+        {
+            "type": "way",
+            "id": 101164761,
+            "version": 1,
+            "timestamp": "2011-02-23T11:19:43Z",
+            "changeset": 7371489,
+            "uid": 216326,
+            "user": "cristina",
+            "tags": {
+                "amenity": "bar",
+                "name": "Toti's Bar"
+            },
+            "nodes": [
+                1167972016,
+                1167972246,
+                1167972609,
+                1167971626,
+                1167972016
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1167972016,
+            "version": 1,
+            "timestamp": "2011-02-23T11:19:19Z",
+            "changeset": 7371489,
+            "uid": 216326,
+            "user": "cristina",
+            "lat": 46.0536175,
+            "lon": 10.7777835
+        },
+        {
+            "type": "node",
+            "id": 1167972246,
+            "version": 1,
+            "timestamp": "2011-02-23T11:19:25Z",
+            "changeset": 7371489,
+            "uid": 216326,
+            "user": "cristina",
+            "lat": 46.0536735,
+            "lon": 10.7779362
+        },
+        {
+            "type": "node",
+            "id": 1167972609,
+            "version": 1,
+            "timestamp": "2011-02-23T11:19:34Z",
+            "changeset": 7371489,
+            "uid": 216326,
+            "user": "cristina",
+            "lat": 46.0535655,
+            "lon": 10.778017
+        },
+        {
+            "type": "node",
+            "id": 1167971626,
+            "version": 1,
+            "timestamp": "2011-02-23T11:19:10Z",
+            "changeset": 7371489,
+            "uid": 216326,
+            "user": "cristina",
+            "lat": 46.0535054,
+            "lon": 10.7778671
+        }
+    ]
+}

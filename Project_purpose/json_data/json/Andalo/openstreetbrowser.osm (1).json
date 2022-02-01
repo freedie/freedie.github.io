@@ -1,0 +1,82 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1405084830,
+            "version": 2,
+            "timestamp": "2013-06-28T15:57:47Z",
+            "changeset": 16741520,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Andalo",
+                "addr:country": "IT",
+                "addr:housenumber": "1",
+                "addr:postcode": "38010",
+                "addr:street": "Via Laghet",
+                "amenity": "pub",
+                "name": "Osteria Pub Al Laghet"
+            },
+            "lat": 46.1615929,
+            "lon": 11.0022655
+        },
+        {
+            "type": "node",
+            "id": 2364540530,
+            "version": 1,
+            "timestamp": "2013-06-28T15:17:34Z",
+            "changeset": 16740978,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Andalo",
+                "addr:country": "IT",
+                "addr:housenumber": "26/A",
+                "addr:postcode": "38010",
+                "addr:street": "Via Perli",
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "name": "La Marenda"
+            },
+            "lat": 46.1630857,
+            "lon": 11.0032713
+        },
+        {
+            "type": "node",
+            "id": 2367677548,
+            "version": 1,
+            "timestamp": "2013-06-30T19:17:42Z",
+            "changeset": 16768711,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzeria Romantica"
+            },
+            "lat": 46.1631238,
+            "lon": 11.0029148
+        },
+        {
+            "type": "node",
+            "id": 2598641850,
+            "version": 2,
+            "timestamp": "2016-07-05T21:03:11Z",
+            "changeset": 40509775,
+            "uid": 351361,
+            "user": "dvdzero",
+            "tags": {
+                "addr:city": "Andalo",
+                "addr:housenumber": "6",
+                "addr:place": "Località Laghet",
+                "amenity": "restaurant",
+                "name": "Ski Bar",
+                "phone": "+39 0461 585611"
+            },
+            "lat": 46.1602069,
+            "lon": 11.0013525
+        }
+    ]
+}

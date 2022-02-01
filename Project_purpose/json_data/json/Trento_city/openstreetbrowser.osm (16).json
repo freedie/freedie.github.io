@@ -1,0 +1,512 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 288938675,
+            "version": 10,
+            "timestamp": "2017-05-13T23:09:56Z",
+            "changeset": 48661614,
+            "uid": 4533749,
+            "user": "inbitcoin",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "10",
+                "addr:postcode": "38123",
+                "addr:street": "Via Sommarive",
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "currency:XBT": "yes",
+                "name": "Pizzeria OroStube",
+                "payment:bitcoin": "yes",
+                "payment:bitcoin:operator": "inbitcoin.it",
+                "website": "http://www.orostube.it/",
+                "wheelchair": "yes"
+            },
+            "lat": 46.0647594,
+            "lon": 11.1504525
+        },
+        {
+            "type": "node",
+            "id": 2411091303,
+            "version": 6,
+            "timestamp": "2021-10-29T21:47:36Z",
+            "changeset": 113142663,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "amenity": "cafe",
+                "cuisine": "coffee_shop;burger",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "Bar Povo 1",
+                "opening_hours": "Mo-Fr 08:00-16:00"
+            },
+            "lat": 46.0665879,
+            "lon": 11.1502137
+        },
+        {
+            "type": "node",
+            "id": 2411091439,
+            "version": 6,
+            "timestamp": "2021-08-16T08:21:01Z",
+            "changeset": 109734833,
+            "uid": 20610,
+            "user": "napo",
+            "tags": {
+                "amenity": "cafe",
+                "diet:vegan": "no",
+                "diet:vegetarian": "yes",
+                "name": "bar FBK",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "wheelchair": "yes"
+            },
+            "lat": 46.0679477,
+            "lon": 11.1511123
+        },
+        {
+            "type": "node",
+            "id": 7595406510,
+            "version": 2,
+            "timestamp": "2021-10-29T21:49:48Z",
+            "changeset": 113142706,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza;italian",
+                "name": "Mensa e pizzeria Povo 0",
+                "opening_hours": "Mo-Fr 11:45-14:30"
+            },
+            "lat": 46.0654881,
+            "lon": 11.1506771
+        },
+        {
+            "type": "node",
+            "id": 677998379,
+            "version": 5,
+            "timestamp": "2018-03-28T12:01:13Z",
+            "changeset": 57598179,
+            "uid": 130691,
+            "user": "StefanoCudini",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Renè"
+            },
+            "lat": 46.0618755,
+            "lon": 11.1524346
+        },
+        {
+            "type": "node",
+            "id": 279462366,
+            "version": 6,
+            "timestamp": "2016-05-30T13:19:14Z",
+            "changeset": 39665513,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Open",
+                "wheelchair": "yes"
+            },
+            "lat": 46.0662262,
+            "lon": 11.156039
+        },
+        {
+            "type": "node",
+            "id": 289225782,
+            "version": 6,
+            "timestamp": "2015-03-19T13:51:09Z",
+            "changeset": 29592763,
+            "uid": 20610,
+            "user": "napo",
+            "tags": {
+                "addr:city": "Povo",
+                "addr:housenumber": "14",
+                "addr:postcode": "38123",
+                "addr:street": "Piazza Giannatonio Manci",
+                "amenity": "restaurant",
+                "capacity": "50",
+                "cuisine": "pizza",
+                "email": "info@pizzeriasalesa.it",
+                "name": "Pizzeria Salesà",
+                "phone": "+39 0461 810484",
+                "website": "http://www.pizzeriasalesa.it",
+                "wheelchair": "limited"
+            },
+            "lat": 46.0661234,
+            "lon": 11.1548195
+        },
+        {
+            "type": "node",
+            "id": 289227941,
+            "version": 9,
+            "timestamp": "2017-08-16T18:13:50Z",
+            "changeset": 51182948,
+            "uid": 4419505,
+            "user": "Matteo Contrini",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "9/A",
+                "addr:postcode": "38123",
+                "addr:street": "Via della Resistenza",
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "name": "Pizza Rio",
+                "opening_hours": "Mo-Fr 11:30-14:00,18:00-21:00; Sa-Su 18:00-21:30; PH 18:00-21:30",
+                "operator": "Andreatta Cristian",
+                "outdoor_seating": "no",
+                "takeaway": "yes",
+                "wheelchair": "limited"
+            },
+            "lat": 46.0663277,
+            "lon": 11.155068
+        },
+        {
+            "type": "node",
+            "id": 1620451932,
+            "version": 2,
+            "timestamp": "2016-05-11T20:22:47Z",
+            "changeset": 39252017,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Povo",
+                "addr:country": "IT",
+                "addr:housenumber": "21",
+                "addr:postcode": "38123",
+                "addr:street": "Via della Resistenza",
+                "amenity": "bar"
+            },
+            "lat": 46.0661842,
+            "lon": 11.1553429
+        },
+        {
+            "type": "way",
+            "id": 275318465,
+            "version": 6,
+            "timestamp": "2021-10-29T21:48:33Z",
+            "changeset": 113142683,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "university",
+                "building:levels": "2",
+                "cuisine": "italian",
+                "name": "Mensa Povo 1",
+                "opening_hours": "Mo-Fr 11:45-14:30"
+            },
+            "nodes": [
+                2799568002,
+                987467077,
+                9160225055,
+                9160225058,
+                9160225060,
+                9160225057,
+                9160225056,
+                987467078,
+                9160225049,
+                318093223,
+                9160225051,
+                9160225052,
+                9160225050,
+                2799568002
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2799568002,
+            "version": 1,
+            "timestamp": "2014-04-18T19:33:39Z",
+            "changeset": 21775447,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0668484,
+            "lon": 11.1503081
+        },
+        {
+            "type": "node",
+            "id": 987467077,
+            "version": 2,
+            "timestamp": "2014-04-18T19:34:07Z",
+            "changeset": 21775447,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.066852,
+            "lon": 11.1501276
+        },
+        {
+            "type": "node",
+            "id": 9160225055,
+            "version": 1,
+            "timestamp": "2021-10-09T09:41:52Z",
+            "changeset": 112293921,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "lat": 46.0666252,
+            "lon": 11.1501183
+        },
+        {
+            "type": "node",
+            "id": 9160225058,
+            "version": 1,
+            "timestamp": "2021-10-09T09:41:52Z",
+            "changeset": 112293921,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "entrance": "main"
+            },
+            "lat": 46.0666254,
+            "lon": 11.1501056
+        },
+        {
+            "type": "node",
+            "id": 9160225060,
+            "version": 1,
+            "timestamp": "2021-10-09T09:41:52Z",
+            "changeset": 112293921,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "lat": 46.0666256,
+            "lon": 11.1500929
+        },
+        {
+            "type": "node",
+            "id": 9160225057,
+            "version": 1,
+            "timestamp": "2021-10-09T09:41:52Z",
+            "changeset": 112293921,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "lat": 46.066592,
+            "lon": 11.1500917
+        },
+        {
+            "type": "node",
+            "id": 9160225056,
+            "version": 1,
+            "timestamp": "2021-10-09T09:41:52Z",
+            "changeset": 112293921,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "lat": 46.0665915,
+            "lon": 11.150117
+        },
+        {
+            "type": "node",
+            "id": 987467078,
+            "version": 2,
+            "timestamp": "2014-04-18T19:34:07Z",
+            "changeset": 21775447,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.066553,
+            "lon": 11.1501154
+        },
+        {
+            "type": "node",
+            "id": 9160225049,
+            "version": 1,
+            "timestamp": "2021-10-09T09:41:52Z",
+            "changeset": 112293921,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "entrance": "yes"
+            },
+            "lat": 46.0665501,
+            "lon": 11.1502591
+        },
+        {
+            "type": "node",
+            "id": 318093223,
+            "version": 4,
+            "timestamp": "2014-04-18T19:34:05Z",
+            "changeset": 21775447,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0665494,
+            "lon": 11.1502959
+        },
+        {
+            "type": "node",
+            "id": 9160225051,
+            "version": 1,
+            "timestamp": "2021-10-09T09:41:52Z",
+            "changeset": 112293921,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "entrance": "yes"
+            },
+            "lat": 46.0665836,
+            "lon": 11.1502973
+        },
+        {
+            "type": "node",
+            "id": 9160225052,
+            "version": 1,
+            "timestamp": "2021-10-09T09:41:52Z",
+            "changeset": 112293921,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "entrance": "yes"
+            },
+            "lat": 46.0667068,
+            "lon": 11.1503023
+        },
+        {
+            "type": "node",
+            "id": 9160225050,
+            "version": 1,
+            "timestamp": "2021-10-09T09:41:52Z",
+            "changeset": 112293921,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "entrance": "yes"
+            },
+            "lat": 46.0668301,
+            "lon": 11.1503074
+        },
+        {
+            "type": "way",
+            "id": 78363327,
+            "version": 4,
+            "timestamp": "2016-12-01T08:31:30Z",
+            "changeset": 44080291,
+            "uid": 2738624,
+            "user": "Marte81",
+            "tags": {
+                "amenity": "cafe",
+                "building": "yes",
+                "name": "Max und Moritz",
+                "wheelchair": "no"
+            },
+            "nodes": [
+                919900147,
+                919898571,
+                919897168,
+                919823719,
+                919900147
+            ]
+        },
+        {
+            "type": "node",
+            "id": 919900147,
+            "version": 2,
+            "timestamp": "2013-03-12T21:25:43Z",
+            "changeset": 15345477,
+            "uid": 495567,
+            "user": "zimba",
+            "lat": 46.0661529,
+            "lon": 11.1545727
+        },
+        {
+            "type": "node",
+            "id": 919898571,
+            "version": 2,
+            "timestamp": "2013-03-12T21:25:43Z",
+            "changeset": 15345477,
+            "uid": 495567,
+            "user": "zimba",
+            "lat": 46.0661914,
+            "lon": 11.1545854
+        },
+        {
+            "type": "node",
+            "id": 919897168,
+            "version": 2,
+            "timestamp": "2013-03-12T21:25:43Z",
+            "changeset": 15345477,
+            "uid": 495567,
+            "user": "zimba",
+            "lat": 46.0661759,
+            "lon": 11.1546831
+        },
+        {
+            "type": "node",
+            "id": 919823719,
+            "version": 2,
+            "timestamp": "2013-03-12T21:25:43Z",
+            "changeset": 15345477,
+            "uid": 495567,
+            "user": "zimba",
+            "lat": 46.0661374,
+            "lon": 11.1546704
+        },
+        {
+            "type": "way",
+            "id": 823542138,
+            "version": 1,
+            "timestamp": "2020-07-06T18:25:46Z",
+            "changeset": 87614801,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "addr:city": "Povo",
+                "addr:housenumber": "3",
+                "addr:postcode": "38123",
+                "addr:street": "Piazza Giannantonio Manci",
+                "amenity": "ice_cream",
+                "building": "yes",
+                "name": "Gelateria Dolomeis"
+            },
+            "nodes": [
+                7688743694,
+                7688743695,
+                7688743696,
+                7688743697,
+                7688743694
+            ]
+        },
+        {
+            "type": "node",
+            "id": 7688743694,
+            "version": 1,
+            "timestamp": "2020-07-06T18:25:46Z",
+            "changeset": 87614801,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "lat": 46.0659926,
+            "lon": 11.1543459
+        },
+        {
+            "type": "node",
+            "id": 7688743695,
+            "version": 1,
+            "timestamp": "2020-07-06T18:25:46Z",
+            "changeset": 87614801,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "lat": 46.0659978,
+            "lon": 11.1543755
+        },
+        {
+            "type": "node",
+            "id": 7688743696,
+            "version": 1,
+            "timestamp": "2020-07-06T18:25:46Z",
+            "changeset": 87614801,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "lat": 46.0660289,
+            "lon": 11.1543642
+        },
+        {
+            "type": "node",
+            "id": 7688743697,
+            "version": 1,
+            "timestamp": "2020-07-06T18:25:46Z",
+            "changeset": 87614801,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "lat": 46.0660237,
+            "lon": 11.1543346
+        }
+    ]
+}

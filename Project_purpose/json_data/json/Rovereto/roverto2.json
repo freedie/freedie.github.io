@@ -1,0 +1,48 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 5807182071,
+            "version": 2,
+            "timestamp": "2020-06-07T19:24:35Z",
+            "changeset": 86317632,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:housenumber": "9",
+                "addr:street": "Piazza Federico Guella",
+                "amenity": "bar",
+                "name": "Bar Manolo",
+                "phone": "+39 0464 432125"
+            },
+            "lat": 45.8669509,
+            "lon": 11.0318786
+        },
+        {
+            "type": "node",
+            "id": 903941484,
+            "version": 3,
+            "timestamp": "2011-04-04T17:45:42Z",
+            "changeset": 7767442,
+            "uid": 7668,
+            "user": "Kiwi",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "italian;pizza",
+                "email": "labrace@labrace.net",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "La Brace",
+                "opening_hours": "Mo-We 11:45-14:30,19:00-23:00; Th,Fr 11:45-14:30,19:00-23:30; Sa 18:00-24:00",
+                "phone": "+39 0464 480396;+39 340 2314332",
+                "smoking": "no",
+                "website": "http://www.labrace.net",
+                "wheelchair": "yes"
+            },
+            "lat": 45.8644376,
+            "lon": 11.0285258
+        }
+    ]
+}

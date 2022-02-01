@@ -1,0 +1,229 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 415504641,
+            "version": 3,
+            "timestamp": "2018-04-15T17:31:17Z",
+            "changeset": 58115551,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza;regional",
+                "name": "Al Maso Vecchio"
+            },
+            "lat": 46.3256919,
+            "lon": 10.8611651
+        },
+        {
+            "type": "node",
+            "id": 4350304189,
+            "version": 2,
+            "timestamp": "2018-04-15T17:31:21Z",
+            "changeset": 58115551,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Dolomiti"
+            },
+            "lat": 46.3251366,
+            "lon": 10.8629505
+        },
+        {
+            "type": "node",
+            "id": 5554963922,
+            "version": 1,
+            "timestamp": "2018-04-15T17:31:14Z",
+            "changeset": 58115551,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "pub",
+                "name": "Liquid Club"
+            },
+            "lat": 46.3255868,
+            "lon": 10.8609793
+        },
+        {
+            "type": "node",
+            "id": 4356405321,
+            "version": 2,
+            "timestamp": "2016-09-09T21:34:55Z",
+            "changeset": 42047997,
+            "uid": 351361,
+            "user": "dvdzero",
+            "tags": {
+                "amenity": "bar",
+                "cuisine": "ice_cream",
+                "name": "Tropical"
+            },
+            "lat": 46.3260541,
+            "lon": 10.8711687
+        },
+        {
+            "type": "node",
+            "id": 5889694076,
+            "version": 1,
+            "timestamp": "2018-09-07T05:01:00Z",
+            "changeset": 62361860,
+            "uid": 852319,
+            "user": "vrmap",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Jolly"
+            },
+            "lat": 46.3265833,
+            "lon": 10.8677025
+        },
+        {
+            "type": "node",
+            "id": 333790690,
+            "version": 2,
+            "timestamp": "2017-11-21T23:33:54Z",
+            "changeset": 53988511,
+            "uid": 637961,
+            "user": "Afnecors",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Snoopy"
+            },
+            "lat": 46.3269171,
+            "lon": 10.8725986
+        },
+        {
+            "type": "node",
+            "id": 333791073,
+            "version": 3,
+            "timestamp": "2013-08-24T09:35:49Z",
+            "changeset": 17480898,
+            "uid": 637961,
+            "user": "Afnecors",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Pasticceria"
+            },
+            "lat": 46.3253644,
+            "lon": 10.8747346
+        },
+        {
+            "type": "node",
+            "id": 1620510920,
+            "version": 3,
+            "timestamp": "2018-11-07T21:38:15Z",
+            "changeset": 64274831,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "addr:city": "Dimaro",
+                "addr:housenumber": "4",
+                "addr:postcode": "38025",
+                "addr:street": "Via Caduti",
+                "amenity": "cafe",
+                "name": "L'Oasi",
+                "operator": "Oasi S.N.C.",
+                "phone": "+39 0463 974518",
+                "ref:vatin": "IT01863120224"
+            },
+            "lat": 46.3263591,
+            "lon": 10.8752459
+        },
+        {
+            "type": "node",
+            "id": 5893152115,
+            "version": 1,
+            "timestamp": "2018-09-08T16:44:48Z",
+            "changeset": 62406766,
+            "uid": 852319,
+            "user": "vrmap",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Kaiserkrone"
+            },
+            "lat": 46.3257518,
+            "lon": 10.8743601
+        },
+        {
+            "type": "node",
+            "id": 2428696174,
+            "version": 1,
+            "timestamp": "2013-08-22T23:06:55Z",
+            "changeset": 17463069,
+            "uid": 637961,
+            "user": "Afnecors",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.3245114,
+            "lon": 10.8788092
+        },
+        {
+            "type": "way",
+            "id": 641844635,
+            "version": 1,
+            "timestamp": "2018-11-07T11:51:08Z",
+            "changeset": 64259701,
+            "uid": 637961,
+            "user": "Afnecors",
+            "tags": {
+                "amenity": "bar",
+                "building": "yes"
+            },
+            "nodes": [
+                6043803114,
+                6043803115,
+                6043803116,
+                6043803117,
+                6043803114
+            ]
+        },
+        {
+            "type": "node",
+            "id": 6043803114,
+            "version": 1,
+            "timestamp": "2018-11-07T11:51:08Z",
+            "changeset": 64259701,
+            "uid": 637961,
+            "user": "Afnecors",
+            "lat": 46.3245307,
+            "lon": 10.8787538
+        },
+        {
+            "type": "node",
+            "id": 6043803115,
+            "version": 1,
+            "timestamp": "2018-11-07T11:51:08Z",
+            "changeset": 64259701,
+            "uid": 637961,
+            "user": "Afnecors",
+            "lat": 46.3244972,
+            "lon": 10.8787929
+        },
+        {
+            "type": "node",
+            "id": 6043803116,
+            "version": 1,
+            "timestamp": "2018-11-07T11:51:08Z",
+            "changeset": 64259701,
+            "uid": 637961,
+            "user": "Afnecors",
+            "lat": 46.3245469,
+            "lon": 10.878882
+        },
+        {
+            "type": "node",
+            "id": 6043803117,
+            "version": 1,
+            "timestamp": "2018-11-07T11:51:08Z",
+            "changeset": 64259701,
+            "uid": 637961,
+            "user": "Afnecors",
+            "lat": 46.3245804,
+            "lon": 10.8788429
+        }
+    ]
+}

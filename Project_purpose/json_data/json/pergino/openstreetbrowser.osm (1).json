@@ -1,0 +1,315 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 4455036997,
+            "version": 1,
+            "timestamp": "2016-10-19T13:07:52Z",
+            "changeset": 43008239,
+            "uid": 4713246,
+            "user": "terzaaasu",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Valsugana"
+            },
+            "lat": 46.0631063,
+            "lon": 11.2336304
+        },
+        {
+            "type": "way",
+            "id": 275606673,
+            "version": 2,
+            "timestamp": "2016-11-29T18:37:18Z",
+            "changeset": 44041030,
+            "uid": 74765,
+            "user": "dizzу",
+            "tags": {
+                "amenity": "bar",
+                "building": "yes",
+                "name": "Bar Tennis"
+            },
+            "nodes": [
+                2802428482,
+                2802428491,
+                2802428487,
+                2802428479,
+                2802428482
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2802428482,
+            "version": 1,
+            "timestamp": "2014-04-19T23:10:31Z",
+            "changeset": 21807732,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0631368,
+            "lon": 11.2386875
+        },
+        {
+            "type": "node",
+            "id": 2802428491,
+            "version": 1,
+            "timestamp": "2014-04-19T23:10:32Z",
+            "changeset": 21807732,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0632493,
+            "lon": 11.2389824
+        },
+        {
+            "type": "node",
+            "id": 2802428487,
+            "version": 1,
+            "timestamp": "2014-04-19T23:10:31Z",
+            "changeset": 21807732,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0631777,
+            "lon": 11.2390391
+        },
+        {
+            "type": "node",
+            "id": 2802428479,
+            "version": 1,
+            "timestamp": "2014-04-19T23:10:31Z",
+            "changeset": 21807732,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0630652,
+            "lon": 11.2387442
+        },
+        {
+            "type": "node",
+            "id": 4454964567,
+            "version": 1,
+            "timestamp": "2016-10-19T12:03:33Z",
+            "changeset": 43006994,
+            "uid": 4713246,
+            "user": "terzaaasu",
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:street": "Via Francesco Petrarca",
+                "amenity": "bar",
+                "name": "Birreria 700",
+                "smoking": "outside"
+            },
+            "lat": 46.0665219,
+            "lon": 11.2325341
+        },
+        {
+            "type": "node",
+            "id": 4454979789,
+            "version": 1,
+            "timestamp": "2016-10-19T12:19:25Z",
+            "changeset": 43007256,
+            "uid": 4713246,
+            "user": "terzaaasu",
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:street": "Viale dante",
+                "amenity": "fast_food",
+                "name": "Kebab"
+            },
+            "lat": 46.0639885,
+            "lon": 11.2310836
+        },
+        {
+            "type": "node",
+            "id": 5663164922,
+            "version": 1,
+            "timestamp": "2018-06-04T09:15:59Z",
+            "changeset": 59529598,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Pergine",
+                "addr:country": "IT",
+                "addr:housenumber": "11",
+                "addr:postcode": "38057",
+                "addr:street": "Via Amstetten",
+                "amenity": "bar",
+                "name": "Kairos Bar Family Cafe",
+                "operator": "Soste S.R.L.",
+                "ref:vatin": "IT02342240229"
+            },
+            "lat": 46.0665391,
+            "lon": 11.2300105
+        },
+        {
+            "type": "node",
+            "id": 293618246,
+            "version": 1,
+            "timestamp": "2008-09-04T11:18:32Z",
+            "changeset": 520287,
+            "uid": 34460,
+            "user": "moretto",
+            "tags": {
+                "amenity": "cafe",
+                "created_by": "JOSM"
+            },
+            "lat": 46.0719284,
+            "lon": 11.2367012
+        },
+        {
+            "type": "node",
+            "id": 1111843225,
+            "version": 3,
+            "timestamp": "2019-06-19T23:44:52Z",
+            "changeset": 71417914,
+            "uid": 290680,
+            "user": "wheelmap_visitor",
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:country": "IT",
+                "addr:housename": "Shop Center",
+                "addr:postcode": "38057",
+                "addr:street": "Via Tamarisi",
+                "amenity": "cafe",
+                "layer": "1",
+                "name": "Tobia Cafè",
+                "opening_hours": "Mo 14:30-20:00; Tu-Su 09:00-20:00",
+                "wheelchair": "yes"
+            },
+            "lat": 46.0678383,
+            "lon": 11.2229099
+        },
+        {
+            "type": "node",
+            "id": 1111843247,
+            "version": 4,
+            "timestamp": "2019-06-19T23:45:55Z",
+            "changeset": 71417914,
+            "uid": 290680,
+            "user": "wheelmap_visitor",
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:country": "IT",
+                "addr:housename": "Shop Center",
+                "addr:housenumber": "2",
+                "addr:postcode": "38057",
+                "addr:street": "Via Tamarisi",
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "layer": "1",
+                "name": "Fuori Orario 2",
+                "opening_hours": "Mo 14:30-20:00; Tu-Su 09:00-20:00",
+                "operator": "Maggipinto R. & C. SNC",
+                "ref:vatin": "IT01710160225",
+                "wheelchair": "yes"
+            },
+            "lat": 46.0679336,
+            "lon": 11.222853
+        },
+        {
+            "type": "node",
+            "id": 1112759378,
+            "version": 3,
+            "timestamp": "2019-06-19T23:46:38Z",
+            "changeset": 71417914,
+            "uid": 290680,
+            "user": "wheelmap_visitor",
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:country": "IT",
+                "addr:housename": "Shop Center",
+                "addr:housenumber": "2",
+                "addr:postcode": "38057",
+                "addr:street": "Via Tamarisi",
+                "amenity": "cafe",
+                "contact:fax": "+39 0461 530630",
+                "contact:phone": "+39 0461 530630",
+                "layer": "2",
+                "name": "L'Incontro",
+                "opening_hours": "Mo 14:30-20:00; Tu-Su 09:00-20:00",
+                "operator": "Mini S.N.C.",
+                "ref:vatin": "IT01614810222",
+                "wheelchair": "yes"
+            },
+            "lat": 46.067892,
+            "lon": 11.2231933
+        },
+        {
+            "type": "node",
+            "id": 1112759380,
+            "version": 3,
+            "timestamp": "2019-06-19T23:47:38Z",
+            "changeset": 71417914,
+            "uid": 290680,
+            "user": "wheelmap_visitor",
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:country": "IT",
+                "addr:housename": "Shop Center",
+                "addr:postcode": "38057",
+                "addr:street": "Via Tamarisi",
+                "amenity": "ice_cream",
+                "layer": "2",
+                "opening_hours": "Mo 14:30-20:00; Tu-Su 09:00-20:00",
+                "wheelchair": "yes"
+            },
+            "lat": 46.0679561,
+            "lon": 11.2233552
+        },
+        {
+            "type": "node",
+            "id": 2113094106,
+            "version": 2,
+            "timestamp": "2016-07-23T12:30:25Z",
+            "changeset": 40970384,
+            "uid": 625524,
+            "user": "marcodena",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Pizzeria Ristorante Al Ponte"
+            },
+            "lat": 46.0692618,
+            "lon": 11.2246326
+        },
+        {
+            "type": "node",
+            "id": 2647941985,
+            "version": 2,
+            "timestamp": "2017-08-02T09:34:54Z",
+            "changeset": 50775925,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:country": "IT",
+                "addr:housenumber": "53",
+                "addr:postcode": "38057",
+                "addr:street": "Località Fratte",
+                "amenity": "pub",
+                "name": "Le Bistrot",
+                "operator": "Ideal Car S.R.L.",
+                "ref:vatin": "IT01522530227"
+            },
+            "lat": 46.0695811,
+            "lon": 11.2200064
+        },
+        {
+            "type": "node",
+            "id": 4941869749,
+            "version": 2,
+            "timestamp": "2018-01-03T08:26:54Z",
+            "changeset": 55122166,
+            "uid": 2795427,
+            "user": "vitoplus",
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:housenumber": "29",
+                "addr:place": "Località Fratte",
+                "addr:street": "Località Fratte",
+                "amenity": "cafe",
+                "name": "Bar Mister X",
+                "phone": "+39 0461 533666"
+            },
+            "lat": 46.0698222,
+            "lon": 11.2212975
+        }
+    ]
+}

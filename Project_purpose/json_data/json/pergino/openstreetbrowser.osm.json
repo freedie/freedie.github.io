@@ -1,0 +1,792 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 293866039,
+            "version": 5,
+            "timestamp": "2011-03-29T16:24:11Z",
+            "changeset": 7708188,
+            "uid": 413091,
+            "user": "Tritolo41",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Turismo"
+            },
+            "lat": 46.060124,
+            "lon": 11.237059
+        },
+        {
+            "type": "node",
+            "id": 433478402,
+            "version": 3,
+            "timestamp": "2011-08-16T01:49:04Z",
+            "changeset": 9032720,
+            "uid": 152676,
+            "user": "pfranz",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 46.0597773,
+            "lon": 11.2378459
+        },
+        {
+            "type": "node",
+            "id": 479002736,
+            "version": 2,
+            "timestamp": "2009-09-15T14:46:47Z",
+            "changeset": 2492650,
+            "uid": 153438,
+            "user": "Emos62",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.0595119,
+            "lon": 11.2392919
+        },
+        {
+            "type": "node",
+            "id": 482716381,
+            "version": 1,
+            "timestamp": "2009-09-03T19:50:21Z",
+            "changeset": 2363135,
+            "uid": 153438,
+            "user": "Emos62",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Alla Rotonda"
+            },
+            "lat": 46.0587325,
+            "lon": 11.2374663
+        },
+        {
+            "type": "node",
+            "id": 482722162,
+            "version": 1,
+            "timestamp": "2009-09-03T19:55:10Z",
+            "changeset": 2363135,
+            "uid": 153438,
+            "user": "Emos62",
+            "tags": {
+                "amenity": "bar",
+                "name": "Cuba"
+            },
+            "lat": 46.0590125,
+            "lon": 11.2370715
+        },
+        {
+            "type": "node",
+            "id": 3952792095,
+            "version": 2,
+            "timestamp": "2021-08-24T18:37:28Z",
+            "changeset": 110188901,
+            "uid": 675430,
+            "user": "mapping_dave",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "sushi",
+                "name": "Ristorante Al Posta"
+            },
+            "lat": 46.0612545,
+            "lon": 11.23857
+        },
+        {
+            "type": "node",
+            "id": 4613996421,
+            "version": 1,
+            "timestamp": "2017-01-17T11:51:55Z",
+            "changeset": 45240746,
+            "uid": 28562,
+            "user": "Luca_76",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Sport"
+            },
+            "lat": 46.0607392,
+            "lon": 11.2374143
+        },
+        {
+            "type": "node",
+            "id": 293869753,
+            "version": 4,
+            "timestamp": "2011-08-16T01:49:04Z",
+            "changeset": 9032720,
+            "uid": 152676,
+            "user": "pfranz",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Gelateria Alexander"
+            },
+            "lat": 46.0604748,
+            "lon": 11.2402901
+        },
+        {
+            "type": "node",
+            "id": 293869757,
+            "version": 1,
+            "timestamp": "2008-09-05T10:06:34Z",
+            "changeset": 533717,
+            "uid": 34460,
+            "user": "moretto",
+            "tags": {
+                "amenity": "cafe",
+                "created_by": "JOSM"
+            },
+            "lat": 46.0601644,
+            "lon": 11.2405101
+        },
+        {
+            "type": "node",
+            "id": 293870953,
+            "version": 3,
+            "timestamp": "2011-03-29T16:24:11Z",
+            "changeset": 7708188,
+            "uid": 413091,
+            "user": "Tritolo41",
+            "tags": {
+                "amenity": "pub"
+            },
+            "lat": 46.0603745,
+            "lon": 11.2420073
+        },
+        {
+            "type": "node",
+            "id": 293870954,
+            "version": 5,
+            "timestamp": "2016-01-17T10:20:47Z",
+            "changeset": 36630477,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "amenity": "pub",
+                "cuisine": "pizza",
+                "name": "La Vecchia Pergine",
+                "opening_hours": "Su-We 17:00-01:00; Fr-Sa 17:00-03:00"
+            },
+            "lat": 46.0584071,
+            "lon": 11.2400496
+        },
+        {
+            "type": "node",
+            "id": 482531366,
+            "version": 3,
+            "timestamp": "2016-01-17T08:01:42Z",
+            "changeset": 36628879,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Osteria Al Moro"
+            },
+            "lat": 46.0613829,
+            "lon": 11.2428217
+        },
+        {
+            "type": "node",
+            "id": 497099020,
+            "version": 1,
+            "timestamp": "2009-09-15T14:47:22Z",
+            "changeset": 2492650,
+            "uid": 153438,
+            "user": "Emos62",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Gelateria Bar Bianco"
+            },
+            "lat": 46.0597263,
+            "lon": 11.2394635
+        },
+        {
+            "type": "node",
+            "id": 1224361378,
+            "version": 5,
+            "timestamp": "2016-01-17T08:24:57Z",
+            "changeset": 36629125,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:country": "IT",
+                "addr:housenumber": "13",
+                "addr:postcode": "38057",
+                "addr:street": "Piazza Mario Garbari",
+                "amenity": "fast_food",
+                "cuisine": "chicken",
+                "opening_hours": "Mo-Su 10:00-14:00,18:00-21:00"
+            },
+            "lat": 46.0604201,
+            "lon": 11.2414748
+        },
+        {
+            "type": "node",
+            "id": 1400537508,
+            "version": 1,
+            "timestamp": "2011-08-16T01:49:04Z",
+            "changeset": 9032720,
+            "uid": 152676,
+            "user": "pfranz",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "chinese"
+            },
+            "lat": 46.0598074,
+            "lon": 11.2395195
+        },
+        {
+            "type": "node",
+            "id": 3951262747,
+            "version": 1,
+            "timestamp": "2016-01-17T08:01:35Z",
+            "changeset": 36628879,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "amenity": "bar",
+                "name": "White Cafè"
+            },
+            "lat": 46.0609621,
+            "lon": 11.2419396
+        },
+        {
+            "type": "node",
+            "id": 3951298199,
+            "version": 1,
+            "timestamp": "2016-01-17T09:04:43Z",
+            "changeset": 36629512,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:country": "IT",
+                "addr:housenumber": "24",
+                "addr:postcode": "38057",
+                "addr:street": "Via Tommaso Maier",
+                "amenity": "cafe",
+                "name": "Bar Bono"
+            },
+            "lat": 46.0598634,
+            "lon": 11.2412938
+        },
+        {
+            "type": "node",
+            "id": 3952806157,
+            "version": 1,
+            "timestamp": "2016-01-17T23:22:14Z",
+            "changeset": 36645203,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:country": "IT",
+                "addr:housenumber": "10",
+                "addr:postcode": "38057",
+                "addr:street": "Piazza del Municipio",
+                "amenity": "restaurant",
+                "cuisine": "italian;pizza",
+                "name": "Al Volt"
+            },
+            "lat": 46.0603998,
+            "lon": 11.2407853
+        },
+        {
+            "type": "way",
+            "id": 85541113,
+            "version": 2,
+            "timestamp": "2012-10-30T21:20:35Z",
+            "changeset": 13691758,
+            "uid": 7668,
+            "user": "Kiwi",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "italian",
+                "name": "Antiche Contrade"
+            },
+            "nodes": [
+                992105869,
+                992105855,
+                992105841,
+                992105852,
+                992105869
+            ]
+        },
+        {
+            "type": "node",
+            "id": 992105869,
+            "version": 2,
+            "timestamp": "2013-01-15T23:39:24Z",
+            "changeset": 14667555,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0550668,
+            "lon": 11.2362796
+        },
+        {
+            "type": "node",
+            "id": 992105855,
+            "version": 2,
+            "timestamp": "2013-01-15T23:39:24Z",
+            "changeset": 14667555,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0549093,
+            "lon": 11.2362041
+        },
+        {
+            "type": "node",
+            "id": 992105841,
+            "version": 2,
+            "timestamp": "2013-01-15T23:39:24Z",
+            "changeset": 14667555,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0548648,
+            "lon": 11.2363967
+        },
+        {
+            "type": "node",
+            "id": 992105852,
+            "version": 2,
+            "timestamp": "2013-01-15T23:39:24Z",
+            "changeset": 14667555,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0550223,
+            "lon": 11.2364722
+        },
+        {
+            "type": "way",
+            "id": 26773480,
+            "version": 5,
+            "timestamp": "2016-12-05T00:42:01Z",
+            "changeset": 44169547,
+            "uid": 152074,
+            "user": "beweta",
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:housenumber": "10",
+                "addr:postcode": "38057",
+                "addr:street": "Via al Castello",
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "italian",
+                "historic": "castle",
+                "name": "Castel Pergine",
+                "name:de": "Burg Persen",
+                "name:it": "Castel Pergine",
+                "tourism": "attraction",
+                "wikidata": "Q1048609",
+                "wikipedia": "it:Castel Pergine"
+            },
+            "nodes": [
+                293670803,
+                4033506424,
+                4033506335,
+                4033506329,
+                4033506333,
+                4033506331,
+                4033506332,
+                4033506334,
+                4033506336,
+                293670804,
+                4033506337,
+                4033506339,
+                4033506340,
+                4033506341,
+                4033506343,
+                4033506344,
+                293670805,
+                293670806,
+                293670803
+            ]
+        },
+        {
+            "type": "node",
+            "id": 293670803,
+            "version": 5,
+            "timestamp": "2016-02-29T19:34:36Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.059163,
+            "lon": 11.249485
+        },
+        {
+            "type": "node",
+            "id": 4033506424,
+            "version": 1,
+            "timestamp": "2016-02-29T19:34:11Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0589884,
+            "lon": 11.249721
+        },
+        {
+            "type": "node",
+            "id": 4033506335,
+            "version": 1,
+            "timestamp": "2016-02-29T19:34:13Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0590685,
+            "lon": 11.2498498
+        },
+        {
+            "type": "node",
+            "id": 4033506329,
+            "version": 1,
+            "timestamp": "2016-02-29T19:34:12Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0590275,
+            "lon": 11.2499141
+        },
+        {
+            "type": "node",
+            "id": 4033506333,
+            "version": 1,
+            "timestamp": "2016-02-29T19:34:13Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0590582,
+            "lon": 11.249953
+        },
+        {
+            "type": "node",
+            "id": 4033506331,
+            "version": 1,
+            "timestamp": "2016-02-29T19:34:12Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0590524,
+            "lon": 11.2499865
+        },
+        {
+            "type": "node",
+            "id": 4033506332,
+            "version": 1,
+            "timestamp": "2016-02-29T19:34:12Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0590545,
+            "lon": 11.2500209
+        },
+        {
+            "type": "node",
+            "id": 4033506334,
+            "version": 1,
+            "timestamp": "2016-02-29T19:34:13Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0590643,
+            "lon": 11.2500524
+        },
+        {
+            "type": "node",
+            "id": 4033506336,
+            "version": 1,
+            "timestamp": "2016-02-29T19:34:13Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0590808,
+            "lon": 11.2500776
+        },
+        {
+            "type": "node",
+            "id": 293670804,
+            "version": 5,
+            "timestamp": "2016-02-29T19:34:36Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.059102,
+            "lon": 11.2500935
+        },
+        {
+            "type": "node",
+            "id": 4033506337,
+            "version": 1,
+            "timestamp": "2016-02-29T19:34:13Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0591257,
+            "lon": 11.2500986
+        },
+        {
+            "type": "node",
+            "id": 4033506339,
+            "version": 1,
+            "timestamp": "2016-02-29T19:34:13Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0591493,
+            "lon": 11.2500922
+        },
+        {
+            "type": "node",
+            "id": 4033506340,
+            "version": 1,
+            "timestamp": "2016-02-29T19:34:13Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0591701,
+            "lon": 11.2500751
+        },
+        {
+            "type": "node",
+            "id": 4033506341,
+            "version": 1,
+            "timestamp": "2016-02-29T19:34:13Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0591858,
+            "lon": 11.250049
+        },
+        {
+            "type": "node",
+            "id": 4033506343,
+            "version": 1,
+            "timestamp": "2016-02-29T19:34:13Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0591948,
+            "lon": 11.250017
+        },
+        {
+            "type": "node",
+            "id": 4033506344,
+            "version": 1,
+            "timestamp": "2016-02-29T19:34:13Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0591997,
+            "lon": 11.2499584
+        },
+        {
+            "type": "node",
+            "id": 293670805,
+            "version": 5,
+            "timestamp": "2016-02-29T19:34:36Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0591724,
+            "lon": 11.2499336
+        },
+        {
+            "type": "node",
+            "id": 293670806,
+            "version": 5,
+            "timestamp": "2016-02-29T19:34:36Z",
+            "changeset": 37528619,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0593345,
+            "lon": 11.2497161
+        },
+        {
+            "type": "node",
+            "id": 293652175,
+            "version": 1,
+            "timestamp": "2008-09-04T13:42:23Z",
+            "changeset": 528510,
+            "uid": 34460,
+            "user": "moretto",
+            "tags": {
+                "amenity": "cafe",
+                "created_by": "JOSM"
+            },
+            "lat": 46.0617389,
+            "lon": 11.2376065
+        },
+        {
+            "type": "node",
+            "id": 482849666,
+            "version": 1,
+            "timestamp": "2009-09-04T09:19:24Z",
+            "changeset": 2367243,
+            "uid": 153438,
+            "user": "Emos62",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Cristallo"
+            },
+            "lat": 46.0618088,
+            "lon": 11.2417648
+        },
+        {
+            "type": "node",
+            "id": 2853936059,
+            "version": 2,
+            "timestamp": "2021-02-17T21:54:15Z",
+            "changeset": 99479091,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:country": "IT",
+                "addr:housenumber": "5/G",
+                "addr:postcode": "38057",
+                "addr:street": "Piazza Garibaldi",
+                "amenity": "bar",
+                "contact:mobile": "+39 348 5697713",
+                "name": "Cafè Teatro",
+                "operator": "Matisse S.R.L.",
+                "ref:vatin": "IT02304630227"
+            },
+            "lat": 46.0622048,
+            "lon": 11.2390215
+        },
+        {
+            "type": "node",
+            "id": 4455036997,
+            "version": 1,
+            "timestamp": "2016-10-19T13:07:52Z",
+            "changeset": 43008239,
+            "uid": 4713246,
+            "user": "terzaaasu",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Valsugana"
+            },
+            "lat": 46.0631063,
+            "lon": 11.2336304
+        },
+        {
+            "type": "node",
+            "id": 317916380,
+            "version": 1,
+            "timestamp": "2008-12-11T10:30:48Z",
+            "changeset": 313609,
+            "uid": 34460,
+            "user": "moretto",
+            "tags": {
+                "amenity": "cafe",
+                "created_by": "JOSM",
+                "name": "Bar Commercio"
+            },
+            "lat": 46.0625425,
+            "lon": 11.2428875
+        },
+        {
+            "type": "node",
+            "id": 3951262745,
+            "version": 1,
+            "timestamp": "2016-01-17T08:01:35Z",
+            "changeset": 36628879,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:country": "IT",
+                "addr:housenumber": "35",
+                "addr:postcode": "38057",
+                "addr:street": "Via Cesare Battisti Marcadel",
+                "amenity": "cafe",
+                "name": "Perchè Bar"
+            },
+            "lat": 46.0620499,
+            "lon": 11.2432933
+        },
+        {
+            "type": "node",
+            "id": 3952821557,
+            "version": 1,
+            "timestamp": "2016-01-17T23:37:31Z",
+            "changeset": 36645406,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "addr:city": "Pergine Valsugana",
+                "addr:country": "IT",
+                "addr:housenumber": "18",
+                "addr:postcode": "38057",
+                "addr:street": "Via Volpare",
+                "amenity": "ice_cream",
+                "name": "Diciotto Dodici"
+            },
+            "lat": 46.0627098,
+            "lon": 11.2420518
+        },
+        {
+            "type": "way",
+            "id": 275606673,
+            "version": 2,
+            "timestamp": "2016-11-29T18:37:18Z",
+            "changeset": 44041030,
+            "uid": 74765,
+            "user": "dizzу",
+            "tags": {
+                "amenity": "bar",
+                "building": "yes",
+                "name": "Bar Tennis"
+            },
+            "nodes": [
+                2802428482,
+                2802428491,
+                2802428487,
+                2802428479,
+                2802428482
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2802428482,
+            "version": 1,
+            "timestamp": "2014-04-19T23:10:31Z",
+            "changeset": 21807732,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0631368,
+            "lon": 11.2386875
+        },
+        {
+            "type": "node",
+            "id": 2802428491,
+            "version": 1,
+            "timestamp": "2014-04-19T23:10:32Z",
+            "changeset": 21807732,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0632493,
+            "lon": 11.2389824
+        },
+        {
+            "type": "node",
+            "id": 2802428487,
+            "version": 1,
+            "timestamp": "2014-04-19T23:10:31Z",
+            "changeset": 21807732,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0631777,
+            "lon": 11.2390391
+        },
+        {
+            "type": "node",
+            "id": 2802428479,
+            "version": 1,
+            "timestamp": "2014-04-19T23:10:31Z",
+            "changeset": 21807732,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0630652,
+            "lon": 11.2387442
+        }
+    ]
+}

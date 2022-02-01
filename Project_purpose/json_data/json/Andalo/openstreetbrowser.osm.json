@@ -1,0 +1,132 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2364540524,
+            "version": 2,
+            "timestamp": "2018-07-30T20:26:04Z",
+            "changeset": 61207453,
+            "uid": 968515,
+            "user": "jbelien",
+            "tags": {
+                "addr:city": "Andalo",
+                "addr:housenumber": "4",
+                "addr:postcode": "38010",
+                "addr:street": "Via Ponte Lambin",
+                "amenity": "restaurant",
+                "contact:email": "info@lacucinadifilippo.com",
+                "contact:facebook": "https://www.facebook.com/bistrotdolomieu/",
+                "contact:website": "https://www.lacucinadifilippo.com/",
+                "cuisine": "pizza",
+                "name": "Bistrot Dolomieu"
+            },
+            "lat": 46.1645327,
+            "lon": 11.0028361
+        },
+        {
+            "type": "node",
+            "id": 2364540528,
+            "version": 2,
+            "timestamp": "2018-08-08T22:03:13Z",
+            "changeset": 61482146,
+            "uid": 4705730,
+            "user": "AnisKoutsi",
+            "tags": {
+                "amenity": "bar",
+                "name": "Caffè Centrale",
+                "outdoor_seating": "yes",
+                "smoking": "outside"
+            },
+            "lat": 46.1646476,
+            "lon": 11.0033829
+        },
+        {
+            "type": "node",
+            "id": 2364540527,
+            "version": 1,
+            "timestamp": "2013-06-28T15:17:34Z",
+            "changeset": 16740978,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar BO"
+            },
+            "lat": 46.1647583,
+            "lon": 11.0037291
+        },
+        {
+            "type": "node",
+            "id": 3996897857,
+            "version": 1,
+            "timestamp": "2016-02-09T08:59:20Z",
+            "changeset": 37096511,
+            "uid": 646083,
+            "user": "freak_antoni",
+            "tags": {
+                "addr:housenumber": "13/b",
+                "addr:street": "Via Trento",
+                "amenity": "bar",
+                "name": "Dolci Note",
+                "phone": "+39 046 1585383"
+            },
+            "lat": 46.1675851,
+            "lon": 11.0041486
+        },
+        {
+            "type": "node",
+            "id": 2364540531,
+            "version": 2,
+            "timestamp": "2018-08-08T22:03:13Z",
+            "changeset": 61482146,
+            "uid": 4705730,
+            "user": "AnisKoutsi",
+            "tags": {
+                "amenity": "bar",
+                "name": "La Stua",
+                "outdoor_seating": "yes",
+                "smoking": "outside"
+            },
+            "lat": 46.1641285,
+            "lon": 11.0023687
+        },
+        {
+            "type": "node",
+            "id": 2364540529,
+            "version": 3,
+            "timestamp": "2021-09-07T21:07:52Z",
+            "changeset": 110879662,
+            "uid": 351361,
+            "user": "dvdzero",
+            "tags": {
+                "addr:city": "Andalo",
+                "addr:country": "IT",
+                "addr:housenumber": "1",
+                "addr:postcode": "38010",
+                "addr:street": "Via Piz Galin",
+                "amenity": "bar",
+                "name": "Caffè Vienna",
+                "outdoor_seating": "yes"
+            },
+            "lat": 46.1642792,
+            "lon": 11.0035753
+        },
+        {
+            "type": "node",
+            "id": 7862177931,
+            "version": 1,
+            "timestamp": "2020-08-31T15:32:25Z",
+            "changeset": 90199901,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "amenity": "pub",
+                "name": "Tower Pub"
+            },
+            "lat": 46.1636349,
+            "lon": 11.0036213
+        }
+    ]
+}

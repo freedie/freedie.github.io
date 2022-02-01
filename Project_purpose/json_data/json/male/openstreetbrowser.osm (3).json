@@ -1,0 +1,295 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1100567055,
+            "version": 3,
+            "timestamp": "2017-10-21T14:50:47Z",
+            "changeset": 53130073,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Malé",
+                "addr:country": "IT",
+                "addr:housenumber": "16",
+                "addr:postcode": "38027",
+                "addr:street": "Via IV Novembre",
+                "amenity": "bar",
+                "name": "Cevedale",
+                "operator": "La Rocca di Zorzi Fabio",
+                "ref:vatin": "IT01542870223"
+            },
+            "lat": 46.3501094,
+            "lon": 10.9094855
+        },
+        {
+            "type": "node",
+            "id": 6341344169,
+            "version": 3,
+            "timestamp": "2021-09-22T15:13:46Z",
+            "changeset": 111548597,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Malè",
+                "addr:country": "IT",
+                "addr:housenumber": "3",
+                "addr:postcode": "38027",
+                "addr:street": "Zona Commerciale",
+                "amenity": "restaurant",
+                "contact:phone": "+39 0463 901282",
+                "cuisine": "italian;pizza",
+                "name": "L'Olimpo",
+                "operator": "LEM S.n.c. di Marinolli Enrico & C.",
+                "outdoor_seating": "yes",
+                "ref:vatin": "IT01232400224"
+            },
+            "lat": 46.3485537,
+            "lon": 10.9095281
+        },
+        {
+            "type": "node",
+            "id": 622616647,
+            "version": 2,
+            "timestamp": "2011-01-11T19:48:41Z",
+            "changeset": 6940616,
+            "uid": 1987,
+            "user": "niubii",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Pasticceria Verginello"
+            },
+            "lat": 46.3514979,
+            "lon": 10.9115088
+        },
+        {
+            "type": "node",
+            "id": 4394168358,
+            "version": 2,
+            "timestamp": "2017-10-21T14:50:48Z",
+            "changeset": 53130073,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Malé",
+                "addr:country": "IT",
+                "addr:housenumber": "36",
+                "addr:postcode": "38027",
+                "addr:street": "Via Brescia",
+                "amenity": "restaurant",
+                "contact:phone": "+39 0463 901281",
+                "name": "Caminetto",
+                "operator": "Caminetto S.a.s. di Pretti Leo & C.",
+                "ref:vatin": "IT01951560224"
+            },
+            "lat": 46.3517077,
+            "lon": 10.911614
+        },
+        {
+            "type": "node",
+            "id": 335596730,
+            "version": 2,
+            "timestamp": "2011-01-12T20:44:31Z",
+            "changeset": 6951438,
+            "uid": 1987,
+            "user": "niubii",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "name": "El Barba"
+            },
+            "lat": 46.3525109,
+            "lon": 10.9126505
+        },
+        {
+            "type": "node",
+            "id": 622616653,
+            "version": 3,
+            "timestamp": "2016-09-09T21:53:29Z",
+            "changeset": 42048369,
+            "uid": 351361,
+            "user": "dvdzero",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.3522903,
+            "lon": 10.9131789
+        },
+        {
+            "type": "node",
+            "id": 1100567585,
+            "version": 3,
+            "timestamp": "2018-04-18T10:25:43Z",
+            "changeset": 58195615,
+            "uid": 1987,
+            "user": "niubii",
+            "tags": {
+                "addr:city": "Malé",
+                "addr:country": "IT",
+                "addr:housenumber": "3",
+                "addr:postcode": "38027",
+                "addr:street": "Piazza Santa Maria Assunta",
+                "amenity": "cafe",
+                "name": "Pasticceria Roma",
+                "operator": "Caffè Roma S.N.C. di P. Massimo e C.",
+                "ref:vatin": "IT01577490228"
+            },
+            "lat": 46.3525353,
+            "lon": 10.912441
+        },
+        {
+            "type": "node",
+            "id": 4356605691,
+            "version": 2,
+            "timestamp": "2017-10-21T14:50:47Z",
+            "changeset": 53130073,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Vecchia Canonica"
+            },
+            "lat": 46.351222,
+            "lon": 10.9123086
+        },
+        {
+            "type": "node",
+            "id": 4394168359,
+            "version": 2,
+            "timestamp": "2021-05-01T00:10:25Z",
+            "changeset": 103939220,
+            "uid": 13216822,
+            "user": "Daniele Lampis1980",
+            "tags": {
+                "addr:city": "Malé",
+                "addr:housenumber": "3",
+                "addr:postcode": "38027",
+                "addr:street": "Piazza Regina Elena",
+                "addr:unit": "1",
+                "amenity": "ice_cream",
+                "name": "Gala Ice Cream Gelateria",
+                "opening_hours": "Mo-Su 10:00-22:00",
+                "opening_hours:covid19": "open",
+                "outdoor_seating": "no",
+                "wheelchair": "yes"
+            },
+            "lat": 46.3522252,
+            "lon": 10.9133535
+        },
+        {
+            "type": "node",
+            "id": 614841366,
+            "version": 5,
+            "timestamp": "2020-11-25T15:24:59Z",
+            "changeset": 94784593,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Malé",
+                "addr:housenumber": "59",
+                "addr:postcode": "38027",
+                "addr:street": "Via Trento",
+                "amenity": "restaurant",
+                "contact:email": "info@segosta.com",
+                "contact:fax": "+39 0463 900675",
+                "contact:phone": "+39 0463 901390",
+                "contact:website": "http://www.segosta.com/",
+                "cuisine": "regional",
+                "name": "La Segosta"
+            },
+            "lat": 46.354057,
+            "lon": 10.9135918
+        },
+        {
+            "type": "way",
+            "id": 229817069,
+            "version": 3,
+            "timestamp": "2020-11-24T19:10:13Z",
+            "changeset": 94725349,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes"
+            },
+            "nodes": [
+                2383613063,
+                2383613062,
+                8160902225,
+                8160902226,
+                2383613064,
+                2383613065,
+                2383613063
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2383613063,
+            "version": 3,
+            "timestamp": "2020-11-24T19:10:13Z",
+            "changeset": 94725349,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.3495597,
+            "lon": 10.9226143
+        },
+        {
+            "type": "node",
+            "id": 2383613062,
+            "version": 3,
+            "timestamp": "2020-11-24T19:10:13Z",
+            "changeset": 94725349,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.3494571,
+            "lon": 10.9227873
+        },
+        {
+            "type": "node",
+            "id": 8160902225,
+            "version": 1,
+            "timestamp": "2020-11-24T19:10:13Z",
+            "changeset": 94725349,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.3495904,
+            "lon": 10.9229531
+        },
+        {
+            "type": "node",
+            "id": 8160902226,
+            "version": 1,
+            "timestamp": "2020-11-24T19:10:13Z",
+            "changeset": 94725349,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.3496249,
+            "lon": 10.9228949
+        },
+        {
+            "type": "node",
+            "id": 2383613064,
+            "version": 3,
+            "timestamp": "2020-11-24T19:10:13Z",
+            "changeset": 94725349,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.3496435,
+            "lon": 10.9229181
+        },
+        {
+            "type": "node",
+            "id": 2383613065,
+            "version": 3,
+            "timestamp": "2020-11-24T19:10:13Z",
+            "changeset": 94725349,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.3497115,
+            "lon": 10.9228033
+        }
+    ]
+}

@@ -1,0 +1,373 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 915652265,
+            "version": 4,
+            "timestamp": "2014-04-12T19:34:37Z",
+            "changeset": 21652391,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Ristorante alla Staffa",
+                "phone": "+39 0464 431339",
+                "wheelchair": "yes"
+            },
+            "lat": 45.8725589,
+            "lon": 11.0243076
+        },
+        {
+            "type": "node",
+            "id": 417856704,
+            "version": 3,
+            "timestamp": "2013-11-13T21:43:10Z",
+            "changeset": 18882500,
+            "uid": 524500,
+            "user": "wheelmap_android",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzeria Botti",
+                "wheelchair": "yes"
+            },
+            "lat": 45.8751426,
+            "lon": 11.0335673
+        },
+        {
+            "type": "node",
+            "id": 445562136,
+            "version": 5,
+            "timestamp": "2010-07-21T20:08:32Z",
+            "changeset": 5281957,
+            "uid": 76312,
+            "user": "scratera",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Pizzeria Okay"
+            },
+            "lat": 45.8748472,
+            "lon": 11.033247
+        },
+        {
+            "type": "node",
+            "id": 2150998976,
+            "version": 3,
+            "timestamp": "2018-12-27T09:36:54Z",
+            "changeset": 65806591,
+            "uid": 4533749,
+            "user": "inbitcoin",
+            "tags": {
+                "amenity": "pub",
+                "currency:XBT": "yes",
+                "name": "Druido",
+                "payment:bitcoin": "yes",
+                "payment:bitcoin:operator": "inbitcoin.it",
+                "wheelchair": "yes",
+                "wifi": "no"
+            },
+            "lat": 45.8753579,
+            "lon": 11.0334383
+        },
+        {
+            "type": "way",
+            "id": 724615063,
+            "version": 4,
+            "timestamp": "2021-08-18T08:25:42Z",
+            "changeset": 109857674,
+            "uid": 11449631,
+            "user": "SimoGine",
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:country": "IT",
+                "addr:housenumber": "145",
+                "addr:postcode": "38068",
+                "addr:street": "Via Brennero",
+                "amenity": "restaurant",
+                "brand": "Roadhouse",
+                "brand:wikidata": "Q7339591",
+                "brand:wikipedia": "it:Roadhouse Grill",
+                "building": "yes",
+                "cuisine": "steak_house",
+                "name": "Roadhouse",
+                "opening_hours": "12:00-15:00,18:30-23:30",
+                "operator": "Gruppo Cremonini",
+                "phone": "+39 0461 825493",
+                "smoking": "no",
+                "website": "https://www.roadhouse.it/",
+                "wheelchair": "yes"
+            },
+            "nodes": [
+                6795827263,
+                6795827262,
+                6795827261,
+                6795827260,
+                6795827263
+            ]
+        },
+        {
+            "type": "node",
+            "id": 6795827263,
+            "version": 1,
+            "timestamp": "2019-09-14T19:30:21Z",
+            "changeset": 74482764,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.8733441,
+            "lon": 11.0308277
+        },
+        {
+            "type": "node",
+            "id": 6795827262,
+            "version": 1,
+            "timestamp": "2019-09-14T19:30:21Z",
+            "changeset": 74482764,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.8732403,
+            "lon": 11.0311102
+        },
+        {
+            "type": "node",
+            "id": 6795827261,
+            "version": 1,
+            "timestamp": "2019-09-14T19:30:21Z",
+            "changeset": 74482764,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.8730668,
+            "lon": 11.0309786
+        },
+        {
+            "type": "node",
+            "id": 6795827260,
+            "version": 1,
+            "timestamp": "2019-09-14T19:30:21Z",
+            "changeset": 74482764,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.8731706,
+            "lon": 11.0306961
+        },
+        {
+            "type": "node",
+            "id": 6091712990,
+            "version": 2,
+            "timestamp": "2020-12-01T16:32:51Z",
+            "changeset": 95105374,
+            "uid": 76312,
+            "user": "scratera",
+            "tags": {
+                "addr:housenumber": "50",
+                "addr:street": "Via Benacense",
+                "amenity": "cafe",
+                "door": "sliding",
+                "entrance": "yes",
+                "name": "Buonissimo",
+                "operator": "Conad",
+                "wheelchair": "yes"
+            },
+            "lat": 45.8782009,
+            "lon": 11.0337639
+        },
+        {
+            "type": "way",
+            "id": 557813326,
+            "version": 9,
+            "timestamp": "2021-02-25T00:12:06Z",
+            "changeset": 99935365,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:country": "IT",
+                "addr:housenumber": "7/A",
+                "addr:postcode": "38068",
+                "addr:street": "Via delle Zigherane",
+                "amenity": "restaurant",
+                "building": "roof",
+                "building:levels": "2",
+                "building:part": "yes",
+                "layer": "1",
+                "name": "Bici Grill Rovereto",
+                "opening_hours": "07:30-23:45",
+                "outdoor_seating": "yes",
+                "phone": "+39-0464-357905",
+                "roof:levels": "2",
+                "roof:shape": "flat",
+                "wheelchair": "yes"
+            },
+            "nodes": [
+                5377621619,
+                5509022371,
+                8455747713,
+                5377621618,
+                8455747714,
+                5509022372,
+                550502470,
+                8455715550,
+                5377621619
+            ]
+        },
+        {
+            "type": "node",
+            "id": 5377621619,
+            "version": 4,
+            "timestamp": "2021-02-25T00:12:06Z",
+            "changeset": 99935365,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8805376,
+            "lon": 11.0218399
+        },
+        {
+            "type": "node",
+            "id": 5509022371,
+            "version": 2,
+            "timestamp": "2021-02-24T23:46:26Z",
+            "changeset": 99934907,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8804617,
+            "lon": 11.021572
+        },
+        {
+            "type": "node",
+            "id": 8455747713,
+            "version": 1,
+            "timestamp": "2021-02-24T23:46:26Z",
+            "changeset": 99934907,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8804233,
+            "lon": 11.02145
+        },
+        {
+            "type": "node",
+            "id": 5377621618,
+            "version": 4,
+            "timestamp": "2021-02-24T23:46:26Z",
+            "changeset": 99934907,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.880416,
+            "lon": 11.0214268
+        },
+        {
+            "type": "node",
+            "id": 8455747714,
+            "version": 1,
+            "timestamp": "2021-02-24T23:46:26Z",
+            "changeset": 99934907,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8802334,
+            "lon": 11.0215507
+        },
+        {
+            "type": "node",
+            "id": 5509022372,
+            "version": 2,
+            "timestamp": "2021-02-24T23:46:26Z",
+            "changeset": 99934907,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8803502,
+            "lon": 11.0216959
+        },
+        {
+            "type": "node",
+            "id": 550502470,
+            "version": 3,
+            "timestamp": "2021-02-25T00:12:06Z",
+            "changeset": 99935365,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8805105,
+            "lon": 11.021867
+        },
+        {
+            "type": "node",
+            "id": 8455715550,
+            "version": 1,
+            "timestamp": "2021-02-25T00:12:06Z",
+            "changeset": 99935365,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.8805157,
+            "lon": 11.0218609
+        },
+        {
+            "type": "way",
+            "id": 67153594,
+            "version": 4,
+            "timestamp": "2019-10-17T05:13:10Z",
+            "changeset": 75811492,
+            "uid": 719795,
+            "user": "drazde",
+            "tags": {
+                "addr:housenumber": "18A",
+                "addr:street": "Via Benacense",
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "italian",
+                "name": "Pizzeria Celeste",
+                "source": "PCN ortofoto_colore 2006 - autorizzazione 10687/TRI",
+                "wheelchair": "yes"
+            },
+            "nodes": [
+                811146986,
+                811146966,
+                811146958,
+                811146974,
+                811146986
+            ]
+        },
+        {
+            "type": "node",
+            "id": 811146986,
+            "version": 1,
+            "timestamp": "2010-07-11T09:51:06Z",
+            "changeset": 5188552,
+            "uid": 131722,
+            "user": "rovermtb",
+            "lat": 45.8808341,
+            "lon": 11.0368724
+        },
+        {
+            "type": "node",
+            "id": 811146966,
+            "version": 1,
+            "timestamp": "2010-07-11T09:51:05Z",
+            "changeset": 5188552,
+            "uid": 131722,
+            "user": "rovermtb",
+            "lat": 45.8807615,
+            "lon": 11.0370134
+        },
+        {
+            "type": "node",
+            "id": 811146958,
+            "version": 1,
+            "timestamp": "2010-07-11T09:51:05Z",
+            "changeset": 5188552,
+            "uid": 131722,
+            "user": "rovermtb",
+            "lat": 45.880881,
+            "lon": 11.0371402
+        },
+        {
+            "type": "node",
+            "id": 811146974,
+            "version": 1,
+            "timestamp": "2010-07-11T09:51:05Z",
+            "changeset": 5188552,
+            "uid": 131722,
+            "user": "rovermtb",
+            "lat": 45.8809535,
+            "lon": 11.0369992
+        }
+    ]
+}

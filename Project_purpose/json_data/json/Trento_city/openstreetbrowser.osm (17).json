@@ -1,0 +1,313 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 673740777,
+            "version": 4,
+            "timestamp": "2013-05-04T19:42:49Z",
+            "changeset": 15976181,
+            "uid": 7668,
+            "user": "Kiwi",
+            "tags": {
+                "amenity": "bar",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "Bar Locanda \"La Canonica\"",
+                "opening_hours": "6:30-24:00"
+            },
+            "lat": 46.0491789,
+            "lon": 11.1458103
+        },
+        {
+            "type": "node",
+            "id": 5059810665,
+            "version": 1,
+            "timestamp": "2017-08-26T09:15:37Z",
+            "changeset": 51453958,
+            "uid": 6548063,
+            "user": "piero64",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "gelateria"
+            },
+            "lat": 46.0489513,
+            "lon": 11.1456492
+        },
+        {
+            "type": "node",
+            "id": 434228670,
+            "version": 4,
+            "timestamp": "2012-05-25T10:17:57Z",
+            "changeset": 11697076,
+            "uid": 158826,
+            "user": "cquest",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.0485967,
+            "lon": 11.145905
+        },
+        {
+            "type": "node",
+            "id": 434228673,
+            "version": 4,
+            "timestamp": "2011-06-02T19:23:47Z",
+            "changeset": 8323463,
+            "uid": 152676,
+            "user": "pfranz",
+            "tags": {
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "name": "Pizzeria d'asporto"
+            },
+            "lat": 46.04874,
+            "lon": 11.1458178
+        },
+        {
+            "type": "node",
+            "id": 441414833,
+            "version": 7,
+            "timestamp": "2018-01-30T11:54:34Z",
+            "changeset": 55891226,
+            "uid": 152676,
+            "user": "pfranz",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "indian",
+                "cuisine_1": "pizza",
+                "name": "Ristorante Bar Pizzeria",
+                "takeaway": "yes"
+            },
+            "lat": 46.0474674,
+            "lon": 11.1451618
+        },
+        {
+            "type": "way",
+            "id": 137046871,
+            "version": 1,
+            "timestamp": "2011-11-14T21:16:44Z",
+            "changeset": 9829043,
+            "uid": 152676,
+            "user": "pfranz",
+            "tags": {
+                "amenity": "bar",
+                "building": "yes"
+            },
+            "nodes": [
+                1503407124,
+                1503407093,
+                1503407015,
+                1503407104,
+                1503407124
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1503407124,
+            "version": 2,
+            "timestamp": "2012-11-05T22:31:46Z",
+            "changeset": 13767166,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0464422,
+            "lon": 11.1513511
+        },
+        {
+            "type": "node",
+            "id": 1503407093,
+            "version": 2,
+            "timestamp": "2012-11-05T22:31:45Z",
+            "changeset": 13767166,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0463228,
+            "lon": 11.1513684
+        },
+        {
+            "type": "node",
+            "id": 1503407015,
+            "version": 2,
+            "timestamp": "2012-11-05T22:31:45Z",
+            "changeset": 13767166,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0463358,
+            "lon": 11.1515546
+        },
+        {
+            "type": "node",
+            "id": 1503407104,
+            "version": 2,
+            "timestamp": "2012-11-05T22:31:46Z",
+            "changeset": 13767166,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0464552,
+            "lon": 11.1515373
+        },
+        {
+            "type": "way",
+            "id": 37103877,
+            "version": 4,
+            "timestamp": "2011-06-16T01:28:23Z",
+            "changeset": 8452465,
+            "uid": 152676,
+            "user": "pfranz",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "italian",
+                "name": "Bar Ristorante \"alla Baracca\""
+            },
+            "nodes": [
+                431498979,
+                1327020957,
+                1327020968,
+                1327020955,
+                1327020973,
+                1327020965,
+                431498981,
+                1327020947,
+                431498982,
+                1327020975,
+                1327020977,
+                431498984,
+                431498979
+            ]
+        },
+        {
+            "type": "node",
+            "id": 431498979,
+            "version": 5,
+            "timestamp": "2011-06-16T01:28:25Z",
+            "changeset": 8452465,
+            "uid": 152676,
+            "user": "pfranz",
+            "lat": 46.0425229,
+            "lon": 11.1406928
+        },
+        {
+            "type": "node",
+            "id": 1327020957,
+            "version": 1,
+            "timestamp": "2011-06-16T01:28:21Z",
+            "changeset": 8452465,
+            "uid": 152676,
+            "user": "pfranz",
+            "lat": 46.0424883,
+            "lon": 11.1407563
+        },
+        {
+            "type": "node",
+            "id": 1327020968,
+            "version": 1,
+            "timestamp": "2011-06-16T01:28:22Z",
+            "changeset": 8452465,
+            "uid": 152676,
+            "user": "pfranz",
+            "lat": 46.0424876,
+            "lon": 11.1407574
+        },
+        {
+            "type": "node",
+            "id": 1327020955,
+            "version": 1,
+            "timestamp": "2011-06-16T01:28:21Z",
+            "changeset": 8452465,
+            "uid": 152676,
+            "user": "pfranz",
+            "lat": 46.0424123,
+            "lon": 11.1408749
+        },
+        {
+            "type": "node",
+            "id": 1327020973,
+            "version": 1,
+            "timestamp": "2011-06-16T01:28:22Z",
+            "changeset": 8452465,
+            "uid": 152676,
+            "user": "pfranz",
+            "lat": 46.0423927,
+            "lon": 11.1408602
+        },
+        {
+            "type": "node",
+            "id": 1327020965,
+            "version": 1,
+            "timestamp": "2011-06-16T01:28:22Z",
+            "changeset": 8452465,
+            "uid": 152676,
+            "user": "pfranz",
+            "lat": 46.0423425,
+            "lon": 11.1409517
+        },
+        {
+            "type": "node",
+            "id": 431498981,
+            "version": 5,
+            "timestamp": "2011-06-16T01:28:26Z",
+            "changeset": 8452465,
+            "uid": 152676,
+            "user": "pfranz",
+            "lat": 46.0423208,
+            "lon": 11.1409285
+        },
+        {
+            "type": "node",
+            "id": 1327020947,
+            "version": 1,
+            "timestamp": "2011-06-16T01:28:21Z",
+            "changeset": 8452465,
+            "uid": 152676,
+            "user": "pfranz",
+            "lat": 46.0422642,
+            "lon": 11.1410115
+        },
+        {
+            "type": "node",
+            "id": 431498982,
+            "version": 4,
+            "timestamp": "2011-06-16T01:28:28Z",
+            "changeset": 8452465,
+            "uid": 152676,
+            "user": "pfranz",
+            "lat": 46.0422421,
+            "lon": 11.1409873
+        },
+        {
+            "type": "node",
+            "id": 1327020975,
+            "version": 1,
+            "timestamp": "2011-06-16T01:28:22Z",
+            "changeset": 8452465,
+            "uid": 152676,
+            "user": "pfranz",
+            "lat": 46.0423371,
+            "lon": 11.1408162
+        },
+        {
+            "type": "node",
+            "id": 1327020977,
+            "version": 1,
+            "timestamp": "2011-06-16T01:28:22Z",
+            "changeset": 8452465,
+            "uid": 152676,
+            "user": "pfranz",
+            "lat": 46.0423888,
+            "lon": 11.1407281
+        },
+        {
+            "type": "node",
+            "id": 431498984,
+            "version": 4,
+            "timestamp": "2011-06-16T01:28:26Z",
+            "changeset": 8452465,
+            "uid": 152676,
+            "user": "pfranz",
+            "lat": 46.0424756,
+            "lon": 11.1406286
+        }
+    ]
+}

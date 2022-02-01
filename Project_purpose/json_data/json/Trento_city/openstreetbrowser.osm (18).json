@@ -1,0 +1,422 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 428644278,
+            "version": 4,
+            "timestamp": "2016-02-25T08:44:51Z",
+            "changeset": 37430125,
+            "uid": 2989160,
+            "user": "Marco Ciama",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "62",
+                "addr:postcode": "38122",
+                "addr:street": "Via Gocciadoro",
+                "amenity": "restaurant",
+                "capacity": "100",
+                "cuisine": "italian",
+                "name": "Ristorante Loto S.r.l.",
+                "smoking": "separated"
+            },
+            "lat": 46.0560043,
+            "lon": 11.1314732
+        },
+        {
+            "type": "node",
+            "id": 430531035,
+            "version": 4,
+            "timestamp": "2012-04-07T22:42:49Z",
+            "changeset": 11219504,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "73",
+                "addr:postcode": "38123",
+                "addr:street": "Viale Verona",
+                "amenity": "restaurant",
+                "contact:phone": "+39 0461 910076",
+                "cuisine": "pizza",
+                "name": "Blue Sax",
+                "opening_hours": "Su Off",
+                "operator": "MAGA S.R.L.",
+                "ref:vatin": "IT00668940224"
+            },
+            "lat": 46.0563197,
+            "lon": 11.1287617
+        },
+        {
+            "type": "node",
+            "id": 563415898,
+            "version": 4,
+            "timestamp": "2016-10-13T17:41:31Z",
+            "changeset": 42876145,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "name": "Green Bar"
+            },
+            "lat": 46.0564897,
+            "lon": 11.1306784
+        },
+        {
+            "type": "node",
+            "id": 643873322,
+            "version": 6,
+            "timestamp": "2021-08-31T22:08:06Z",
+            "changeset": 110534170,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "5",
+                "addr:postcode": "38122",
+                "addr:street": "Via Gorizia",
+                "amenity": "fast_food",
+                "contact:facebook": "https://www.facebook.com/Pizzeria-Bella-Italia-Trento-160180827381662",
+                "contact:mobile": "+39 346 0050948",
+                "contact:phone": "+39 0461 931663",
+                "contact:website": "http://bellaitalia-trento.it",
+                "cuisine": "kebab;pizza",
+                "name": "Pizzeria Bella Italia",
+                "opening_hours": "Mo-Su 11:00-14:30,17:30-22:30",
+                "operator": "PAKI s.a.s.",
+                "payment:meal_voucher": "yes",
+                "ref:vatin": "IT02377600222"
+            },
+            "lat": 46.0584238,
+            "lon": 11.1305324
+        },
+        {
+            "type": "node",
+            "id": 4195070620,
+            "version": 3,
+            "timestamp": "2019-05-16T20:54:53Z",
+            "changeset": 70335403,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "18",
+                "addr:postcode": "38122",
+                "addr:street": "Via Gorizia",
+                "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/socialstone/",
+                "contact:phone": "+39 0461 1975651",
+                "contact:website": "www.thesocialstone.net",
+                "cuisine": "italian",
+                "internet_access": "no",
+                "name": "Keecomm - The Social Stone",
+                "smoking": "no"
+            },
+            "lat": 46.0588838,
+            "lon": 11.1309965
+        },
+        {
+            "type": "node",
+            "id": 4497466477,
+            "version": 1,
+            "timestamp": "2016-11-12T21:26:43Z",
+            "changeset": 43590441,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "name": "La Tana del Ghiro"
+            },
+            "lat": 46.0576074,
+            "lon": 11.1303695
+        },
+        {
+            "type": "node",
+            "id": 2197903908,
+            "version": 3,
+            "timestamp": "2021-09-23T17:43:33Z",
+            "changeset": 111610144,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "53",
+                "addr:postcode": "38122",
+                "addr:street": "Via dei Mille",
+                "amenity": "fast_food",
+                "name": "Bar dei Mille"
+            },
+            "lat": 46.0616312,
+            "lon": 11.129359
+        },
+        {
+            "type": "node",
+            "id": 544348561,
+            "version": 3,
+            "timestamp": "2016-10-12T21:57:37Z",
+            "changeset": 42841728,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar International"
+            },
+            "lat": 46.0614845,
+            "lon": 11.1336425
+        },
+        {
+            "type": "node",
+            "id": 544348562,
+            "version": 2,
+            "timestamp": "2010-07-09T21:29:19Z",
+            "changeset": 5177278,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar G91"
+            },
+            "lat": 46.0618195,
+            "lon": 11.1343047
+        },
+        {
+            "type": "node",
+            "id": 427941701,
+            "version": 8,
+            "timestamp": "2021-09-08T09:40:38Z",
+            "changeset": 110906658,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:postcode": "38122",
+                "addr:street": "Largo Medaglie d'Oro",
+                "amenity": "cafe",
+                "name": "Blu Bar"
+            },
+            "lat": 46.0579685,
+            "lon": 11.1325256
+        },
+        {
+            "type": "node",
+            "id": 1311009225,
+            "version": 2,
+            "timestamp": "2018-05-12T09:42:00Z",
+            "changeset": 58898236,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:postcode": "38122",
+                "addr:street": "Largo Medaglie d'Oro",
+                "amenity": "cafe",
+                "name": "Medaglie d'Oro"
+            },
+            "lat": 46.0577322,
+            "lon": 11.1323908
+        },
+        {
+            "type": "node",
+            "id": 2150444589,
+            "version": 4,
+            "timestamp": "2018-06-08T10:06:03Z",
+            "changeset": 59663851,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "7",
+                "addr:postcode": "38122",
+                "addr:street": "via Paolo Orsi",
+                "amenity": "cafe",
+                "name": "27 bar",
+                "operator": "Matteo Cortelletti",
+                "ref:vatin": "IT02296370220"
+            },
+            "lat": 46.0575111,
+            "lon": 11.1322571
+        },
+        {
+            "type": "node",
+            "id": 2197903913,
+            "version": 3,
+            "timestamp": "2017-09-20T10:37:29Z",
+            "changeset": 52206770,
+            "uid": 6678525,
+            "user": "danielezotta",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "7",
+                "addr:postcode": "38122",
+                "addr:street": "Via Giuseppe Gerola",
+                "amenity": "cafe",
+                "name": "Minibar"
+            },
+            "lat": 46.0581808,
+            "lon": 11.1328529
+        },
+        {
+            "type": "node",
+            "id": 4160534189,
+            "version": 1,
+            "timestamp": "2016-05-02T06:46:19Z",
+            "changeset": 39030950,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "name": "Montecarlo Caffè"
+            },
+            "lat": 46.057438,
+            "lon": 11.1350392
+        },
+        {
+            "type": "node",
+            "id": 432473109,
+            "version": 7,
+            "timestamp": "2016-12-29T23:01:17Z",
+            "changeset": 44771195,
+            "uid": 4920745,
+            "user": "Denis Pislaru",
+            "tags": {
+                "addr:housenumber": "148",
+                "addr:street": "Via Milano",
+                "alt_name": "Bavarese",
+                "amenity": "restaurant",
+                "contact:email": "info@doctrento.it",
+                "contact:fax": "+39 0461 223120",
+                "contact:phone": "+39 0461 262022",
+                "contact:website": "http://www.doctrento.it",
+                "cuisine": "pizza;regional;breakfast;coffee_shop;bavarian;italian;italian_pizza;local;german;friture;seafood;ice_cream;pasta;chicken;sausage;cake;tea",
+                "internet_access": "wlan",
+                "name": "Ristorante Pizzeria Doc",
+                "opening_hours": "Mo-Fr 08:30-14:30, 18:00-00:00; Sa-Su 17:00-00:00",
+                "operator": "Santoni Adam",
+                "ref:vatin": "IT02087800229"
+            },
+            "lat": 46.0635732,
+            "lon": 11.1310495
+        },
+        {
+            "type": "node",
+            "id": 432473110,
+            "version": 2,
+            "timestamp": "2010-07-07T21:51:59Z",
+            "changeset": 5162280,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.0631918,
+            "lon": 11.131557
+        },
+        {
+            "type": "node",
+            "id": 544348558,
+            "version": 5,
+            "timestamp": "2012-05-25T10:17:57Z",
+            "changeset": 11697076,
+            "uid": 158826,
+            "user": "cquest",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.0641865,
+            "lon": 11.1304078
+        },
+        {
+            "type": "node",
+            "id": 1264896532,
+            "version": 4,
+            "timestamp": "2016-12-16T20:13:58Z",
+            "changeset": 44455923,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "59",
+                "addr:postcode": "38122",
+                "addr:street": "Via Milano",
+                "amenity": "bar",
+                "name": "Bar Style"
+            },
+            "lat": 46.0637987,
+            "lon": 11.130906
+        },
+        {
+            "type": "node",
+            "id": 1264896580,
+            "version": 6,
+            "timestamp": "2017-10-01T19:11:09Z",
+            "changeset": 52545334,
+            "uid": 20610,
+            "user": "napo",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "24",
+                "addr:postcode": "38122",
+                "addr:street": "Via San Bernardino",
+                "amenity": "fast_food",
+                "contact:email": "pizzaepizzainfo@yahoo.it",
+                "contact:mobile": "+39 320 3588262",
+                "contact:phone": "+39 0461 262095",
+                "contact:website": "http://pizzaepizza.altervista.org",
+                "cuisine": "pizza",
+                "name": "Pizza & Pizza",
+                "opening_hours": "Mo-Fr 11:30-14:30,18:00-22:00; Sa,Su 18:00-22:00",
+                "operator": "Plaku Tomor",
+                "ref:vatin": "IT02144260227"
+            },
+            "lat": 46.0638644,
+            "lon": 11.1306056
+        },
+        {
+            "type": "node",
+            "id": 544348560,
+            "version": 4,
+            "timestamp": "2010-09-13T12:46:37Z",
+            "changeset": 5769354,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "25",
+                "addr:postcode": "38122",
+                "addr:street": "Viale Trieste",
+                "amenity": "bar",
+                "name": "Dorian Gray"
+            },
+            "lat": 46.0649589,
+            "lon": 11.135579
+        },
+        {
+            "type": "node",
+            "id": 1559090540,
+            "version": 3,
+            "timestamp": "2014-11-04T09:19:07Z",
+            "changeset": 26544147,
+            "uid": 126598,
+            "user": "Matteo Quatrida",
+            "tags": {
+                "amenity": "cafe",
+                "level": "1",
+                "name": "Bar di Ingegneria"
+            },
+            "lat": 46.0644262,
+            "lon": 11.1389063
+        }
+    ]
+}

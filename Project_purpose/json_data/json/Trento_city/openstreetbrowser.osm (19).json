@@ -1,0 +1,189 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 3318400861,
+            "version": 5,
+            "timestamp": "2020-03-17T15:41:29Z",
+            "changeset": 82309014,
+            "uid": 478872,
+            "user": "mcheck",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "33",
+                "addr:postcode": "38123",
+                "addr:street": "Via Padre Eusebio Chini",
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizza Planet",
+                "phone": "+39 0461 390836"
+            },
+            "lat": 46.0533723,
+            "lon": 11.1319896
+        },
+        {
+            "type": "node",
+            "id": 427836296,
+            "version": 7,
+            "timestamp": "2017-08-30T12:58:16Z",
+            "changeset": 51577852,
+            "uid": 6548063,
+            "user": "piero64",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Terzo Tempo",
+                "outdoor_seating": "yes"
+            },
+            "lat": 46.0517348,
+            "lon": 11.1438434
+        },
+        {
+            "type": "node",
+            "id": 427963784,
+            "version": 2,
+            "timestamp": "2009-06-24T12:18:46Z",
+            "changeset": 1610349,
+            "uid": 136835,
+            "user": "user_136835",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.0467443,
+            "lon": 11.1308334
+        },
+        {
+            "type": "node",
+            "id": 2502929449,
+            "version": 2,
+            "timestamp": "2016-05-23T17:28:15Z",
+            "changeset": 39507212,
+            "uid": 290680,
+            "user": "wheelmap_visitor",
+            "tags": {
+                "amenity": "bar",
+                "name": "UniBAR",
+                "wheelchair": "yes"
+            },
+            "lat": 46.0472455,
+            "lon": 11.1330047
+        },
+        {
+            "type": "node",
+            "id": 1934061227,
+            "version": 3,
+            "timestamp": "2016-05-23T17:29:02Z",
+            "changeset": 39507212,
+            "uid": 290680,
+            "user": "wheelmap_visitor",
+            "tags": {
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "wheelchair": "limited"
+            },
+            "lat": 46.0497723,
+            "lon": 11.1313576
+        },
+        {
+            "type": "node",
+            "id": 3250914386,
+            "version": 2,
+            "timestamp": "2016-05-23T17:29:08Z",
+            "changeset": 39507212,
+            "uid": 290680,
+            "user": "wheelmap_visitor",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:housenumber": "4",
+                "addr:street": "Viale degli Olmi",
+                "amenity": "pub",
+                "name": "Flambard Pub",
+                "wheelchair": "limited"
+            },
+            "lat": 46.049569,
+            "lon": 11.1314005
+        },
+        {
+            "type": "node",
+            "id": 673740777,
+            "version": 4,
+            "timestamp": "2013-05-04T19:42:49Z",
+            "changeset": 15976181,
+            "uid": 7668,
+            "user": "Kiwi",
+            "tags": {
+                "amenity": "bar",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "Bar Locanda \"La Canonica\"",
+                "opening_hours": "6:30-24:00"
+            },
+            "lat": 46.0491789,
+            "lon": 11.1458103
+        },
+        {
+            "type": "node",
+            "id": 5059810665,
+            "version": 1,
+            "timestamp": "2017-08-26T09:15:37Z",
+            "changeset": 51453958,
+            "uid": 6548063,
+            "user": "piero64",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "gelateria"
+            },
+            "lat": 46.0489513,
+            "lon": 11.1456492
+        },
+        {
+            "type": "node",
+            "id": 434228670,
+            "version": 4,
+            "timestamp": "2012-05-25T10:17:57Z",
+            "changeset": 11697076,
+            "uid": 158826,
+            "user": "cquest",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.0485967,
+            "lon": 11.145905
+        },
+        {
+            "type": "node",
+            "id": 434228673,
+            "version": 4,
+            "timestamp": "2011-06-02T19:23:47Z",
+            "changeset": 8323463,
+            "uid": 152676,
+            "user": "pfranz",
+            "tags": {
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "name": "Pizzeria d'asporto"
+            },
+            "lat": 46.04874,
+            "lon": 11.1458178
+        },
+        {
+            "type": "node",
+            "id": 441414833,
+            "version": 7,
+            "timestamp": "2018-01-30T11:54:34Z",
+            "changeset": 55891226,
+            "uid": 152676,
+            "user": "pfranz",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "indian",
+                "cuisine_1": "pizza",
+                "name": "Ristorante Bar Pizzeria",
+                "takeaway": "yes"
+            },
+            "lat": 46.0474674,
+            "lon": 11.1451618
+        }
+    ]
+}

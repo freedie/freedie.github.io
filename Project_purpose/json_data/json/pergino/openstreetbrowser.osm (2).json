@@ -1,0 +1,38 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 268421250,
+            "version": 8,
+            "timestamp": "2012-03-04T22:21:06Z",
+            "changeset": 10874709,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Ristorante Argentino ¨Sapori di Patagonia¨"
+            },
+            "lat": 46.0856765,
+            "lon": 11.2153436
+        },
+        {
+            "type": "node",
+            "id": 277697218,
+            "version": 4,
+            "timestamp": "2011-04-20T18:37:00Z",
+            "changeset": 7918839,
+            "uid": 427337,
+            "user": "AleTN",
+            "tags": {
+                "amenity": "cafe",
+                "cuisine": "pizza",
+                "name": "Pizzeria \"Belvedere\"",
+                "wifi": "no"
+            },
+            "lat": 46.0848853,
+            "lon": 11.2100564
+        }
+    ]
+}

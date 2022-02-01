@@ -1,0 +1,319 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 324160740,
+            "version": 2,
+            "timestamp": "2012-07-24T07:33:18Z",
+            "changeset": 12461207,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "name": "Pronto Pizza"
+            },
+            "lat": 45.9030479,
+            "lon": 10.8604296
+        },
+        {
+            "type": "node",
+            "id": 9176586464,
+            "version": 1,
+            "timestamp": "2021-10-16T15:39:30Z",
+            "changeset": 112584003,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "39",
+                "addr:postcode": "38066",
+                "addr:street": "Località San Tomaso",
+                "amenity": "restaurant",
+                "cuisine": "italian;pizza;regional",
+                "email": "info@albergorolly.it",
+                "image": "https://www.albergorolly.it/assets/images/albergorolly_logo.png",
+                "internet_access": "wlan",
+                "name": "Albergo Rolly;Ristorante Pizzeria Rolly",
+                "phone": "+39 0464 553370",
+                "tourism": "hotel",
+                "website": "https://www.albergorolly.it/"
+            },
+            "lat": 45.9032858,
+            "lon": 10.8596261
+        },
+        {
+            "type": "node",
+            "id": 2189081694,
+            "version": 2,
+            "timestamp": "2020-10-30T15:25:43Z",
+            "changeset": 93298439,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Moma"
+            },
+            "lat": 45.9102122,
+            "lon": 10.8616347
+        },
+        {
+            "type": "node",
+            "id": 514889050,
+            "version": 1,
+            "timestamp": "2009-09-30T19:53:23Z",
+            "changeset": 2692230,
+            "uid": 66900,
+            "user": "Fabry",
+            "tags": {
+                "amenity": "bar",
+                "name": "Inter Bar"
+            },
+            "lat": 45.9062109,
+            "lon": 10.8663698
+        },
+        {
+            "type": "node",
+            "id": 554977838,
+            "version": 2,
+            "timestamp": "2020-10-31T12:29:30Z",
+            "changeset": 93336304,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Peter Pan"
+            },
+            "lat": 45.9088843,
+            "lon": 10.8687096
+        },
+        {
+            "type": "node",
+            "id": 1602626070,
+            "version": 1,
+            "timestamp": "2012-01-23T20:22:04Z",
+            "changeset": 10478826,
+            "uid": 66900,
+            "user": "Fabry",
+            "tags": {
+                "amenity": "bar",
+                "name": "Euro Cafè"
+            },
+            "lat": 45.9092169,
+            "lon": 10.8688122
+        },
+        {
+            "type": "node",
+            "id": 2496764579,
+            "version": 1,
+            "timestamp": "2013-10-14T21:38:00Z",
+            "changeset": 18359267,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar",
+                "name": "Marameo"
+            },
+            "lat": 45.9082478,
+            "lon": 10.8678909
+        },
+        {
+            "type": "node",
+            "id": 2496766112,
+            "version": 2,
+            "timestamp": "2014-01-02T10:04:22Z",
+            "changeset": 19762205,
+            "uid": 1198074,
+            "user": "DoubleA",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Gelateria Isola del Gelato"
+            },
+            "lat": 45.9081716,
+            "lon": 10.8677673
+        },
+        {
+            "type": "way",
+            "id": 59180626,
+            "version": 2,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "regional",
+                "name": "Ristorante La Berlera"
+            },
+            "nodes": [
+                733938291,
+                733938133,
+                733938380,
+                6583872462,
+                6583872465,
+                733938094,
+                6583872451,
+                6583872452,
+                733938291
+            ]
+        },
+        {
+            "type": "node",
+            "id": 733938291,
+            "version": 2,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9093769,
+            "lon": 10.8513569
+        },
+        {
+            "type": "node",
+            "id": 733938133,
+            "version": 2,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9092968,
+            "lon": 10.8512547
+        },
+        {
+            "type": "node",
+            "id": 733938380,
+            "version": 2,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9092199,
+            "lon": 10.8514007
+        },
+        {
+            "type": "node",
+            "id": 6583872462,
+            "version": 1,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9092352,
+            "lon": 10.8514148
+        },
+        {
+            "type": "node",
+            "id": 6583872465,
+            "version": 1,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9092736,
+            "lon": 10.8514527
+        },
+        {
+            "type": "node",
+            "id": 733938094,
+            "version": 2,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.909298,
+            "lon": 10.8514726
+        },
+        {
+            "type": "node",
+            "id": 6583872451,
+            "version": 1,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.909316,
+            "lon": 10.8514496
+        },
+        {
+            "type": "node",
+            "id": 6583872452,
+            "version": 1,
+            "timestamp": "2019-07-02T11:41:19Z",
+            "changeset": 71818483,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9093692,
+            "lon": 10.8513686
+        },
+        {
+            "type": "way",
+            "id": 41772401,
+            "version": 2,
+            "timestamp": "2013-11-13T21:38:41Z",
+            "changeset": 18883611,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "regional",
+                "name": "Pizzeria Boccon d'Oro"
+            },
+            "nodes": [
+                514889036,
+                514889037,
+                514889039,
+                514889040,
+                514889036
+            ]
+        },
+        {
+            "type": "node",
+            "id": 514889036,
+            "version": 2,
+            "timestamp": "2017-12-07T10:20:04Z",
+            "changeset": 54426961,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 45.9056753,
+            "lon": 10.8670321
+        },
+        {
+            "type": "node",
+            "id": 514889037,
+            "version": 3,
+            "timestamp": "2020-06-12T20:46:42Z",
+            "changeset": 86584069,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9054976,
+            "lon": 10.8674207
+        },
+        {
+            "type": "node",
+            "id": 514889039,
+            "version": 3,
+            "timestamp": "2020-06-12T20:46:42Z",
+            "changeset": 86584069,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9053466,
+            "lon": 10.8672702
+        },
+        {
+            "type": "node",
+            "id": 514889040,
+            "version": 3,
+            "timestamp": "2020-06-12T20:46:42Z",
+            "changeset": 86584069,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9055158,
+            "lon": 10.8668775
+        }
+    ]
+}

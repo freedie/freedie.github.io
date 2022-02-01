@@ -1,0 +1,72 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2429894206,
+            "version": 1,
+            "timestamp": "2013-08-24T09:30:41Z",
+            "changeset": 17480898,
+            "uid": 637961,
+            "user": "Afnecors",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Biolago"
+            },
+            "lat": 46.3336074,
+            "lon": 10.8864545
+        },
+        {
+            "type": "node",
+            "id": 3125868985,
+            "version": 2,
+            "timestamp": "2014-10-12T14:36:16Z",
+            "changeset": 26026845,
+            "uid": 126598,
+            "user": "Matteo Quatrida",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "name": "Anna"
+            },
+            "lat": 46.3332772,
+            "lon": 10.8882376
+        },
+        {
+            "type": "node",
+            "id": 3127526120,
+            "version": 1,
+            "timestamp": "2014-10-13T10:59:43Z",
+            "changeset": 26045157,
+            "uid": 126598,
+            "user": "Matteo Quatrida",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "La Spleuza"
+            },
+            "lat": 46.3317913,
+            "lon": 10.8857379
+        },
+        {
+            "type": "node",
+            "id": 6451134586,
+            "version": 2,
+            "timestamp": "2021-06-26T07:25:17Z",
+            "changeset": 106992937,
+            "uid": 1462614,
+            "user": "_Andrea_",
+            "tags": {
+                "addr:housenumber": "1301",
+                "addr:postcode": "38025",
+                "addr:street": "Via Nazionale",
+                "amenity": "bar",
+                "internet_access": "wlan",
+                "name": "Bar Latino"
+            },
+            "lat": 46.3318122,
+            "lon": 10.8859923
+        }
+    ]
+}

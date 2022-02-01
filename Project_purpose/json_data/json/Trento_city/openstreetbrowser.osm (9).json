@@ -1,0 +1,92 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 7527311775,
+            "version": 1,
+            "timestamp": "2020-05-16T20:59:53Z",
+            "changeset": 85317120,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Carpe Diem"
+            },
+            "lat": 46.1276902,
+            "lon": 11.1166853
+        },
+        {
+            "type": "node",
+            "id": 1350658039,
+            "version": 5,
+            "timestamp": "2013-04-11T21:53:58Z",
+            "changeset": 15695127,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Gardolo",
+                "addr:country": "IT",
+                "addr:housenumber": "164/B",
+                "addr:postcode": "38121",
+                "addr:street": "Via Alto Adige",
+                "amenity": "restaurant",
+                "contact:phone": "+39 0461 993261",
+                "contact:website": "http://www.officinagambrinus.com/",
+                "cuisine": "pizza;regional",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "Officina Gambrinus",
+                "operator": "Magnago Andrea",
+                "ref:vatin": "IT02075900221"
+            },
+            "lat": 46.1278938,
+            "lon": 11.1094114
+        },
+        {
+            "type": "node",
+            "id": 5504957384,
+            "version": 2,
+            "timestamp": "2019-12-25T17:19:46Z",
+            "changeset": 78852326,
+            "uid": 616774,
+            "user": "mueschel",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "6",
+                "addr:postcode": "38121",
+                "addr:street": "Via Salorno",
+                "amenity": "pub",
+                "contact:email": "hello@brewpassion.com",
+                "contact:facebook": "https://www.facebook.com/passionbrewery/",
+                "contact:website": "https://passionbrewery.com/",
+                "name": "Passion Brewery",
+                "operator": "Brew Passion Srl",
+                "ref:vatin": "IT02431650221"
+            },
+            "lat": 46.1324433,
+            "lon": 11.1120486
+        },
+        {
+            "type": "node",
+            "id": 2618341568,
+            "version": 2,
+            "timestamp": "2017-02-19T20:46:41Z",
+            "changeset": 46226661,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "addr:city": "Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "3",
+                "addr:street": "Via del Pra de l'Agnela",
+                "amenity": "bar"
+            },
+            "lat": 46.1301997,
+            "lon": 11.1262284
+        }
+    ]
+}

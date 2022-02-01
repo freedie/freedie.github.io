@@ -1,0 +1,331 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2173939085,
+            "version": 5,
+            "timestamp": "2021-04-18T15:51:19Z",
+            "changeset": 103143790,
+            "uid": 8773192,
+            "user": "Andrea Rella",
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:housenumber": "31 E",
+                "addr:postcode": "38068",
+                "addr:street": "Viale Trento",
+                "amenity": "cafe",
+                "name": "Bar City",
+                "wheelchair": "yes"
+            },
+            "lat": 45.9008617,
+            "lon": 11.0420672
+        },
+        {
+            "type": "node",
+            "id": 3752959293,
+            "version": 1,
+            "timestamp": "2015-09-21T14:44:44Z",
+            "changeset": 34163819,
+            "uid": 427183,
+            "user": "gsa",
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:country": "IT",
+                "addr:housenumber": "35",
+                "addr:postcode": "38068",
+                "addr:street": "Via Brione",
+                "amenity": "ice_cream",
+                "email": "gelatosettimogelo@gmail.com",
+                "name": "Settimogelo",
+                "opening_hours": "Mo-Fr 14:00-21:00; Sa-Su 11:30-21:30",
+                "phone": "+39 0464 411043",
+                "website": "http://www.gelateriasettimogelo.it/"
+            },
+            "lat": 45.9028662,
+            "lon": 11.0425729
+        },
+        {
+            "type": "node",
+            "id": 777284830,
+            "version": 5,
+            "timestamp": "2019-02-12T20:30:30Z",
+            "changeset": 67143319,
+            "uid": 76312,
+            "user": "scratera",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzeria Brione",
+                "phone": "+39 0464 413444",
+                "wheelchair": "yes"
+            },
+            "lat": 45.9041738,
+            "lon": 11.0432585
+        },
+        {
+            "type": "node",
+            "id": 1154395707,
+            "version": 4,
+            "timestamp": "2018-02-27T19:15:35Z",
+            "changeset": 56731967,
+            "uid": 290680,
+            "user": "wheelmap_visitor",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "email": "ristorantesantilario@libero.it",
+                "name": "Ristorante S.Ilario Pizzeria",
+                "phone": "+39 0464 490294",
+                "wheelchair": "yes"
+            },
+            "lat": 45.9084352,
+            "lon": 11.0404587
+        },
+        {
+            "type": "node",
+            "id": 2509331932,
+            "version": 1,
+            "timestamp": "2013-10-26T12:19:05Z",
+            "changeset": 18550685,
+            "uid": 47802,
+            "user": "gomatteo",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 45.9083347,
+            "lon": 11.0404719
+        },
+        {
+            "type": "node",
+            "id": 2638148201,
+            "version": 4,
+            "timestamp": "2020-06-27T21:05:38Z",
+            "changeset": 87235939,
+            "uid": 76312,
+            "user": "scratera",
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:country": "IT",
+                "addr:housenumber": "77",
+                "addr:postcode": "38068",
+                "addr:street": "Viale Trento",
+                "amenity": "restaurant",
+                "cuisine": "chinese;japanese",
+                "name": "Watami",
+                "operator": "Ye Yang",
+                "ref:vatin": "IT02311760223",
+                "wheelchair": "no"
+            },
+            "lat": 45.9077164,
+            "lon": 11.0409848
+        },
+        {
+            "type": "way",
+            "id": 740489409,
+            "version": 2,
+            "timestamp": "2020-02-24T21:10:46Z",
+            "changeset": 81423642,
+            "uid": 1462614,
+            "user": "_Andrea_",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Mary Giò Cafè",
+                "opening_hours": "Mo-Fr 05:00-19:00",
+                "phone": "+39 0464 411763",
+                "wheelchair": "yes"
+            },
+            "nodes": [
+                6932681044,
+                6932681042,
+                6932681043,
+                6932681045,
+                6932681040,
+                6932681034,
+                6932681039,
+                6932681038,
+                6932681044
+            ]
+        },
+        {
+            "type": "node",
+            "id": 6932681044,
+            "version": 1,
+            "timestamp": "2019-10-30T18:45:44Z",
+            "changeset": 76410871,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9062382,
+            "lon": 11.03944
+        },
+        {
+            "type": "node",
+            "id": 6932681042,
+            "version": 1,
+            "timestamp": "2019-10-30T18:45:44Z",
+            "changeset": 76410871,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9062389,
+            "lon": 11.0394265
+        },
+        {
+            "type": "node",
+            "id": 6932681043,
+            "version": 1,
+            "timestamp": "2019-10-30T18:45:44Z",
+            "changeset": 76410871,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9062674,
+            "lon": 11.0394298
+        },
+        {
+            "type": "node",
+            "id": 6932681045,
+            "version": 1,
+            "timestamp": "2019-10-30T18:45:44Z",
+            "changeset": 76410871,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9062666,
+            "lon": 11.0394425
+        },
+        {
+            "type": "node",
+            "id": 6932681040,
+            "version": 1,
+            "timestamp": "2019-10-30T18:45:44Z",
+            "changeset": 76410871,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9062938,
+            "lon": 11.0394456
+        },
+        {
+            "type": "node",
+            "id": 6932681034,
+            "version": 1,
+            "timestamp": "2019-10-30T18:45:44Z",
+            "changeset": 76410871,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.906291,
+            "lon": 11.0394963
+        },
+        {
+            "type": "node",
+            "id": 6932681039,
+            "version": 1,
+            "timestamp": "2019-10-30T18:45:44Z",
+            "changeset": 76410871,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9062903,
+            "lon": 11.0395081
+        },
+        {
+            "type": "node",
+            "id": 6932681038,
+            "version": 1,
+            "timestamp": "2019-10-30T18:45:44Z",
+            "changeset": 76410871,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9062348,
+            "lon": 11.0395018
+        },
+        {
+            "type": "node",
+            "id": 2171057706,
+            "version": 3,
+            "timestamp": "2016-04-03T14:25:56Z",
+            "changeset": 38267998,
+            "uid": 719795,
+            "user": "drazde",
+            "tags": {
+                "amenity": "cafe",
+                "wheelchair": "yes"
+            },
+            "lat": 45.8994856,
+            "lon": 11.0415584
+        },
+        {
+            "type": "way",
+            "id": 545783350,
+            "version": 5,
+            "timestamp": "2021-05-02T10:07:30Z",
+            "changeset": 103987399,
+            "uid": 1462614,
+            "user": "_Andrea_",
+            "tags": {
+                "addr:city": "Rovereto",
+                "addr:country": "IT",
+                "addr:housenumber": "2",
+                "addr:postcode": "38068",
+                "addr:street": "Via Cimarosa",
+                "amenity": "fast_food",
+                "building": "yes",
+                "cuisine": "pizza",
+                "delivery": "no",
+                "email": "davioslaboratorio@gmail.com",
+                "opening_hours": "12:14-18:22",
+                "phone": "+39 328 3626796",
+                "takeaway": "only",
+                "website": "https://www.facebook.com/davioslaboratoriodellapizza/"
+            },
+            "nodes": [
+                5274716653,
+                5274716652,
+                5274716651,
+                5274716650,
+                5274716653
+            ]
+        },
+        {
+            "type": "node",
+            "id": 5274716653,
+            "version": 1,
+            "timestamp": "2017-12-10T07:19:47Z",
+            "changeset": 54503390,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9000659,
+            "lon": 11.0394079
+        },
+        {
+            "type": "node",
+            "id": 5274716652,
+            "version": 1,
+            "timestamp": "2017-12-10T07:19:47Z",
+            "changeset": 54503390,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.8999983,
+            "lon": 11.0393763
+        },
+        {
+            "type": "node",
+            "id": 5274716651,
+            "version": 1,
+            "timestamp": "2017-12-10T07:19:47Z",
+            "changeset": 54503390,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9000057,
+            "lon": 11.0393436
+        },
+        {
+            "type": "node",
+            "id": 5274716650,
+            "version": 1,
+            "timestamp": "2017-12-10T07:19:47Z",
+            "changeset": 54503390,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9000733,
+            "lon": 11.0393753
+        }
+    ]
+}

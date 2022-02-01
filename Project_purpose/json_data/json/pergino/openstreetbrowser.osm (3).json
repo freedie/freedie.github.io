@@ -1,0 +1,51 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2907535345,
+            "version": 1,
+            "timestamp": "2014-06-09T15:46:25Z",
+            "changeset": 22832734,
+            "uid": 305001,
+            "user": "voschix",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Daniela"
+            },
+            "lat": 46.0643807,
+            "lon": 11.2448604
+        },
+        {
+            "type": "node",
+            "id": 269356398,
+            "version": 1,
+            "timestamp": "2008-06-09T15:39:42Z",
+            "changeset": 112344,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Ristorante Cacciatore"
+            },
+            "lat": 46.0674444,
+            "lon": 11.2532107
+        },
+        {
+            "type": "node",
+            "id": 269356399,
+            "version": 1,
+            "timestamp": "2008-06-09T15:39:42Z",
+            "changeset": 112344,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Pizzeria Anna"
+            },
+            "lat": 46.0683757,
+            "lon": 11.2539178
+        }
+    ]
+}

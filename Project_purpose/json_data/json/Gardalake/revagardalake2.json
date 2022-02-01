@@ -1,0 +1,248 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 755622315,
+            "version": 4,
+            "timestamp": "2020-10-17T11:09:56Z",
+            "changeset": 92623965,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzoteca"
+            },
+            "lat": 45.8893226,
+            "lon": 10.8437805
+        },
+        {
+            "type": "node",
+            "id": 580767423,
+            "version": 4,
+            "timestamp": "2018-05-30T20:58:17Z",
+            "changeset": 59410117,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.8892008,
+            "lon": 10.8394013
+        },
+        {
+            "type": "node",
+            "id": 506781475,
+            "version": 3,
+            "timestamp": "2011-01-20T16:06:11Z",
+            "changeset": 7031827,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar degli Amici"
+            },
+            "lat": 45.8970628,
+            "lon": 10.8524388
+        },
+        {
+            "type": "node",
+            "id": 571193717,
+            "version": 4,
+            "timestamp": "2018-06-01T21:07:27Z",
+            "changeset": 59472603,
+            "uid": 160229,
+            "user": "sorcrosc",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "2",
+                "addr:postcode": "38066",
+                "addr:street": "Via San Nazzaro",
+                "amenity": "cafe",
+                "contact:facebook": "https://www.facebook.com/caffespeedsince1969/",
+                "name": "Caffè Speed Since1969"
+            },
+            "lat": 45.8964816,
+            "lon": 10.8519077
+        },
+        {
+            "type": "node",
+            "id": 2531405387,
+            "version": 1,
+            "timestamp": "2013-11-13T21:31:33Z",
+            "changeset": 18883465,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.8941778,
+            "lon": 10.8491895
+        },
+        {
+            "type": "node",
+            "id": 2531409644,
+            "version": 4,
+            "timestamp": "2021-05-15T15:39:37Z",
+            "changeset": 104739120,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "94",
+                "addr:street": "Viale Trento",
+                "amenity": "cafe",
+                "cuisine": "ice_cream",
+                "name": "Gelateria Artigianale Happy Days"
+            },
+            "lat": 45.8946986,
+            "lon": 10.8497867
+        },
+        {
+            "type": "node",
+            "id": 2531413178,
+            "version": 2,
+            "timestamp": "2017-03-23T15:02:57Z",
+            "changeset": 47099210,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "name": "Cristallo"
+            },
+            "lat": 45.8944836,
+            "lon": 10.8495582
+        },
+        {
+            "type": "node",
+            "id": 4003293513,
+            "version": 1,
+            "timestamp": "2016-02-12T21:36:57Z",
+            "changeset": 37177447,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzeria Fenice"
+            },
+            "lat": 45.8945656,
+            "lon": 10.8489157
+        },
+        {
+            "type": "node",
+            "id": 4751030319,
+            "version": 1,
+            "timestamp": "2017-03-23T15:02:57Z",
+            "changeset": 47099210,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "fast_food",
+                "cuisine": "pizza;kebab"
+            },
+            "lat": 45.8942947,
+            "lon": 10.8493084
+        },
+        {
+            "type": "node",
+            "id": 5047412337,
+            "version": 2,
+            "timestamp": "2020-08-23T09:18:40Z",
+            "changeset": 89802361,
+            "uid": 11449631,
+            "user": "SimoGine",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.8977723,
+            "lon": 10.8482009
+        },
+        {
+            "type": "node",
+            "id": 1889564709,
+            "version": 3,
+            "timestamp": "2021-10-16T15:09:49Z",
+            "changeset": 112582930,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Riva del Garda",
+                "addr:housenumber": "20",
+                "addr:postcode": "38066",
+                "addr:street": "Viale Trento",
+                "amenity": "restaurant",
+                "brand": "PizzaExpress",
+                "brand:wikidata": "Q662845",
+                "brand:wikipedia": "en:PizzaExpress",
+                "cuisine": "pizza",
+                "name": "PizzaExpress",
+                "opening_hours": "Mo-Su 09:00-23:00",
+                "phone": "+390464555666"
+            },
+            "lat": 45.8909775,
+            "lon": 10.8456847
+        },
+        {
+            "type": "node",
+            "id": 2189699302,
+            "version": 1,
+            "timestamp": "2013-03-07T14:26:26Z",
+            "changeset": 15281846,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Capriccio"
+            },
+            "lat": 45.8907811,
+            "lon": 10.8455108
+        },
+        {
+            "type": "node",
+            "id": 299801308,
+            "version": 3,
+            "timestamp": "2010-05-14T21:14:39Z",
+            "changeset": 4700273,
+            "uid": 66900,
+            "user": "Fabry",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Centro Sportivo"
+            },
+            "lat": 45.897656,
+            "lon": 10.8448605
+        },
+        {
+            "type": "node",
+            "id": 7936238142,
+            "version": 1,
+            "timestamp": "2020-09-24T04:07:30Z",
+            "changeset": 91399933,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Parisi"
+            },
+            "lat": 45.8955227,
+            "lon": 10.8433796
+        },
+        {
+            "type": "node",
+            "id": 8871703724,
+            "version": 1,
+            "timestamp": "2021-06-28T09:57:42Z",
+            "changeset": 107077685,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.8917665,
+            "lon": 10.8458134
+        }
+    ]
+}

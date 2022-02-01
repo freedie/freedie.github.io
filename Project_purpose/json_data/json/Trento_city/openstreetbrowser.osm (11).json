@@ -1,0 +1,91 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2317509769,
+            "version": 1,
+            "timestamp": "2013-05-23T19:07:32Z",
+            "changeset": 16256683,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Vanilla Cafe"
+            },
+            "lat": 46.1462046,
+            "lon": 11.099239
+        },
+        {
+            "type": "node",
+            "id": 1140956935,
+            "version": 3,
+            "timestamp": "2012-04-30T23:37:37Z",
+            "changeset": 11465476,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Lavis",
+                "addr:country": "IT",
+                "addr:housenumber": "31",
+                "addr:postcode": "38015",
+                "addr:street": "Via Nazionale",
+                "amenity": "pub",
+                "name": "Kiss Pub"
+            },
+            "lat": 46.1474638,
+            "lon": 11.0994051
+        },
+        {
+            "type": "node",
+            "id": 1308870011,
+            "version": 1,
+            "timestamp": "2011-06-02T10:33:27Z",
+            "changeset": 8318162,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.1515833,
+            "lon": 11.0963404
+        },
+        {
+            "type": "node",
+            "id": 4320967592,
+            "version": 1,
+            "timestamp": "2016-07-26T10:37:16Z",
+            "changeset": 41034313,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.1523883,
+            "lon": 11.0967641
+        },
+        {
+            "type": "node",
+            "id": 4593977000,
+            "version": 2,
+            "timestamp": "2020-05-18T06:59:49Z",
+            "changeset": 85364268,
+            "uid": 605596,
+            "user": "petercomm",
+            "tags": {
+                "addr:city": "Zambana",
+                "addr:country": "IT",
+                "addr:housenumber": "7",
+                "addr:postcode": "38010",
+                "addr:street": "Via Trento",
+                "amenity": "fast_food",
+                "cuisine": "pizza;kebab",
+                "drive_through": "no",
+                "name": "Pizza Kebab Zambana"
+            },
+            "lat": 46.1522373,
+            "lon": 11.0971748
+        }
+    ]
+}

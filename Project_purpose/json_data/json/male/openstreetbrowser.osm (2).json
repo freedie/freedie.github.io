@@ -1,0 +1,35 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 9048393610,
+            "version": 1,
+            "timestamp": "2021-08-30T14:35:38Z",
+            "changeset": 110465514,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.3377573,
+            "lon": 10.8953865
+        },
+        {
+            "type": "node",
+            "id": 5834717227,
+            "version": 1,
+            "timestamp": "2018-08-15T16:29:37Z",
+            "changeset": 61690983,
+            "uid": 1834719,
+            "user": "LvdT",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Paint Bar"
+            },
+            "lat": 46.3381536,
+            "lon": 10.9057479
+        }
+    ]
+}
