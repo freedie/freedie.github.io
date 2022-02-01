@@ -1,0 +1,366 @@
+<http://localhost:8080/source/268432522> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "2" .
+<http://localhost:8080/source/268432522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/268432522> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P1> .
+<http://localhost:8080/source/268432522> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Roccabruna" .
+<http://localhost:8080/source/268432522> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+<http://localhost:8080/source/268432522> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/P1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/268432522> <http://knowdive.disi.unitn.it/etype#has_Outdoor_seating_GID-22985_Type-22135> "yes" .
+<http://localhost:8080/source/268432522> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Pub Al Posta" .
+<http://localhost:8080/source/268432522> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+
+<http://localhost:8080/source/853801468> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/853801468> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P2> .
+<http://localhost:8080/source/853801468> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+<http://localhost:8080/source/853801468> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via dei Paradisi" .
+<http://localhost:8080/source/853801468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/853801468> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "15" .
+<http://localhost:8080/source/P2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/853801468> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "INorOUT" .
+<http://localhost:8080/source/853801468> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+
+<http://localhost:8080/source/906968983> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/906968983> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-43815> "paolo.cereghini@gmail.com" .
+<http://localhost:8080/source/906968983> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Calepina" .
+<http://localhost:8080/source/906968983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/906968983> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+<http://localhost:8080/source/P3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/906968983> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Angolo dei 33" .
+<http://localhost:8080/source/906968983> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Tu-Sa 15:00-00:00; Su 16:00-22:00" .
+<http://localhost:8080/source/906968983> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "10" .
+<http://localhost:8080/source/906968983> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P3> .
+<http://localhost:8080/source/906968983> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+
+<http://localhost:8080/source/430673952> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Bar Picaro" .
+<http://localhost:8080/source/P4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/430673952> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/430673952> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+<http://localhost:8080/source/430673952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/430673952> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "36/2" .
+<http://localhost:8080/source/430673952> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Mo-Sa 18:00-24:00" .
+<http://localhost:8080/source/430673952> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/430673952> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via San Giovanni" .
+<http://localhost:8080/source/430673952> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P4> .
+
+<http://localhost:8080/source/2706066321> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Mo-Fr 11:00-15:00,19:00-21:00" .
+<http://localhost:8080/source/2706066321> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P5> .
+<http://localhost:8080/source/2706066321> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/P5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/2706066321> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Il Circolino" .
+<http://localhost:8080/source/2706066321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+
+<http://localhost:8080/source/550687807> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/550687807> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-43815> "+39 349 7152966" .
+<http://localhost:8080/source/P6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/550687807> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P6> .
+<http://localhost:8080/source/550687807> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "1" .
+<http://localhost:8080/source/550687807> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via dei Ventuno" .
+<http://localhost:8080/source/550687807> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+<http://localhost:8080/source/550687807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/550687807> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/550687807> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Tu-Sa 22:00-3:00" .
+<http://localhost:8080/source/550687807> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "H/àkka/" .
+
+<http://localhost:8080/source/P7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/961288197> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P7> .
+<http://localhost:8080/source/961288197> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/961288197> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Willy's Caffè Pub" .
+<http://localhost:8080/source/961288197> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Antonio Pranzelores" .
+<http://localhost:8080/source/961288197> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38121" .
+<http://localhost:8080/source/961288197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/961288197> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "46" .
+<http://localhost:8080/source/961288197> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-43815> "+39 0461 090741" .
+<http://localhost:8080/source/961288197> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+
+<http://localhost:8080/source/432873025> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Giambattista Unterveger" .
+<http://localhost:8080/source/432873025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/432873025> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Tonyk Club" .
+<http://localhost:8080/source/432873025> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "100" .
+<http://localhost:8080/source/432873025> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38121" .
+<http://localhost:8080/source/432873025> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/432873025> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P8> .
+<http://localhost:8080/source/432873025> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/P8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+
+<http://localhost:8080/source/P9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/5504957384> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Salorno" .
+<http://localhost:8080/source/5504957384> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "6" .
+<http://localhost:8080/source/5504957384> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P9> .
+<http://localhost:8080/source/5504957384> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-43815> "hello@brewpassion.com" .
+<http://localhost:8080/source/5504957384> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Passion Brewery" .
+<http://localhost:8080/source/5504957384> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/5504957384> <http://knowdive.disi.unitn.it/etype#has_webSite_GID-34126_Type-43815> "https://passionbrewery.com/" .
+<http://localhost:8080/source/5504957384> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/5504957384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/5504957384> <http://knowdive.disi.unitn.it/etype#has_Outdoor_seating_GID-22985_Type-22135> "Brew Passion Srl" .
+<http://localhost:8080/source/5504957384> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38121" .
+
+<http://localhost:8080/source/P10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1140956935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/1140956935> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38015" .
+<http://localhost:8080/source/1140956935> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Lavis" .
+<http://localhost:8080/source/1140956935> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Nazionale" .
+<http://localhost:8080/source/1140956935> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Kiss Pub" .
+<http://localhost:8080/source/1140956935> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "31" .
+<http://localhost:8080/source/1140956935> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P10> .
+<http://localhost:8080/source/1140956935> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+
+<http://localhost:8080/source/2706066321> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P11> .
+<http://localhost:8080/source/2706066321> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Mo-Fr 11:00-15:00,19:00-21:00" .
+<http://localhost:8080/source/2706066321> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/2706066321> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Il Circolino" .
+<http://localhost:8080/source/P11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/2706066321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+
+<http://localhost:8080/source/292021803> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/292021803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/P12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/292021803> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P12> .
+
+<http://localhost:8080/source/3250914386> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Flambard Pub" .
+<http://localhost:8080/source/3250914386> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/3250914386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/3250914386> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Viale degli Olmi" .
+<http://localhost:8080/source/3250914386> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P13> .
+<http://localhost:8080/source/3250914386> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "4" .
+<http://localhost:8080/source/3250914386> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/P13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+
+<http://localhost:8080/source/7105717814> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Nazionale" .
+<http://localhost:8080/source/7105717814> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Mattarello" .
+<http://localhost:8080/source/7105717814> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P14> .
+<http://localhost:8080/source/7105717814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/7105717814> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38123" .
+<http://localhost:8080/source/7105717814> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/P14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/7105717814> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "41" .
+<http://localhost:8080/source/7105717814> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "La Pinta Birreria" .
+
+<http://localhost:8080/source/511138890> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P15> .
+<http://localhost:8080/source/511138890> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Riva del Garda" .
+<http://localhost:8080/source/P15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/511138890> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "La Cambusa" .
+<http://localhost:8080/source/511138890> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/511138890> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Piazza Tre Novembre" .
+<http://localhost:8080/source/511138890> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "28" .
+<http://localhost:8080/source/511138890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+
+<http://localhost:8080/source/P16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/9176575698> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P16> .
+<http://localhost:8080/source/9176575698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/9176575698> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Riva del Garda" .
+<http://localhost:8080/source/9176575698> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "5" .
+<http://localhost:8080/source/9176575698> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "North Pub" .
+<http://localhost:8080/source/9176575698> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38066" .
+<http://localhost:8080/source/9176575698> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Padova" .
+<http://localhost:8080/source/9176575698> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+
+<http://localhost:8080/source/2150998976> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Druido" .
+<http://localhost:8080/source/P17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/2150998976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/2150998976> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P17> .
+<http://localhost:8080/source/2150998976> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+
+<http://localhost:8080/source/2159317571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/2159317571> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/2159317571> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P18> .
+<http://localhost:8080/source/2159317571> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Locos" .
+<http://localhost:8080/source/P18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+
+<http://localhost:8080/source/P19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/2159318291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/2159318291> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Perbacco" .
+<http://localhost:8080/source/2159318291> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Rovereto" .
+<http://localhost:8080/source/2159318291> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/2159318291> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P19> .
+<http://localhost:8080/source/2159318291> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Roma" .
+<http://localhost:8080/source/2159318291> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38068" .
+<http://localhost:8080/source/2159318291> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "18" .
+
+<http://localhost:8080/source/1985829027> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P20> .
+<http://localhost:8080/source/1985829027> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Circolo Operaio SantaMaria" .
+<http://localhost:8080/source/1985829027> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Rovereto" .
+<http://localhost:8080/source/1985829027> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "18" .
+<http://localhost:8080/source/1985829027> <http://knowdive.disi.unitn.it/etype#has_Outdoor_seating_GID-22985_Type-22135> "Gest. Tecilla Michele" .
+<http://localhost:8080/source/1985829027> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/1985829027> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38068" .
+<http://localhost:8080/source/P20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1985829027> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Santa Maria" .
+<http://localhost:8080/source/1985829027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+
+<http://localhost:8080/source/1024831047> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P21> .
+<http://localhost:8080/source/1024831047> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Giovanni Segantini" .
+<http://localhost:8080/source/1024831047> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Arco" .
+<http://localhost:8080/source/1024831047> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38062" .
+<http://localhost:8080/source/1024831047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/1024831047> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/1024831047> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "12" .
+<http://localhost:8080/source/P21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1024831047> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Il Gatto Nero" .
+
+<http://localhost:8080/source/4215202557> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P22> .
+<http://localhost:8080/source/4215202557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/4215202557> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38051" .
+<http://localhost:8080/source/P22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/4215202557> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "13" .
+<http://localhost:8080/source/4215202557> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/4215202557> <http://knowdive.disi.unitn.it/etype#has_Outdoor_seating_GID-22985_Type-22135> "Birreria Absolut di Poddebniak Urszula Zofia e C. S.A.S." .
+<http://localhost:8080/source/4215202557> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Birreria Absolut" .
+<http://localhost:8080/source/4215202557> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Piazza Romani" .
+<http://localhost:8080/source/4215202557> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Borgo Valsugana" .
+
+<http://localhost:8080/source/5787239153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/5787239153> <http://knowdive.disi.unitn.it/etype#has_Outdoor_seating_GID-22985_Type-22135> "yes" .
+<http://localhost:8080/source/5787239153> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P23> .
+<http://localhost:8080/source/P23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/5787239153> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/5787239153> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Pub Evita" .
+
+<http://localhost:8080/source/7770054585> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Bar Centrale" .
+<http://localhost:8080/source/P24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/7770054585> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/7770054585> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P24> .
+<http://localhost:8080/source/7770054585> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+
+<http://localhost:8080/source/P25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1263209698> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Unterberger" .
+<http://localhost:8080/source/1263209698> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "2" .
+<http://localhost:8080/source/1263209698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/1263209698> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38033" .
+<http://localhost:8080/source/1263209698> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P25> .
+<http://localhost:8080/source/1263209698> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Cavalese" .
+<http://localhost:8080/source/1263209698> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Bar Canton" .
+<http://localhost:8080/source/1263209698> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+
+<http://localhost:8080/source/274303880> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/274303880> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P26> .
+<http://localhost:8080/source/274303880> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Pub SottoZero" .
+<http://localhost:8080/source/274303880> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/P26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+
+<http://localhost:8080/source/414988154> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Roma" .
+<http://localhost:8080/source/414988154> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "29" .
+<http://localhost:8080/source/414988154> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/414988154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/414988154> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Al filo" .
+<http://localhost:8080/source/P27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/414988154> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P27> .
+<http://localhost:8080/source/414988154> <http://knowdive.disi.unitn.it/etype#has_Outdoor_seating_GID-22985_Type-22135> "yes" .
+
+<http://localhost:8080/source/6611481842> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/P28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/6611481842> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P28> .
+<http://localhost:8080/source/6611481842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/6611481842> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Rive Bar" .
+
+<http://localhost:8080/source/724349525> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38036" .
+<http://localhost:8080/source/724349525> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Piaza del Malgher" .
+<http://localhost:8080/source/724349525> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/724349525> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Pozza di Fassa" .
+<http://localhost:8080/source/724349525> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Pub Mirò" .
+<http://localhost:8080/source/724349525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/P29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/724349525> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P29> .
+
+<http://localhost:8080/source/P30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/5554963922> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/5554963922> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Liquid Club" .
+<http://localhost:8080/source/5554963922> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P30> .
+<http://localhost:8080/source/5554963922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+
+<http://localhost:8080/source/367891767> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P31> .
+<http://localhost:8080/source/367891767> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/P31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/367891767> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Bismarck Pub" .
+<http://localhost:8080/source/367891767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+
+<http://localhost:8080/source/7105717814> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Nazionale" .
+<http://localhost:8080/source/7105717814> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Mattarello" .
+<http://localhost:8080/source/7105717814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/7105717814> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38123" .
+<http://localhost:8080/source/7105717814> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/P32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/7105717814> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P32> .
+<http://localhost:8080/source/7105717814> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "41" .
+<http://localhost:8080/source/7105717814> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "La Pinta Birreria" .
+
+<http://localhost:8080/source/168298002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/168298002> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Stal Beer&Grill" .
+<http://localhost:8080/source/168298002> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P33> .
+<http://localhost:8080/source/P33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/168298002> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+
+<http://localhost:8080/source/702858655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/702858655> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P34> .
+<http://localhost:8080/source/702858655> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Pub Saloon" .
+<http://localhost:8080/source/702858655> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/P34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+
+<http://localhost:8080/source/303832073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/303832073> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/P35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/303832073> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P35> .
+
+<http://localhost:8080/source/4202862140> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P36> .
+<http://localhost:8080/source/4202862140> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "3" .
+<http://localhost:8080/source/4202862140> <http://knowdive.disi.unitn.it/etype#has_Outdoor_seating_GID-22985_Type-22135> "yes" .
+<http://localhost:8080/source/4202862140> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38050" .
+<http://localhost:8080/source/4202862140> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Pub Celtic" .
+<http://localhost:8080/source/P36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/4202862140> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Piazza Maggiore" .
+<http://localhost:8080/source/4202862140> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/4202862140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/4202862140> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Scurelle" .
+
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via 15 Agosto" .
+<http://localhost:8080/source/4202838207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P37> .
+<http://localhost:8080/source/P37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38050" .
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Scurelle" .
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Rosy's Pub" .
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "4" .
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_Outdoor_seating_GID-22985_Type-22135> "Rosy's pub S.N.C. di Stenico Diego & C." .
+
+<http://localhost:8080/source/3909747543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/P38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/3909747543> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P38> .
+<http://localhost:8080/source/3909747543> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Pub Freeway" .
+<http://localhost:8080/source/3909747543> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P39> .
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via 15 Agosto" .
+<http://localhost:8080/source/4202838207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38050" .
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Scurelle" .
+<http://localhost:8080/source/P39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Rosy's Pub" .
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "4" .
+<http://localhost:8080/source/4202838207> <http://knowdive.disi.unitn.it/etype#has_Outdoor_seating_GID-22985_Type-22135> "Rosy's pub S.N.C. di Stenico Diego & C." .
+
+<http://localhost:8080/source/P40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/6397206527> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Benesin" .
+<http://localhost:8080/source/6397206527> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P40> .
+<http://localhost:8080/source/6397206527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/6397206527> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "10 b" .
+<http://localhost:8080/source/6397206527> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Dixie Pub - ex Tolo" .
+<http://localhost:8080/source/6397206527> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+
+<http://localhost:8080/source/430548245> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Cafè Nol" .
+<http://localhost:8080/source/430548245> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/430548245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/P41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/430548245> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P41> .
+
+<http://localhost:8080/source/1405084830> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38010" .
+<http://localhost:8080/source/1405084830> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "1" .
+<http://localhost:8080/source/1405084830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Pub_GID-22135> .
+<http://localhost:8080/source/1405084830> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "pub" .
+<http://localhost:8080/source/1405084830> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Laghet" .
+<http://localhost:8080/source/1405084830> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Osteria Pub Al Laghet" .
+<http://localhost:8080/source/1405084830> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Andalo" .
+<http://localhost:8080/source/1405084830> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/P42> .
+<http://localhost:8080/source/P42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+

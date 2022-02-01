@@ -1,0 +1,1464 @@
+<http://localhost:8080/source/37736> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/37736> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "58" .
+<http://localhost:8080/source/37736> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/56292> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "90" .
+<http://localhost:8080/source/56292> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/56292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/138917> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "240" .
+<http://localhost:8080/source/138917> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/138917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/367596> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/367596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/367596> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "75" .
+
+<http://localhost:8080/source/398211> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "90" .
+<http://localhost:8080/source/398211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/398211> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/398240> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/398240> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "65" .
+<http://localhost:8080/source/398240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/398249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/398249> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/398249> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "50" .
+
+<http://localhost:8080/source/444104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/444104> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "100" .
+<http://localhost:8080/source/444104> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/578775> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/578775> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "31" .
+<http://localhost:8080/source/578775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/587230> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "57" .
+<http://localhost:8080/source/587230> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/587230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/661736> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "120" .
+<http://localhost:8080/source/661736> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/661736> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/666144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/666144> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/666144> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "39" .
+
+<http://localhost:8080/source/715781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/715781> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/715781> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "300" .
+
+<http://localhost:8080/source/726907> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "68" .
+<http://localhost:8080/source/726907> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/726907> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/726936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/726936> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "88" .
+<http://localhost:8080/source/726936> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/730565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/730565> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "125" .
+<http://localhost:8080/source/730565> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/740209> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "101" .
+<http://localhost:8080/source/740209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/740209> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/745668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/745668> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "60" .
+<http://localhost:8080/source/745668> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/772315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/772315> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/772315> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "69" .
+
+<http://localhost:8080/source/772318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/772318> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "63" .
+<http://localhost:8080/source/772318> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/872611> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/872611> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/872611> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "80" .
+
+<http://localhost:8080/source/873945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/873945> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "80" .
+<http://localhost:8080/source/873945> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/921139> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "80" .
+<http://localhost:8080/source/921139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/921139> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/927170> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "88" .
+<http://localhost:8080/source/927170> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/927170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/946214> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/946214> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "84" .
+<http://localhost:8080/source/946214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/960850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/960850> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/960850> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "98" .
+
+<http://localhost:8080/source/1016693> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "66" .
+<http://localhost:8080/source/1016693> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1016693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/1211930> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1211930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1211930> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "95" .
+
+<http://localhost:8080/source/1248260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1248260> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "46" .
+<http://localhost:8080/source/1248260> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/1252024> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "120" .
+<http://localhost:8080/source/1252024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1252024> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/1278542> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1278542> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1278542> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "43" .
+
+<http://localhost:8080/source/1278750> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1278750> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1278750> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "33" .
+
+<http://localhost:8080/source/1344922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1344922> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "85" .
+<http://localhost:8080/source/1344922> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/1389891> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1389891> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "250" .
+<http://localhost:8080/source/1389891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/1453842> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1453842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1453842> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "158" .
+
+<http://localhost:8080/source/1457725> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "90" .
+<http://localhost:8080/source/1457725> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1457725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/1544744> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "80" .
+<http://localhost:8080/source/1544744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1544744> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/1561239> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "35" .
+<http://localhost:8080/source/1561239> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1561239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/1647050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1647050> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "112" .
+<http://localhost:8080/source/1647050> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/1648750> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1648750> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1648750> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "104" .
+
+<http://localhost:8080/source/1652881> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1652881> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "80" .
+<http://localhost:8080/source/1652881> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/1700712> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "91" .
+<http://localhost:8080/source/1700712> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1700712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/1711668> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "120" .
+<http://localhost:8080/source/1711668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1711668> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/1715277> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1715277> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "86" .
+<http://localhost:8080/source/1715277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/1716587> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "110" .
+<http://localhost:8080/source/1716587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1716587> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/1733796> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1733796> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1733796> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "89" .
+
+<http://localhost:8080/source/1736819> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "70" .
+<http://localhost:8080/source/1736819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1736819> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/1748581> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "120" .
+<http://localhost:8080/source/1748581> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1748581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/1758877> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1758877> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "90" .
+<http://localhost:8080/source/1758877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/1770327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1770327> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1770327> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "213" .
+
+<http://localhost:8080/source/1777329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1777329> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "108" .
+<http://localhost:8080/source/1777329> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/1780256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1780256> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "84" .
+<http://localhost:8080/source/1780256> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/1845279> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "70" .
+<http://localhost:8080/source/1845279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1845279> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/1864113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1864113> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1864113> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "160" .
+
+<http://localhost:8080/source/1882273> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1882273> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "67" .
+<http://localhost:8080/source/1882273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/1885587> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "66" .
+<http://localhost:8080/source/1885587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1885587> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/1992640> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/1992640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1992640> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "90" .
+
+<http://localhost:8080/source/2002066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2002066> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "66" .
+<http://localhost:8080/source/2002066> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/2002148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2002148> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "121" .
+<http://localhost:8080/source/2002148> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/2002317> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2002317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2002317> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "108" .
+
+<http://localhost:8080/source/2011959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2011959> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "23" .
+<http://localhost:8080/source/2011959> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/2021500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2021500> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "100" .
+<http://localhost:8080/source/2021500> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/2033118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2033118> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2033118> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "21" .
+
+<http://localhost:8080/source/2033190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2033190> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2033190> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "24" .
+
+<http://localhost:8080/source/2054723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2054723> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2054723> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "73" .
+
+<http://localhost:8080/source/2125785> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2125785> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2125785> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "80" .
+
+<http://localhost:8080/source/2168118> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2168118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2168118> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "82" .
+
+<http://localhost:8080/source/2227624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2227624> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2227624> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "95" .
+
+<http://localhost:8080/source/2241212> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2241212> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "100" .
+<http://localhost:8080/source/2241212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/2245097> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2245097> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "43" .
+<http://localhost:8080/source/2245097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/2251219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2251219> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2251219> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "79" .
+
+<http://localhost:8080/source/2297081> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2297081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2297081> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "147" .
+
+<http://localhost:8080/source/2324307> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2324307> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "66" .
+<http://localhost:8080/source/2324307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/2329082> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2329082> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "143" .
+<http://localhost:8080/source/2329082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/2330183> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "60" .
+<http://localhost:8080/source/2330183> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2330183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/2354665> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "57" .
+<http://localhost:8080/source/2354665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2354665> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/2395846> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2395846> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "70" .
+<http://localhost:8080/source/2395846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/2403403> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "110" .
+<http://localhost:8080/source/2403403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2403403> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/2404048> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2404048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2404048> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "90" .
+
+<http://localhost:8080/source/2413100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2413100> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2413100> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "76" .
+
+<http://localhost:8080/source/2415923> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2415923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2415923> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "51" .
+
+<http://localhost:8080/source/2416868> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "79" .
+<http://localhost:8080/source/2416868> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2416868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/2422754> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2422754> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2422754> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "55" .
+
+<http://localhost:8080/source/2422910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2422910> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "78" .
+<http://localhost:8080/source/2422910> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/2427227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2427227> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2427227> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "79" .
+
+<http://localhost:8080/source/2428969> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2428969> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "55" .
+<http://localhost:8080/source/2428969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/2431711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2431711> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2431711> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "86" .
+
+<http://localhost:8080/source/2434951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2434951> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "54" .
+<http://localhost:8080/source/2434951> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/2445167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2445167> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "56" .
+<http://localhost:8080/source/2445167> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/2448852> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "55" .
+<http://localhost:8080/source/2448852> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2448852> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/2465157> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2465157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2465157> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "225" .
+
+<http://localhost:8080/source/2475095> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2475095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2475095> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "75" .
+
+<http://localhost:8080/source/2478117> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2478117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2478117> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "87" .
+
+<http://localhost:8080/source/2487685> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2487685> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "75" .
+<http://localhost:8080/source/2487685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/2541767> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2541767> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "95" .
+<http://localhost:8080/source/2541767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/2579727> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "240" .
+<http://localhost:8080/source/2579727> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2579727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/2582877> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+<http://localhost:8080/source/2582877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2582877> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "100" .
+
+<http://localhost:8080/source/2613779> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "108" .
+<http://localhost:8080/source/2613779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2613779> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/2621845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2621845> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "63" .
+<http://localhost:8080/source/2621845> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Apartment" .
+
+<http://localhost:8080/source/id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/id> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "type" .
+<http://localhost:8080/source/id> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "price" .
+
+<http://localhost:8080/source/249351> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "72" .
+<http://localhost:8080/source/249351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/249351> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/414591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/414591> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/414591> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "70" .
+
+<http://localhost:8080/source/1440752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1440752> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "76" .
+<http://localhost:8080/source/1440752> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/1440859> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/1440859> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "80" .
+<http://localhost:8080/source/1440859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/1689369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1689369> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/1689369> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "59" .
+
+<http://localhost:8080/source/1854763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1854763> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/1854763> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "170" .
+
+<http://localhost:8080/source/1921298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/1921298> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "110" .
+<http://localhost:8080/source/1921298> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/2017726> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/2017726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2017726> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "170" .
+
+<http://localhost:8080/source/2081704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2081704> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/2081704> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "74" .
+
+<http://localhost:8080/source/2236311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2236311> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "75" .
+<http://localhost:8080/source/2236311> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/2773830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2773830> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "78" .
+<http://localhost:8080/source/2773830> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/2890713> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/2890713> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "56" .
+<http://localhost:8080/source/2890713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/2909773> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/2909773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/2909773> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "95" .
+
+<http://localhost:8080/source/3062569> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/3062569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/3062569> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "72" .
+
+<http://localhost:8080/source/3365713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/3365713> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "55" .
+<http://localhost:8080/source/3365713> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/3464772> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "70" .
+<http://localhost:8080/source/3464772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/3464772> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/3469536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/3469536> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "110" .
+<http://localhost:8080/source/3469536> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/3484693> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/3484693> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "50" .
+<http://localhost:8080/source/3484693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/3591347> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/3591347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/3591347> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "115" .
+
+<http://localhost:8080/source/3676799> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "75" .
+<http://localhost:8080/source/3676799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/3676799> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/3780134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/3780134> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/3780134> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "50" .
+
+<http://localhost:8080/source/4073751> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "84" .
+<http://localhost:8080/source/4073751> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/4073751> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/4210132> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "55" .
+<http://localhost:8080/source/4210132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/4210132> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/4425260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/4425260> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "49" .
+<http://localhost:8080/source/4425260> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/4466786> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/4466786> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "48" .
+<http://localhost:8080/source/4466786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/4734463> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/4734463> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/4734463> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "79" .
+
+<http://localhost:8080/source/4984036> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/4984036> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "198" .
+<http://localhost:8080/source/4984036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/5176727> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "120" .
+<http://localhost:8080/source/5176727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/5176727> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/5198395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/5198395> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/5198395> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "61" .
+
+<http://localhost:8080/source/5821479> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "82" .
+<http://localhost:8080/source/5821479> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/5821479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/5996670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/5996670> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/5996670> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "74" .
+
+<http://localhost:8080/source/6220439> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "118" .
+<http://localhost:8080/source/6220439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/6220439> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/6345874> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "55" .
+<http://localhost:8080/source/6345874> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/6345874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/6345895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/6345895> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/6345895> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "75" .
+
+<http://localhost:8080/source/7034346> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/7034346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/7034346> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "76" .
+
+<http://localhost:8080/source/7208528> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/7208528> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/7208528> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "45" .
+
+<http://localhost:8080/source/7629271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/7629271> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "60" .
+<http://localhost:8080/source/7629271> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/7723970> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/7723970> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "22" .
+<http://localhost:8080/source/7723970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/7724982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/7724982> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/7724982> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "22" .
+
+<http://localhost:8080/source/7725932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/7725932> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/7725932> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "81" .
+
+<http://localhost:8080/source/7794557> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/7794557> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "120" .
+<http://localhost:8080/source/7794557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/7848759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/7848759> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "68" .
+<http://localhost:8080/source/7848759> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/7863209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/7863209> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/7863209> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "95" .
+
+<http://localhost:8080/source/7863958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/7863958> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "70" .
+<http://localhost:8080/source/7863958> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/8026380> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "71" .
+<http://localhost:8080/source/8026380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/8026380> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/8039887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/8039887> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "60" .
+<http://localhost:8080/source/8039887> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/8049005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/8049005> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/8049005> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "54" .
+
+<http://localhost:8080/source/8109135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/8109135> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/8109135> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "60" .
+
+<http://localhost:8080/source/8252993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/8252993> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "76" .
+<http://localhost:8080/source/8252993> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/8369105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/8369105> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/8369105> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "80" .
+
+<http://localhost:8080/source/8415500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/8415500> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/8415500> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "100" .
+
+<http://localhost:8080/source/8529956> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "130" .
+<http://localhost:8080/source/8529956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/8529956> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/8641708> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/8641708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/8641708> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "120" .
+
+<http://localhost:8080/source/8666291> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "56" .
+<http://localhost:8080/source/8666291> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/8666291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/9005917> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/9005917> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "43" .
+<http://localhost:8080/source/9005917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/9124013> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/9124013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/9124013> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "110" .
+
+<http://localhost:8080/source/9341840> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/9341840> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/9341840> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "45" .
+
+<http://localhost:8080/source/9384663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/9384663> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/9384663> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "75" .
+
+<http://localhost:8080/source/9620421> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/9620421> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/9620421> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "589" .
+
+<http://localhost:8080/source/10350088> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "32" .
+<http://localhost:8080/source/10350088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/10350088> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/11002130> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/11002130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/11002130> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "75" .
+
+<http://localhost:8080/source/11163269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/11163269> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "80" .
+<http://localhost:8080/source/11163269> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/11467369> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "64" .
+<http://localhost:8080/source/11467369> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/11467369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/11486025> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/11486025> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "53" .
+<http://localhost:8080/source/11486025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/12047429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/12047429> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/12047429> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "53" .
+
+<http://localhost:8080/source/12355211> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/12355211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/12355211> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "67" .
+
+<http://localhost:8080/source/12376427> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "51" .
+<http://localhost:8080/source/12376427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/12376427> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/12746965> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "45" .
+<http://localhost:8080/source/12746965> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/12746965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/13162961> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "90" .
+<http://localhost:8080/source/13162961> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/13162961> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/13629533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/13629533> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "90" .
+<http://localhost:8080/source/13629533> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/13631032> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/13631032> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "120" .
+<http://localhost:8080/source/13631032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/13780178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/13780178> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "35" .
+<http://localhost:8080/source/13780178> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/13849645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/13849645> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "500" .
+<http://localhost:8080/source/13849645> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/13849914> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/13849914> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "500" .
+<http://localhost:8080/source/13849914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/13849973> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/13849973> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "500" .
+<http://localhost:8080/source/13849973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/13850037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/13850037> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/13850037> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "500" .
+
+<http://localhost:8080/source/13850107> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "500" .
+<http://localhost:8080/source/13850107> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/13850107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/13851033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/13851033> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/13851033> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "500" .
+
+<http://localhost:8080/source/13862113> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "160" .
+<http://localhost:8080/source/13862113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/13862113> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/13873200> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "59" .
+<http://localhost:8080/source/13873200> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/13873200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/13954978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/13954978> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/13954978> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "34" .
+
+<http://localhost:8080/source/14003745> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/14003745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/14003745> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "48" .
+
+<http://localhost:8080/source/14083933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/14083933> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "152" .
+<http://localhost:8080/source/14083933> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/14119179> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/14119179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/14119179> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "80" .
+
+<http://localhost:8080/source/14742262> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/14742262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/14742262> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "112" .
+
+<http://localhost:8080/source/15156232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/15156232> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "45" .
+<http://localhost:8080/source/15156232> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/15156555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/15156555> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "45" .
+<http://localhost:8080/source/15156555> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/15156722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/15156722> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/15156722> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "45" .
+
+<http://localhost:8080/source/15224777> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "50" .
+<http://localhost:8080/source/15224777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/15224777> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/15224920> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/15224920> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "50" .
+<http://localhost:8080/source/15224920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/15225126> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/15225126> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "65" .
+<http://localhost:8080/source/15225126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/15493285> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/15493285> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "90" .
+<http://localhost:8080/source/15493285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/15654659> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/15654659> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "136" .
+<http://localhost:8080/source/15654659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/15667310> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/15667310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/15667310> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "99" .
+
+<http://localhost:8080/source/15667521> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/15667521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/15667521> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "89" .
+
+<http://localhost:8080/source/15673323> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/15673323> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "116" .
+<http://localhost:8080/source/15673323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/15673754> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/15673754> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "113" .
+<http://localhost:8080/source/15673754> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/15693922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/15693922> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "74" .
+<http://localhost:8080/source/15693922> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+
+<http://localhost:8080/source/15767742> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "113" .
+<http://localhost:8080/source/15767742> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "BB" .
+<http://localhost:8080/source/15767742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/id> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/id> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "type" .
+<http://localhost:8080/source/id> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "price" .
+
+<http://localhost:8080/source/H1> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H2> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H3> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H4> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H5> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H5> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "16000" .
+
+<http://localhost:8080/source/H6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H6> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H6> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "19000" .
+
+<http://localhost:8080/source/H7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H7> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H8> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H9> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H10> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H11> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H12> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "10500" .
+<http://localhost:8080/source/H12> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H13> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H13> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "17200" .
+
+<http://localhost:8080/source/H14> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H14> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "25000" .
+
+<http://localhost:8080/source/H15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H15> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H16> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H17> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H18> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H19> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "37200" .
+<http://localhost:8080/source/H19> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H20> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H21> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H22> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H23> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H24> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H25> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H26> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H27> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H27> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+
+<http://localhost:8080/source/H28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H28> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H29> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H30> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "13700" .
+<http://localhost:8080/source/H30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H30> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H31> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "27000" .
+<http://localhost:8080/source/H31> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H32> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H32> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "30000" .
+
+<http://localhost:8080/source/H33> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H34> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H35> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H36> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H37> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H37> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "30000" .
+<http://localhost:8080/source/H37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H38> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H39> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H40> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H41> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H42> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H43> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H44> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H45> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H45> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "18800" .
+
+<http://localhost:8080/source/H46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H46> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H46> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "8000" .
+
+<http://localhost:8080/source/H47> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "14400" .
+<http://localhost:8080/source/H47> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H48> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H49> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H50> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H51> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H52> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H53> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H54> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H55> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H56> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H57> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H58> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H58> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "23000" .
+<http://localhost:8080/source/H58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H59> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "31000" .
+<http://localhost:8080/source/H59> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H60> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "39000" .
+<http://localhost:8080/source/H60> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H61> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H61> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "9500" .
+<http://localhost:8080/source/H61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H62> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H62> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "20000" .
+<http://localhost:8080/source/H62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H63> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H63> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "27000" .
+
+<http://localhost:8080/source/H64> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H65> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H66> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H67> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H68> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H69> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H70> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H70> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "12000" .
+
+<http://localhost:8080/source/H71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H71> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "16500" .
+<http://localhost:8080/source/H71> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H72> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H73> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H74> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H75> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "21500" .
+<http://localhost:8080/source/H75> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H76> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H77> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H78> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H79> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H80> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H81> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H81> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "8000" .
+
+<http://localhost:8080/source/H82> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H82> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "13000" .
+
+<http://localhost:8080/source/H83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H83> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "17000" .
+<http://localhost:8080/source/H83> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H84> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H85> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H86> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H87> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H88> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H89> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H89> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "23200" .
+
+<http://localhost:8080/source/H90> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "32480" .
+<http://localhost:8080/source/H90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H90> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H91> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H92> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H93> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H94> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H95> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H96> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/H97> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H98> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/H99> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/postcode> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "type" .
+<http://localhost:8080/source/postcode> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "price" .
+<http://localhost:8080/source/postcode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC1> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC2> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC3> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC4> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC5> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC6> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC7> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1300" .
+<http://localhost:8080/source/CC7> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC8> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC8> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC9> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC9> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC10> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC10> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "8000" .
+
+<http://localhost:8080/source/CC11> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC11> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "4500" .
+<http://localhost:8080/source/CC11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC12> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "6000" .
+<http://localhost:8080/source/CC12> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC13> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC14> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC15> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC15> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1200" .
+
+<http://localhost:8080/source/CC16> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC16> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC17> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC18> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC19> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC20> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC21> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC22> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC23> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC23> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+
+<http://localhost:8080/source/CC24> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC24> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC25> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC25> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+
+<http://localhost:8080/source/CC26> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC27> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC28> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC29> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC30> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC31> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC32> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "600" .
+<http://localhost:8080/source/CC32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC32> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC33> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC33> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+
+<http://localhost:8080/source/CC34> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC35> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC36> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC37> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC37> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1300" .
+<http://localhost:8080/source/CC37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC38> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC38> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC39> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "11000" .
+<http://localhost:8080/source/CC39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC39> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC40> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "12300" .
+<http://localhost:8080/source/CC40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC40> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC41> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC42> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC43> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC44> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC45> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC46> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC46> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1000" .
+<http://localhost:8080/source/CC46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC47> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC47> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC48> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC49> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC50> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC51> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC52> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC53> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC54> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC55> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC55> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1450" .
+
+<http://localhost:8080/source/CC56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC56> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC56> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC57> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC58> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC59> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC60> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC61> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC62> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC63> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC63> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1300" .
+<http://localhost:8080/source/CC63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC64> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC64> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+
+<http://localhost:8080/source/CC65> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC65> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC66> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC66> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "11000" .
+
+<http://localhost:8080/source/CC67> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC68> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC69> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC70> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC71> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC71> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1150" .
+<http://localhost:8080/source/CC71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC72> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC72> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+
+<http://localhost:8080/source/CC73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC73> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC74> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC75> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "900" .
+<http://localhost:8080/source/CC75> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC76> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC76> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC77> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC77> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+
+<http://localhost:8080/source/CC78> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC79> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC80> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC81> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC81> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1100" .
+<http://localhost:8080/source/CC81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC82> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC82> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC83> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC84> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC85> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC86> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC87> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC88> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC88> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1280" .
+<http://localhost:8080/source/CC88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC89> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC89> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+
+<http://localhost:8080/source/CC90> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "18500" .
+<http://localhost:8080/source/CC90> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC91> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC92> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC93> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC94> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC95> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC96> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC97> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC98> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1400" .
+<http://localhost:8080/source/CC98> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+
+<http://localhost:8080/source/CC99> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Accommodation_GID-14254> .
+<http://localhost:8080/source/CC99> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+
+

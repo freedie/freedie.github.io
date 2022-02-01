@@ -1,0 +1,873 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix etype: <http://knowdive.disi.unitn.it/etype#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node1foeid0jrx1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "bed_and_breakfast.json" ;
+	km-dev:modelPublicationTime "1641166570108"^^xsd:long ;
+	km-dev:modelVersion "1.7" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"id\"}],[{\"columnName\":\"beds\"}],[{\"columnName\":\"name\"}],[{\"columnName\":\"Location_ID\"}],[{\"columnName\":\"neighbourhood\"}],[{\"columnName\":\"price\"}],[{\"columnName\":\"description\"}],[{\"columnName\":\"bedrooms\"}],[{\"columnName\":\"type\"}],[{\"columnName\":\"room_type\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"id\"}],[{\"columnName\":\"beds\"}],[{\"columnName\":\"name\"}],[{\"columnName\":\"Location_ID\"}],[{\"columnName\":\"neighbourhood\"}],[{\"columnName\":\"price\"}],[{\"columnName\":\"description\"}],[{\"columnName\":\"bedrooms\"}],[{\"columnName\":\"type\"}],[{\"columnName\":\"room_type\"}]]" ;
+	km-dev:hasModelLabel "bed_and_breakfast.json" ;
+	km-dev:hasWorksheetHistory """[
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"id\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-22651\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-226511\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_ID_GID-31465_Type-14254\",
+                    \"DomainLabel\": \"etype:Bed_and_breakfast_GID-226511\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"id\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"id\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"name\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-22651\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-226511\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_NAME_GID-2_Type-22651\",
+                    \"DomainLabel\": \"etype:Bed_and_breakfast_GID-226511\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"name\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"name\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"description\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-22651\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-226511\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_description_GID-3_Type-22651\",
+                    \"DomainLabel\": \"etype:Bed_and_breakfast_GID-226511\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"description\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"description\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"neighbourhood\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-22651\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-226511\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_neighborhood_GID-46483_Type-22651\",
+                    \"DomainLabel\": \"etype:Bed_and_breakfast_GID-226511\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"neighbourhood\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"neighbourhood\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetMetaPropertyCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Location_ID\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"metaPropertyName\",
+                \"type\": \"other\",
+                \"value\": \"isUriOfClass\"
+            },
+            {
+                \"name\": \"metaPropertyUri\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Location_GID-779\"
+            },
+            {
+                \"name\": \"metaPropertyId\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Location_GID-7791\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Location_GID-779\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Location_GID-7791\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
+                    \"DomainLabel\": \"etype:Location_GID-7791 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Location_ID\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Location_ID\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"room_type\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-22651\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-226511\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_room_type_GID-22651_Type-22651\",
+                    \"DomainLabel\": \"etype:Bed_and_breakfast_GID-226511\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"room_type\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"room_type\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"bedrooms\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-22651\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-226511\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_bedroom_GID-15104_Type-22651\",
+                    \"DomainLabel\": \"etype:Bed_and_breakfast_GID-226511\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"bedrooms\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"bedrooms\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"beds\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-22651\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-226511\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_bed_GID-15089_Type-22651\",
+                    \"DomainLabel\": \"etype:Bed_and_breakfast_GID-226511\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"beds\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"beds\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"price\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-22651\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-226511\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254\",
+                    \"DomainLabel\": \"etype:Bed_and_breakfast_GID-226511\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"price\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"price\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"type\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-22651\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-226511\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254\",
+                    \"DomainLabel\": \"etype:Bed_and_breakfast_GID-226511\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"type\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"type\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Location_GID-7791\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Location_GID-779\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-226511\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-22651\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    }
+]""" .
+
+km-dev:TriplesMap_a20d35ef-1d8e-4482-bc5b-5fee0f9f9da1 a rr:TriplesMap .
+
+_:node1foeid0jrx1 km-dev:hasTriplesMap km-dev:TriplesMap_a20d35ef-1d8e-4482-bc5b-5fee0f9f9da1 .
+
+km-dev:TriplesMap_a20d35ef-1d8e-4482-bc5b-5fee0f9f9da1 km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx2 rr:tableName "bed_and_breakfast.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasLogicalTable _:node1foeid0jrx2 .
+
+km-dev:TriplesMap_a20d35ef-1d8e-4482-bc5b-5fee0f9f9da1 rr:logicalTable _:node1foeid0jrx2 ;
+	rr:subjectMap _:node1foeid0jrx3 .
+
+_:node1foeid0jrx1 km-dev:hasSubjectMap _:node1foeid0jrx3 .
+
+_:node1foeid0jrx3 km-dev:isPartOfMapping _:node1foeid0jrx1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Bed_and_breakfast_GID-226511" ;
+	rr:class etype:Bed_and_breakfast_GID-22651 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Bed_and_breakfast_GID-226511" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_f731b924-6879-43cc-9670-a0bbaf703786 rr:predicate etype:has_Location_GID-779_Type-779 .
+
+km-dev:RefObjectMap_958ba496-016c-4f03-8f0a-4a07f2b92794 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_98b4b31f-4d62-410e-b9d8-954b3277167d ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasObjectMap km-dev:RefObjectMap_958ba496-016c-4f03-8f0a-4a07f2b92794 .
+
+km-dev:PredicateObjectMap_f731b924-6879-43cc-9670-a0bbaf703786 rr:objectMap km-dev:RefObjectMap_958ba496-016c-4f03-8f0a-4a07f2b92794 .
+
+km-dev:TriplesMap_a20d35ef-1d8e-4482-bc5b-5fee0f9f9da1 rr:predicateObjectMap km-dev:PredicateObjectMap_f731b924-6879-43cc-9670-a0bbaf703786 .
+
+km-dev:PredicateObjectMap_f731b924-6879-43cc-9670-a0bbaf703786 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_f731b924-6879-43cc-9670-a0bbaf703786 .
+
+km-dev:PredicateObjectMap_5628af7b-b649-4485-b086-aa1c2a9227de rr:predicate etype:has_ID_GID-31465_Type-14254 .
+
+_:node1foeid0jrx4 rr:column "id" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasObjectMap _:node1foeid0jrx4 .
+
+km-dev:PredicateObjectMap_5628af7b-b649-4485-b086-aa1c2a9227de rr:objectMap _:node1foeid0jrx4 .
+
+km-dev:TriplesMap_a20d35ef-1d8e-4482-bc5b-5fee0f9f9da1 rr:predicateObjectMap km-dev:PredicateObjectMap_5628af7b-b649-4485-b086-aa1c2a9227de .
+
+km-dev:PredicateObjectMap_5628af7b-b649-4485-b086-aa1c2a9227de a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_5628af7b-b649-4485-b086-aa1c2a9227de .
+
+km-dev:PredicateObjectMap_9fd00349-aec1-495f-945f-72fefdd2373d rr:predicate etype:has_bed_GID-15089_Type-22651 .
+
+_:node1foeid0jrx5 rr:column "beds" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasObjectMap _:node1foeid0jrx5 .
+
+km-dev:PredicateObjectMap_9fd00349-aec1-495f-945f-72fefdd2373d rr:objectMap _:node1foeid0jrx5 .
+
+km-dev:TriplesMap_a20d35ef-1d8e-4482-bc5b-5fee0f9f9da1 rr:predicateObjectMap km-dev:PredicateObjectMap_9fd00349-aec1-495f-945f-72fefdd2373d .
+
+km-dev:PredicateObjectMap_9fd00349-aec1-495f-945f-72fefdd2373d a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_9fd00349-aec1-495f-945f-72fefdd2373d .
+
+km-dev:PredicateObjectMap_53730b6c-f0f0-42a3-b5f3-0bdddde339e1 rr:predicate etype:has_NAME_GID-2_Type-22651 .
+
+_:node1foeid0jrx6 rr:column "name" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasObjectMap _:node1foeid0jrx6 .
+
+km-dev:PredicateObjectMap_53730b6c-f0f0-42a3-b5f3-0bdddde339e1 rr:objectMap _:node1foeid0jrx6 .
+
+km-dev:TriplesMap_a20d35ef-1d8e-4482-bc5b-5fee0f9f9da1 rr:predicateObjectMap km-dev:PredicateObjectMap_53730b6c-f0f0-42a3-b5f3-0bdddde339e1 .
+
+km-dev:PredicateObjectMap_53730b6c-f0f0-42a3-b5f3-0bdddde339e1 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_53730b6c-f0f0-42a3-b5f3-0bdddde339e1 .
+
+km-dev:PredicateObjectMap_e877929a-4b56-4ec1-ac79-c76996d9bac3 rr:predicate etype:has_neighborhood_GID-46483_Type-22651 .
+
+_:node1foeid0jrx7 rr:column "neighbourhood" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasObjectMap _:node1foeid0jrx7 .
+
+km-dev:PredicateObjectMap_e877929a-4b56-4ec1-ac79-c76996d9bac3 rr:objectMap _:node1foeid0jrx7 .
+
+km-dev:TriplesMap_a20d35ef-1d8e-4482-bc5b-5fee0f9f9da1 rr:predicateObjectMap km-dev:PredicateObjectMap_e877929a-4b56-4ec1-ac79-c76996d9bac3 .
+
+km-dev:PredicateObjectMap_e877929a-4b56-4ec1-ac79-c76996d9bac3 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_e877929a-4b56-4ec1-ac79-c76996d9bac3 .
+
+km-dev:PredicateObjectMap_89b61555-5826-4474-9472-7667f75b2646 rr:predicate etype:has_price_GID-70571_Type-14254 .
+
+_:node1foeid0jrx8 rr:column "price" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasObjectMap _:node1foeid0jrx8 .
+
+km-dev:PredicateObjectMap_89b61555-5826-4474-9472-7667f75b2646 rr:objectMap _:node1foeid0jrx8 .
+
+km-dev:TriplesMap_a20d35ef-1d8e-4482-bc5b-5fee0f9f9da1 rr:predicateObjectMap km-dev:PredicateObjectMap_89b61555-5826-4474-9472-7667f75b2646 .
+
+km-dev:PredicateObjectMap_89b61555-5826-4474-9472-7667f75b2646 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_89b61555-5826-4474-9472-7667f75b2646 .
+
+km-dev:PredicateObjectMap_805379e2-c06a-4aec-a582-08074dd01d38 rr:predicate etype:has_description_GID-3_Type-22651 .
+
+_:node1foeid0jrx9 rr:column "description" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasObjectMap _:node1foeid0jrx9 .
+
+km-dev:PredicateObjectMap_805379e2-c06a-4aec-a582-08074dd01d38 rr:objectMap _:node1foeid0jrx9 .
+
+km-dev:TriplesMap_a20d35ef-1d8e-4482-bc5b-5fee0f9f9da1 rr:predicateObjectMap km-dev:PredicateObjectMap_805379e2-c06a-4aec-a582-08074dd01d38 .
+
+km-dev:PredicateObjectMap_805379e2-c06a-4aec-a582-08074dd01d38 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_805379e2-c06a-4aec-a582-08074dd01d38 .
+
+km-dev:PredicateObjectMap_65406013-58c0-4c32-b0d2-b7f07ee6ba7c rr:predicate etype:has_bedroom_GID-15104_Type-22651 .
+
+_:node1foeid0jrx10 rr:column "bedrooms" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasObjectMap _:node1foeid0jrx10 .
+
+km-dev:PredicateObjectMap_65406013-58c0-4c32-b0d2-b7f07ee6ba7c rr:objectMap _:node1foeid0jrx10 .
+
+km-dev:TriplesMap_a20d35ef-1d8e-4482-bc5b-5fee0f9f9da1 rr:predicateObjectMap km-dev:PredicateObjectMap_65406013-58c0-4c32-b0d2-b7f07ee6ba7c .
+
+km-dev:PredicateObjectMap_65406013-58c0-4c32-b0d2-b7f07ee6ba7c a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_65406013-58c0-4c32-b0d2-b7f07ee6ba7c .
+
+km-dev:PredicateObjectMap_08fa2509-ad28-47dd-9a98-0544cf86c43c rr:predicate etype:has_type_GID-31834_Type-14254 .
+
+_:node1foeid0jrx11 rr:column "type" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasObjectMap _:node1foeid0jrx11 .
+
+km-dev:PredicateObjectMap_08fa2509-ad28-47dd-9a98-0544cf86c43c rr:objectMap _:node1foeid0jrx11 .
+
+km-dev:TriplesMap_a20d35ef-1d8e-4482-bc5b-5fee0f9f9da1 rr:predicateObjectMap km-dev:PredicateObjectMap_08fa2509-ad28-47dd-9a98-0544cf86c43c .
+
+km-dev:PredicateObjectMap_08fa2509-ad28-47dd-9a98-0544cf86c43c a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_08fa2509-ad28-47dd-9a98-0544cf86c43c .
+
+km-dev:PredicateObjectMap_93424e2d-2e96-4b38-9907-2badba4ac84e rr:predicate etype:has_room_type_GID-22651_Type-22651 .
+
+_:node1foeid0jrx12 rr:column "room_type" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasObjectMap _:node1foeid0jrx12 .
+
+km-dev:PredicateObjectMap_93424e2d-2e96-4b38-9907-2badba4ac84e rr:objectMap _:node1foeid0jrx12 .
+
+km-dev:TriplesMap_a20d35ef-1d8e-4482-bc5b-5fee0f9f9da1 rr:predicateObjectMap km-dev:PredicateObjectMap_93424e2d-2e96-4b38-9907-2badba4ac84e .
+
+km-dev:PredicateObjectMap_93424e2d-2e96-4b38-9907-2badba4ac84e a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_93424e2d-2e96-4b38-9907-2badba4ac84e .
+
+km-dev:TriplesMap_98b4b31f-4d62-410e-b9d8-954b3277167d a rr:TriplesMap .
+
+_:node1foeid0jrx1 km-dev:hasTriplesMap km-dev:TriplesMap_98b4b31f-4d62-410e-b9d8-954b3277167d .
+
+km-dev:TriplesMap_98b4b31f-4d62-410e-b9d8-954b3277167d km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx13 rr:tableName "bed_and_breakfast.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1foeid0jrx1 .
+
+_:node1foeid0jrx1 km-dev:hasLogicalTable _:node1foeid0jrx13 .
+
+km-dev:TriplesMap_98b4b31f-4d62-410e-b9d8-954b3277167d rr:logicalTable _:node1foeid0jrx13 ;
+	rr:subjectMap _:node1foeid0jrx14 .
+
+_:node1foeid0jrx1 km-dev:hasSubjectMap _:node1foeid0jrx14 .
+
+_:node1foeid0jrx14 km-dev:isPartOfMapping _:node1foeid0jrx1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Location_GID-7791" ;
+	rr:class etype:Location_GID-779 ;
+	rr:template "{Location_ID}" .

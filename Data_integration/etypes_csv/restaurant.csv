@@ -1,0 +1,469 @@
+﻿id,city,housenumber,postcode,street,contact:email,phone_number,cuisine,name,outdoor_seating,takeaway,website,opening_hours,wheelchair,delivery,smoking,internet_access,diet_vegan,brewery,Location_ID,amenity
+3101758142,Trento,6,38123,Via dei Marinai d'Italia,info@almarinaio.eu,+39 0461 933053,italian,L'Altro,Groff Giovanni S.R.L.,IT01143870226,http://www.almarinaio.eu,24-Jul,,,,,,,R1,restaurant
+4233651058,Trento,30,38123,Via dei Marinai d'Italia,isotta@risto3.it,+39 0461 1734471,,Self Isotta,,,http://www.risto3.it/ristoranti-self/trento/isotta,"Mo-Su,PH 00:00-24:00",,,,,,,R2,restaurant
+6953660212,Trento,45,38123,Via Stella di Man,,,,Tentazioni,,,,,,,,,,,R3,restaurant
+431475183,Trento,16,38123,Piazzale Europa,,,indian;italian;pizza,La Terrazza,,,,"Mo-Su 11:30-14:30,17:30-23:30",yes,,,,,,R4,restaurant
+890516959,Trento,57,38122,Via Fratelli Perini,,+39 0461 392394,regional;fish,Happy Hour,,,http://ristorantehappyhour.blogspot.it/,Tu-Sa 07:00-00:00; Su 07:00-20:00,,,,,,,R5,restaurant
+1477270680,Trento,29,38122,Via San Pio X,,+39 0461 092843,italian;pizza,Aroma,,yes,https://www.facebook.com/Ristorante-Pizzeria-Aroma-Trento-358155874726541/,Mo-Sa 06:30-23:00,,,,,,,R6,restaurant
+3737813836,Trento,15,38123,Piazza delle Donne lavoratrici,,,american,Old Wild West,yes,yes,http://www.oldwildwest.com/,,,,,,,,R7,restaurant
+3833840613,Trento,6,38122,Via Fratelli Perini,,+39 0461 091605,,Mister Pizza Caffè,,IT02303280222,,,,,,,,,R8,restaurant
+428644278,Trento,62,38122,Via Gocciadoro,,,italian,Ristorante Loto S.r.l.,,,,,,,separated,,,,R9,restaurant
+430531035,Trento,73,38123,Viale Verona,,+39 0461 910076,pizza,Blue Sax,,IT00668940224,,Su Off,,,,,,,R10,restaurant
+431648975,Trento,39/4,38123,Via Roberto da Sanseverino,sapori.mediterranei@hotmail.it,+39 0461 984360,fish;pizza;barbecue,Sapori Mediterranei,,,,"Tu-Su 12:00-14:30,19:00-23:30",,,,,,,R11,restaurant
+1290442756,Trento,7,38122,Piazza Ezio Mosna,,,japanese,Yoisushi,,,,,,,,,,,R12,restaurant
+2397156968,Trento,8,38122,Corso del Lavoro e della Scienza,,+39 0461 038998,,Le Albere Cafè,yes,IT03661000269,,"Tu-Su 07:00-20:30, Mo 07:00-15:00",,,,,,,R13,restaurant
+867439213,Trento,29,38122,Corso III Novembre,,+39 0461 524634,japanese,Fujiyama,Chen Jie & C Snc,IT02567000225,,,,,,,,,R14,restaurant
+1264896565,Trento,80,38122,Via Milano,,,italian,Al Gusto,La cucina di Corrado,,,,,,,,,,R15,restaurant
+431658690,Trento,15/B,38122,Via Giuseppe Verdi,,+39 0461 231712,pizza,Pizzeria da Albert,yes,,https://www.facebook.com/PizzeriaDaAlbert/,,,,,,,,R16,restaurant
+431658709,Trento,1,38122,Via degli Orti,info@tetleyspub.it,+39 0461 233477,,Pizzeria Tetley's,yes,yes,www.tetleyspub.it,"Mo-Su 18:00-24:00; Th 07:00-14:00,18:00-24:00",,,,,,,R17,restaurant
+463189395,Trento,1,38122,Piazza Santa Teresa Verzeri,info@aivicoli.it,+39 0461 260673,,Ai Vicoli,yes,,http://www.aivicoli.it/,Su Off,,,,,,,R18,restaurant
+557150278,,,,,,+39 0461 261792,regional;pizza,Rosa D'Oro,yes,,,"Mo-Sa 12:00-14:30,19:00-24:00",,,,,,,R19,restaurant
+557197347,Trento,11-Jan,38122,Via Don Giovanni Battista Zanella,,+39 0461 234435,chinese;japanese;thai,Orient,,IT01713660221,http://www.ristoranteorient.it,,no,,,,,,R20,restaurant
+557197352,Trento,77,38122,Via Giuseppe Verdi,,+39 0461 237209,pizza,Al Duomo,yes,,,,,,,,,,R21,restaurant
+811087041,Trento,11,38122,Via Don Arcangelo Rizzi,info@leduespade.com,+39 0461 234343,,Le due spade,yes,,http://www.leduespade.com,,,,,,,,R22,restaurant
+865298453,Trento,29,38122,Piazza del Duomo,,+39 0461 220030,,Scrigno Del Duomo,yes,IT01671580221,http://www.scrignodelduomo.com/,,limited,,,,,,R23,restaurant
+877620681,Trento,19,38122,Via Antonio Rosmini,ilsimposiotrento@gmail.com,+39 0461 261848,,Il Simposio,,,http://www.ilsimposio.net,"Tu-Fr,Su 18:00-01:00; Fr,Sa 18:00-02:00",,+39 348 3132160,,,,,R24,restaurant
+1211136673,Trento,34,38122,Piazza Santa Maria Maggiore,info@tastiko.it,,,Tàstiko,yes,yes,http://www.tastiko.it/,,,,,,,,R25,restaurant
+2578549625,Trento,3,38122,Viale Adriano Olivetti,,,japanese,Shi's,yes,yes,,,,yes,,,,,R26,restaurant
+8232536591,Trento,19,38122,Via Giuseppe Verdi,trento@waikikipoke.it,+39 0461 141 7506,,Waikiki Poké Trento,yes,yes,http://www.waikikipoke.it/,,,,,,,,R27,restaurant
+268430904,Trento,8,38122,Via Roggia Grande,info@oldbar.it,+39 0461 263263,,Old Bar & Food,,IT01307790228,http://www.oldbar.it,"Mo-Sa 10:00-16:00,18:00-24:00",,,,,,,R28,restaurant
+268432521,Trento,10,38122,Via Santissima Trinitá,,,,Trattoria Al Tino,,,,,,,,,,,R29,restaurant
+268435080,Trento,15,38122,Piazza Giovanni Battista Garzetti,,,,Trattoria Al Mercato,yes,,,,,,,,,,R30,restaurant
+268435081,Trento,20,38122,Prima Androna di Borgo Nuovo,info@3portoni.it,+39 0461 261375,fish;pizza,Borgo Nuovo Trento,yes,IT01917760223,http://3portoni.it/,,,,,,,,R31,restaurant
+269193730,Trento,13,38122,Piazza di Fiera,info@birreriapedavena.com,+39 0461 986255,,Birreria Pizzeria Pedavena,yes,IT01401290224,http://www.birreriapedavena.com,"Mo,We 09:00-24:00; Tu 00:00-00:30; Th,Fr 00:00-00:30,09:00-24:00; Sa,Su 00:00-01:00,09:00-24:00",limited,,,,,,R32,restaurant
+269193732,Trento,16,38122,Via Santa Croce,trattoria_al_volt@yahoo.it,+39 0461 983776,italian,Trattoria al Volt,,,http://tienne.it/alvolt/,"12:00-15:00,19:30-24:00",no,,,,,,R33,restaurant
+431658713,Trento,19,38122,Via degli Orti,info@orsogrigiotrento.com,+39 0461 984400,italian;regional,Orso Grigio,,,http://www.orsogrigiotrento.com/,"Mo-Sa 12:00-14:30,19:30-22:30; Su Off",,,,,,,R34,restaurant
+570818625,Trento,14,38122,Via del Simonino,reservation.cadeicobj@gmail.com,+39 0461 262730,pizza;regional,Ca' dei Gobj - Ristorante Birreria,yes,IT02011980220,,"Mo-Su 11:30-14:00,18:30-22:00",yes,,,,,,R35,restaurant
+877620656,,,,,,,,Ristorante Patelli,,,,,no,,,,,,R36,restaurant
+892579043,Trento,35,38122,Via Dietro le Mura A,uvaementa@yahoo.it,+39 0461 1903162,italian;pizza,Uva & Menta,yes,IT02169000227,http://www.uvaementa.it,"Mo off, Tu-Fr 12:00-14:30,19:00-23:30, Sa-Su 19:00-23:30",no,,no,,,various,R37,restaurant
+969087852,Trento,1,38122,Piazza Adamo D'Arogno,domopop.trento@gmail.com,+39 0461 1416669,,Domo,yes,yes,https://www.facebook.com/Domo-Trento-100670871803717/,,,,,,,,R38,restaurant
+1062772452,Trento,39,38122,Via Calepina,,+39 0461 262666,fish,Terramia,yes,,https://www.facebook.com/Terramia-Ristorante-1460977600881448/,"Mo Off; Tu-Su 12:00-15:00, 19:00-22:30",,,,,,,R39,restaurant
+1312818573,Trento,33,38122,Via Giuseppe Mazzini,,,,Nunu’s,yes,,,,,,,,,,R40,restaurant
+1369533422,Trento,28,38122,Via Calepina,,,,Tipico,yes,,,Mo-Su 18:00-23:00,no,,,,,,R41,restaurant
+1493571219,,,,,,,,La Stua,Pisoni M. & C SNC,IT01449360229,,,,,,,,,R42,restaurant
+1493571353,Trento,1,38122,Via dei Mille,,+39 0461 391118,japanese;thai,Saporoso,Chen E Mei di Zhan Hong Mei,IT01888770227,http://www.ristorantesaporoso.it,,,,,,,,R43,restaurant
+4412996446,,,,,,,,Roccaforte Trentina,,,,,,,,,,,R44,restaurant
+4952166591,Trento,88,38122,Via Santa Croce,vecchiatrento@gmail.com,+39 0461 235352,indian;pizza,Vecchia Trento,yes,IT02311740225,,,,,,,,,R45,restaurant
+430673959,Trento,15,38122,Via Prepositura,,,chinese,Sapori d'Asia,Nuova Asia SAS Xie Bingchu & C.,IT02270970227,,,,,,,,,R46,restaurant
+557149998,Trento,4,38122,Via delle Orne,chiste-2011@live.it,+39 0461 262979,neapolitan;pizza;fish,Ristorante Pizzeria Chistè,yes,,,Mo-Su 11:30-23:30,,,,,,,R47,restaurant
+885669886,Trento,5,38122,Piazzetta Bruno Lunelli,info@osteriailcappello.it,+39 0461 235850,regional,Osteria il Cappello,,IT01504500222,http://www.osteriailcappello.it/,"Mo-Sa 12:00-14:00,19:30-22:00",,,,,,,R48,restaurant
+885670117,Trento,10,38122,Piazzetta Anfiteatro,,,pizza,Ristorante Pizzeria Anfiteatro,,,,,,,,,,,R49,restaurant
+1147756663,Trento,38,38122,Via Paolo Oss Mazzurana,fb.trento@forst.it,+39 0461 235590,german,Forsterbräu Trento,yes,IT02212190223,,"Tu-Su 12:00-14:30,18:00-23:00",limited,,,,no,Forst,R50,restaurant
+1462796976,Trento,14,38122,Via Malpaga,,+39 0461 262109,japanese,Sushizen,yes,IT02189290220,,,,,,,,,R51,restaurant
+8986484117,,,,,,,,Al Diciassette,,,,,,,,,,,R52,restaurant
+432473109,,148,,Via Milano,info@doctrento.it,+39 0461 262022,pizza;regional;breakfast;coffee_shop;bavarian;italian;italian_pizza;local;german;friture;seafood;ice_cream;pasta;chicken;sausage;cake;tea,Ristorante Pizzeria Doc,,IT02087800229,http://www.doctrento.it,"Mo-Fr 08:30-14:30, 18:00-00:00; Sa-Su 17:00-00:00",,,,wlan,,,R53,restaurant
+853802341,,,,,,,kebab;pizza,Mamma Mia,,,,,,,,,,,R54,restaurant
+558628481,,,,,,,italian,Antica Trattoria Due Mori,,,,,,,,,,,R55,restaurant
+563754485,Trento,6,38122,Vicolo San Marco,,+39 0461 987197,pizza;regional,Alla Grotta,Gepim s.n.c. di Calzà Stefano & C.,IT01585010224,,"Mo-Sa 12:00-14:30,18:00-24:00",yes,,,,yes,,R56,restaurant
+885669909,Trento,6,38122,Vicolo della S.A.T.,,+39 0461 262943,coffee_shop;grill;italian;italian_pizza;local;seafood;pasta;fish;pizza;chicken;fine_dining;cake;noodles;ice_cream;curry,Antico Pozzo,,,http://www.antico-pozzo.it/,"Mo-Su 12:00-14:30, 18:00-24:00",,,,wlan,,,R57,restaurant
+1366801084,Trento,13,38122,Via Livio Marchetti,,,,La Sacrestia,,,,,,,,,,,R58,restaurant
+1366801107,Trento,22,38122,Via San Marco,,,italian;regional,La cantinotta,,IT02083090221,,"Mo-Su 12:00-15:00,19:00-23:00; Th off; Fr 19:00-23:00",yes,,,,yes,,R59,restaurant
+6438863499,,,,,,,fish;italian,Terra Mia,,,,,,,,,,,R60,restaurant
+8758596219,Trento,31,38122,Vicolo dell'Adige,soulkitchensrls@gmail.com,,,Soul Kitchen Bistrot,Soul Kitchen S.r.l.s.,IT02482580228,https://soulkitchenbistrot.it/,"Mo 18:00-23:00; Tu-Sa 11:30-14:30,18:00-23:00",,yes,,wlan,,,R61,restaurant
+1138738197,Trento,56/A,38122,Corso Michelangelo Buonarroti,,+39 0461 984255,indian;pizza,Welcome India,yes,IT02177180227,http://www.welcomeindia.it/,"Mo-Su 12:00-14:30,18:00-23:30",yes,,,,,,R62,restaurant
+269184890,,,,,,,pizza,Acquaefarina pizzaiolo per passione,,,,"Tu-Sa 12:00-14:30,19:00-23:00; Su 19:00-23:00; Mo off",yes,,,,yes,,R63,restaurant
+556679636,Trento,29,38122,Via Torre Verde,info@ristorantegreentower.it,+39 0461 231545,pizza;regional,Ristorante Pizzeria Green Tower,Green Tower S.R.L.,IT02305330223,http://www.ristorantegreentower.it,"Tu-Su 12:00-14:30,19:00-02:00; Sa 19:00-02:00",yes,,,,yes,,R64,restaurant
+811087138,,,,,,,italian;pizza;regional,Ristorante/Pizzeria Petrarca,,,,,,,,,,,R65,restaurant
+877621024,Trento,01-Apr,38122,Via Francesco Petrarca,info@bouganvilletrento.it,+39 0461 236666,italian;pizza,Bouganville,,IT00668510225,http://www.bouganvilletrento.it/,,,,,,,,R66,restaurant
+959910997,Trento,7,38122,Via Antonio Gazzoletti,,,italian,Giulia,,,,Mo-Th 11:30-14:15,,,,,no,,R67,restaurant
+1633007143,Trento,60,38122,Via Torre Verde,,,,Caracolito,,,,,,,,,,,R68,restaurant
+1633007183,Trento,7,38122,Piazzetta Nicolò Rasmo,info@maisondefilip.it,+39 0461 1415530,,La Maison de Filip,yes,,https://www.maisondefilip.it/,,,,,,,,R69,restaurant
+2673313358,Trento,20,38122,Via del Suffragio,,+39 0461 096502,italian,Locanda Le Due Travi,yes,,https://www.locandaleduetravi.it/,,,,,,,,R70,restaurant
+3849792216,Trento,1,38122,Via Felice e Gregorio Fontana,,,indian,Golden India,,,,,,,,,,,R71,restaurant
+269193687,Trento,103,38122,Via della Malvasia,contecosi@yahoo.it,+39 0461 987303,pizza;fish;regional,Pizzeria Vesuvio,,IT00828430223,http://www.alvesuvio.it/,"Mo,We-Su 12:00-14:30,18:00-02:00; Tu off",yes,,,,,,R72,restaurant
+468069349,,,,,,,pizza,Ristorante Pizzeria Nuova Castelli,,,,"Mo-Fr 12:00-14:30,18:30-23:30; Sa,Su 18:30-23:30",yes,,,,,,R73,restaurant
+2637298757,Trento,2,38122,Via del Brennero,trento@zushi.eu,+39 0461 092263,japanese,Zushi,,IT02303040220,http://www.zushi.eu/,"Tu-Sa 12:00-15:00,18:30-23:00; Su 18:30-23:00",yes,,,,yes,,R74,restaurant
+888671469,Trento,19,38121,"Piazza del ""Tridente""",,+39 0461 822287,pizza;regional,Trittico,yes,IT02058490224,,"Mo-Sa 12:00-14:00,18:30-23:00",,,,,,,R75,restaurant
+888671476,Trento,260/C,38121,Via del Brennero,,+39 0461 823186,chinese;japanese,China Town,yes,yes,,,yes,,,,,,R76,restaurant
+3693890436,Trento,190,38121,Via del Brennero,,,japanese,Shushika,yes,yes,,,,,,,,,R77,restaurant
+4213004875,Trento,260/L,38121,Via del Brennero,,,indian;pizza,Zavi Restaurant,,,,,,,,,,,R78,restaurant
+5239187880,Trento,111,38121,Via del Brennero,sushilandtrento@gmail.com,+39 0461 1580027,japanese,Sushiland,yes,yes,http://www.sushi-land.it/,"Mo-Su 12:00-15:00,19:00-23:30",,no,,,,,R79,restaurant
+1112898194,Trento,320,38121,Via del Brennero,,,,Ciao,,,,Mo-Sa 12:00-14:30,,,,,,,R80,restaurant
+1246694600,,,,,,,,Lucaffè,,,,,,,,,,,R81,restaurant
+1246694623,,,,,,,,Nord Cafè,,,,,,,,,,,R82,restaurant
+2589666378,Trento,4,38121,Via Luigi Brugnara,wok.foryou@libero.it,+39 0461 1596994,chinese;japanese;sushi,Wok For You,,IT02295420224,http://www.wokforyou.it/,"Mo-Su 11:30-14:30,18:30-23:30",,,,,,,R83,restaurant
+3755956939,Trento,16/A,38121,Via dei Solteri,,,,VeggyDays,,,,Mo-Sa 07:30-14:30; 18:00-22:00,yes,,,,only,,R84,restaurant
+1112898194,Trento,320,38121,Via del Brennero,,,,Ciao,,,,Mo-Sa 12:00-14:30,,,,,,,R85,restaurant
+1246694600,,,,,,,,Lucaffè,,,,,,,,,,,R86,restaurant
+1246694623,,,,,,,,Nord Cafè,,,,,,,,,,,R87,restaurant
+3755956939,Trento,16/A,38121,Via dei Solteri,,,,VeggyDays,,,,Mo-Sa 07:30-14:30; 18:00-22:00,yes,,,,only,,R88,restaurant
+895945447,Trento,42,38121,Via Padre Emilio Chiocchetti,ristorantetartufotrento@gmail.com,+39 0461 822233,indian;pizza,Tartufo,Chandi Snc di Singh Nirmal,IT02427640228,,,,,,,,,R89,restaurant
+8879333875,Trento,10,38121,Via Padre Emilio Chiocchetti,,,italian,Sapore di Stelle Bistrò,,,,,,,,,,,R90,restaurant
+9050734119,,73,,Via Renato Lunelli,,,italian,Detto Fatto,yes,yes,,,,,,,,,R91,restaurant
+4379398022,Trento,8,38121,Via 25 Aprile 1945,,,fish;pizza;regional,L'Anfora,Happy Hour S.A.S.,IT02002220222,,,yes,,,,,,R92,restaurant
+1272986451,Trento,203,38121,Via Ezio Maccani,,,regional;pizza,Ristorante Pizzeria Smakafam,,,,Mo-Su 07:00-23:00,,,,,,,R93,restaurant
+4628941240,Trento,191/D,38121,Via Ezio Maccani,,+39 0461 826673,american,America Graffiti,Novepuntoundici S.r.l.,,http://www.americagraffiti.it,,yes,,,,,,R94,restaurant
+4776882840,Trento,40,38121,Via del Commercio,,,,Bar Sirio,yes,,,Mo-Fr 07:00-16:00,,,outside,,,,R95,restaurant
+4776882851,Trento,5,38121,Via del Commercio,,,,Bar Spazio Prada,yes,yes,,"Mo-Fr 06:00-21:00, Sa 06:00-15:00",,no,outside,,,,R96,restaurant
+1773866574,Trento,4,38121,Via Bassa,,,pizza;regional,Canova,,,,,,,,,,,R97,restaurant
+4379398022,Trento,8,38121,Via 25 Aprile 1945,,,fish;pizza;regional,L'Anfora,Happy Hour S.A.S.,IT02002220222,,,yes,,,,,,R98,restaurant
+1773866574,Trento,4,38121,Via Bassa,,,pizza;regional,Canova,,,,,,,,,,,R99,restaurant
+1404110995,,,,,,,,,,,,,,,,,,,R100,restaurant
+37241682,Trento,21,38121,Via Martino Aichner,,+39 0461 990459,pizza;fish,El Merendero,,,,"Mo-Su 12:00-14:00,18:30-23:30; Tu off",,,,,,,R101,restaurant
+1979796467,Trento,21,38121,Via San Sebastian,,,,Terminal Ro.La.,,,,,,,,,,,R102,restaurant
+6586924485,,,,,,,pizza,Cilli's Pizza,,,,Tu-Su 18:00-22:00,,,,,,,R103,restaurant
+177004837,Gardolo,27-Jan,38121,Via Aeroporto,,,regional;italian,dal Birbante,,,,"Mo-Sa 11:30-14:00,18:30-22:00",,,,,,,R104,restaurant
+177004779,,,,,,,pizza;italian,Il Dopolavoro,,,,"Tu-Su 12:00-14:30,18:30-23:30",,,,,,,R105,restaurant
+7527311775,,,,,,,pizza,Carpe Diem,,,,,,,,,,,R106,restaurant
+1350658039,Gardolo,164/B,38121,Via Alto Adige,,+39 0461 993261,pizza;regional,Officina Gambrinus,Magnago Andrea,IT02075900221,http://www.officinagambrinus.com/,,,,,wlan,,,R107,restaurant
+562715340,Lavis,2,38015,Piazza Manci,,,pizza;regional,Pizzeria Corona,,,,,,,,,,,R108,restaurant
+562715344,,,,,,,,Pizzeria Dolomiti,,,,,,,,,,,R109,restaurant
+9208227296,Giovo,,38030,Strada Statale 612 della Val di Cembra,,,regional,Maso Franch,,,,"Mo-Su 12:00-14:30, 19:00-22:00",,,,,,,R110,restaurant
+667341321,,,,,,,,Perla d'Oro,,,,,,,,,,,R111,restaurant
+37832976,Lavis,46,,Via Rodolofo Zandonai,,,italian,Ristorante Vindimian,,,,,,,,,,,R112,restaurant
+355968440,San Michele all'Adige,47,38010,Via Don A. Tamanini,,+39 0461 650699,pizza;regional,Capriccio,"Corazza Barbara, Mauro & C.",IT02160810228,,,,,,,,,R113,restaurant
+4695403491,,29,38010,Via Roma,,,regional;italian;pizza;crepe;italian_pizza;local;coffee_shop,Pizzeria Cantuccio,Volkmer Gertrud Karla,,,Tu-Su 11:30-12:00,,,,,,,R114,restaurant
+75310719,Grumo,39,38010,Via G. Postal,ristorantedapino@ristorantedapino.it,+39 0461 650435,italian;regional;pizza,Ristorante da Pino,Moresco DAnilo e Caset Luciana,IT00600320220,http://www.ristorantedapino.it/,Mo Off,,,,,,,R115,restaurant
+267649391,,,,,,,pizza,Pizzeria Al Caminetto,,,,,,,,,,,R116,restaurant
+2881985266,Mezzocorona,29,38010,Piazza della Chiesa,,+39 0461 603823,pizza;regional,Da Demetrio,yes,IT00658870225,,,,,,,,,R117,restaurant
+4657167767,Mezzocorona,4,38016,Piazza San Gottardo,,+39 0461 601710,,Trattoria Dolce Spina,,,https://www.facebook.com/Dolce-Spina-Mezzocorona-277694462347714/,,,,,,,,R118,restaurant
+583550447,Trento,65,38122,Via alle Laste,info@pizzerialaste.it,+39 0461 231570,pizza,Pizzeria Laste,,IT01424840229,http://www.pizzerialaste.it/,"Mo-Su 11:30-14:00,18:30-23:00; Tu off",,,,,,addr:number: il sito dà come numero civico il 63. verificare,R119,restaurant
+292021580,Trento,36,38121,Via San Vito,,+39 0461 987031,pizza,Pizzeria Quattro Stagioni,Ristoranti Trentini Associati srl,IT00582810222,,Tu-Su 12:00-14:00; Tu-Su 18:30-23:00,yes,,,,,,R120,restaurant
+909818124,Trento,123,38122,Via Venezia,,,pizza,Korallo,,,,,,,no,,,,R121,restaurant
+247887464,,,,,,,,Pizzeria Al Villaggio,,,,,,,,,,,R122,restaurant
+945021956,Trento,79,38121,Via Ponte Alto,,,italian,Cacio & Pepe,,yes,,,,,outside,,,,R123,restaurant
+288938675,Trento,10,38123,Via Sommarive,,,pizza,Pizzeria OroStube,,,,,yes,,,,,,R124,restaurant
+7595406510,,,,,,,pizza;italian,Mensa e pizzeria Povo 0,,,,Mo-Fr 11:45-14:30,,,,,,,R125,restaurant
+289225782,Povo,14,38123,Piazza Giannatonio Manci,,,pizza,Pizzeria Salesà,,,,,limited,,,,,,R126,restaurant
+275318465,,,,,,,italian,Mensa Povo 1,,,,Mo-Fr 11:45-14:30,,,,,,,R127,restaurant
+441414833,,,,,,,indian,Ristorante Bar Pizzeria,,yes,,,,,,,,,R128,restaurant
+37103877,,,,,,,italian,"Bar Ristorante ""alla Baracca""",,,,,,,,,,,R129,restaurant
+428644278,Trento,62,38122,Via Gocciadoro,,,italian,Ristorante Loto S.r.l.,,,,,,,separated,,,,R130,restaurant
+430531035,Trento,73,38123,Viale Verona,,+39 0461 910076,pizza,Blue Sax,,IT00668940224,,Su Off,,,,,,,R131,restaurant
+432473109,,148,,Via Milano,info@doctrento.it,+39 0461 262022,pizza;regional;breakfast;coffee_shop;bavarian;italian;italian_pizza;local;german;friture;seafood;ice_cream;pasta;chicken;sausage;cake;tea,Ristorante Pizzeria Doc,,IT02087800229,http://www.doctrento.it,"Mo-Fr 08:30-14:30, 18:00-00:00; Sa-Su 17:00-00:00",,,,wlan,,,R132,restaurant
+3318400861,Trento,33,38123,Via Padre Eusebio Chini,,,pizza,Pizza Planet,,,,,,,,,,,R133,restaurant
+441414833,,,,,,,indian,Ristorante Bar Pizzeria,,yes,,,,,,,,,R134,restaurant
+1905543727,Mattarello,106,38123,Via Giulio Catoni,info@anticastellatrento.com,+39 0461 944401,steak_house;burger;pizza;cotoletteria,Antica Stella,Andrea Pasquazzo,IT01897590228,http://www.anticastellatrento.com/,"Mo-Sa 12:00-14:00, 19:00-23:00; Th Off; Su 19:00-23:00",,,,,,,R135,restaurant
+7661120689,,,,,,,,Mensa scolastica,,,,,,,,,,,R136,restaurant
+3090950106,,,,,,,,Ciccia & birra,,,,,,,,,,,R137,restaurant
+3803736242,,,,,,,italian,Villa Bertagnolli,,,,,,,,,,,R138,restaurant
+955304924,Mattarello,46,38123,Via Pomeranos,,,pizza;indian;italian,Ristorante pizzeria Torrefranca,,IT02349630224,,"Mo off; Tu-Su 10:00-14:30,18:00-23:30",,,,,,,R139,restaurant
+755622315,,,,,,,pizza,Pizzoteca,,,,,,,,,,,R140,restaurant
+1889564709,Riva del Garda,20,38066,Viale Trento,,,pizza,PizzaExpress,,,,Mo-Su 09:00-23:00,,,,,,,R141,restaurant
+491426469,Riva del Garda,16,38066,Piazza Catena,,,italian,Nazionale,,,,,,,,,,,R142,restaurant
+1889573421,,,38066,Piazza San Rocco,,,regional,Osteria il Gallo,,,,,yes,,,,,,R143,restaurant
+803487776,Riva del Garda,28,,Via Fiume,,,italian,Leon D'Oro,,,,,,,,,,,R144,restaurant
+1889567042,Riva del Garda,1,38066,Via Bastione,,,italian,Osteria la Contrada,,,,,,,,,,,R145,restaurant
+1904668687,,15,,Via Fiume,,,,Pizzeria Trieste,,,,,,,,,,,R146,restaurant
+2348266717,,,,,,,italian,Ristorante Villetta Annessa,,,,,,,,,,,R147,restaurant
+4315381290,,38,38066,Via Fiume,,,chinese,Lago d'oro,,,,,,,,,,,R148,restaurant
+4945613322,,,,,,,chinese,Ristorante Lago d'oro,,,,,,,,,,,R149,restaurant
+5115929421,,23,38066,Piazza Tre Novembre,,,italian,Benacense,,,,,,,,,,,R150,restaurant
+6525475785,,,,,,,regional,Antiche Mura,yes,,,"Mo-Su 12:00-14:00,19:00-22:00",no,,,,,,R151,restaurant
+926736174,Riva del Garda,27,,Piazza Tre Novembre,,,italian,Hotel Centrale,,,,,+39 0464 552138,,,wlan,,,R152,restaurant
+1889573422,Riva del Garda,4,38066,Lungolago Marinai d'Italia,,,,Ristorante Bellavista,yes,IT02353150226,,,,,,,,,R153,restaurant
+1889573423,,,,,,,,Ristorante Sole,,,,Mo-Su 11:30-22:30,yes,,,,,,R154,restaurant
+3580612001,,,,,,,,Nuovo 900,,,,,limited,,,,,,R155,restaurant
+5306731417,Riva del Garda,5,38066,Via Florida,,,regional;italian,Salsamenteria Capolini,,,,,,,,,,,R156,restaurant
+6818200786,,,,,,,italian_pizza,Ristorante Sud Cucina e Pizza Napoletana,,,,"Mo-Su 12:00-14:30, 18:30-22:30",,,,,,,R157,restaurant
+1488553673,,,,,,,,Villa Aranci,,,,,,,,,,,R158,restaurant
+6525469986,,10,,Viale Giosuè Carducci,,,,Il Re della Busa,,,,,,,,,,,R159,restaurant
+803634498,,29,,Via A. Diaz,,,,Bella Napoli,,,,,,,,,,,R160,restaurant
+1302018429,,,,,,,italian,Pizzeria La Leonessa,,,,,,,,,,,R161,restaurant
+1444891925,Riva del Garda,73,38066,Via Fiume,,,italian,Al Volt,,,,,,,,,,,R162,restaurant
+1706915650,,,,,,,,La Sirenetta,,,,,,,,,,,R163,restaurant
+1889561976,Riva del Garda,7,38066,Viale Martiri XXVIII Giugno,,,japanese,Sushoku,,IT02310530205,,Mo-Su 12:00-15:00; 18:00-24:00,,,,,,,R164,restaurant
+1889566663,,,,,,,,,,,,,,,,,,,R165,restaurant
+1904436954,Riva del Garda,7,38066,Via Andrea Maffei,,,italian,Ristorante Maffei,,,,,limited,,,wlan,,,R166,restaurant
+1904668666,,,38066,Via Santa Maria,,,italian,Al Vaticano,,,,,yes,,,,,,R167,restaurant
+2874104631,,,38066,,,,,Alpino,,,,,,,,,,,R168,restaurant
+2874104632,,,38066,,,,bavarian;german,Kapuziner am See,,,,,,,,,,,R169,restaurant
+2887488211,Riva del Garda,16,38066,Viale Roma,,,italian,San Marco cafè,,yes,,7:00 - 20:30,,,outside,,,,R170,restaurant
+4165217023,Riva del Garda,11,38066,Viale Roma,,,sandwich,Panem,yes,,,,,,,,no,,R171,restaurant
+5852010719,,,38066,,,,,Ristorante pizzeria Commercio,,,,,,,,,,,R172,restaurant
+5852016632,,,38066,,,,,Ristorante pizzeria Mediterraneo,,,,,,,,,,,R173,restaurant
+5934459988,,,,,,,wrap,La Piadineria,yes,,,,yes,,,,,,R174,restaurant
+8806886940,Riva del Garda,14,38066,Via Lutti,,,sushi,Zuin,,,,,,,,,,,R175,restaurant
+9019234103,Riva del Garda,7,38066,Via Pilati,,,pizza,Pizzeria Officina 33,,,,,,,,,,,R176,restaurant
+9025816144,,,,,,,pizza,,,,,,,,,,,,R177,restaurant
+4746320522,Riva del Garda,1,38066,Via Padova,,,chinese;japanese,Sushiko,,IT06556540489,,"Mo-Su 12:00-15:00, 18:30-23:30",,,,,,,R178,restaurant
+6856716373,Riva del Garda,5,38066,Via Padova,,,italian;steak_house,La Scala Bistrò /=\,,,,08:00 - 23:15,yes,,,wlan,,various,R179,restaurant
+9176581959,Riva del Garda,5,38066,Via Padova,,,pizza,Sud,,,,,,,,,,,R180,restaurant
+9176581960,Riva del Garda,5,38066,Via Padova,,,indian,Taste of India,,,,,,,,,,,R181,restaurant
+210563371,,,,,,,italian,Il Veliero,,,,,,,,,,,R182,restaurant
+755622315,,,,,,,pizza,Pizzoteca,,,,,,,,,,,R183,restaurant
+4003293513,,,,,,,pizza,Pizzeria Fenice,,,,,,,,,,,R184,restaurant
+1889564709,Riva del Garda,20,38066,Viale Trento,,,pizza,PizzaExpress,,,,Mo-Su 09:00-23:00,,,,,,,R185,restaurant
+9176586464,Riva del Garda,39,38066,Località San Tomaso,,,italian;pizza;regional,Albergo Rolly;Ristorante Pizzeria Rolly,,,,,,,,wlan,,,R186,restaurant
+554977838,,,,,,,pizza,Peter Pan,,,,,,,,,,,R187,restaurant
+59180626,,,,,,,regional,Ristorante La Berlera,,,,,,,,,,,R188,restaurant
+41772401,,,,,,,regional,Pizzeria Boccon d'Oro,,,,,,,,,,,R189,restaurant
+903941484,,,,,,,italian;pizza,La Brace,,,,"Mo-We 11:45-14:30,19:00-23:00; Th,Fr 11:45-14:30,19:00-23:30; Sa 18:00-24:00",yes,,no,wlan,,,R190,restaurant
+5852942369,,44/a,,Via del Garda,,,sushi,SúYoshì,,,,,+39-334-7732773; +39-0464-435941,,,,,,R191,restaurant
+903941484,,,,,,,italian;pizza,La Brace,,,,"Mo-We 11:45-14:30,19:00-23:00; Th,Fr 11:45-14:30,19:00-23:30; Sa 18:00-24:00",yes,,no,wlan,,,R192,restaurant
+915652265,,,,,,,,Ristorante alla Staffa,,,,,yes,,,,,,R193,restaurant
+417856704,,,,,,,pizza,Pizzeria Botti,,,,,yes,,,,,,R194,restaurant
+445562136,,,,,,,,Pizzeria Okay,,,,,,,,,,,R195,restaurant
+724615063,Rovereto,145,38068,Via Brennero,,,steak_house,Roadhouse,Gruppo Cremonini,,,"12:00-15:00,18:30-23:30",yes,,no,,,,R196,restaurant
+557813326,Rovereto,7/A,38068,Via delle Zigherane,,,,Bici Grill Rovereto,yes,,,07:30-23:45,yes,,,,,,R197,restaurant
+67153594,,18A,,Via Benacense,,,italian,Pizzeria Celeste,,,,,yes,,,,,,R198,restaurant
+2486092346,Rovereto,82/d,38068,Corso Antonio Rosmini,,,regional;pizza,Ristorante Novecento dell'Hotel Rovereto,,,,,yes,,Ristorante Novecento dell'Hotel Rovereto,,yes,,R199,restaurant
+4874793589,Rovereto,67,38068,Via Giuseppe Garibaldi,,,burger;fried_food;piadina,Dogali Burgers,,yes,,"Mo-Sa 12:00-14:00,18:30-23:00; Su 18:30-23:00",yes,,,,yes,,R200,restaurant
+1366734642,Rovereto,20,38068,Borgo Santa Caterina,neumasushimori@gmail.com,+39 0464 436229,italian,al Silenzio,Neumashushimori SNC di Grisi C.,IT02299310223,http://al-silenzio.it/,"Mo-Tu Off; We-Sa 11:30-14:30, 17:30-00:00; Su Off",yes,,,,,,R201,restaurant
+9178364617,,2,38068,Via Valbusa Grande,,,vegan,Amaranta Bio Bistrot,,,,"Mo-Fr 07:30-16:00; Sa 09:00-12:00, 13:00-16:00, 18:00-22:00",,,,,,,R202,restaurant
+700206987,,,,,,,pizza,Piccolo Fiore,yes,IT01493470221,,,,,,,,,R203,restaurant
+883455523,,,,,,,pizza,Pizzeria Fucine,,,,,yes,,,,,,R204,restaurant
+7928997808,,64,,Via delle Maioliche,,,chinese,Hong Kong,,only,,"Mo,We-Su 10:30-14:00,17:30-22:00; PH,Tu 10:30-14:00,17:30-22:00",,,,,,,R205,restaurant
+2638148558,Rovereto,9,38068,Via Abetone,info@ristorantesushoku.it,+39 0464 433155,japanese,Sushoku,,IT02463050225,https://www.facebook.com/Ristorante-Sushoku-221257514553450/,,,,,,,,R206,restaurant
+8197332146,Rovereto,17,38068,Vicolo dei Conciatori,,,pizza,Putipù,"Gigante, Massimiliano",yes,,"Mo-Fr 11:30-14:30,18:30-22:00; Sa 18:30-22:00; Su off",yes,,,,,,R207,restaurant
+802269764,,,,,,,japanese,Sushi alla Roza,,yes,,"Tu-Su 12:00-14:30,19:00-22:30",yes,,,,,,R208,restaurant
+2159310289,,,,,,,,Al trivio,,,,,,,,,,,R209,restaurant
+2484736031,,,,,,,,Vecchia Trattoria Birraria Scala della Torre,,,,,,,,,,,R210,restaurant
+2493523507,Rovereto,20,,Piazza Malfatti,,,,l'Orto di Pitagora,,,,"Th-Sa 12:00-14:00,20:00-23:00",,,,,yes,,R211,restaurant
+2946662243,Rovereto,8,38068,Piazza Malfatti,,,mediterranean,Assaporando,"Mulas, Gian Franco",IT02134070222,,,,,,,,,R212,restaurant
+3699585392,Rovereto,12,38068,Piazza Malfatti,,,chinese,Drago d'Oro,,yes,,,,,no,,,,R213,restaurant
+4013446318,,,,,,,pizza,Terrazza sul Leno,,,,,,,,,,,R214,restaurant
+5069371904,Rovereto,4,38068,Scala del Redentore,,,,Il Doge,,no,,"Mo-Su 12:00-14:00, 19:00-22:00",no,,outside,,,,R215,restaurant
+721714716,,,,,,,,El Raminel,yes,yes,,,,,,,,,R216,restaurant
+2159362024,Rovereto,24,38068,Corso Bettini,paolo@osteriadelpettirosso.it,+39 0464 422463,,Osteria del Pettirosso,,IT01653960227,http://www.osteriadelpettirosso.it/,,,,,,,,R217,restaurant
+3076630067,Rovereto,51,38068,Via Paganini,,,pizza,Pizzeria Marco,,,,,,,,,,,R218,restaurant
+6536659765,,13,38068,Via San Giovanni Bosco,,,kebab;pizza,Bella Rovereto,,yes,,Mo-Su 11:00-23:00,,+39 334 5783551,,,,,R219,restaurant
+721714716,,,,,,,,El Raminel,yes,yes,,,,,,,,,R220,restaurant
+2159362024,Rovereto,24,38068,Corso Bettini,paolo@osteriadelpettirosso.it,+39 0464 422463,,Osteria del Pettirosso,,IT01653960227,http://www.osteriadelpettirosso.it/,,,,,,,,R221,restaurant
+3076630067,Rovereto,51,38068,Via Paganini,,,pizza,Pizzeria Marco,,,,,,,,,,,R222,restaurant
+6536659765,,13,38068,Via San Giovanni Bosco,,,kebab;pizza,Bella Rovereto,,yes,,Mo-Su 11:00-23:00,,+39 334 5783551,,,,,R223,restaurant
+780142013,Rovereto,20E,38068,Via Paoli,,,pizza,Pizzeria Napoli,,,,,,,,,,,R224,restaurant
+1402541403,,,,,,,italian,Trattoria da Pierino,,,,,,,,,,,R225,restaurant
+3815857590,Rovereto,18,38068,Via Azzolini,,,pizza,Margherita,,,,,designated,,,,,,R226,restaurant
+557944128,Rovereto,,38068,Corso Bettini,,,italian,Tema,,,,,yes,,,,,,R227,restaurant
+777284830,,,,,,,pizza,Pizzeria Brione,,,,,yes,,,,,,R228,restaurant
+1154395707,,,,,,,pizza,Ristorante S.Ilario Pizzeria,,,,,yes,,,,,,R229,restaurant
+2638148201,Rovereto,77,38068,Viale Trento,,,chinese;japanese,Watami,,IT02311760223,,,no,,,,,,R230,restaurant
+1431628407,,42,38062,Via Vergolano,,,pizza;italian,Pizzeria Ristorante Pace,,,,,+39 0464 519495,,,,,,R231,restaurant
+2335415593,Arco,8,38062,Via Vergolano,,,italian;regional,Ristorante Alla Lega,,,,"Mo-Fr 18:30-22:30; Sa-Su 12:00-14:00,18:30-22:30",limited,,,,,,R232,restaurant
+2484983368,,,,,,,chinese,,,,,,,,,,,,R233,restaurant
+5817248052,Arco,3,38062,Largo Pina,,,italian;pizza;regional,Birreria Arciduca,yes,,,,,,,,,,R234,restaurant
+6038788911,,,,,,,,,Hotel Pace 1954,,,,,,,,,,R235,restaurant
+904600325,,,,,,,pizza,Pizzeria Ristorante Antica Corte,,yes,,,,,,,,,R236,restaurant
+1445808059,,,38062,,,,italian,Ritorante Pizzeria Cantina Marchetti,,,,,,,,,,,R237,restaurant
+3396099194,Arco,55,38062,Via Giovanni Segantini,,,,Peccato di Vino,Nichelatti Roberto,IT02127530224,,,,,,,,,R238,restaurant
+6096089813,Arco,92,38062,Via Giovanni Segantini,,,pizza,Spaghetteria moderna,,,,,,,,,,,R239,restaurant
+8019079953,,,,,,,,Piccola Osteria,,,,"Tu-Th, Su 18:30-21:00; Fr, Sa 18:30-21:30",,,,,,,R240,restaurant
+76608290,,,,,,,,"Ristorante ""Al Fiume""",,,,,,,,,,,R241,restaurant
+5396534652,,,,,,,pizza;italian,Al Castel,yes,yes,,,,,separated,,,,R242,restaurant
+77403179,Arco,11,38062,Via Luigi Maffei,,,thai,Sawadee,,,,,,,,,,,R243,restaurant
+77405222,,,,,,,italian,Ristorante Bar Aurora,,,,,,,,,,,R244,restaurant
+904600325,,,,,,,pizza,Pizzeria Ristorante Antica Corte,,yes,,,,,,,,,R245,restaurant
+76608290,,,,,,,,"Ristorante ""Al Fiume""",,,,,,,,,,,R246,restaurant
+1532731021,Borgo Valsugana,3,38051,Piazza Martiri della Resistenza,,,,Ristorante Pizzeria Centrale,Tomaselli Luigino & C. snc,IT01743420224,,Th Off,,,,,,,R247,restaurant
+3607707620,Borgo Valsugana,6,38051,Via Fratelli,,,regional;seafood,Ristorante San Giorgio,,,,,,,,,,,R248,restaurant
+3932910252,Borgo Valsugana,7b,38051,Via Alessandro Spagolla,,,regional,Osteria Al Borgo,,,,,,,,,,,R249,restaurant
+4135182630,Borgo Valsugana,19,38051,Via Francesco Naurizio,,,regional;pizza,La Rustica,,yes,,,,,,,,,R250,restaurant
+139516769,,,,,,,regional,Sale e Pepe,,,,,,,,,,,R251,restaurant
+828742974,,,,,,,,Albergo Ristorante Casa Moresc,,,,,,,,,,,R252,restaurant
+5662788361,,,,,,,,,,,,,,,,,,,R253,restaurant
+6574523149,Caldonazzo,13,38052,Via Roma,,,,Aquila D'oro,,,,,,,,,,,R254,restaurant
+5724991017,Caldonazzo,22,38052,Via Brenta,,,pizza;italian,Gilda Ristorante Pizzeria,,,,,,,,,,,R255,restaurant
+7248487285,,,,,,,pizza;pasta;italian;noodle;regional,Restaurant Pizzeria Kamerloy,,,,,yes,,,,,,R256,restaurant
+9144797518,,,,,,,pizza;pasta;italian;noodle;regional,Ristorante Crepes De Sela,,,,,yes,,,,,,R257,restaurant
+1659161775,,27,38031,strèda de Morandin,,,regional,Mini Restaurant,,,,,,,,,,,R258,restaurant
+2991891922,,,,,,,pizza;italian;noodle;regional,Osteria Heidi,,,,,,,,,,,R259,restaurant
+5787239054,,,,,,,pizza,,,,,,,,,,,,R260,restaurant
+6203284000,,,,,,,,La stalla del nonno,,,,,,,,,,,R261,restaurant
+6739988301,,,,,,,,tobià,,,,,,,,,,,R262,restaurant
+9140041709,,,,,,,italian;pizza;pasta,Ristaurante Pizzeria Agnello,yes,yes,,,,,,,,,R263,restaurant
+9144412337,,,,,,,pizza;italian;noodle,Ristaurante della Villa,,,,,,,,,,,R264,restaurant
+9144688122,,,,,,,pizza;pasta;italian;noodle;regional,Stua De Macoch,,,,,,,,,,,R265,restaurant
+9145165083,,,,,,,pizza;italian,Pizzeria Speckstube,,,,,,,,,,,R266,restaurant
+7240881786,,,,,,,,,,,,,,,,,,,R267,restaurant
+5411852729,,,,,,,,,,,,,,,,,,,R268,restaurant
+5411852730,Canazei,58,,Via Roma,,,,El Pael,,,,,,,,,,,R269,restaurant
+7240893487,,,,,,,,Kaiserstube,,,,"PH,Mo-Su 10:00-14:30,19:00-22:00",,,,,,,R270,restaurant
+734964406,,,,,,,,La Cantinetta,yes,,,,,,,,,,R271,restaurant
+3302466499,Canazei,1,,Via di Pareda,,,italian,Te Cevena,,,,,,,,,,,R272,restaurant
+3302466500,Canazei,96,38032,Strèda Dolomites,,+39 0462 601799,,Scoiattolo,,,,,,,,,,,R273,restaurant
+3302466501,,,,,,,,Stua dei Ladins,,,,,,,,,,,R274,restaurant
+4949207822,,,,,,,,La Montanara,,,,,,,,,,,R275,restaurant
+6256572712,,,,,,,pizza,L'Ostaria da Besic,,,,,,,,,,,R276,restaurant
+59276375,,,,,,,,Baita Al Parco,,,,,,,,,,,R277,restaurant
+2717008013,,,,,,,,Ristorante Pizzeria All'Antica Segheria,,,,,,,,,,,R278,restaurant
+4586898946,,,,,,,pizza,Angelo D'Oro,,,,,,,,,,,R279,restaurant
+1257221199,,2,,Via Balderoni,,,italian,Hotel La Stua,,,,,,,,wlan,,,R280,restaurant
+4582441585,Cavalese,11,38033,Piazza Cesare Battisti,,,,Bar Pizzeria Excelsior,,,,,,,,,,,R281,restaurant
+4582692759,,,,,,,,El Molin,,,,,,,,,,,R282,restaurant
+3244177632,,,,,,+39 0462 232060,pizza,La Pieve,,,,,,,,,,,R283,restaurant
+1257221101,Cavalese,14,,Via IX Novembre,,,steak_house,Vecchia Osteria,terrace,yes,,,,no,,,,,R284,restaurant
+1526314493,Cavalese,3,38033,Via Pizzegoda,,,pizza,La Salera,,,,,,,,,,,R285,restaurant
+1404359364,Cavizzana,10,38022,Piazza dell'Emigrante,,+39 0463 900162,italian_pizza;italian,Bar Pizzeria Cucina San Francesco,,IT01671190229,,,,,,,,,R286,restaurant
+966990745,,,,Via ai Cei,locanda.cavizzana@gmail.com,+39 0463 900222,regional,Locanda San Martino,,,,,limited,,,,,,R287,restaurant
+5243991946,,102,38071,Località Rango,,,,IL Catenaccio,,,,,,,,,,,R288,restaurant
+943372500,Cles,18,38023,Via Armando Diaz,,,pizza,Caprice,Donati Marcello e Concini Marisa SNC,yes,,,,no,,,,yes,R289,restaurant
+943772764,,,,,,,,Al Cermolo,,,,,,,,,,,R290,restaurant
+943890849,Cles,52,38023,Via Trento,,,italian;pizza;indian,Nazionale,,,,,,,,,,,R291,restaurant
+939588720,,,,,,,pizza;regional;italian,Giardino,,,,,,,,,,,R292,restaurant
+939588781,Cles,1,38023,Via Romana,,+39 0463 421105,pizza;italian,Flamingo,,,,"Mo-Su 00:00-01:00,11:00-14:00,18:00-24:00; We 00:00-01:00; Th 11:00-14:00,18:00-24:00",,,,,,,R293,restaurant
+943285753,Cles,54,38023,Piazza Granda,info@pizzagranda.it,+39 0463 424007,pizza,Pizza Granda,,IT02033020229,http://www.pizzagranda.it/,,,,,,,,R294,restaurant
+943767056,,,,,,,,Meridiana,,,,,,,,,,,R295,restaurant
+945470814,,,,,,,,Antica Trattoria,,,,,,,,,,,R296,restaurant
+945470837,,,,,,,pizza,El Magic,,,,,,,,,,,R297,restaurant
+945470842,Cles,17c,38023,Via Fabio Filzi,,,,Il Glicine,,,,,,,,,,,R298,restaurant
+945470857,Cles,23,38023,Via Fabio Filzi,,,piadina;sandwich,Piadineria Picasso,yes,yes,,Mo-Fr 10:00-22:30; Sa 17:00-22:30,,,,,,,R299,restaurant
+1821220620,,,,,,+39 0463 421300,regional,Osteria Palazan,,,,,,,,,,,R300,restaurant
+6044816338,Cogolo,7,,Via delle Roge,,,regional;pizza,"Ristorante-pizzeria ""La Presef""",,,,,,,,,,,R301,restaurant
+2431204320,,,,,,,italian,San Rocco,,,,,,,,,,,R302,restaurant
+82591509,,,,,,,,St. Sebastian,,,,,,,,,,,R303,restaurant
+4510120958,Cusiano,16,38020,Via Santa Maria Maddalena,,,pizza;regional,Bar Pizzeria Niagara,La Canadese s.r.l.,,,,,,,,,,R304,restaurant
+1100568256,,1,38026,Via Venezia,,,regional,Antica Osteria,,,,We off,no,,,,,,R305,restaurant
+388930801,,,,,,,pizza,La Lanterna,,,,,,,,,,,R306,restaurant
+5352766113,,,,,,,,Pizzeria Ristorante La Cantinetta,,,,,,,,,,,R307,restaurant
+1915825371,,,,,,,regional;italian;pizza,La Grotta,yes,,,,,,no,,,,R308,restaurant
+3674418127,,,,,,,,Rezia,,,,,,,,,,,R309,restaurant
+5788019253,,,,,,,,El Tobia,,,,,,,,,,,R310,restaurant
+4318695290,,,,,,,,Ristorante Pizzeria Daniel Zen,,,,,,,,wlan,,,R311,restaurant
+946581637,Pozza di Fassa,103,38036,Strada Dolomites,,,,Ristorante El Filò,,,,,,,,,,,R312,restaurant
+623894359,,,,,,,,Malga Aloch,,,,,,,,,,,R313,restaurant
+1256745268,,,,,,,italian,Do Vea,,,,Mo-Su 19:00-23:00; We off,,,,,,,R314,restaurant
+1228464461,Pozza di Fassa,135,38036,Strada Dolomites,,,breton,,,,,Mo-Su 16:00-20:30,,,,,,,R315,restaurant
+1229166759,Pozza di Fassa,32,38036,Strada de Meida,,,pizza,Pizza Asporto,,yes,,"Mo-Sa 11:30-14:00,17:00-20:30",,,,,,,R316,restaurant
+1230287511,Pozza di Fassa,169,38036,Strada Dolomites,,,pizza,Pizzeria Da Salin,,,,,,,,,,,R317,restaurant
+58425582,,,,,,,italian;pizza;regional,Bar Pizzaria Le Giarre,,,,,,,,,,,R318,restaurant
+58429469,,,,,,,italian;regional,Ristorante Al vecchio mulino,,,,,,,,,,,R319,restaurant
+58533321,,,,,,,pizza,Bar Pizzeria Winkler,,,,,,,,,,,R320,restaurant
+261081683,,,,,,,,Agritur,,,,,,,,,,,R321,restaurant
+268803099,,,,,,,regional,Agritur Maso Sorte,,,,,,,,,,,R322,restaurant
+8752407442,,,,,,,,Al Contrario,,,,,,,,,,,R323,restaurant
+1806514148,,,,,,,pizza,La Sgeva,,,,,,,,,,,R324,restaurant
+5911749189,,,,,,,,Residence Alaska,,,,,,,,,,,R325,restaurant
+84173109,,,,,,,,Sanscrivel,,,,,,,,,,,R326,restaurant
+268273017,Folgaria,39,,Via E. Colpi,,,pizza,La Piazzetta,,,,,,,,,,,R327,restaurant
+267968544,Folgaria,343,38064,Via Emilio Colpi,,,,da Ugo,,,,,,,,,,,R328,restaurant
+267991882,Folgaria,329,,Via Emilio Colpi,,,,Trattoria al Fogolar,,,,,,,,,,,R329,restaurant
+268014579,Folgaria,235,38064,Via E. Colpi,,,,Forst Pizzeria,,,,,,,,,,,R330,restaurant
+268014580,Folgaria,233,38064,Via E. Colpi,,,,Scoiattolo Pizzeria,,,,,,,,,,,R331,restaurant
+85739247,,,,,,+39 0464 721322,,alla Segheria,,,http://www.ristoranteallasegheria.it/,,,,,,,,R332,restaurant
+7054924421,Folgaria,52,38064,Via Maffei,,,italian;regional;international,Hotel Rech-Hof Sayonara,,,,,,,,,,,R333,restaurant
+1984418523,,62,38064,Via Negheli,,,,L'Alpe,,,,,yes,,,,,,R334,restaurant
+36782118,,,,,,,regional,Osteria del Carador,,,,,,,,,,,R335,restaurant
+3125868985,,,,,,,regional,Anna,,,,,,,,,,,R336,restaurant
+3127526120,,,,,,,pizza,La Spleuza,,,,,,,,,,,R337,restaurant
+963839415,Levico Terme,99,38056,Via iuseppe Garibaldi,,+39 0461 701802,,Taverna dei Gonzaga,Pelizzaro Silvana,,,,,,,,,,R338,restaurant
+799244380,Levico Terme,62,38056,Via Cesare Battisti,,,regional;italian;pizza,La Stua,,,,"PH,Tu-Su 11:45-14:00+,18:30-22:00",,,,,,,R339,restaurant
+799244306,Levico Terme,9,38056,Via Giuseppe Garibaldi,,,,Ristorante Boivin,,,,,,,,,,,R340,restaurant
+799244882,Levico Terme,8,38056,Via Regia,,+39 0461 702302,pizza,Pizzeria al Conte,,,,"Tu-Su 12:00-14:00,18:00-23:30",,,,,,,R341,restaurant
+963850107,Levico Terme,5,38056,Piazza Venezia,,+39 0461 706366,,La Vecchia Fontana,,,,,,,,,,,R342,restaurant
+1072504536,Levico Terme,1,38056,Via Trieste,,+39 0461 711699,italian;pizza,La Cantinota,Montibeller Maurizio,,,,,,no,,,,R343,restaurant
+5300784172,Levico Terme,22,38056,Via Cesare Battisti,,,italian,L'Angolo dei Risotti,,,,,,,,,,,R344,restaurant
+5216237021,Levico Terme,4,38056,Via Traversa Lido,,,,Fabbrica di Pedavena,,,,,,,,,,,R345,restaurant
+323676098,,,,,,,italian,Vecchia Fattoria,,,,,,,,,,,R346,restaurant
+963860070,,,,,,,,La Cantina,,,,,,,,,,,R347,restaurant
+799244416,Levico Terme,50,38056,Viale Vittorio Emanuele,,+39 0461 703012,pizza,Pizzeria Ristorante Millennium,,,,,+39 0461 707907,,,,,,R348,restaurant
+65608560,Levico Terme,,38056,Località Belvedere,,,,Ristorante Prime Rose,,,,,,,,,,,R349,restaurant
+6341344169,Malè,3,38027,Zona Commerciale,,+39 0463 901282,italian;pizza,L'Olimpo,yes,IT01232400224,,,,,,,,,R350,restaurant
+4394168358,Malé,36,38027,Via Brescia,,+39 0463 901281,,Caminetto,Caminetto S.a.s. di Pretti Leo & C.,IT01951560224,,,,,,,,,R351,restaurant
+335596730,,,,,,,regional,El Barba,,,,,,,,,,,R352,restaurant
+4356605691,,,,,,,pizza,Vecchia Canonica,,,,,,,,,,,R353,restaurant
+614841366,Malé,59,38027,Via Trento,info@segosta.com,+39 0463 901390,regional,La Segosta,,,http://www.segosta.com/,,,,,,,,R354,restaurant
+229817069,,,,,,,,,,,,,,,,,,,R355,restaurant
+415504641,,,,,,,pizza;regional,Al Maso Vecchio,,,,,,,,,,,R356,restaurant
+4350304189,,,,,,,pizza,Dolomiti,,,,,,,,,,,R357,restaurant
+511337508,,,,,,,,Ristorante Scaranò,,,,,,,,,,,R358,restaurant
+963849190,Levico Terme,9,38056,Via Domenico Giannettini,,,,Papillon,,,,,,,,,,,R359,restaurant
+1905543727,Mattarello,106,38123,Via Giulio Catoni,info@anticastellatrento.com,+39 0461 944401,steak_house;burger;pizza;cotoletteria,Antica Stella,Andrea Pasquazzo,IT01897590228,http://www.anticastellatrento.com/,"Mo-Sa 12:00-14:00, 19:00-23:00; Th Off; Su 19:00-23:00",,,,,,,R360,restaurant
+7661120689,,,,,,,,Mensa scolastica,,,,,,,,,,,R361,restaurant
+3090950106,,,,,,,,Ciccia & birra,,,,,,,,,,,R362,restaurant
+3803736242,,,,,,,italian,Villa Bertagnolli,,,,,,,,,,,R363,restaurant
+5330541921,,,,,,,,Bucaneve,,,,,,,,,,,R364,restaurant
+7944379443,Commezzadura,,38020,Via di Sóta la Crós,,,,Hotel Genzianella,,,,,,,,,,,R365,restaurant
+7944379453,Daolasa,13,38020,Via della Fantoma,,,,Bio Hotel Benny,,,,,,,,,,,R366,restaurant
+4390451735,,,,,,,,Agriturismo Bontempelli,,,,,,,,,,,R367,restaurant
+4123999073,,,,,,,pizza,al Sole,,,,,,,,,,,R368,restaurant
+2412844972,Mezzana,1,,Localita Marilleva 900,,,italian,Bar ristorante pizzeria Kristall,,,,,,,,,,,R369,restaurant
+267649391,,,,,,,pizza,Pizzeria Al Caminetto,,,,,,,,,,,R370,restaurant
+2881985266,Mezzocorona,29,38010,Piazza della Chiesa,,+39 0461 603823,pizza;regional,Da Demetrio,yes,IT00658870225,,,,,,,,,R371,restaurant
+4657167767,Mezzocorona,4,38016,Piazza San Gottardo,,+39 0461 601710,,Trattoria Dolce Spina,,,https://www.facebook.com/Dolce-Spina-Mezzocorona-277694462347714/,,,,,,,,R372,restaurant
+341091742,,,,,,,,Osteria Al Travaion,,,,,,,,,,,R373,restaurant
+973022382,,,,,,,,Borghetto,,,,,,,,,,,R374,restaurant
+1068411472,Mezzolombardo,100,38017,Via Garibaldi,,,indian;pizza;regional,Roma,yes,,,,,,,,,,R375,restaurant
+861050488,Mezzolombardo,24,38017,Via Trento,,+39 0461 602338,fish;pizza;regional,La Paninoteca,,IT00958520223,,,,,,,,,R376,restaurant
+870463323,Mezzolombardo,85,38017,Corso Giuseppe Mazzini,,+39 0461 605778,chinese,Hua Xing,,IT01649160221,,,,,,,,,R377,restaurant
+72528026,Mezzolombardo,1,38017,Via Guido Fiorini,,+39 0461 604185,regional;pizza;fish,Ristorante Pizzeria Al Duomo,Al Duomo S.R.L.,IT02265610226,https://www.facebook.com/alduomomezzolombardo/,"Mo-Su 12:00-14:30, 18:00-00:00; Th Off",,,,,,,R378,restaurant
+73424152,Mezzolombardo,15,38017,Via Guido Fiorini,,,italian,Ristorante Casa Nardon,,,,,,,,,,,R379,restaurant
+304632837,,,,,,,,Ristorante Pizzeria Le Roi,,,,,,,,,,,R380,restaurant
+2952518898,Madonna di Campiglio,104,38086,Via Cima Tosa,,,,Osteria del Circo,,,,,,,,,,,R381,restaurant
+6341426156,,,,,,,,,,,,,,,,,,,R382,restaurant
+3785872417,Moena,24,38035,Via Loewy,,,italian,Taverna del Garber Ristorante Pizzeria,yes,,,,,,,,,,R383,restaurant
+3787700764,Moena,32,38035,Strada De Fachin,,,italian,Lo Sfizio Caffè Pizzeria Bar,yes,,,,,,,,,,R384,restaurant
+266158481,,,,,,,,Ristorante Faloria,,,,,,,,,,,R385,restaurant
+2957454881,,,,,,,,Malga Roncac,,,,,,,,,,,R386,restaurant
+5013934509,,,,,,,,Agritur el Mas,,,,,,,,,,,R387,restaurant
+1562362389,,,,,,,,,,,,,,,,,,,R388,restaurant
+44030265,,,,,,,,Agriturismo Santa Barbara,,,,,,,,,,,R389,restaurant
+261086637,,,,,,,,Pizzeria La Ruota,,,,,,,,,,,R390,restaurant
+64392934,,,,,,,,Ristorante Pizzeria Pineta,,,,,,,,,,,R391,restaurant
+459656419,Molveno,4,38018,Via Cima Tosa,info@tavernalabotte.it,+39 0461 586948,,Taverna La Botte,,IT00641710223,http://www.tavernalabotte.it/,,,,,,,,R392,restaurant
+1512648046,,,,,,,,El Filò,,,,,,,,,,,R393,restaurant
+1524975600,,,,,,,,Antica Bosnia,,,,,,,,,,,R394,restaurant
+1525442359,,,,,,,regional,Bucaneve,,,,,,,,,,,R395,restaurant
+1511958499,Molveno,22,38018,Via Nazionale,,,,Bar Ciao,,,,,,,,,,,R396,restaurant
+1523289665,,7,,Via Lungolago,,,,L'Osteria del Maso,,,,,,,,,,,R397,restaurant
+459656425,,,,,,,,Al Caminetto,,,,,,,,,,,R398,restaurant
+2929049984,Molveno,19,38018,Via Lungolago,,,pizza,Pizzico,,,,,,,,,,,R399,restaurant
+2929049985,Molveno,11/B,38018,Via Lungolago,,+39 461 58 69 60,ice_cream,Bar L'Aquilone,,,,,,,,,,,R400,restaurant
+616524688,,,,,,,regional,Al Molin,,,,,,,,,,,R401,restaurant
+224374897,,,,,,,,Energy Hotel,,,,,,,,,,,R402,restaurant
+105602356,,1,,,,,,Le barche,,,,,,,,,,,R403,restaurant
+102779829,Calceranica al Lago,50,38050,Via Lungo Lago,bibashaus@yahoo.it,,,Biba's,Prizzi snc di Pitton e Rizzi,,,,,,,,,,R404,restaurant
+5016695590,Tre Ville,,,Via Vallesinella,,,,Ristorante Piccadilly,,,,,,,,,,,R405,restaurant
+5016686035,,,,,,,,Ristorante Pappagallo,,,,,,,,,,,R406,restaurant
+2381700948,Madonna di Campiglio,64,38084,Via Dolomiti di Brenta,,,italian,Ristorante Pizzeria Antico Focolare,,,,,,,,,,,R407,restaurant
+6835725712,,,,,,,,Rosengarten,,,,,,,,,,,R408,restaurant
+6241059685,,5,,Via Vallesinella,,,,Alfiero,,,,,,,,,,,R409,restaurant
+4960330833,Madonna di Campiglio,,,Viale Dolomiti di Brenta,,,sandwich;italian_pizza;kebab;pizza,Il Ruggito,,,,,,,,,,,R410,restaurant
+304632628,,,,,,,,Pizzeria Ristorante Belvedere,,,,,,,,,,,R411,restaurant
+333791569,,,,,,,regional,La Cantina di Suisse,,,,,no,,,,,,R412,restaurant
+1438109519,,,,,,,,La Stube di Franz Josef,,,,,,,,,,,R413,restaurant
+304632837,,,,,,,,Ristorante Pizzeria Le Roi,,,,,,,,,,,R414,restaurant
+232580438,,,,,,,"italian, regional, pizza",Hotel Cristo d'Oro,,IT01445000225,,,,,,,,,R415,restaurant
+616524794,,,,,,,regional,Al Cervo,,,,,,,,,,,R416,restaurant
+2422074148,,20,38086,Via Manci,,,,Pizzeria Al Cardo,,,,,,,,wlan,,,R417,restaurant
+5624428609,Pinzolo,11,38086,Viale Guglielmo Marconi,,,regional;pizza,La Roda,,,,,,,,,,,R418,restaurant
+702858982,,,,,,,,Saionara,,,,,,,,,,,R419,restaurant
+702859059,,,,,,,,Posta,,,,,,,,,,,R420,restaurant
+702859043,,,,,,,,Don Pedro,,,,,,,,,,,R421,restaurant
+89723503,,,,,,,italian;italian_pizza,Lo Scoiattolo,,,,,,,,,,,R422,restaurant
+560024840,,,,,,,,IL Picchio,,,,,,,,,,,R423,restaurant
+303826370,,,,,,,pizza,Pizzeria Millenium,,,,,,,,,,,R424,restaurant
+303828168,,,,,,,pizza,Pizzeria L'arcade,,,,,,,,,,,R425,restaurant
+303832096,,,,,,,,Majestic,,,,,,,,,,,R426,restaurant
+4336800368,,,,,,,,La Primoteca,,,,,,,,,,,R427,restaurant
+8506320843,,,,,,,pizza,Pizzeria Diana,,,,,,,,,,,R428,restaurant
+2416095112,,,,,,,,,,,,,,,,,,,R429,restaurant
+165535910,,,,,,,,Ristoro,,,,,,,,,,,R430,restaurant
+232580438,,,,,,,"italian, regional, pizza",Hotel Cristo d'Oro,,IT01445000225,,,,,,,,,R431,restaurant
+355968440,San Michele all'Adige,47,38010,Via Don A. Tamanini,,+39 0461 650699,pizza;regional,Capriccio,"Corazza Barbara, Mauro & C.",IT02160810228,,,,,,,,,R432,restaurant
+4695403491,,29,38010,Via Roma,,,regional;italian;pizza;crepe;italian_pizza;local;coffee_shop,Pizzeria Cantuccio,Volkmer Gertrud Karla,,,Tu-Su 11:30-12:00,,,,,,,R433,restaurant
+75310719,Grumo,39,38010,Via G. Postal,ristorantedapino@ristorantedapino.it,+39 0461 650435,italian;regional;pizza,Ristorante da Pino,Moresco DAnilo e Caset Luciana,IT00600320220,http://www.ristorantedapino.it/,Mo Off,,,,,,,R434,restaurant
+616524561,Rabbi,105,38020,,,,regional,Ristorante Pizzeria 800,,,,,,,,,,,R435,restaurant
+331045899,Rabbi,134,38020,,,,regional,Osteria al Rabies,,,,,,,,,,,R436,restaurant
+395318007,,,,,,,,Mas de la Bolp,,,,,,,,,,,R437,restaurant
+4202862135,Scurelle,2,38050,Via del Municipio vecchio,,,pizza,Chardonnay,Caon L. E Cerato L. S.N.C.,yes,,,,,no,,,,R438,restaurant
+4202838209,,,,,,,pizza,,,,,,,,,,,,R439,restaurant
+866739433,,,,,,,pizza,Goofy Pub-Ristorante-Pizzeria,,,,,,,,,,,R440,restaurant
+1585221252,,,,,,,,Ja Vito,,,,,,,,,,,R441,restaurant
+1585221511,,,,,,,,Ristorante Pizzeria Sas da Rocia,,,,,,,,,,,R442,restaurant
+8868691187,,4,,Via all'Üscla,,,,Casa Ferrazza,,,,,,,,,,,R443,restaurant
+8887842646,,,,,,,,Casa Ferrazza,,,,,,,,,,,R444,restaurant
+3910683995,Castel Ivano,11,38059,Via Marconi,,,,Ristorante Pizzeria Al Torchio,,,,,,,,,,,R445,restaurant
+255443503,Telve,3,38050,Località Nale,,,italian,Osteria Baraonda,,no,,,,,,,,,R446,restaurant
+4185984948,Roncegno Terme,9,38050,Via Enrico Capraro,,,regional,Al Volto,,,,,,,,,,,R447,restaurant
+331155754,,,,,,,italian,Albergo Vittoria,,,,,,,,wlan,,,R448,restaurant
+121382586,,,,,,,pizza,Pizzeria il Picchio,,,,,,,,,,,R449,restaurant
+4315863098,Pellizzano,13,38020,Località Claiano,,,,Alla Veccia Macina,,,,,,,,,,,R450,restaurant
+115849758,,,,,,,,Agritur Darial,,,,,,,,,,,R451,restaurant
+87054865,Tre Ville,34,38079,Via San Antonio,,,regional;italian,La Contea Pizzeria Ristorante Snow Pub,yes,yes,,,,no,outside,,,,R452,restaurant
+5731537800,Tione di Trento,4/A,38079,Via Durone,,,,Pizza al Taglio Le Ghinghe,,,,,,,,,,,R453,restaurant
+5446414999,Tione di Trento,5,38079,Via Legione Trentina,,+39 0465 326249,,C'era una volta,Pedretti N. & C SAS,IT01530350220,,,,,,,,,R454,restaurant
+87054865,Tre Ville,34,38079,Via San Antonio,,,regional;italian,La Contea Pizzeria Ristorante Snow Pub,yes,yes,,,,no,outside,,,,R455,restaurant
+334787448,,,,,,,regional,Al Pescatore,,,,,,,,,,,R456,restaurant
+518731748,,,,,,,,Agritur Solasna,,,,,,,,,,,R457,restaurant
+37811920,Vattaro,31,38049,Via Doss del Bue,,,italian;pizza,Ristorante TEX,yes,IT02189380229,,,,,,,,,R458,restaurant
+2094237771,,,,,,,,Ristorante La Madia,,,,,,,,,,,R459,restaurant
+6610752260,,,,,,,pizza,Pizzeria Vittoria,,,,,,,,,,,R460,restaurant
+101164735,,,,,,,italian,Bar Trattoria alla Lepre,,,,,,,,,,,R461,restaurant
+101164735,,,,,,,italian,Bar Trattoria alla Lepre,,,,,,,,,,,R462,restaurant
+101164735,,,,,,,italian,Bar Trattoria alla Lepre,,,,,,,,,,,R463,restaurant
+101164735,,,,,,,italian,Bar Trattoria alla Lepre,,,,,,,,,,,R464,restaurant
+101164735,,,,,,,italian,Bar Trattoria alla Lepre,,,,,,,,,,,R465,restaurant
+2367677548,,,,,,,pizza,Pizzeria Romantica,,,,,,,,,,,R466,restaurant
+2598641850,Andalo,6,,,,,,Ski Bar,,,,,,,,,,,R467,restaurant
+2364540524,Andalo,4,38010,Via Ponte Lambin,info@lacucinadifilippo.com,,pizza,Bistrot Dolomieu,,,https://www.lacucinadifilippo.com/,,,,,,,,R468,restaurant

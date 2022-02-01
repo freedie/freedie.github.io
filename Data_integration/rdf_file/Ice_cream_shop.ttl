@@ -1,0 +1,646 @@
+<http://localhost:8080/source/6049450811> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/6049450811> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I1> .
+<http://localhost:8080/source/6049450811> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "124" .
+<http://localhost:8080/source/6049450811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/6049450811> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/6049450811> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Pingu" .
+<http://localhost:8080/source/6049450811> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via di Madonna Bianca" .
+<http://localhost:8080/source/6049450811> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38123" .
+
+<http://localhost:8080/source/430017181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/430017181> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/430017181> <http://knowdive.disi.unitn.it/etype#has_webSite_GID-34126_Type-43815> "http://www.terragnoloeis.it" .
+<http://localhost:8080/source/430017181> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Enrico Conci" .
+<http://localhost:8080/source/430017181> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Bistro' alle Torri" .
+<http://localhost:8080/source/I2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/430017181> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "76" .
+<http://localhost:8080/source/430017181> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-43815> "+39 0461 922474" .
+<http://localhost:8080/source/430017181> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38123" .
+<http://localhost:8080/source/430017181> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I2> .
+<http://localhost:8080/source/430017181> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+
+<http://localhost:8080/source/2022158684> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Giuseppe Giusti" .
+<http://localhost:8080/source/I3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/2022158684> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/2022158684> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+<http://localhost:8080/source/2022158684> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I3> .
+<http://localhost:8080/source/2022158684> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria" .
+<http://localhost:8080/source/2022158684> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "62" .
+<http://localhost:8080/source/2022158684> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/2022158684> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/563415888> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I4> .
+<http://localhost:8080/source/563415888> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+<http://localhost:8080/source/563415888> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/563415888> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "178" .
+<http://localhost:8080/source/563415888> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/563415888> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Corso III Novembre" .
+<http://localhost:8080/source/I4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/563415888> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/563415888> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Al Ponte" .
+
+<http://localhost:8080/source/2410418912> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Viale della Costituzione" .
+<http://localhost:8080/source/2410418912> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I5> .
+<http://localhost:8080/source/2410418912> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-43815> "+39 0461 036036" .
+<http://localhost:8080/source/2410418912> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38123" .
+<http://localhost:8080/source/2410418912> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "DolceMente" .
+<http://localhost:8080/source/2410418912> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/2410418912> <http://knowdive.disi.unitn.it/etype#has_webSite_GID-34126_Type-43815> "http://www.dolcementemarzari.it/" .
+<http://localhost:8080/source/I5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/2410418912> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "28" .
+<http://localhost:8080/source/2410418912> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/2410418912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/I6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/430669787> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I6> .
+<http://localhost:8080/source/430669787> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "50" .
+<http://localhost:8080/source/430669787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/430669787> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+<http://localhost:8080/source/430669787> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Rodolfo Belenzani" .
+<http://localhost:8080/source/430669787> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/430669787> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "La Gelateria" .
+<http://localhost:8080/source/430669787> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+
+<http://localhost:8080/source/865298450> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "27" .
+<http://localhost:8080/source/865298450> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/865298450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/865298450> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/865298450> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Piazza del Duomo" .
+<http://localhost:8080/source/865298450> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "May-Sep: Su-Th 11:00-24:00; May-Sep: Fr-Sa 11:00-01:00; Oct-Apr: Su-Th 11:00-22:00; Oct-Apr: Fr-Sa 11:00-23:00" .
+<http://localhost:8080/source/I7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/865298450> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria GROM" .
+<http://localhost:8080/source/865298450> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I7> .
+<http://localhost:8080/source/865298450> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+
+<http://localhost:8080/source/1005689714> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via senatore Carlo Esterle" .
+<http://localhost:8080/source/1005689714> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Kikkys" .
+<http://localhost:8080/source/1005689714> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/1005689714> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/1005689714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1005689714> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+<http://localhost:8080/source/1005689714> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I8> .
+<http://localhost:8080/source/1005689714> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "7" .
+
+<http://localhost:8080/source/1687770939> <http://knowdive.disi.unitn.it/etype#has_webSite_GID-34126_Type-43815> "https://www.gelateriaromana.com/" .
+<http://localhost:8080/source/I9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1687770939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/1687770939> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/1687770939> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "La Romana" .
+<http://localhost:8080/source/1687770939> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I9> .
+<http://localhost:8080/source/1687770939> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "5" .
+<http://localhost:8080/source/1687770939> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+<http://localhost:8080/source/1687770939> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/1687770939> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Antonio Rosmini" .
+
+<http://localhost:8080/source/853802424> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "La Delizia" .
+<http://localhost:8080/source/853802424> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "20" .
+<http://localhost:8080/source/853802424> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I10> .
+<http://localhost:8080/source/I10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/853802424> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/853802424> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Giuseppe Mazzini" .
+<http://localhost:8080/source/853802424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/853802424> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/853802424> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+
+<http://localhost:8080/source/865298469> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I11> .
+<http://localhost:8080/source/865298469> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+<http://localhost:8080/source/865298469> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelatomania" .
+<http://localhost:8080/source/865298469> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-43815> "+39 0461 220014" .
+<http://localhost:8080/source/865298469> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/865298469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/865298469> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "9" .
+<http://localhost:8080/source/I11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/865298469> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Giuseppe Garibaldi" .
+<http://localhost:8080/source/865298469> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+
+<http://localhost:8080/source/867377271> <http://knowdive.disi.unitn.it/etype#has_webSite_GID-34126_Type-43815> "http://www.cigusta.com/" .
+<http://localhost:8080/source/867377271> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/I12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/867377271> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/867377271> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I12> .
+<http://localhost:8080/source/867377271> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Ci gusta!" .
+<http://localhost:8080/source/867377271> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+<http://localhost:8080/source/867377271> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-43815> "+39 0461 233160" .
+<http://localhost:8080/source/867377271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/867377271> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "27" .
+<http://localhost:8080/source/867377271> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Mo-Fr 08:30-19:30; Sa,Su 10:30-19:30" .
+<http://localhost:8080/source/867377271> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Giuseppe Garibaldi" .
+
+<http://localhost:8080/source/I13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/877621107> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "19" .
+<http://localhost:8080/source/877621107> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Mo-Sa 14:00-19:30,21:00-23:00" .
+<http://localhost:8080/source/877621107> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/877621107> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I13> .
+<http://localhost:8080/source/877621107> <http://knowdive.disi.unitn.it/etype#has_frozen_yogurt_GID-41030_Type-41019> "yes" .
+<http://localhost:8080/source/877621107> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/877621107> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Peterle" .
+<http://localhost:8080/source/877621107> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via San Vigilio" .
+<http://localhost:8080/source/877621107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/877621107> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+
+<http://localhost:8080/source/1493571259> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I14> .
+<http://localhost:8080/source/1493571259> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "17" .
+<http://localhost:8080/source/1493571259> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via dei Mille" .
+<http://localhost:8080/source/1493571259> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Robin" .
+<http://localhost:8080/source/1493571259> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/I14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1493571259> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/1493571259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/1493571259> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+
+<http://localhost:8080/source/975288320> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/975288320> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Yogurt" .
+<http://localhost:8080/source/I15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/975288320> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I15> .
+<http://localhost:8080/source/975288320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/1214589540> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Paolo Oss Mazzurana" .
+<http://localhost:8080/source/I16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1214589540> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/1214589540> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/1214589540> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+<http://localhost:8080/source/1214589540> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I16> .
+<http://localhost:8080/source/1214589540> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Pingu" .
+<http://localhost:8080/source/1214589540> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Tu-Su 09:00-19:00; Mo 14:00-19:00" .
+<http://localhost:8080/source/1214589540> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "35" .
+<http://localhost:8080/source/1214589540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/853803379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/853803379> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I17> .
+<http://localhost:8080/source/I17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/853803379> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Fior di gusto" .
+<http://localhost:8080/source/853803379> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+
+<http://localhost:8080/source/5585598> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Trento" .
+<http://localhost:8080/source/5585598> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "1" .
+<http://localhost:8080/source/5585598> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria Peterle" .
+<http://localhost:8080/source/5585598> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/5585598> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Piazzetta Padre Diego Lainez" .
+<http://localhost:8080/source/5585598> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/5585598> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I18> .
+<http://localhost:8080/source/I18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/5585598> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38122" .
+
+<http://localhost:8080/source/1749737657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/1749737657> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/1749737657> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Igloo" .
+<http://localhost:8080/source/I19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1749737657> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I19> .
+<http://localhost:8080/source/1749737657> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Mo-Sa 12:00-20:30; Su 11:00-20:30" .
+
+<http://localhost:8080/source/4160534209> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/4160534209> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Mason" .
+<http://localhost:8080/source/I20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/4160534209> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I20> .
+<http://localhost:8080/source/4160534209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/2304109638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/2304109638> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Gardolo" .
+<http://localhost:8080/source/2304109638> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I21> .
+<http://localhost:8080/source/2304109638> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38121" .
+<http://localhost:8080/source/I21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/2304109638> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/2304109638> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via 4 Novembre (1918)" .
+<http://localhost:8080/source/2304109638> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Peterle" .
+<http://localhost:8080/source/2304109638> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "101" .
+
+<http://localhost:8080/source/I22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/2304109638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/2304109638> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Gardolo" .
+<http://localhost:8080/source/2304109638> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38121" .
+<http://localhost:8080/source/2304109638> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/2304109638> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via 4 Novembre (1918)" .
+<http://localhost:8080/source/2304109638> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Peterle" .
+<http://localhost:8080/source/2304109638> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "101" .
+<http://localhost:8080/source/2304109638> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I22> .
+
+<http://localhost:8080/source/3105232729> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I23> .
+<http://localhost:8080/source/3105232729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/3105232729> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/3105232729> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Pingu" .
+<http://localhost:8080/source/I23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "4" .
+<http://localhost:8080/source/1408624387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38016" .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Mezzocorona" .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_webSite_GID-34126_Type-43815> "https://www.facebook.com/Caffetteria-Gelateria-Pingu-534241856761082/" .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Pingu" .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-43815> "+39 0461 987654" .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Mo 16:00-22:00; Tu-Su 15:00-22:00" .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Piazza della Chiesa" .
+<http://localhost:8080/source/I24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I24> .
+
+<http://localhost:8080/source/823542138> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/823542138> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Povo" .
+<http://localhost:8080/source/823542138> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I25> .
+<http://localhost:8080/source/823542138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/823542138> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Piazza Giannantonio Manci" .
+<http://localhost:8080/source/823542138> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria Dolomeis" .
+<http://localhost:8080/source/I25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/823542138> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38123" .
+<http://localhost:8080/source/823542138> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "3" .
+
+<http://localhost:8080/source/5059810665> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I26> .
+<http://localhost:8080/source/I26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/5059810665> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/5059810665> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "gelateria" .
+<http://localhost:8080/source/5059810665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/5059810665> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I27> .
+<http://localhost:8080/source/5059810665> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/5059810665> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "gelateria" .
+<http://localhost:8080/source/I27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/5059810665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/1331577392> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I28> .
+<http://localhost:8080/source/1331577392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/1331577392> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Alla Vecchia Fontana" .
+<http://localhost:8080/source/1331577392> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/I28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+
+<http://localhost:8080/source/I29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/3090949619> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/3090949619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/3090949619> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria \"Al Ponte\"" .
+<http://localhost:8080/source/3090949619> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I29> .
+
+<http://localhost:8080/source/4365350290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/4365350290> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I30> .
+<http://localhost:8080/source/I30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/4365350290> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/4365350290> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria Al Pozzo" .
+
+<http://localhost:8080/source/5114840532> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I31> .
+<http://localhost:8080/source/I31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/5114840532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/5114840532> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+
+<http://localhost:8080/source/4415047275> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/I32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/4415047275> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Mo-Su 08:00-23:00" .
+<http://localhost:8080/source/4415047275> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I32> .
+<http://localhost:8080/source/4415047275> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Flora Downtown" .
+<http://localhost:8080/source/4415047275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/6551596192> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I33> .
+<http://localhost:8080/source/6551596192> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Viale Dante Alighieri" .
+<http://localhost:8080/source/6551596192> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "86" .
+<http://localhost:8080/source/6551596192> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/6551596192> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "DolceStella" .
+<http://localhost:8080/source/6551596192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/6551596192> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Mo-Su 08:00-23:00" .
+
+<http://localhost:8080/source/I34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/9141413524> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I34> .
+<http://localhost:8080/source/9141413524> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38066" .
+<http://localhost:8080/source/9141413524> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria Eta Beta" .
+<http://localhost:8080/source/9141413524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/9141413524> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/9141413524> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Disciplini" .
+<http://localhost:8080/source/9141413524> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "14" .
+
+<http://localhost:8080/source/700335915> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/700335915> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/700335915> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Brolio Ice Cream" .
+<http://localhost:8080/source/I35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/700335915> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I35> .
+
+<http://localhost:8080/source/486141846> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "9" .
+<http://localhost:8080/source/486141846> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38066" .
+<http://localhost:8080/source/486141846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/486141846> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Viale San Francesco" .
+<http://localhost:8080/source/486141846> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria Adamello" .
+<http://localhost:8080/source/486141846> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Riva del Garda" .
+<http://localhost:8080/source/486141846> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I36> .
+<http://localhost:8080/source/486141846> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+
+<http://localhost:8080/source/2496766112> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I37> .
+<http://localhost:8080/source/I37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/2496766112> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria Isola del Gelato" .
+<http://localhost:8080/source/2496766112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/2496766112> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+
+<http://localhost:8080/source/687634184> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/687634184> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Mo-Su 09:00-20:00" .
+<http://localhost:8080/source/I38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/687634184> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria Capriccio" .
+<http://localhost:8080/source/687634184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/687634184> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I38> .
+
+<http://localhost:8080/source/2484736021> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I39> .
+<http://localhost:8080/source/2484736021> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Rovereto" .
+<http://localhost:8080/source/2484736021> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "56" .
+<http://localhost:8080/source/2484736021> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38068" .
+<http://localhost:8080/source/2484736021> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Giosuè Carducci" .
+<http://localhost:8080/source/2484736021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/2484736021> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/2484736021> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria Goccia di Latte" .
+
+<http://localhost:8080/source/685236439> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/I40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/685236439> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria La Torretta" .
+<http://localhost:8080/source/685236439> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I40> .
+<http://localhost:8080/source/685236439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/806752621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/806752621> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I41> .
+<http://localhost:8080/source/I41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/806752621> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+
+<http://localhost:8080/source/2487884664> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Girolamo Tartarotti" .
+<http://localhost:8080/source/2487884664> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Yogurteria" .
+<http://localhost:8080/source/2487884664> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "1" .
+<http://localhost:8080/source/I42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/2487884664> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/2487884664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/2487884664> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I42> .
+
+<http://localhost:8080/source/545487908> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38068" .
+<http://localhost:8080/source/545487908> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "23" .
+<http://localhost:8080/source/545487908> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/545487908> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Mercerie" .
+<http://localhost:8080/source/545487908> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Rovereto" .
+<http://localhost:8080/source/545487908> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Storie di Latte" .
+<http://localhost:8080/source/545487908> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I43> .
+<http://localhost:8080/source/545487908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+
+<http://localhost:8080/source/685236439> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I44> .
+<http://localhost:8080/source/I44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/685236439> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/685236439> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria La Torretta" .
+<http://localhost:8080/source/685236439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/3836071883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/3836071883> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I45> .
+<http://localhost:8080/source/I45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/3836071883> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Capriccio di Gola" .
+<http://localhost:8080/source/3836071883> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+
+<http://localhost:8080/source/888908468> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I46> .
+<http://localhost:8080/source/I46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/888908468> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelatomania" .
+<http://localhost:8080/source/888908468> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/888908468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/I47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/3752959293> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I47> .
+<http://localhost:8080/source/3752959293> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Brione" .
+<http://localhost:8080/source/3752959293> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/3752959293> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Settimogelo" .
+<http://localhost:8080/source/3752959293> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Rovereto" .
+<http://localhost:8080/source/3752959293> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "35" .
+<http://localhost:8080/source/3752959293> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/3752959293> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38068" .
+<http://localhost:8080/source/3752959293> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Mo-Fr 14:00-21:00; Sa-Su 11:30-21:30" .
+
+<http://localhost:8080/source/928786698> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38062" .
+<http://localhost:8080/source/928786698> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/928786698> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Arco" .
+<http://localhost:8080/source/928786698> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "2" .
+<http://localhost:8080/source/928786698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/928786698> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Mo-Su 10:00-22:30" .
+<http://localhost:8080/source/928786698> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Giovanni Segantini" .
+<http://localhost:8080/source/I48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/928786698> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I48> .
+<http://localhost:8080/source/928786698> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelato Mio" .
+<http://localhost:8080/source/928786698> <http://knowdive.disi.unitn.it/etype#has_webSite_GID-34126_Type-43815> "https://www.facebook.com/gelatomioarco" .
+
+<http://localhost:8080/source/1110602907> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Il Gelatiere" .
+<http://localhost:8080/source/1110602907> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "4" .
+<http://localhost:8080/source/1110602907> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/1110602907> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38062" .
+<http://localhost:8080/source/1110602907> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I49> .
+<http://localhost:8080/source/1110602907> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Piazza 3 Novembre" .
+<http://localhost:8080/source/I49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1110602907> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/I50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1240999982> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/1240999982> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria Artigianale Tarifa" .
+<http://localhost:8080/source/1240999982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/1240999982> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I50> .
+
+<http://localhost:8080/source/1760241067> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Indimenicabile" .
+<http://localhost:8080/source/1760241067> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I51> .
+<http://localhost:8080/source/1760241067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/1760241067> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/I51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+
+<http://localhost:8080/source/638141773> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/638141773> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I52> .
+<http://localhost:8080/source/638141773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/638141773> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Garda Gelati" .
+
+<http://localhost:8080/source/I53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/6251379374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/6251379374> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Trento" .
+<http://localhost:8080/source/6251379374> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I53> .
+<http://localhost:8080/source/6251379374> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38060" .
+<http://localhost:8080/source/6251379374> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Nonna Giulia" .
+<http://localhost:8080/source/6251379374> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Besenello" .
+<http://localhost:8080/source/6251379374> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "35" .
+<http://localhost:8080/source/6251379374> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+
+<http://localhost:8080/source/2972706128> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Borgo Valsugana" .
+<http://localhost:8080/source/2972706128> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I54> .
+<http://localhost:8080/source/2972706128> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38051" .
+<http://localhost:8080/source/2972706128> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Bottega del Gelato" .
+<http://localhost:8080/source/I54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/2972706128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/2972706128> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/2972706128> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Alessandro Spagolla" .
+<http://localhost:8080/source/2972706128> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "7" .
+
+<http://localhost:8080/source/5865253501> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Fiocco di neve" .
+<http://localhost:8080/source/5865253501> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38052" .
+<http://localhost:8080/source/5865253501> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "5" .
+<http://localhost:8080/source/5865253501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/5865253501> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/5865253501> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via della Polla" .
+<http://localhost:8080/source/5865253501> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Caldonazzo" .
+<http://localhost:8080/source/5865253501> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I55> .
+
+<http://localhost:8080/source/I56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/6739952574> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/6739952574> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "tobià" .
+<http://localhost:8080/source/6739952574> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I56> .
+<http://localhost:8080/source/6739952574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/9144688119> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/9144688119> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Bar Gelateria Regina" .
+<http://localhost:8080/source/9144688119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/9144688119> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I57> .
+
+<http://localhost:8080/source/1263209697> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I58> .
+<http://localhost:8080/source/1263209697> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "9" .
+<http://localhost:8080/source/1263209697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/1263209697> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38033" .
+<http://localhost:8080/source/1263209697> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Cavalese" .
+<http://localhost:8080/source/1263209697> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Tre Valli" .
+<http://localhost:8080/source/I58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1263209697> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+
+<http://localhost:8080/source/1256563370> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "56" .
+<http://localhost:8080/source/1256563370> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria Tre Valli" .
+<http://localhost:8080/source/I59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1256563370> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/1256563370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/1256563370> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Fratelli Bronzetti" .
+<http://localhost:8080/source/1256563370> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I59> .
+<http://localhost:8080/source/1256563370> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-43815> "+39 0462 231625" .
+<http://localhost:8080/source/1256563370> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Cavalese" .
+<http://localhost:8080/source/1256563370> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38033" .
+
+<http://localhost:8080/source/945470823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/945470823> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I60> .
+<http://localhost:8080/source/945470823> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/945470823> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria Veneta" .
+
+<http://localhost:8080/source/2526451125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/2526451125> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I61> .
+<http://localhost:8080/source/2526451125> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/2526451125> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria Basi'n" .
+
+<http://localhost:8080/source/I62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1381060989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/1381060989> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/1381060989> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I62> .
+<http://localhost:8080/source/1381060989> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Baita del Gelato" .
+
+<http://localhost:8080/source/294466911> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I63> .
+<http://localhost:8080/source/294466911> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/294466911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+
+<http://localhost:8080/source/4394168359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/4394168359> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Piazza Regina Elena" .
+<http://localhost:8080/source/4394168359> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gala Ice Cream Gelateria" .
+<http://localhost:8080/source/4394168359> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38027" .
+<http://localhost:8080/source/4394168359> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I64> .
+<http://localhost:8080/source/4394168359> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Malé" .
+<http://localhost:8080/source/4394168359> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Mo-Su 10:00-22:00" .
+<http://localhost:8080/source/4394168359> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/4394168359> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "3" .
+
+<http://localhost:8080/source/1813472290> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "La Baita del Gelato" .
+<http://localhost:8080/source/1813472290> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/I65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1813472290> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I65> .
+<http://localhost:8080/source/1813472290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/1331577392> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I66> .
+<http://localhost:8080/source/1331577392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1331577392> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Alla Vecchia Fontana" .
+<http://localhost:8080/source/1331577392> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "4" .
+<http://localhost:8080/source/1408624387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38016" .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Mezzocorona" .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_webSite_GID-34126_Type-43815> "https://www.facebook.com/Caffetteria-Gelateria-Pingu-534241856761082/" .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Pingu" .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-43815> "+39 0461 987654" .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815> "Mo 16:00-22:00; Tu-Su 15:00-22:00" .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I67> .
+<http://localhost:8080/source/1408624387> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Piazza della Chiesa" .
+<http://localhost:8080/source/I67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+
+<http://localhost:8080/source/1614921063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/1614921063> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Arturo De Varda" .
+<http://localhost:8080/source/I68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1614921063> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Mezzolombardo" .
+<http://localhost:8080/source/1614921063> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I68> .
+<http://localhost:8080/source/1614921063> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "2" .
+<http://localhost:8080/source/1614921063> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/1614921063> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38017" .
+
+<http://localhost:8080/source/4557760197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/4557760197> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "La Stua" .
+<http://localhost:8080/source/I69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/4557760197> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/4557760197> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-43815> "+39 0461 1595703" .
+<http://localhost:8080/source/4557760197> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I69> .
+<http://localhost:8080/source/4557760197> <http://knowdive.disi.unitn.it/etype#has_webSite_GID-34126_Type-43815> "https://www.facebook.com/La-Stua-829922077142213/" .
+<http://localhost:8080/source/4557760197> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "31" .
+<http://localhost:8080/source/4557760197> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38017" .
+<http://localhost:8080/source/4557760197> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Guido Fiorini" .
+<http://localhost:8080/source/4557760197> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Mezzolombardo" .
+
+<http://localhost:8080/source/72003251> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-43815> "+39 0461 601390" .
+<http://localhost:8080/source/72003251> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "74" .
+<http://localhost:8080/source/I70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/72003251> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/72003251> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I70> .
+<http://localhost:8080/source/72003251> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38017" .
+<http://localhost:8080/source/72003251> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Via Quattro Novembre" .
+<http://localhost:8080/source/72003251> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria Girasole" .
+<http://localhost:8080/source/72003251> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Mezzolombardo" .
+<http://localhost:8080/source/72003251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/I71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/3785859356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/3785859356> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/3785859356> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I71> .
+
+<http://localhost:8080/source/374400990> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I72> .
+<http://localhost:8080/source/374400990> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/374400990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+
+<http://localhost:8080/source/1524976160> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I73> .
+<http://localhost:8080/source/1524976160> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Bertolini" .
+<http://localhost:8080/source/I73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/1524976160> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/1524976160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/8875723182> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I74> .
+<http://localhost:8080/source/8875723182> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Dolom'ICE" .
+<http://localhost:8080/source/I74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/8875723182> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/8875723182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+
+<http://localhost:8080/source/5400760153> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/I75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/5400760153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/5400760153> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I75> .
+<http://localhost:8080/source/5400760153> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Mamì" .
+
+<http://localhost:8080/source/702858942> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/702858942> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Bucaneve" .
+<http://localhost:8080/source/702858942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/702858942> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I76> .
+
+<http://localhost:8080/source/5375513960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/I77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/5375513960> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/5375513960> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Gelateria Al Parco" .
+<http://localhost:8080/source/5375513960> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I77> .
+
+<http://localhost:8080/source/I78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Location_GID-779> .
+<http://localhost:8080/source/6644330129> <http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815> "Telve" .
+<http://localhost:8080/source/6644330129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019> .
+<http://localhost:8080/source/6644330129> <http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815> "Bar Gelateria Derby" .
+<http://localhost:8080/source/6644330129> <http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815> "icecreamshop" .
+<http://localhost:8080/source/6644330129> <http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779> <http://localhost:8080/source/I78> .
+<http://localhost:8080/source/6644330129> <http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815> "Località Santa Giustina" .
+<http://localhost:8080/source/6644330129> <http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815> "38050" .
+<http://localhost:8080/source/6644330129> <http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815> "5d" .
+

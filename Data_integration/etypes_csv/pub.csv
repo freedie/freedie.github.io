@@ -1,0 +1,43 @@
+﻿id,city,housenumber,postcode,street,phone_number,name,outdoor_seating,website,opening_hours,Location_ID,amenity
+268432522,Trento,2,38122,Via Roccabruna,,Pub Al Posta,yes,,,P1,pub
+853801468,Trento,15,38122,Via dei Paradisi,,INorOUT,,,,P2,pub
+906968983,Trento,10,38122,Via Calepina,paolo.cereghini@gmail.com,Angolo dei 33,,,Tu-Sa 15:00-00:00; Su 16:00-22:00,P3,pub
+430673952,Trento,36/2,38122,Via San Giovanni,,Bar Picaro,,,Mo-Sa 18:00-24:00,P4,pub
+2706066321,,,,,,Il Circolino,,,"Mo-Fr 11:00-15:00,19:00-21:00",P5,pub
+550687807,Trento,1,38122,Via dei Ventuno,+39 349 7152966,H/àkka/,,,Tu-Sa 22:00-3:00,P6,pub
+961288197,Trento,46,38121,Via Antonio Pranzelores,+39 0461 090741,Willy's Caffè Pub,,,,P7,pub
+432873025,Trento,100,38121,Via Giambattista Unterveger,,Tonyk Club,,,,P8,pub
+5504957384,Trento,6,38121,Via Salorno,hello@brewpassion.com,Passion Brewery,Brew Passion Srl,https://passionbrewery.com/,,P9,pub
+1140956935,Lavis,31,38015,Via Nazionale,,Kiss Pub,,,,P10,pub
+2706066321,,,,,,Il Circolino,,,"Mo-Fr 11:00-15:00,19:00-21:00",P11,pub
+292021803,,,,,,,,,,P12,pub
+3250914386,Trento,4,,Viale degli Olmi,,Flambard Pub,,,,P13,pub
+7105717814,Mattarello,41,38123,Via Nazionale,,La Pinta Birreria,,,,P14,pub
+511138890,Riva del Garda,28,,Piazza Tre Novembre,,La Cambusa,,,,P15,pub
+9176575698,Riva del Garda,5,38066,Via Padova,,North Pub,,,,P16,pub
+2150998976,,,,,,Druido,,,,P17,pub
+2159317571,,,,,,Locos,,,,P18,pub
+2159318291,Rovereto,18,38068,Via Roma,,Perbacco,,,,P19,pub
+1985829027,Rovereto,18,38068,Santa Maria,,Circolo Operaio SantaMaria,Gest. Tecilla Michele,,,P20,pub
+1024831047,Arco,12,38062,Via Giovanni Segantini,,Il Gatto Nero,,,,P21,pub
+4215202557,Borgo Valsugana,13,38051,Piazza Romani,,Birreria Absolut,Birreria Absolut di Poddebniak Urszula Zofia e C. S.A.S.,,,P22,pub
+5787239153,,,,,,Pub Evita,yes,,,P23,pub
+7770054585,,,,,,Bar Centrale,,,,P24,pub
+1263209698,Cavalese,2,38033,Via Unterberger,,Bar Canton,,,,P25,pub
+274303880,,,,,,Pub SottoZero,,,,P26,pub
+414988154,,29,,Via Roma,,Al filo,yes,,,P27,pub
+6611481842,,,,,,Rive Bar,,,,P28,pub
+724349525,Pozza di Fassa,,38036,Piaza del Malgher,,Pub Mirò,,,,P29,pub
+5554963922,,,,,,Liquid Club,,,,P30,pub
+367891767,,,,,,Bismarck Pub,,,,P31,pub
+7105717814,Mattarello,41,38123,Via Nazionale,,La Pinta Birreria,,,,P32,pub
+168298002,,,,,,Stal Beer&Grill,,,,P33,pub
+702858655,,,,,,Pub Saloon,,,,P34,pub
+303832073,,,,,,,,,,P35,pub
+4202862140,Scurelle,3,38050,Piazza Maggiore,,Pub Celtic,yes,,,P36,pub
+4202838207,Scurelle,4,38050,Via 15 Agosto,,Rosy's Pub,Rosy's pub S.N.C. di Stenico Diego & C.,,,P37,pub
+3909747543,,,,,,Pub Freeway,,,,P38,pub
+4202838207,Scurelle,4,38050,Via 15 Agosto,,Rosy's Pub,Rosy's pub S.N.C. di Stenico Diego & C.,,,P39,pub
+6397206527,,10 b,,Via Benesin,,Dixie Pub - ex Tolo,,,,P40,pub
+430548245,,,,,,Cafè Nol,,,,P41,pub
+1405084830,Andalo,1,38010,Via Laghet,,Osteria Pub Al Laghet,,,,P42,pub

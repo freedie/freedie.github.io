@@ -1,0 +1,100 @@
+﻿Id	city	phone_number	website	service	price	type
+CC1	NAGO-TORBOLE	0464-505222	www.camping-al-cor.it	Campo basket/volley		Camping
+CC2	NAGO-TORBOLE	0464-505222	www.camping-al-cor.it	Tennis tavolo - ping pong		Camping
+CC3	NAGO-TORBOLE	0464-505222	www.camping-al-cor.it	Minigolf		Camping
+CC4	NAGO-TORBOLE	0464-505222	www.camping-al-cor.it	Campo tennis		Camping
+CC5	NAGO-TORBOLE	0464-505222	www.camping-al-cor.it	Campo bocce		Camping
+CC6	NAGO-TORBOLE	0464-505222	www.camping-al-cor.it			Camping
+CC7	NAGO-TORBOLE	0464-505222	www.camping-al-cor.it		1300	Camping
+CC8	NAGO-TORBOLE	0464-505222	www.camping-al-cor.it		0	Camping
+CC9	NAGO-TORBOLE	0464-505222	www.camping-al-cor.it		0	Camping
+CC10	NAGO-TORBOLE	0464-505222	www.camping-al-cor.it		8000	Camping
+CC11	NAGO-TORBOLE	0464-505222	www.camping-al-cor.it		4500	Camping
+CC12	NAGO-TORBOLE	0464-505222	www.camping-al-cor.it		6000	Camping
+CC13	RIVA DEL GARDA	0464-553186	www.campingallago.com			Camping
+CC14	RIVA DEL GARDA	0464-553186	www.campingallago.com			Camping
+CC15	RIVA DEL GARDA	0464-553186	www.campingallago.com		1200	Camping
+CC16	RIVA DEL GARDA	0464-553186	www.campingallago.com		0	Camping
+CC17	RIVA DEL GARDA	0464-553186	www.campingallago.com			Camping
+CC18	RIVA DEL GARDA	0464-553186	www.campingallago.com			Camping
+CC19	MOLINA DI LEDRO	347-8664991	www.bestledrocamping.it	Campo basket/volley		Camping
+CC20	MOLINA DI LEDRO	347-8664991	www.bestledrocamping.it	Tennis tavolo - ping pong		Camping
+CC21	MOLINA DI LEDRO	347-8664991	www.bestledrocamping.it	Baby room attrezzata		Camping
+CC22	MOLINA DI LEDRO	347-8664991	www.bestledrocamping.it			Camping
+CC23	MOLINA DI LEDRO	347-8664991	www.bestledrocamping.it		0	Camping
+CC24	MOLINA DI LEDRO	347-8664991	www.bestledrocamping.it		0	Camping
+CC25	MOLINA DI LEDRO	347-8664991	www.bestledrocamping.it		0	Camping
+CC26	MOLINA DI LEDRO	347-8664991	www.bestledrocamping.it			Camping
+CC27	MOLINA DI LEDRO	347-8664991	www.bestledrocamping.it			Camping
+CC28	TORCEGNO	0461-766129		Tennis tavolo - ping pong		Camping
+CC29	TORCEGNO	0461-766129		Biliardo		Camping
+CC30	TORCEGNO	0461-766129		Postazione di lavoro internet		Camping
+CC31	TORCEGNO	0461-766129				Camping
+CC32	TORCEGNO	0461-766129			600	Camping
+CC33	TORCEGNO	0461-766129			0	Camping
+CC34	PIEVE DI LEDRO	0464-591250	www.camping-al-lago.it	Tennis tavolo - ping pong		Camping
+CC35	PIEVE DI LEDRO	0464-591250	www.camping-al-lago.it	Postazione di lavoro internet		Camping
+CC36	PIEVE DI LEDRO	0464-591250	www.camping-al-lago.it			Camping
+CC37	PIEVE DI LEDRO	0464-591250	www.camping-al-lago.it		1300	Camping
+CC38	PIEVE DI LEDRO	0464-591250	www.camping-al-lago.it		0	Camping
+CC39	PIEVE DI LEDRO	0464-591250	www.camping-al-lago.it		11000	Camping
+CC40	PIEVE DI LEDRO	0464-591250	www.camping-al-lago.it		12300	Camping
+CC41	PIEVE DI LEDRO	0464-591250	www.camping-al-lago.it			Camping
+CC42	PIEVE DI LEDRO	0464-591250	www.camping-al-lago.it			Camping
+CC43	CASTELLO TESINO	0461-594018	www.campeggioalice.it	Tennis tavolo - ping pong		Camping
+CC44	CASTELLO TESINO	0461-594018	www.campeggioalice.it	Campo bocce		Camping
+CC45	CASTELLO TESINO	0461-594018	www.campeggioalice.it			Camping
+CC46	CASTELLO TESINO	0461-594018	www.campeggioalice.it		1000	Camping
+CC47	CASTELLO TESINO	0461-594018	www.campeggioalice.it		0	Camping
+CC48	ANDALO	0461-585753	www.andalolifepark.it	Campo basket/volley		Camping
+CC49	ANDALO	0461-585753	www.andalolifepark.it	Tennis tavolo - ping pong		Camping
+CC50	ANDALO	0461-585753	www.andalolifepark.it	Minigolf		Camping
+CC51	ANDALO	0461-585753	www.andalolifepark.it	Biliardo		Camping
+CC52	ANDALO	0461-585753	www.andalolifepark.it	Campo tennis		Camping
+CC53	ANDALO	0461-585753	www.andalolifepark.it	Campo bocce		Camping
+CC54	ANDALO	0461-585753	www.andalolifepark.it			Camping
+CC55	ANDALO	0461-585753	www.andalolifepark.it		1450	Camping
+CC56	ANDALO	0461-585753	www.andalolifepark.it		0	Camping
+CC57	ARCO	0464-517491	www.arcoturistica.com	Campo basket/volley		Camping
+CC58	ARCO	0464-517491	www.arcoturistica.com	Tennis tavolo - ping pong		Camping
+CC59	ARCO	0464-517491	www.arcoturistica.com	Baby room attrezzata		Camping
+CC60	ARCO	0464-517491	www.arcoturistica.com	Campo tennis		Camping
+CC61	ARCO	0464-517491	www.arcoturistica.com	Postazione di lavoro internet		Camping
+CC62	ARCO	0464-517491	www.arcoturistica.com			Camping
+CC63	ARCO	0464-517491	www.arcoturistica.com		1300	Camping
+CC64	ARCO	0464-517491	www.arcoturistica.com		0	Camping
+CC65	ARCO	0464-517491	www.arcoturistica.com		0	Camping
+CC66	ARCO	0464-517491	www.arcoturistica.com		11000	Camping
+CC67	ARCO	0464-505077	www.arcoturistica.com	Tennis tavolo - ping pong		Camping
+CC68	ARCO	0464-505077	www.arcoturistica.com	Baby room attrezzata		Camping
+CC69	ARCO	0464-505077	www.arcoturistica.com	Postazione di lavoro internet		Camping
+CC70	ARCO	0464-505077	www.arcoturistica.com			Camping
+CC71	ARCO	0464-505077	www.arcoturistica.com		1150	Camping
+CC72	ARCO	0464-505077	www.arcoturistica.com		0	Camping
+CC73	LAVARONE	334-8362626	campeggiobelvederelavaron e.wordpress.com	Postazione di lavoro internet		Camping
+CC74	LAVARONE	334-8362626	campeggiobelvederelavaron e.wordpress.com			Camping
+CC75	LAVARONE	334-8362626	campeggiobelvederelavaron e.wordpress.com		900	Camping
+CC76	LAVARONE	334-8362626	campeggiobelvederelavaron e.wordpress.com		0	Camping
+CC77	LAVARONE	334-8362626	campeggiobelvederelavaron e.wordpress.com		0	Camping
+CC78	CARANO	0462-341694	www.campeggiocalvello.it	Tennis tavolo - ping pong		Camping
+CC79	CARANO	0462-341694	www.campeggiocalvello.it	Baby room attrezzata		Camping
+CC80	CARANO	0462-341694	www.campeggiocalvello.it			Camping
+CC81	CARANO	0462-341694	www.campeggiocalvello.it		1100	Camping
+CC82	CARANO	0462-341694	www.campeggiocalvello.it		0	Camping
+CC83	POZZA DI FASSA	0462-763305	www.catinacciorosengarten .com	Tennis tavolo - ping pong		Camping
+CC84	POZZA DI FASSA	0462-763305	www.catinacciorosengarten .com	Baby room attrezzata		Camping
+CC85	POZZA DI FASSA	0462-763305	www.catinacciorosengarten .com	Campo tennis		Camping
+CC86	POZZA DI FASSA	0462-763305	www.catinacciorosengarten .com	Campo bocce		Camping
+CC87	POZZA DI FASSA	0462-763305	www.catinacciorosengarten .com			Camping
+CC88	POZZA DI FASSA	0462-763305	www.catinacciorosengarten .com		1280	Camping
+CC89	POZZA DI FASSA	0462-763305	www.catinacciorosengarten .com		0	Camping
+CC90	POZZA DI FASSA	0462-763305	www.catinacciorosengarten .com		18500	Camping
+CC91	POZZA DI FASSA	0462-763305	www.catinacciorosengarten .com			Camping
+CC92	TERLAGO	0461-860423	www.laghidilamar.com	Campo basket/volley		Camping
+CC93	TERLAGO	0461-860423	www.laghidilamar.com	Tennis tavolo - ping pong		Camping
+CC94	TERLAGO	0461-860423	www.laghidilamar.com	Minigolf		Camping
+CC95	TERLAGO	0461-860423	www.laghidilamar.com	Biliardo		Camping
+CC96	TERLAGO	0461-860423	www.laghidilamar.com	Baby room attrezzata		Camping
+CC97	TERLAGO	0461-860423	www.laghidilamar.com			Camping
+CC98	TERLAGO	0461-860423	www.laghidilamar.com		1400	Camping
+CC99	TERLAGO	0461-860423	www.laghidilamar.com		0	Camping

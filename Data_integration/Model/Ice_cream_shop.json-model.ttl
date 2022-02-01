@@ -1,0 +1,1026 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix etype: <http://knowdive.disi.unitn.it/etype#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node1foegp7ofx1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "Ice_cream_shop.json" ;
+	km-dev:modelPublicationTime "1641164873487"^^xsd:long ;
+	km-dev:modelVersion "1.7" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"city\"}],[{\"columnName\":\"housenumber\"}],[{\"columnName\":\"opening_hours\"}],[{\"columnName\":\"street\"}],[{\"columnName\":\"Location_id\"}],[{\"columnName\":\"postcode\"}],[{\"columnName\":\"frozen_yogurt\"}],[{\"columnName\":\"website\"}],[{\"columnName\":\"name\"}],[{\"columnName\":\"phone_number\"}],[{\"columnName\":\"id\"}],[{\"columnName\":\"amenity\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"city\"}],[{\"columnName\":\"housenumber\"}],[{\"columnName\":\"opening_hours\"}],[{\"columnName\":\"street\"}],[{\"columnName\":\"Location_id\"}],[{\"columnName\":\"postcode\"}],[{\"columnName\":\"frozen_yogurt\"}],[{\"columnName\":\"website\"}],[{\"columnName\":\"name\"}],[{\"columnName\":\"phone_number\"}],[{\"columnName\":\"id\"}],[{\"columnName\":\"amenity\"}]]" ;
+	km-dev:hasModelLabel "Ice_cream_shop.json" ;
+	km-dev:hasBaseURI "http://localhost:8080/source/" ;
+	km-dev:hasWorksheetHistory """[
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"id\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-410191\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_id_GID-31465_Type-43815\",
+                    \"DomainLabel\": \"etype:Ice_cream_shop_GID-410191 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"id\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"id\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"name\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-410191\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815\",
+                    \"DomainLabel\": \"etype:Ice_cream_shop_GID-410191\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"name\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"name\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"city\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-410191\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815\",
+                    \"DomainLabel\": \"etype:Ice_cream_shop_GID-410191\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"city\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"city\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"housenumber\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-410191\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815\",
+                    \"DomainLabel\": \"etype:Ice_cream_shop_GID-410191\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"housenumber\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"housenumber\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"postcode\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-410191\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815\",
+                    \"DomainLabel\": \"etype:Ice_cream_shop_GID-410191\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"postcode\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"postcode\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"street\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-410191\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815\",
+                    \"DomainLabel\": \"etype:Ice_cream_shop_GID-410191\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"street\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"street\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"phone_number\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-410191\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-43815\",
+                    \"DomainLabel\": \"etype:Ice_cream_shop_GID-410191\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"phone_number\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"phone_number\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"website\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-410191\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_webSite_GID-34126_Type-43815\",
+                    \"DomainLabel\": \"etype:Ice_cream_shop_GID-410191\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"website\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"website\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"opening_hours\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-410191\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815\",
+                    \"DomainLabel\": \"etype:Ice_cream_shop_GID-410191\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"opening_hours\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"opening_hours\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"frozen_yogurt\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-410191\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_frozen_yogurt_GID-41030_Type-41019\",
+                    \"DomainLabel\": \"etype:Ice_cream_shop_GID-410191\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"frozen_yogurt\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"frozen_yogurt\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetMetaPropertyCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Location_id\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"metaPropertyName\",
+                \"type\": \"other\",
+                \"value\": \"isUriOfClass\"
+            },
+            {
+                \"name\": \"metaPropertyUri\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Location_GID-779\"
+            },
+            {
+                \"name\": \"metaPropertyId\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Location_GID-7791\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Location_GID-779\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Location_GID-7791\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
+                    \"DomainLabel\": \"etype:Location_GID-7791 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Location_id\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Location_id\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"amenity\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-410191\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815\",
+                    \"DomainLabel\": \"etype:Ice_cream_shop_GID-410191\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"amenity\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"amenity\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Location_GID-7791\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Location_GID-779\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-410191\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-41019\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    }
+]""" .
+
+km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab a rr:TriplesMap .
+
+_:node1foegp7ofx1 km-dev:hasTriplesMap km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab .
+
+km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx2 rr:tableName "Ice_cream_shop.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasLogicalTable _:node1foegp7ofx2 .
+
+km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab rr:logicalTable _:node1foegp7ofx2 ;
+	rr:subjectMap _:node1foegp7ofx3 .
+
+_:node1foegp7ofx1 km-dev:hasSubjectMap _:node1foegp7ofx3 .
+
+_:node1foegp7ofx3 km-dev:isPartOfMapping _:node1foegp7ofx1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Ice_cream_shop_GID-410191" ;
+	rr:class etype:Ice_cream_shop_GID-41019 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Ice_cream_shop_GID-410191" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_85b99d62-d1ea-474d-8ab8-3155e44f2b82 rr:predicate etype:has_Location_GID-779_Type-779 .
+
+km-dev:RefObjectMap_c665d12d-5ec3-43af-b705-1a84c7eb0418 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_727b4b18-6704-4d48-8627-b92a97497c5e ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasObjectMap km-dev:RefObjectMap_c665d12d-5ec3-43af-b705-1a84c7eb0418 .
+
+km-dev:PredicateObjectMap_85b99d62-d1ea-474d-8ab8-3155e44f2b82 rr:objectMap km-dev:RefObjectMap_c665d12d-5ec3-43af-b705-1a84c7eb0418 .
+
+km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab rr:predicateObjectMap km-dev:PredicateObjectMap_85b99d62-d1ea-474d-8ab8-3155e44f2b82 .
+
+km-dev:PredicateObjectMap_85b99d62-d1ea-474d-8ab8-3155e44f2b82 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_85b99d62-d1ea-474d-8ab8-3155e44f2b82 .
+
+km-dev:PredicateObjectMap_904e8d21-1481-4c9e-93ec-54d77081076f rr:predicate etype:has_city_GID-45969_Type-43815 .
+
+_:node1foegp7ofx4 rr:column "city" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasObjectMap _:node1foegp7ofx4 .
+
+km-dev:PredicateObjectMap_904e8d21-1481-4c9e-93ec-54d77081076f rr:objectMap _:node1foegp7ofx4 .
+
+km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab rr:predicateObjectMap km-dev:PredicateObjectMap_904e8d21-1481-4c9e-93ec-54d77081076f .
+
+km-dev:PredicateObjectMap_904e8d21-1481-4c9e-93ec-54d77081076f a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_904e8d21-1481-4c9e-93ec-54d77081076f .
+
+km-dev:PredicateObjectMap_a39920b9-ac9b-482c-a99a-bc4357cd1c74 rr:predicate etype:has_housenumber_GID-34489_Type-43815 .
+
+_:node1foegp7ofx5 rr:column "housenumber" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasObjectMap _:node1foegp7ofx5 .
+
+km-dev:PredicateObjectMap_a39920b9-ac9b-482c-a99a-bc4357cd1c74 rr:objectMap _:node1foegp7ofx5 .
+
+km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab rr:predicateObjectMap km-dev:PredicateObjectMap_a39920b9-ac9b-482c-a99a-bc4357cd1c74 .
+
+km-dev:PredicateObjectMap_a39920b9-ac9b-482c-a99a-bc4357cd1c74 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_a39920b9-ac9b-482c-a99a-bc4357cd1c74 .
+
+km-dev:PredicateObjectMap_057bc034-054b-41e6-9e89-a49504964210 rr:predicate etype:has_opening_hours_GID-80563_Type-43815 .
+
+_:node1foegp7ofx6 rr:column "opening_hours" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasObjectMap _:node1foegp7ofx6 .
+
+km-dev:PredicateObjectMap_057bc034-054b-41e6-9e89-a49504964210 rr:objectMap _:node1foegp7ofx6 .
+
+km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab rr:predicateObjectMap km-dev:PredicateObjectMap_057bc034-054b-41e6-9e89-a49504964210 .
+
+km-dev:PredicateObjectMap_057bc034-054b-41e6-9e89-a49504964210 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_057bc034-054b-41e6-9e89-a49504964210 .
+
+km-dev:PredicateObjectMap_7c7ec2f0-c0d6-482d-83dc-2bf19f51c1f2 rr:predicate etype:has_street_GID-24034_Type-43815 .
+
+_:node1foegp7ofx7 rr:column "street" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasObjectMap _:node1foegp7ofx7 .
+
+km-dev:PredicateObjectMap_7c7ec2f0-c0d6-482d-83dc-2bf19f51c1f2 rr:objectMap _:node1foegp7ofx7 .
+
+km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab rr:predicateObjectMap km-dev:PredicateObjectMap_7c7ec2f0-c0d6-482d-83dc-2bf19f51c1f2 .
+
+km-dev:PredicateObjectMap_7c7ec2f0-c0d6-482d-83dc-2bf19f51c1f2 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_7c7ec2f0-c0d6-482d-83dc-2bf19f51c1f2 .
+
+km-dev:PredicateObjectMap_e91b4328-d72b-4ea5-a8e9-6ddd617ec9f4 rr:predicate etype:has_postcode_GID-34110_Type-43815 .
+
+_:node1foegp7ofx8 rr:column "postcode" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasObjectMap _:node1foegp7ofx8 .
+
+km-dev:PredicateObjectMap_e91b4328-d72b-4ea5-a8e9-6ddd617ec9f4 rr:objectMap _:node1foegp7ofx8 .
+
+km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab rr:predicateObjectMap km-dev:PredicateObjectMap_e91b4328-d72b-4ea5-a8e9-6ddd617ec9f4 .
+
+km-dev:PredicateObjectMap_e91b4328-d72b-4ea5-a8e9-6ddd617ec9f4 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_e91b4328-d72b-4ea5-a8e9-6ddd617ec9f4 .
+
+km-dev:PredicateObjectMap_f9441ad2-0d33-4f15-a491-a04eb179015b rr:predicate etype:has_frozen_yogurt_GID-41030_Type-41019 .
+
+_:node1foegp7ofx9 rr:column "frozen_yogurt" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasObjectMap _:node1foegp7ofx9 .
+
+km-dev:PredicateObjectMap_f9441ad2-0d33-4f15-a491-a04eb179015b rr:objectMap _:node1foegp7ofx9 .
+
+km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab rr:predicateObjectMap km-dev:PredicateObjectMap_f9441ad2-0d33-4f15-a491-a04eb179015b .
+
+km-dev:PredicateObjectMap_f9441ad2-0d33-4f15-a491-a04eb179015b a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_f9441ad2-0d33-4f15-a491-a04eb179015b .
+
+km-dev:PredicateObjectMap_3a3953c9-7bc8-4b19-85a7-bf5ef265711a rr:predicate etype:has_webSite_GID-34126_Type-43815 .
+
+_:node1foegp7ofx10 rr:column "website" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasObjectMap _:node1foegp7ofx10 .
+
+km-dev:PredicateObjectMap_3a3953c9-7bc8-4b19-85a7-bf5ef265711a rr:objectMap _:node1foegp7ofx10 .
+
+km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab rr:predicateObjectMap km-dev:PredicateObjectMap_3a3953c9-7bc8-4b19-85a7-bf5ef265711a .
+
+km-dev:PredicateObjectMap_3a3953c9-7bc8-4b19-85a7-bf5ef265711a a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_3a3953c9-7bc8-4b19-85a7-bf5ef265711a .
+
+km-dev:PredicateObjectMap_e6fe2b51-6d84-43f3-918c-0b91866583b0 rr:predicate etype:has_name_GID-2_Type-43815 .
+
+_:node1foegp7ofx11 rr:column "name" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasObjectMap _:node1foegp7ofx11 .
+
+km-dev:PredicateObjectMap_e6fe2b51-6d84-43f3-918c-0b91866583b0 rr:objectMap _:node1foegp7ofx11 .
+
+km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab rr:predicateObjectMap km-dev:PredicateObjectMap_e6fe2b51-6d84-43f3-918c-0b91866583b0 .
+
+km-dev:PredicateObjectMap_e6fe2b51-6d84-43f3-918c-0b91866583b0 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_e6fe2b51-6d84-43f3-918c-0b91866583b0 .
+
+km-dev:PredicateObjectMap_e68afee9-0f08-43dd-bed3-523dfe08b393 rr:predicate etype:has_phone_number_GID-34494_Type-43815 .
+
+_:node1foegp7ofx12 rr:column "phone_number" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasObjectMap _:node1foegp7ofx12 .
+
+km-dev:PredicateObjectMap_e68afee9-0f08-43dd-bed3-523dfe08b393 rr:objectMap _:node1foegp7ofx12 .
+
+km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab rr:predicateObjectMap km-dev:PredicateObjectMap_e68afee9-0f08-43dd-bed3-523dfe08b393 .
+
+km-dev:PredicateObjectMap_e68afee9-0f08-43dd-bed3-523dfe08b393 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_e68afee9-0f08-43dd-bed3-523dfe08b393 .
+
+km-dev:PredicateObjectMap_d0e020e7-1321-43d4-9122-4351df86aa8a rr:predicate etype:has_id_GID-31465_Type-43815 .
+
+_:node1foegp7ofx13 rr:column "id" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasObjectMap _:node1foegp7ofx13 .
+
+km-dev:PredicateObjectMap_d0e020e7-1321-43d4-9122-4351df86aa8a rr:objectMap _:node1foegp7ofx13 .
+
+km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab rr:predicateObjectMap km-dev:PredicateObjectMap_d0e020e7-1321-43d4-9122-4351df86aa8a .
+
+km-dev:PredicateObjectMap_d0e020e7-1321-43d4-9122-4351df86aa8a a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_d0e020e7-1321-43d4-9122-4351df86aa8a .
+
+km-dev:PredicateObjectMap_1533404a-5b40-4008-a8ee-ba646c47daba rr:predicate etype:has_amenity_GID-2973_Type-43815 .
+
+_:node1foegp7ofx14 rr:column "amenity" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasObjectMap _:node1foegp7ofx14 .
+
+km-dev:PredicateObjectMap_1533404a-5b40-4008-a8ee-ba646c47daba rr:objectMap _:node1foegp7ofx14 .
+
+km-dev:TriplesMap_9d1fc732-f179-4218-822f-71e5d4fd5fab rr:predicateObjectMap km-dev:PredicateObjectMap_1533404a-5b40-4008-a8ee-ba646c47daba .
+
+km-dev:PredicateObjectMap_1533404a-5b40-4008-a8ee-ba646c47daba a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_1533404a-5b40-4008-a8ee-ba646c47daba .
+
+km-dev:TriplesMap_727b4b18-6704-4d48-8627-b92a97497c5e a rr:TriplesMap .
+
+_:node1foegp7ofx1 km-dev:hasTriplesMap km-dev:TriplesMap_727b4b18-6704-4d48-8627-b92a97497c5e .
+
+km-dev:TriplesMap_727b4b18-6704-4d48-8627-b92a97497c5e km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx15 rr:tableName "Ice_cream_shop.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1foegp7ofx1 .
+
+_:node1foegp7ofx1 km-dev:hasLogicalTable _:node1foegp7ofx15 .
+
+km-dev:TriplesMap_727b4b18-6704-4d48-8627-b92a97497c5e rr:logicalTable _:node1foegp7ofx15 ;
+	rr:subjectMap _:node1foegp7ofx16 .
+
+_:node1foegp7ofx1 km-dev:hasSubjectMap _:node1foegp7ofx16 .
+
+_:node1foegp7ofx16 km-dev:isPartOfMapping _:node1foegp7ofx1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Location_GID-7791" ;
+	rr:class etype:Location_GID-779 ;
+	rr:template "{Location_id}" .

@@ -1,0 +1,301 @@
+﻿id,city,housenumber,postcode,street,phone_number,name,outdoor_seating,takeaway,website,opening_hours,wheelchair,internet_access,diet_vegan,Location_ID,amenity
+3101758141,Trento,6,38123,Via dei Marinai d'Italia,+39 0461 933053,Al Marinaio,yes,IT01143870226,http://www.almarinaio.eu,24-Jul,,,,C1,Cafe
+2250996518,,,,,,Eni Bar,,,,Mo-Su 06:00-19:00,,,,C2,Cafe
+1706421993,,,,,,Bar Big Ben,,,,,,,,C3,Cafe
+2314952904,Trento,28,38122,Via Giacomo Matteotti,,Blue Angel,,,,,,,,C4,Cafe
+890516992,Trento,5,38122,Via Monsignor Celestino Endrici,,Bar 70,,IT02089530220,,Su Off,,,,C5,Cafe
+890517019,Trento,131,38122,Via Fratelli Perini,,Bar Perini Civico 131,Fontana Ivan & C.,IT02132950227,,,,,,C6,Cafe
+1131515215,Trento,28,,Viale Verona,,Bar Michela,,,,,,,,C7,Cafe
+2344162329,Trento,27,38122,Via Giacomo Matteotti,,Girasole,,,,,,,,C8,Cafe
+3123786458,Trento,98,38122,Via Vittorio Veneto,,Maly Bar,,,,,no,,,C9,Cafe
+8446128412,,,,Via Fratelli Perini,,,,,,,,,,C10,Cafe
+147695036,Trento,10,38122,Via Vittorio Veneto,,Caffè Ristretto,,,,,,,,C11,Cafe
+2437097540,Trento,39/1,38123,Via Roberto da Sanseverino,,Bar Stadio,Bar Stadio s.n.c.,IT01763010228,,,,no,,C12,Cafe
+867438907,Trento,56,38123,Corso III Novembre,,Pasticceria Lott,,,,,,,,C13,Cafe
+867439156,Trento,40,38122,Corso III Novembre,,Caffè al Corso,,,,,,,,C14,Cafe
+920773541,Trento,76,38122,Corso III Novembre,,Caffè Vittoria,,,,,,,,C15,Cafe
+268401562,Trento,40,38122,Piazza del Duomo,+39 0461 092622,Caffè Portici,yes,IT01452730227,,,,,,C16,Cafe
+430669783,Trento,33/1,38122,Via Rodolfo Belenzani,,Caffè Olimpia,yes,IT00351150222,,,,,,C17,Cafe
+557150243,Trento,34,38122,Piazza del Duomo,+39 0461 262826,Caffè 34,yes,,,,limited,,,C18,Cafe
+558621094,Trento,34,38122,Via del Travai,+39 0461 231868,Bar Roby,,IT02111810228,,,,,,C19,Cafe
+867377080,Trento,35,38122,Via Camillo Benso Cavour,+39 0461 232522,Urban Coffee Lab,yes,,https://www.facebook.com/urbancoffeelab/,Mo-Sa 07:30-19:30,,,,C20,Cafe
+867377406,Trento,42,38122,Via Camillo Benso Cavour,,Le Note,,,,,,,,C21,Cafe
+976794369,Trento,60,38122,Via Rodolfo Belenzani,+39 0461 1410166,PanCaffè Larcher,,,https://www.facebook.com/elisa.dalcorso.94,"Mo-Su 07:00-14:00,16:30-21:00",,,yes,C22,Cafe
+991782724,Trento,31,38122,Piazza del Duomo,+39 0461 260114,Caffè Tridente,yes,,,Mo-Su 07:00-24:00,limited,,,C23,Cafe
+2472335028,Trento,11,38122,Via Don Giovanni Battista Zanella,+39 0461 238480,Magna Laude,yes,IT00975100223,http://www.sositrento.it/,"Mo-Fr 07:30-21:00; Sa 07:30-14:30,17:00-21:00",,yes,,C24,Cafe
+268401567,Trento,1,38122,Piazza Mario Pasi,+39 0461 982301,Bar Pasi,yes,IT01311240228,,,limited,,,C25,Cafe
+268430906,,,,,,Johnny Bar,yes,,,Mo-Fr 07:00-21:00; Sa 07:00-12:00,limited,,,C26,Cafe
+268430908,Trento,29,38122,Via Calepina,,Jo Bar,yes,,,Mo-Sa 07:00-20:00,limited,,,C27,Cafe
+268436704,Trento,5,38122,Piazza Giovanni Battista Garzetti,+39 0461 231801,Uva & Menta Café,yes,IT02169000227,http://www.uvaementa.it,,yes,,,C28,Cafe
+268440165,Trento,11,38122,Largo Porta Nuova,+39 0461 262938,Caffè Venezia,,,,Mo-Sa 07:00-20:00; Su 07:00-13:00,,,,C29,Cafe
+432480281,Trento,48,38122,Via Santa Croce,,Bar 3 Portoni,yes,,,Mo-Fr 07:00-20:00; Sa 07:00-13:00,,,,C30,Cafe
+439912351,Trento,25,38122,Largo Giosuè Carducci,,Carducci,yes,IT02302900226,,,,,,C31,Cafe
+563754421,Trento,20,38122,Via Malpaga,+39 0461 1822401,Moki,,,,,,,,C32,Cafe
+853802748,Trento,50,38122,Via Giuseppe Mazzini,,Caffè Mazzini,,IT02136100225,,,,,,C33,Cafe
+867439110,Trento,2,38122,Corso III Novembre,,Bar Pasticceria Viennese,yes,,,Mo-Su 06:30-21:00,yes,,,C34,Cafe
+888452672,Trento,39,38122,Via Mantova,,Bottega del Caffè Dersut,yes,,,,,,,C35,Cafe
+950814168,Trento,7,38122,Piazza del Duomo,,Caffè Italia,yes,IT01856370224,,,limited,,,C36,Cafe
+959911026,,,,,,Bar Rosa,,,,,,,,C37,Cafe
+976794123,Trento,21,38122,Via Carlo Dordi,+39 0461 239900,Mini Bistrò Dordi,,,https://www.facebook.com/minibistrodordi/,,,,,C38,Cafe
+1156358255,Trento,10,38122,Via San Vigilio,+39 0461 230096,Pasticceria San Vigilio,yes,IT01715770226,,,,,,C39,Cafe
+1156368143,Trento,29,38122,Via Oriola,,Pasticceria Bertelli,ORSO INIZIATIVE S.R.L.,IT02237640228,,,,,,C40,Cafe
+1590524177,Trento,5,38122,Via Galileo Galilei,+39 0461 234217,Galileo,Rossoamaranto,IT02349310223,,Mo-Fr 07:00-21:00,,,,C41,Cafe
+3107513265,,74,38122,Via Piave,+39 0461 916189,Creme,,,,,,,,C42,Cafe
+3153832735,Trento,13,38122,Via Malta,,Red Dream Caffè,Altamar Esmeralda,IT02334630221,Esmeralda Altamar,Mo-Sa 06:30-19:30,,,,C43,Cafe
+3461721719,Trento,13,38122,Piazza di Fiera,,Nero,yes,,,,yes,,,C44,Cafe
+3885819452,Trento,8,38122,Via San Francesco d'Assisi,,Italiana caffè,yes,,,Mo-Fr 07:00-21:00; Sa 09:00-22:00; Su 15:00-22:00,yes,,yes,C45,Cafe
+5352312854,Trento,22,38122,Piazza di Fiera,+39 0461 998877,Caffetteria Perghem 1835,yes,IT02450730227,https://www.facebook.com/caffetteriaperghem/,Mo-Th 07:00-21:00; Fr-Su 07:00-22:00,,,Caffè Alla Rotonda,C46,Cafe
+557150086,Trento,5,38122,Via delle Orfane,,Dersut Caffè,yes,,,,,,,C47,Cafe
+558528917,Trento,17,38122,Via delle Orfane,,Bar Orchidea,,,,Mo-Fr 07:00-19:30; Sa 07:00-13:00,,,,C48,Cafe
+570753040,Trento,21,38122,Via Rodolfo Belenzani,+39 0461 234352,"Pasticceria Caffetteria""Casa del Cioccolato""",yes,IT00448970228,,"Mo,We-Fr 07:00-19:30; Sa 07:30-19:30; Su 07:30-13:00",yes,,yes,C49,Cafe
+867377432,,,,,,Why not,,,,,no,,,C50,Cafe
+268440175,Trento,02-Feb,38122,Via Francesco Ferruccio,,Kafè Matrix,,,,,,,,C51,Cafe
+439912423,Trento,41,38122,Via Paolo Oss Mazzurana,+39 0461 932089,Bar Rex,,,,,yes,,,C52,Cafe
+811086992,Trento,38,38122,Via San Pietro,+39 0461 985104,Union Casa del Caffè,no,IT01383930227,,"Mo-Sa 07:00-12:30,15:00-19:30",yes,,no,C53,Cafe
+430675313,Trento,48,38122,Via Roma,+39 0461 090538,Osteria Trentina,Laratta Patrizia,IT02329120220,,,limited,yes,,C54,Cafe
+3218898157,Trento,55,38122,Via Roma,,Bar Biblioteca,,IT01885360220,Flavio Marconcini,,,,,C55,Cafe
+430690365,Trento,86,38122,Via Giannantonio Manci,+39 0461 261304,Caffè Excelsior,yes,IT02067360228,https://www.facebook.com/caffeexcelsior.tn,,,wlan,,C56,Cafe
+880591016,Trento,20-Jan,38122,Via Giannantonio Manci,,Caffè Specchi,yes,,,Mo-Sa 11:00-20:30,,,,C57,Cafe
+975288339,Trento,26,38122,Corso Michelangelo Buonarroti,,Bar Magnani,yes,IT01795850229,,Mo-Fr 07:00-19:00; Sa 07:00-12:00,,,,C58,Cafe
+894044597,,,,,,Eden Caffè,,,,,,,,C59,Cafe
+1220020567,Trento,32/1,38122,Via Francesco Petrarca,,Caffè Al Tempo Perso,,IT00860660224,,,limited,,,C60,Cafe
+1833230969,Trento,86,38122,Via San Martino,,El Barrio,,,,Mo-Su 17:00-22:00,yes,,yes,C61,Cafe
+6036162191,,,,,,,,,,,,,,C62,Cafe
+431618063,Trento,29,38121,Via Antonio Stoppani,,Pasticceria Bar Mazzoleni,yes,,,,,,,C63,Cafe
+1893051282,Trento,11,38121,Via Ezio Maccani,,Bar Ok,,,,,,,,C64,Cafe
+2383255946,,,,,,Bottega del Caffè Dersut,yes,,,,,,,C65,Cafe
+990461825,Trento,72,38122,Via del Brennero,,Bar Sport,,,,Mo-Sa 07:15-18:00,,,,C66,Cafe
+1206327036,Trento,46,38122,Via del Brennero,,Bar Carla,,,,,,,,C67,Cafe
+1666211346,Trento,6,38122,Via Bartolameo da Trento,,Caffé Silvana,,,,Mo-Sa 07:00-24:00,yes,,,C68,Cafe
+1707649406,Trento,6,38122,Via del Brennero,,Nuovo Bar Chistè,,IT02007150226,,Mo-Fr 06:00-20:00; Su 07:00-13:00; Sa off,yes,,no,C69,Cafe
+73293759,,,,,,Bar Caffetteria Dogana,,,,,,,,C70,Cafe
+1474641633,,105,38121,Via Ezio Maccani,,Bar One,,IT02069110225,,,,,,C71,Cafe
+365499676,Trento,36,38121,Via dei Solteri,+39 0461 820701,Caffè al Parco,,IT01785410224,,,limited,,,C72,Cafe
+1749611789,,,,,,Bar Mister,,,,,,,,C73,Cafe
+2903764668,Trento,288,38121,Via del Brennero,+39 0461 821979,D&G Fashion Cafè,,,,,,,,C74,Cafe
+1773068160,,,,,,,,,,,,,,C75,Cafe
+298086065,,,,,,,,,,,,,,C76,Cafe
+1773068160,,,,,,,,,,,,,,C77,Cafe
+4891613712,Trento,48,38121,Via Padre Emilio Chiocchetti,,Dolce Mondo,Janjic Svetlana,IT02377960220,,,,yes,,C78,Cafe
+3103439229,,,,,,La Diversa,,,,,,,,C79,Cafe
+1454331896,Trento,34/2,38121,Via Luigi Caneppele,,Bar Lupo,,,,,,,,C80,Cafe
+2311431854,,,,,,Bar Sorriso,,,,,,,,C81,Cafe
+1297477234,,,,,,Bar alle Scale,,,,,,,,C82,Cafe
+1297477299,,,,,,,,,,,,,,C83,Cafe
+940654673,,,,,,Caffé Marta,,,,,,,,C84,Cafe
+1899168155,,,,,,Bottega del Dersut,,,,,,,,C85,Cafe
+2872204373,Lavis,32,38015,Via Nazionale,,Buongiorno Lavis,,IT02288500222,,"Mo-Sa 06:00-20:00; Su 06:00-13:00,15:00-20:00",,,,C86,Cafe
+4464623568,Lavis,34,38015,Via Antonio Rosmini,,Bar Sport,,,,,,,,C87,Cafe
+2304121848,,,,,,Leon D'Oro,,,,,,,,C88,Cafe
+3134826456,,,,,,,,,,,,,,C89,Cafe
+663429535,Lavis,27,38015,Via Cembra,+39 0461 245148,Gelateria Serafini,Serafini Rocco e C. Snc,IT02101410229,,Tu-Su 7:30-00:30,,,,C90,Cafe
+2317509769,,,,,,Vanilla Cafe,,,,,,,,C91,Cafe
+2984498949,,,,,,Bar Sicilia,,,,,,yes,,C92,Cafe
+2779346908,,,,,,,,,,,,,,C93,Cafe
+2984498949,,,,,,Bar Sicilia,,,,,,yes,,C94,Cafe
+1289151753,,,,,,Bar Andreis,,,,,,,,C95,Cafe
+1023262474,Mezzocorona,2,38016,Piazza San Gottardo,+39 0461 603755,Bar Centrale,,IT00646770222,,,,,,C96,Cafe
+1023263517,Mezzocorona,7,38016,Piazza della Chiesa,+39 0461 601014,En Piaza,yes,IT01915930224,,,,,,C97,Cafe
+1754018634,Mezzocorona,15,38016,Piazza San Gottardo,,Bar Tram,Rossi Maria Grazia,IT02164510220,,,,,,C98,Cafe
+2049523808,,,,,,Teer Cafè,,,,,,,,C99,Cafe
+2096838561,,,,,,Cafè Mirò,,,,,,,,C100,Cafe
+2185695786,,,,,,,,,,,,,,C101,Cafe
+101372428,,,,,,Bar Campetti,,,,,,,,C102,Cafe
+2411091303,,,,,,Bar Povo 1,,,,Mo-Fr 08:00-16:00,,wlan,,C103,Cafe
+2411091439,,,,,,bar FBK,,,,Mo-Fr 08:00-16:00,yes,,no,C104,Cafe
+279462366,,,,,,Open,,,,,yes,,,C105,Cafe
+78363327,,,,,,Max und Moritz,,,,,no,,,C106,Cafe
+427941701,Trento,,38122,Largo Medaglie d'Oro,,Blu Bar,,,,,,,,C107,Cafe
+1311009225,Trento,,38122,Largo Medaglie d'Oro,,Medaglie d'Oro,,,,,,,,C108,Cafe
+2150444589,Trento,7,38122,via Paolo Orsi,,27 bar,Matteo Cortelletti,IT02296370220,,,,,,C109,Cafe
+2197903913,Trento,7,38122,Via Giuseppe Gerola,,Minibar,,,,,,,,C110,Cafe
+1559090540,,,,,,Bar di Ingegneria,,,,,,,,C111,Cafe
+1331576651,,,,,,Caffè Al Centro,,,,,,,,C112,Cafe
+1685067432,,,,,,Snack Bar Flora,,,,,,,,C113,Cafe
+430543937,Trento,14,38123,Piazza Perini Quintilio,,"Bar Pasticceria ""Dolce Cuore""",,,,Mo-Sa 06:30-20:00; Su 08:00-20:00,,,,C114,Cafe
+4742364436,,,38066,Piazza Tre Novembre,,Antico caffè Maffei,,,,,yes,,,C115,Cafe
+270673832,,,,,,Punta Lido Caffè,,,,,,,,C116,Cafe
+3556927851,Riva del Garda,33,,Piazza Tre Novembre,,Caffé Cittá,,,,,,,,C117,Cafe
+901046111,,,,,,iLike bar food ice cream,,,,,,,,C118,Cafe
+1373698251,,,38066,,,Cafe Italia,,,,,yes,,,C119,Cafe
+2874070230,,,38066,,,Casa del Caffè,,,,,,,,C120,Cafe
+2874083201,,,38066,,,Pasticceria Copat,,,,,,,,C121,Cafe
+2887488210,Riva del Garda,18,38066,Viale Roma,,San Marco cafè,,,,7:00 - 20:30,,yes,,C122,Cafe
+3244704033,Riva del Garda,2,38066,Via Santa Maria,,Caffe Maroni,,,,,,,,C123,Cafe
+4310581914,,,,,,Bar Cafélac,,,,,,,,C124,Cafe
+5859346986,,,,,,,,,,,,,,C125,Cafe
+9110446721,,,,,,Cafe Troiani,yes,,,,,no,,C126,Cafe
+5114843920,Riva del Garda,,38066,,,Moka MO,,,,,,,,C127,Cafe
+571193717,Riva del Garda,2,38066,Via San Nazzaro,,Caffè Speed Since1969,,,https://www.facebook.com/caffespeedsince1969/,,,,,C128,Cafe
+2531409644,Riva del Garda,94,,Viale Trento,,Gelateria Artigianale Happy Days,,,,,,,,C129,Cafe
+299801308,,,,,,Bar Centro Sportivo,,,,,,,,C130,Cafe
+6091712990,,50,,Via Benacense,,Buonissimo,,,,,yes,,,C131,Cafe
+2484653256,Rovereto,28,38068,Via Giuseppe Garibaldi,,Bottega del Caffé,,,,,,,,C132,Cafe
+2484736017,Rovereto,14,38068,Via delle Scuole,,Bar Bianco,,,,,,,,C133,Cafe
+2484736018,Rovereto,7,38068,Via della Croce,+39 335 5342495,Caffè Excelsior,yes,IT02330590221,,,,,,C134,Cafe
+417409264,Rovereto,14,38068,Piazza Cesare Battisti,,Caffè Bontadi,,,,,yes,,,C135,Cafe
+3230336766,Rovereto,9,38068,Via Roma,,Bar Andreatta,,,,,yes,,yes,C136,Cafe
+2509341606,Rovereto,8,38068,Via Fortunato Zeni,+39 0464 443277,Bar Piave,,IT02146650227,,,yes,,,C137,Cafe
+709880990,,,,,,Caffè Posta,Zanella Massimiliano & C. sas,IT01734920224,,,,,,C138,Cafe
+710054178,,,,,,Caffè Gambrinus,yes,yes,,,yes,,,C139,Cafe
+692409156,,,,,,Black Roses Square,,,,,,,,C140,Cafe
+692623276,,,,,,Rosmini,,IT02270360221,Cristina Brandoli,,yes,,,C141,Cafe
+3116375600,Rovereto,2/F,38068,Via Campagnole,+39 0464 430511,StreetBikers,yes,,https://www.facebook.com/eligenmoka?fref=ts,"Mo-Th 07:30-19:00; Fr 07:30-12:00,14:30-19:00; Sa 08:00-12:00",,,,C142,Cafe
+806751374,Rovereto,40,38068,Via Dante Alighieri,,Harry'S Bar,,,,,,,,C143,Cafe
+2484736030,,,,,,Tiffany,,,,,yes,,,C144,Cafe
+737674794,,,,,,Bistrò Cafe,yes,,,,yes,,,C145,Cafe
+737674794,,,,,,Bistrò Cafe,yes,,,,yes,,,C146,Cafe
+3815830157,,30,,Via Montecorno,,Ca dell'Ora,,,,,,,,C147,Cafe
+4005533476,Rovereto,17/C,38068,Via Parteli,,Serendipity,Serendipity SNC,IT02292280225,,,yes,,,C148,Cafe
+8198607089,,,,,,,,,,,,,,C149,Cafe
+888908469,,,,,,Caffè Silver,Pisetti Mauro & C,,,,,,,C150,Cafe
+2171057706,,,,,,,,,,,yes,,,C151,Cafe
+2173939085,Rovereto,31 E,38068,Viale Trento,,Bar City,,,,,yes,,,C152,Cafe
+2509331932,,,,,,,,,,,,,,C153,Cafe
+740489409,,,,,,Mary Giò Cafè,,,,Mo-Fr 05:00-19:00,yes,,,C154,Cafe
+2171057706,,,,,,,,,,,yes,,,C155,Cafe
+2509341606,Rovereto,8,38068,Via Fortunato Zeni,+39 0464 443277,Bar Piave,,IT02146650227,,,yes,,,C156,Cafe
+8198607089,,,,,,,,,,,,,,C157,Cafe
+902531895,Arco,3,38062,Via Giovanni Segantini,,Bar Free Master,Made di Miori Maurizio,,,,,wlan,,C158,Cafe
+1024789858,,2,38062,Via Bruno Galas,,Cafè Centrale,,,,,,yes,,C159,Cafe
+1110591774,Arco,2,38062,Piazza Marchetti,,Caffè Contì d'Arco,,IT01593840224,,,,,,C160,Cafe
+1366770285,Arco,1,38062,Piazza III Novembre,,Caffè Trentino,yes,IT01882710229,,,yes,,,C161,Cafe
+4756588954,,5,,Via Foro Boario,,Hotel Al Sole,yes,IT01381850229,,,yes,,,C162,Cafe
+4294950104,,,,,,Trento,,,,,,,,C163,Cafe
+7118897430,Bieno,10,38050,Vicolo Busarello,,B&B IL piccolo principe,yes,,,,,wlan,,C164,Cafe
+4294950102,Bieno,5,38050,Piazza Maggiore,,Bar Rododendro,,,,,,,,C165,Cafe
+4294950135,,,,,,,,,,,,,,C166,Cafe
+304129300,,,,,,,,,,,,,,C167,Cafe
+3852571332,,,,,,,,,,,,,,C168,Cafe
+1620985279,Borgo Valsugana,7,38051,Via Alessandro Spagolla,,Bar Vulcano,,,,,,,,C169,Cafe
+3840753124,,,,,,Bar Bianco,,,,,,,,C170,Cafe
+4215202560,Borgo Valsugana,7,38051,Piazza Romani,,Bar Milano,Valerio Adelino & C. SAS,IT01694550227,,,,,,C171,Cafe
+4215202561,Borgo Valsugana,6,38051,Piazza Alcide De Gasperi,,Bar del Borgo,,,,,,,,C172,Cafe
+4215202567,Borgo Valsugana,12,38051,Piazza Martiri della Resistenza,,Il ritrovo dei sapori,,no,,,,,,C173,Cafe
+4215203888,Borgo Valsugana,15,38051,Via Fratelli,,La Cantinota,La Cantinota S.A.S. di Beltrame Manuela e C.,,,,,,,C174,Cafe
+4215205797,Borgo Valsugana,15,38051,Piazza Alcide De Gasperi,,Bar Zita,,,,,,,,C175,Cafe
+3575479541,Borgo Valsugana,9b,38051,Via Giuseppe Gozzer,,Wine Bar,,,,,,,,C176,Cafe
+3934055421,,,,,,,,,,,,,,C177,Cafe
+139516770,Borgo Valsugana,5,38051,Via Roma,,5 Baroni,,IT01629390228,,,,,,C178,Cafe
+4215202559,Borgo Valsugana,17,38051,Piazzale Dante Alighieri,,Bar Cusso,Borgogno Maria,IT00582430229,,,,,,C179,Cafe
+4127976297,Borgo Valsugana,36,38051,Corso Ausugum,,Caffè Italia,,,,,yes,,,C180,Cafe
+4664024252,Borgo Valsugana,16,38051,Corso Ausugum,,Bar Trento,,,,,yes,,,C181,Cafe
+600916200,,,,,,Bar Centrale,,,,,,,,C182,Cafe
+5787238954,Campitello di Fassa,4,38031,Strèda dò Ruf,+39 0462 750434,Pasticceria Marlene,yes,yes,,"Mo-Su 07:30-12:00,15:15-19:00",limited,,,C183,Cafe
+3389055950,,23,,Piazza Marconi,,La Petite,,,,Mo-Su 08:00-19:00,,,,C184,Cafe
+3389055949,,11,38032,Strèda de Pareda,,Bar Esso,,,,,,,,C185,Cafe
+2232233337,Castelnuovo,13,38050,Piazza del Municipio,+39 0461 753446,Bar Chin,,IT01274650223,,,,,,C186,Cafe
+2237889662,Castelnuovo,8,38050,Via Trento,+39 0461 752730,Al vapore,,,,,,,,C187,Cafe
+6656573063,Castelnuovo,17,38050,Viale Venezia,+39 348 930 7453,Caffè Noir,Campestrin Renza,IT02349780227,,,,,,C188,Cafe
+2967728499,,,,,,Caffè... da te,,,,,,,,C189,Cafe
+859560059,,2,,Piazza Verdi,,Caffè Pizzeria Tana del Grillo,,,,,,,,C190,Cafe
+2967730228,,,,,,Corona,,,,,,,,C191,Cafe
+1843995236,,,,,,"Albergo Bar ""La Rosa""",,,,,,,,C192,Cafe
+945390437,,,,,,Nicky's Bar,,,,,yes,,,C193,Cafe
+946077508,Cles,44,38023,Via Alcide Degasperi,,Caffè Grazia,,,,,,,,C194,Cafe
+946228722,,66,,Viale Alcide de Gasperi,,Bar Blu,Ciardi Nicoletta,,,,,,,C195,Cafe
+943772827,Cles,20,38023,Via Romana,,Lanterna Magica,yes,IT02473540223,,Mo 07:30-15.00; Tu-Fr 07:30-21:00; Sa 08:30-22.00,yes,no,,C196,Cafe
+945133241,Cles,2,38023,Piazza Navarrino,,Bar Cles,,IT02000880225,,,,no,,C197,Cafe
+945133408,Cles,10,38023,Corso Dante,,Bar Centrale,ALFEL SAS di Fellin Alessandro & C.,IT01700280223,,,,,,C198,Cafe
+945390432,,,,,,Bar Posta,,,,,,,,C199,Cafe
+945430402,,,,,,Bar Roma,,,,,,,,C200,Cafe
+945430407,,,,,,Bar Sport,,,,,,,,C201,Cafe
+945430413,Cles,5,38023,Piazza Granda,,Caffè Europa,,,,,,,,C202,Cafe
+945776009,Cles,34,38023,Via Giambattista Lampi,,Bar Claudia,,,,,,,,C203,Cafe
+4020339039,Cles,1,38023,Piazza Primo Maggio,,La Casa di Marzapane,,IT02797840838,,,,,,C204,Cafe
+4516745809,Cles,10,38023,Via Roma,,Pasticceria Ramus,,,,,,wlan,,C205,Cafe
+4589498554,Cles,43/45,38023,Piazza Granda,,Caffe Bertolasi,yes,IT02305600229,,,,,,C206,Cafe
+4380569085,,,,,,Bar Stazione,,,,,,,,C207,Cafe
+5352766111,,,,,,Caffè Varena,,,,,,,,C208,Cafe
+5352766112,,,,,,Bar al Drago,,,,,,,,C209,Cafe
+1211103522,,,,,,Bar Bianco,yes,,,,,,,C210,Cafe
+261081650,,,,,,Bar La Torre,,,,,,,,C211,Cafe
+261086638,,9,,Via Roma,,Bar caffè Castello,,,,,,,,C212,Cafe
+1806514143,,,,,,Caffè in Piazza,,,,,,,,C213,Cafe
+7960090670,,,,,,Caffè del viale,,,,,,,,C214,Cafe
+564884219,,,,,,Caffe` Impero,,,,,,,,C215,Cafe
+963851255,,,,,,Nazionale,,,,,,,,C216,Cafe
+5834717227,,,,,,Paint Bar,,,,,,,,C217,Cafe
+622616647,,,,,,Pasticceria Verginello,,,,,,,,C218,Cafe
+1100567585,Malé,3,38027,Piazza Santa Maria Assunta,,Pasticceria Roma,Caffè Roma S.N.C. di P. Massimo e C.,IT01577490228,,,,,,C219,Cafe
+5889694076,,,,,,Jolly,,,,,,,,C220,Cafe
+333790690,,,,,,Snoopy,,,,,,,,C221,Cafe
+333791073,,,,,,Pasticceria,,,,,,,,C222,Cafe
+1620510920,Dimaro,4,38025,Via Caduti,,L'Oasi,,IT01863120224,,,,,,C223,Cafe
+5893152115,,,,,,Kaiserkrone,,,,,,,,C224,Cafe
+367891752,,,,,,Caffè del Centro,,,,,,,,C225,Cafe
+2433994739,,,,,,Bar Tabacchi Giornali,,,,,,,,C226,Cafe
+1331576651,,,,,,Caffè Al Centro,,,,,,,,C227,Cafe
+1685067432,,,,,,Snack Bar Flora,,,,,,,,C228,Cafe
+430543937,Trento,14,38123,Piazza Perini Quintilio,,"Bar Pasticceria ""Dolce Cuore""",,,,Mo-Sa 06:30-20:00; Su 08:00-20:00,,,,C229,Cafe
+1098424327,,,,,,Dolce Amaro,,,,,,,,C230,Cafe
+7924119464,,,,,,La Stube,,,,,,,,C231,Cafe
+1023262474,Mezzocorona,2,38016,Piazza San Gottardo,+39 0461 603755,Bar Centrale,,IT00646770222,,,,,,C232,Cafe
+1754018634,Mezzocorona,15,38016,Piazza San Gottardo,,Bar Tram,Rossi Maria Grazia,IT02164510220,,,,,,C233,Cafe
+2049523808,,,,,,Teer Cafè,,,,,,,,C234,Cafe
+2096838561,,,,,,Cafè Mirò,,,,,,,,C235,Cafe
+2185695786,,,,,,,,,,,,,,C236,Cafe
+101372428,,,,,,Bar Campetti,,,,,,,,C237,Cafe
+1023263517,Mezzocorona,7,38016,Piazza della Chiesa,+39 0461 601014,En Piaza,yes,IT01915930224,,,,,,C238,Cafe
+870463412,Mezzolombardo,34/B,38017,Corso Giuseppe Mazzini,,Caffè Mazzini,Cadeddu Valentina,,,,,,,C239,Cafe
+885639402,,,,,,Bar Titti,,,,,,,,C240,Cafe
+885639405,Mezzolombardo,11,38017,Via Arturo De Varda,,Casa del Caffè,,,,,,,,C241,Cafe
+890959825,Mezzolombardo,59,38017,Via Alcide De Gasperi,,JD Bar,,,,,,,,C242,Cafe
+1068398503,Mezzolombardo,10,38017,Piazza Pio XII,+39 0461 606029,Bar Mary,,IT01347670224,,,,,,C243,Cafe
+1362787078,,,,,,Bar Stella,,,,,,,,C244,Cafe
+859540287,Mezzolombardo,33,38017,Via Arturo De Varda,,Bar Mirtillo,Noldin Antonella,IT00616890224,,,,,,C245,Cafe
+859540318,Mezzolombardo,7,38017,Via San Francesco,,Bar Giulia,,IT01962510226,,,,,,C246,Cafe
+863012344,,,,,,Big Ball,,,,,,,,C247,Cafe
+885639418,Mezzolombardo,14,38017,Corso del Popolo,+39 0461 605642,Bar Posta,Tait Denise & C.,IT01776220228,,,,,,C248,Cafe
+890960007,Mezzolombardo,11,38017,Via Alcide De Gasperi,,Lady Bar,,,,,,,,C249,Cafe
+937561932,Mezzolombardo,40/A,38017,Corso del Popolo,,Bar del Corso,,,,,,,,C250,Cafe
+72527979,,,,,,,,,,,,,,C251,Cafe
+1584024518,,,,,,Cafe Gabry,,,,,,,,C252,Cafe
+1512680703,,,,,,La Perla,,,,,,,,C253,Cafe
+137884766,Molveno,23,38018,Via Lungolago,,Bar Spiaggia,,,,,yes,,,C254,Cafe
+333696251,,,,,,Caffè Posta,,,,,,,,C255,Cafe
+497089016,Calceranica al Lago,17,38050,Via Guido Donegani,,Bar Pasticceria Gelateria Al Lago,yes,yes,,,,,,C256,Cafe
+5662790564,,,,,,,,,,,,,,C257,Cafe
+102779824,,,,,,Punta Lago Gelateria,,,,,,,,C258,Cafe
+333791574,,,,,,Caffé Maturi,,,,,,,,C259,Cafe
+610239683,Madonna di Campiglio,27,38086,Via Monte Spinale,,Ober1,,,,,yes,yes,,C260,Cafe
+5258618122,,,,,,Bar in piazza,,,,,,,,C261,Cafe
+2799076104,,,,,,Bar Rosa delle Alpi,,,,,,,,C262,Cafe
+8093496708,,,,,,Europeo,,,,,,,,C263,Cafe
+8093532431,,,,,,Caffè Genzianella,,,,,,,,C264,Cafe
+4328283797,,,,,,Bar pasticceria Carpe Diem,,,,,,,,C265,Cafe
+5258618122,,,,,,Bar in piazza,,,,,,,,C266,Cafe
+1357188733,,,,,,,,,,,,,,C267,Cafe
+1289151753,,,,,,Bar Andreis,,,,,,,,C268,Cafe
+2984498949,,,,,,Bar Sicilia,,,,,,yes,,C269,Cafe
+2779346908,,,,,,,,,,,,,,C270,Cafe
+616524576,Rabbi,150,38020,,,Bar Centrale,,,,,,,,C271,Cafe
+2232339460,Scurelle,16,38050,Piazza Maggiore,,,yes,,,,,,,C272,Cafe
+301805267,,,,,,Bar Marki,,,,,,,,C273,Cafe
+301799493,,,,,,Crosetta,,,,,,,,C274,Cafe
+2338572873,,,,,,,,,,,,,,C275,Cafe
+2706220782,Castel Ivano,13,38059,Piazza 4 Novembre,,Bar Centrale,Bar Centrale di Costa Alberto e C. S.A.S.,IT01889560221,,,,,,C276,Cafe
+2706220790,Castel Ivano,4,38059,Piazza del Municipio,,Moomba Cafè di Rinaldi,Rinaldi Manuela,,,,,,,C277,Cafe
+3686167484,Castel Ivano,27,38059,Via Roma,,Bar Incontri,,,,,,,,C278,Cafe
+3876011271,Castel Ivano,2,38059,Via 24 Maggio,,Bar Nazionale,,,,,,,,C279,Cafe
+2627181974,Telve,1,38050,Via Largo Cacciatori,,Bar Birreria,,,,,,,,C280,Cafe
+2628567192,,,,,,Bar Piazza Vecchia,,,,,,,,C281,Cafe
+4080410277,,,,,,Alice Cafè,,,,,,,,C282,Cafe
+2611293385,,,,,,,,,,,,,,C283,Cafe
+2612723304,Telve,1,38050,Località Nale,,Bar Panorama,Manzucchi Riccardo,IT01865910226,,,,,,C284,Cafe
+3382157053,,,,,,,,,,,,,,C285,Cafe
+4426899933,,,,,,,,,,,,,,C286,Cafe
+673196028,,,,,,Bar Tre Venezie,,,,,,,,C287,Cafe
+4043601648,,,,,,,,,,,,,,C288,Cafe
+296426385,,,,,,Circolo di Termenago,,,,Mo-Sa 20:30-24:00,,no,,C289,Cafe
+1403121855,Tesero,6,38038,Piazza Cesare Battisti,,Cafè Filò,Varesco Andrea,,,,,,,C290,Cafe
+4481686090,,4,,Via Quattro Novembre,,Caffè Pasticceria Elisiana,,,,"08:00-12:30,14:00-20:00; Tu off",,,,C291,Cafe
+922129790,,,,,,Bar Brevine,,,,,,,,C292,Cafe
+2378435766,Tione,12/A,,Via Filzi,,La Tazzina,,IT00898580147,,,,,,C293,Cafe
+2378445724,Tione,11,,Via Damiano Chiesa,,Bar Autostazione,,,,,,,,C294,Cafe
+8610425491,,,,,,Caffetteria Incontra,no,,,,,,,C295,Cafe
+1805481738,,,,,,,,,,,,,,C296,Cafe
+2732485798,,,,,,Bar Roma,,,,,,,,C297,Cafe
+1843660150,,,,,,Bar Bazzega,,,,,,,,C298,Cafe
+169149660,,,,,,Bar Carolina,,,,,,,,C299,Cafe
+173581756,,,,,,Bar Uceli,,,,,,,,C300,Cafe

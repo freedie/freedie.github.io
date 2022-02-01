@@ -1,0 +1,425 @@
+﻿id,city,housenumber,postcode,street,phone_number,cuisine,name,website,opening_hours,wheelchair,smoking,brewery,Location_id,amenity
+37777877,Trento,108,38123,Via di Madonna Bianca,,,Bar Groff,,,,,,B1,Bar
+2487319549,Trento,18/E,38122,Via delle Ghiaie,,,Girasole,,,,,,B2,Bar
+428313987,,,,,,,Bar Cadorin,,,,,,B3,Bar
+428313991,,,,,,,Bar Centauro,,,,,,B4,Bar
+432111591,Trento,4,38122,Via dei Muredei,,,Bar Prati,,,,,,B5,Bar
+432480294,Trento,45,38122,Via Giuseppe Giusti,,,pausa kaffè,,,,,,B6,Bar
+432464291,Trento,134,38122,Via Vittorio Veneto,,,Bar Florida,,,yes,,,B7,Bar
+432464294,Trento,77,38123,Via Vittorio Veneto,,,Veneto,,,,,,B8,Bar
+563415882,,,,,,,Europa,,,,,,B9,Bar
+563436064,,,,,,,Melody 2.0,,,,,,B10,Bar
+806380609,,,,,,,,,,,,,B11,Bar
+563415898,,,,,,,Green Bar,,,,,,B12,Bar
+4195070620,Trento,18,38122,Via Gorizia,+39 0461 1975651,italian,Keecomm - The Social Stone,www.thesocialstone.net,,,no,,B13,Bar
+4497466477,,,,,,,La Tana del Ghiro,,,,,,B14,Bar
+2397156973,Trento,2,38122,Viale della Costituzione,,,Outside Trento,,,,,,B15,Bar
+2578549619,Trento,26,38122,Viale Adriano Olivetti,,,Urban Coffee Lab,,,,,,B16,Bar
+557150199,Trento,43,38122,Corso III Novembre,+39 0461 390696,,Osteria della Mal'Ombra,,,,,,B17,Bar
+431658702,Trento,56,38122,Via Antonio Rosmini,,,Bar da Giorgio,,,,,,B18,Bar
+431658706,,,,,,,Università,,,,,,B19,Bar
+438166682,Trento,18,38122,Via Antonio Rosmini,+39 0461 1821557,,Koi Sushi & Bar,https://koi.eatbu.com/?lang=it,"Tu-Sa 12:00-15:00,19:00-23:30",,,,B20,Bar
+557150264,Trento,19,38122,Piazza Santa Maria Maggiore,,,Cafè Cavour,,,,,,B21,Bar
+557197346,Trento,3,38122,Via Don Giovanni Battista Zanella,+39 0461 261197,,Bar Ateneo,,,,,,B22,Bar
+557197351,Trento,40,38122,Via Giuseppe Verdi,+39 0461 981199,,Bar Duomo,,,,,,B23,Bar
+557197354,Trento,22,38122,Piazza del Duomo,,,Te Ke Voi?,,,,,,B24,Bar
+563398643,Trento,76,38122,Via Rodolfo Belenzani,+39 0461 986282,,Golden Eagle Street Bar,,,,,,B25,Bar
+860260433,Trento,75,38122,Via Giuseppe Verdi,,,Line Cafè,,,,,,B26,Bar
+867377482,Trento,40,38122,Via Camillo Benso Cavour,,,Locanda del Gatto Gordo,,,,,,B27,Bar
+867439130,Trento,63,38122,Via Antonio Rosmini,,,Il Panino,,,,,,B28,Bar
+1270294813,Trento,23,38122,Via Tommaso Gar,,,Fuoricorso,,,,,,B29,Bar
+1290442673,Trento,31,38122,Via Giuseppe Verdi,+39 0461 984465,,Caffè Verdi,,,,,,B30,Bar
+1514580922,Trento,71,38122,Via Giuseppe Verdi,,,Vinom,,,,,,B31,Bar
+2397157018,Trento,3,38122,Corso del Lavoro e della Scienza,+39 0461 270311,,MUSE Cafè,,,,,,B32,Bar
+2472335039,Trento,8,38122,Via Don Giovanni Battista Zanella,+39 0461 439362,,Pappare' Trento,https://www.pappa-reale.it/pappare-trento/,Mo-Sa 08:00-21:00; Su 09:00-21:00,,,,B33,Bar
+268440174,Trento,18,38122,Largo Giosuè Carducci,+39 0461 234701,,Caffé Randrè,,,,,,B34,Bar
+439912454,Trento,11,38122,Piazza di Fiera,,,Baccus,,"Tu-Su 00:00-01:00,07:30-24:00",yes,,,B35,Bar
+563752837,Trento,28,38122,Via Oriola,,,La Bella Vita,,,,,,B36,Bar
+570818497,,,,,,,City Bar,,,,,,B37,Bar
+867438536,Trento,59,38122,Via Santa Croce,+39 0461 095329,,Soul Bar,,,,,,B38,Bar
+892578902,Trento,11,38122,Via Giuseppe Mazzini,,,Il Monello,,,,,,B39,Bar
+914013846,Trento,13,38122,Piazza Venezia,,,Snai Bar,,,,,,B40,Bar
+1503398641,Trento,38,38122,Largo Giosuè Carducci,+39 0461 1740400,,Plan,,,yes,outside,,B41,Bar
+1651682414,Trento,4,38122,Via Calepina,+39 0461 236197,,Fiorentina,https://www.fiorentinatrento.it/,Mo-Sa 07:00-23:00,yes,,Weltenburger Kloster Bier,B42,Bar
+3164166969,,,,,,,Il Mercatino,,,,,,B43,Bar
+557150072,Trento,34,38122,Via San Giovanni,,,Cafè Corner Bianco,,,,,,B44,Bar
+557169191,Trento,6,38122,Vicolo Colico,,,Accademia,,Mo-Su 07:30-23:00,,,,B45,Bar
+874501397,Trento,72,38122,Via Prepositura,,,Bar Nuovo Paradiso,,Mo-Sa 18:00-01:00; Su off,yes,outside,,B46,Bar
+557150023,Trento,7,38122,Via delle Orne,,,Bar TJ,,,limited,,,B47,Bar
+563754461,Trento,3,38122,Via Santa Maria Maddalena,,,Le Note Cafè,,,yes,,,B48,Bar
+880590945,Trento,15,38122,Via Paolo Oss Mazzurana,+39 0461 230070,,Bar Teatro,,,,,,B49,Bar
+1523162586,Trento,9,38122,Via degli Orbi,,,La Corte,,,,,,B50,Bar
+432473110,,,,,,,,,,,,,B51,Bar
+544348558,,,,,,,,,,,,,B52,Bar
+544348559,,,,,,,,,,,,,B53,Bar
+853801053,,,,,,,Edy Bar,,,,,,B54,Bar
+853801604,,,,,,,,,,,,,B55,Bar
+853802199,,,,,,,,,,,,,B56,Bar
+1264896532,Trento,59,38122,Via Milano,,,Bar Style,,,,,,B57,Bar
+431632342,Trento,1,38121,Lungadige Monte Grappa,,,Bar Funivia 2.0,,Tu-Su 07:30-22:00,,,,B58,Bar
+431632344,,,,,,,ENI,,Mo-Fr 07:30-19:00,,,,B59,Bar
+1326513297,Trento,2,38122,Via Torre Vanga,+39 0461 231728,,Joyce,http://www.joycetrento.com/,,,,,B60,Bar
+430690364,Trento,10,38122,Piazza Cesare Battisti,+39 0461 230265,,Caffè Città,,,,,,B61,Bar
+474558106,Trento,4,38122,Via Torre Verde,,,Bar Galasso,,,,,,B62,Bar
+558628474,Trento,83,38122,Via del Suffragio,,,Suite Café,,,,,,B63,Bar
+858394165,Trento,38,38122,Piazza Venezia,,,Barycentro,,,,,,B64,Bar
+1366801129,Trento,8,38122,Via San Marco,,,Bar La vie en rose,,,,,,B65,Bar
+4815875503,,,,,,,Aquila Basket,,,,,,B66,Bar
+867377187,Trento,1,38122,Piazza Dante,,,Bar Stazione Buffet Trento,,,,,,B67,Bar
+867377209,Trento,2,38122,Via Dogana,+39 0461 239398,,Bar Trento-Malé,,,,,,B68,Bar
+4849403999,Trento,43,38122,Corso Michelangelo Buonarroti,,,Old Liberty Cafè,,,,,,B69,Bar
+475083135,Trento,27,38122,Via Giovanni Segantini,,,Eurocafè,,,,,,B70,Bar
+584849651,Trento,3,38122,Passaggio Silvio Dorigoni,,,Al Porteghet,,Mo-Fr 07:00-21:30; Sa 08:00-21:30,limited,,,B71,Bar
+660602730,Trento,10/A,38122,Via Gian Domenico Romagnosi,,,Bar Buonconsiglio,,,,,,B72,Bar
+1367888812,Trento,29,38122,Via Torre D'Augusto,,,Bookique,http://www.bookique.org/,Mo-Th 17:00-24:00; Fr-Sa 17:00-01:00,,,,B73,Bar
+1662768545,Trento,29-Jan,38122,Via Clementino Vannetti,,,Giornale & Caffè,,Mo-Fr 07:00-18:00,limited,,,B74,Bar
+2366096787,Trento,4,38122,Largo Nazario Sauro,,,Caffè Adria,,Mo-Su 06:30-20:30,limited,,,B75,Bar
+3932953475,,,,,,,Caffè del Corso,,Mo-Su 07:00-21:00,yes,,,B76,Bar
+3932953476,Trento,36,38122,Via del Suffragio,+39 0461 230201,,Caracolito,,,,,,B77,Bar
+8361545244,Trento,31,38122,Via Alessandro Manzoni,,,Tavernacolo,,Mo-Fr 07:00-23:00; Sa 09:30-23:00; Su off,,,,B78,Bar
+431618062,,,,,,,Bar Zinzorla,,,,,,B79,Bar
+431622342,,,,,,,Bar Cristallo,,,,,,B80,Bar
+431622343,Trento,10,38122,Via Giovanni Pedrotti,,,Bar Rosy,,,,,,B81,Bar
+975288631,Trento,12-Feb,38122,Corso Michelangelo Buonarroti,,,Bar Chicco d'Oro,,,,,,B82,Bar
+3089135848,Trento,5,38121,Piazza General Antonio Cantore,,,Salotto 41,,,,,,B83,Bar
+6260031910,Trento,,38121,Via del Brennero,,,Bar Fornaci,,Mo-Fr 06:30-20:30; Sa 07:00-13:00,yes,,yes,B84,Bar
+73089915,Trento,13,,Piazza Dante,,,Flora,,Mo-Sa 06:00-21:00,,,,B85,Bar
+9156063622,,,,,,,,,,,,,B86,Bar
+1112898176,Trento,320,38121,Via del Brennero,,,Top Bar,,,,,,B87,Bar
+1580347710,,,,,,,,,,,,,B88,Bar
+1784702656,Trento,320,38121,Via del Brennero,+39 0461 823448,,TheRing,,,,,,B89,Bar
+5071900744,Trento,83,38121,Via Antonio Pranzelores,,,Colors Caffè 12,,Mo-Sa 7:00-19:00,,,,B90,Bar
+5071900749,Trento,11,38121,Via Antonio Pranzelores,,,Bar Mesa Verde,,,,,,B91,Bar
+6681130020,Trento,320,38121,Via del Brennero,+39 0461 820516,,Pappami SRL,,,,,,B92,Bar
+116029569,,,,,+39 0461 1823397,,Terrazza Tridente,,,,,,B93,Bar
+1157581747,,,,,,,Bar Gabry,,Mo-Sa 07:00-22:00,,,,B94,Bar
+1112898176,Trento,320,38121,Via del Brennero,,,Top Bar,,,,,,B95,Bar
+1580347710,,,,,,,,,,,,,B96,Bar
+1784702656,Trento,320,38121,Via del Brennero,+39 0461 823448,,TheRing,,,,,,B97,Bar
+5071900744,Trento,83,38121,Via Antonio Pranzelores,,,Colors Caffè 12,,Mo-Sa 7:00-19:00,,,,B98,Bar
+5071900749,Trento,11,38121,Via Antonio Pranzelores,,,Bar Mesa Verde,,,,,,B99,Bar
+6681130020,Trento,320,38121,Via del Brennero,+39 0461 820516,,Pappami SRL,,,,,,B100,Bar
+895563129,Trento,54,38121,Via Romano Guardini,+39 0461 822447,,Bar Tre Torri,,,,,,B101,Bar
+959911054,Trento,54,38121,Via Renato Lunelli,,,Caffè Onda,,,,,,B102,Bar
+1112898189,Trento,320,38121,Via del Brennero,,,,,,,,,B103,Bar
+1309442322,,,,,,,Bar Smile,,,,,,B104,Bar
+2858848895,Trento,16,38121,Via Giovanni Battista Trener,+39 0461 828844,,Red Rose Cafè,,,,,,B105,Bar
+2858848896,Trento,16,38121,Via Giovanni Battista Trener,,,,,,,,,B106,Bar
+2700355078,,,,,,,Bar Ceresella,,,,,,B107,Bar
+6588479288,,,,,,,Bar Pisetta,,,,,,B108,Bar
+4302909329,,,,,,,Bar Aeroporto,,,,,,B109,Bar
+6588442179,,,,,,,Bar Milena,,,,,,B110,Bar
+6657331381,,,,,,,Bar Il Pioppeto,,,,,,B111,Bar
+2618341568,Trento,3,,Via del Pra de l'Agnela,,,,,,,,,B112,Bar
+1870408863,Lavis,23,38015,Via Giacomo Matteotti,,,,,,,,,B113,Bar
+1870411537,,,,,,,Bar Acli,,,,,,B114,Bar
+2314672636,Lavis,4,38015,Piazza Manci,,,Bar Corona,,,,,,B115,Bar
+1402449109,Lavis,58,38015,Via Giovanni Clementi,+39 0461 246646,,Caffè Millennium,,,,,,B116,Bar
+163216447,,,,,,,,,,,,,B117,Bar
+1308870011,,,,,,,,,,,,,B118,Bar
+4320967592,,,,,,,,,,,,,B119,Bar
+303850136,,2,,,+39 0461 650422,,L'aquila nera,,Mo-Sa 7:30-21:00,yes,,,B120,Bar
+944586213,,,,,,,Centro Ricreativo Sant'Anna,,,,,,B121,Bar
+1279641998,San Michele all'Adige,32,38010,Via Brennero,+39 0461 650540,,Al turista,,,,,,B122,Bar
+1496706607,,7,,,,,905 Wine Bar,,,,,,B123,Bar
+945021993,Cognola,5,38121,Via Don Alfonso Anselmi,,,Caffè Argentario,,,yes,,,B124,Bar
+798801352,,,,,,,Bar Stella,,,,,,B125,Bar
+663038618,,,,,,,Bar Satellite,,,,,,B126,Bar
+677998379,,,,,,,Bar Renè,,,,,,B127,Bar
+1620451932,Povo,21,38123,Via della Resistenza,,,,,,,,,B128,Bar
+673740777,,,,,,,"Bar Locanda ""La Canonica""",,6:30-24:00,,,,B129,Bar
+434228670,,,,,,,,,,,,,B130,Bar
+137046871,,,,,,,,,,,,,B131,Bar
+563415898,,,,,,,Green Bar,,,,,,B132,Bar
+4195070620,Trento,18,38122,Via Gorizia,+39 0461 1975651,italian,Keecomm - The Social Stone,www.thesocialstone.net,,,no,,B133,Bar
+4497466477,,,,,,,La Tana del Ghiro,,,,,,B134,Bar
+544348561,,,,,,,Bar International,,,,,,B135,Bar
+544348562,,,,,,,Bar G91,,,,,,B136,Bar
+4160534189,,,,,,,Montecarlo Caffè,,,,,,B137,Bar
+432473110,,,,,,,,,,,,,B138,Bar
+544348558,,,,,,,,,,,,,B139,Bar
+1264896532,Trento,59,38122,Via Milano,,,Bar Style,,,,,,B140,Bar
+544348560,Trento,25,38122,Viale Trieste,,,Dorian Gray,,,,,,B141,Bar
+427836296,,,,,,,Bar Terzo Tempo,,,,,,B142,Bar
+427963784,,,,,,,,,,,,,B143,Bar
+2502929449,,,,,,,UniBAR,,,yes,,,B144,Bar
+673740777,,,,,,,"Bar Locanda ""La Canonica""",,6:30-24:00,,,,B145,Bar
+434228670,,,,,,,,,,,,,B146,Bar
+6240265349,,,,,,,Bar Phoenix,,,,,,B147,Bar
+6259990979,,,,,,,BarbeCus - da Francesca e Alvaro,,,,,,B148,Bar
+6240212648,Mattarello,36,38123,Via Pomeranos,,,Bar bistrot Tavonatti,,,,,,B149,Bar
+580767433,,,38066,,,,Bar Roma,,,yes,,,B150,Bar
+9025816145,,,,,,,,,,,,,B151,Bar
+60582758,Riva del Garda,17,38066,Viale Giosuè Carducci,,,Emozioni,,,,,,B152,Bar
+2189699302,,,,,,,Bar Capriccio,,,,,,B153,Bar
+938753648,Riva del Garda,11,38066,Piazza Catena,,,Gelateria Cristallo,,07:30-01:00,,,,B154,Bar
+2874237075,,,38066,,,,Yachting Bar Porto,,,,,,B155,Bar
+6810233585,,,,,,,Moby Dick Cocktail Bar,,Mo-Su 10:00-02:00,,,,B156,Bar
+580767423,,,,,,,,,,,,,B157,Bar
+2380893435,,,,,,,Marina Beach Club,,,,,,B158,Bar
+7806394387,Riva del Garda,,,Via Gazzoletti,,,Poppy Bar,,,,,,B159,Bar
+2527717177,,,,,,,Gelateria Flora Downtown,,,,,,B160,Bar
+2874104628,,,,,,,,,,,,,B161,Bar
+7942506039,,,,,,,,,,,,,B162,Bar
+9062425321,,94,,Viale Dante Alighieri,,,L'Officina del Panino,,,,,,B163,Bar
+76654701,,,,,,,Riva Bar,,,,,,B164,Bar
+580767423,,,,,,,,,,,,,B165,Bar
+506781475,,,,,,,Bar degli Amici,,,,,,B166,Bar
+2531405387,,,,,,,,,,,,,B167,Bar
+2531413178,,,,,,,Cristallo,,,,,,B168,Bar
+5047412337,,,,,,,,,,,,,B169,Bar
+2189699302,,,,,,,Bar Capriccio,,,,,,B170,Bar
+7936238142,,,,,,,Bar Parisi,,,,,,B171,Bar
+8871703724,,,,,,,,,,,,,B172,Bar
+2189081694,,,,,,,Bar Moma,,,,,,B173,Bar
+514889050,,,,,,,Inter Bar,,,,,,B174,Bar
+1602626070,,,,,,,Euro Cafè,,,,,,B175,Bar
+2496764579,,,,,,,Marameo,,,,,,B176,Bar
+687011002,,,,,+39 0464 437659,,Fashion Café,,,yes,,,B177,Bar
+688209685,,,,,,,RistoBar,,09:00-20:00,yes,,,B178,Bar
+689704466,,,,,,,Bar Darwin,,,,,,B179,Bar
+4016315290,,,,,,,Stone bar,,,,,,B180,Bar
+5807182071,,9,,Piazza Federico Guella,,,Bar Manolo,,,,,,B181,Bar
+791724497,Rovereto,44,38068,Via Giuseppe Mazzini,,,Cafè Vanila,,,,,,B182,Bar
+1366734595,,,,,,,Bar Antares,,,,,,B183,Bar
+1366734620,Rovereto,1,38068,Via Fontana,,,Bar Miami,,,,,,B184,Bar
+783945816,Rovereto,2,38068,Piazza Antonio Rosmini,,,Bar 18,,,,no,,B185,Bar
+2159359633,Rovereto,17,38068,Via Orefici,,,Bar Christian,,,yes,,,B186,Bar
+3250930970,Rovereto,12,38068,Via Giuseppe Mazzini,,,Orange,,,,,,B187,Bar
+980771444,Rovereto,6,38068,Dante Alighieri,,,De Min,,24-Jul,yes,,,B188,Bar
+3334278987,Rovereto,60,38068,Via Giosuè Carducci,,,,,,,,,B189,Bar
+2194699074,Rovereto,24,38068,Via Roma,,,Cherry,,,,,,B190,Bar
+680701385,,,,,,,Bar Bocciodromo,,,yes,,,B191,Bar
+122260326,,,,,,,Iris Bar,,,,no,,B192,Bar
+679331323,Rovereto,12,38068,Piazzale Orsi,,,Bar Stazione,,,,,,B193,Bar
+2623279971,,,,,,,La Perla,,,,,,B194,Bar
+905069861,,,,,,,Bar Total,,,,,,B195,Bar
+6829333248,,,,,,,Bar Snack 2001,,,,,,B196,Bar
+4088908998,,,,,,,Bar Milea,,,,,,B197,Bar
+6829393481,,,,,,,Nero Caffè,,,,,,B198,Bar
+1536632550,Rovereto,41,38068,Via Roma,,,Piazzetta,,,,,,B199,Bar
+1889419288,Rovereto,61,38068,Via Dante Alighieri,,,Toma Bar,,"Mo-Su 07:30-14:30,16:30-24:00",,,,B200,Bar
+3264950985,Rovereto,20,38068,Via Dante Alighieri,,,Via Dante 20,,,,no,,B201,Bar
+3281714588,Rovereto,27,38068,Via Dante Alighieri,,,Anteprima Cafè,,,,,,B202,Bar
+1505642807,Rovereto,8,38068,Piazza del Podestà,,,Due Colonne,,,,,,B203,Bar
+2151018561,Rovereto,27,38068,Piazza Malfatti,,,Mani Al Cielo,,,yes,,,B204,Bar
+2151019684,Rovereto,10,38068,Piazza delle Erbe,,,Stella d'Italia,,,yes,,,B205,Bar
+2159355797,Rovereto,34,38068,Via Mercerie,,,Tentazioni,,,,,,B206,Bar
+2974737929,Rovereto,24,38068,Piazza delle Erbe,,,Bar Centrale,,,,,,B207,Bar
+2986510940,Rovereto,50,38068,Via Rialto,,,Good limes,,,,,,B208,Bar
+3104987116,Rovereto,16,38068,Via Portici,,,La Crypta,,Mo-Su 19:00-02:00; Mar-Oct 18:00-19:00 off,,,,B209,Bar
+5136279654,Rovereto,12,38068,Piazza delle Erbe,,,La Chicca da Ale,,,,,,B210,Bar
+6148063867,Rovereto,7,38068,Via Valbusa Grande,,,Loco's Bar,,,,,,B211,Bar
+680701386,,,,,,,Bar Tandem,,,yes,,,B212,Bar
+685838662,,,,,,,RistoBar Sapori Emiliani,,,,,,B213,Bar
+1749736032,,18,,Corso Bettini,,,Caffè città,,,,,,B214,Bar
+4023188014,,,,,,,Girasole,,,,,,B215,Bar
+5188869806,Rovereto,55,38068,Via Paganini,,,Viennese Stube,,,,,,B216,Bar
+3076571002,Rovereto,17,38068,Via Paganini,,,,,,,,,B217,Bar
+3859910827,Rovereto,5,38068,Via san Giovanni Bosco,,,Circolo operaio Paganini,,,,,,B218,Bar
+783945816,Rovereto,2,38068,Piazza Antonio Rosmini,,,Bar 18,,,,no,,B219,Bar
+679331323,Rovereto,12,38068,Piazzale Orsi,,,Bar Stazione,,,,,,B220,Bar
+685838662,,,,,,,RistoBar Sapori Emiliani,,,,,,B221,Bar
+1749736032,,18,,Corso Bettini,,,Caffè città,,,,,,B222,Bar
+5188869806,Rovereto,55,38068,Via Paganini,,,Viennese Stube,,,,,,B223,Bar
+3076571002,Rovereto,17,38068,Via Paganini,,,,,,,,,B224,Bar
+3859910827,Rovereto,5,38068,Via san Giovanni Bosco,,,Circolo operaio Paganini,,,,,,B225,Bar
+2168751553,,,,,,,,,,,,,B226,Bar
+6010589532,Rovereto,20,38068,Via Barattieri,,,Caffè Grazia,,,,,,B227,Bar
+417409352,,,,,,,Bar Teatro,,,,,,B228,Bar
+4013418939,Rovereto,56/A,38068,Corso Bettini,,,Stappomatto Food Drink & More,,,,,,B229,Bar
+778610072,Rovereto,,38068,Via Pasqui,,,Bar Moon,,,,,,B230,Bar
+4013945729,Rovereto,26,38068,Via Pasqui,+39 0464 462563,,Bar Melody,,,,,,B231,Bar
+1366753189,,,,,,,Circolo Operaio San Giorgio,,,limited,,,B232,Bar
+691261290,,,,,,,Class,,,,,,B233,Bar
+2623279971,,,,,,,La Perla,,,,,,B234,Bar
+2623279974,,,,,,,Mimosa,,,,,,B235,Bar
+1366753189,,,,,,,Circolo Operaio San Giorgio,,,limited,,,B236,Bar
+2490648335,,,,,,,,,,,,,B237,Bar
+2189070388,,,,,,,,,,,,,B238,Bar
+2189686876,,,,,,,,,,,,,B239,Bar
+2555229803,,,38062,,,,Villa delle Rose,,,,,,B240,Bar
+903513399,Arco,31,38062,Via Bruno Galas,+39 0464 030067,,Caffe Viennese,,Mo-Su 08:00-20:00; Tu off,,,,B241,Bar
+1864713076,,,,,,,,,,,,,B242,Bar
+5926176060,,,,,,,,,,,,,B243,Bar
+7274664705,,,,,,,,,,,,,B244,Bar
+902539232,Arco,6,38062,Via delle Palme,+39 0464 512874,,Caffè Casinò Città di Arco,,Mo-Su 08:00-20:00; Tu off,,,,B245,Bar
+508788335,,,,,,,,,,,,,B246,Bar
+2552192968,,,,,,,,,,,,,B247,Bar
+6115752454,Arco,114,38062,Via Giovanni Segantini,,,Nardi Caffè,,,,,,B248,Bar
+242122355,,,,,,,Chiosco Dei Giardini,,,,,,B249,Bar
+2779233532,,,,,,,Bar Beseno,,,yes,separated,yes;various,B250,Bar
+902593394,,,,,,,Bar Franca,,,,,,B251,Bar
+8330976414,Arco,,,Viale Rovereto,,,Bar Primavera,,,,,,B252,Bar
+2552192968,,,,,,,,,,,,,B253,Bar
+5027253748,,,,,,,,,,,,,B254,Bar
+1984744024,Caldonazzo,12,38052,Piazza Vecchia,,,Da Emma,,,,,yes,B255,Bar
+2393235151,,,,,,,Blue Coffee,,,yes,no,,B256,Bar
+1824386417,,,,,,,,,,,,,B257,Bar
+8401767870,,,,,,,Bar Ideal,,,,,,B258,Bar
+5787239253,,,,,,,Tirol,,,,,,B259,Bar
+9140041708,,,,,,,Bar Agnello,,,,,,B260,Bar
+9144490193,,,,,,,na Bela Vida,,,,,,B261,Bar
+3302466513,,,,,,,,,,,,,B262,Bar
+4318081292,,,,,,,Bar 'il Palazzetto',,Mo-Su 07:30-23:00,,,,B263,Bar
+1945847780,,,,,,,Bar Eureka,,,,,,B264,Bar
+4318091389,,,,,,,Bar Sport,,,,,,B265,Bar
+8835049162,Carisolo,7,,Piazza 2 Maggio,,,Bar Ser Artur,,,,,,B266,Bar
+95708700,,,,,,,Bar Trento,,,,,,B267,Bar
+2967729897,Cavalese,9,38033,Piazza Ress,,,Osteria la Segosta,,,,,,B268,Bar
+2967730253,,,,,,,Giardinetto,,,,,,B269,Bar
+1257221027,,,,,,,Cheers,,,,outside,,B270,Bar
+4582692757,Cavalese,8,38033,Piazza Cesare Battisti,,,Aspen,,,,,,B271,Bar
+4594549033,,,,,,,Vicoletto,,,,,,B272,Bar
+4586771955,,,,,,,Bar Roma,,,,,,B273,Bar
+2967727728,,,,,,,Kiss,,,,,,B274,Bar
+3245940264,,,,Piazza Stazione,,,Bar Stazione,,,yes,,,B275,Bar
+4586519626,,,,,,,Fitness Bar,,,,,,B276,Bar
+9025458425,,,,,,,Bar Plaza,,,,,,B277,Bar
+850582185,,,,,,pizza,Al Castelliere,,,,,,B278,Bar
+7829919059,Cles,,38023,Via Quattro Novembre,,,Incontro,,,,,,B279,Bar
+2018656030,,,,,,,Bar Corona,,,,,,B280,Bar
+2018656031,,,,,,,Bar alla Pesa,,,,,,B281,Bar
+2431204314,,,,,,,Bar Chiara,,,,,,B282,Bar
+2525009247,,,,,,,Bar Posta,,,,,,B283,Bar
+2525035021,,,,,,,Bar Pizzeria Contessa Dina,,,,,,B284,Bar
+1100566962,Ossana,4,38026,Via Venezia,,,Delleva Sandro,,,,,,B285,Bar
+2589668245,Pellizzano,45,38020,Via Nazionale,,,Al Tabià,,,,,,B286,Bar
+1688616579,,61,,Via San Tommaso,,,Cafe Vienna,,,,,,B287,Bar
+305506283,,,,,,,Bar Ladin,,,,,,B288,Bar
+305506310,,,,,,,Bar Mirella,,,,,,B289,Bar
+2405088378,,,,,,,Picol Bar,,,,,,B290,Bar
+232137895,,,,,,,,,,,,,B291,Bar
+5787238853,,,,,,,Alpen sport,,,,,,B292,Bar
+946581603,,,,,,,Bar El Zirm,,,,,,B293,Bar
+1224415785,Pozza di Fassa,105,38036,Strada Dolomites,,,Bar Re Laurino,,Mo-Sa 07:30-20:00,,,,B294,Bar
+722987884,Pozza di Fassa,9,38036,Piaza de Comun,,,Bar Gelateria Leon d'Oro,,Mo-Su 08:00-24:00,,,,B295,Bar
+724391083,Pozza di Fassa,44,38036,Strada de Meida,,,Bar Anny,,,,,,B296,Bar
+736750203,Pozza di Fassa,1,38036,Piaza de Comun,,,Bar Al Ponte,,,,,,B297,Bar
+1817273242,Pozza di Fassa,0,38036,Strada de Meida,,,,,,,,,B298,Bar
+1230713773,Pozza di Fassa,112,38036,Strada de Meida,,,Bar Jodler,,,,no,,B299,Bar
+1230713777,Pozza di Fassa,16,38036,Strada de Meida,,,Bar Meeting,,Mo-Sa 08:00-24:00,,,,B300,Bar
+8752407441,,,,,,,Al Contrario,,,,,,B301,Bar
+1807391641,,,,,,,L'Angolo Bar,,,,,,B302,Bar
+85731067,,,,,,,,,,,,,B303,Bar
+267973643,Folgaria,,38064,Via Emilio Colpi,,,Albergo Folgaria,,,,,,B304,Bar
+267983113,Folgaria,108,38064,Via Emilio Colpi,,,Albergo Restorante Bar,,,,,,B305,Bar
+267991872,Folgaria,84,38064,Via Emilio Colpi,,,Osteria Bar,,,,,,B306,Bar
+4369741290,,,,,,,Rustik,,,,,,B307,Bar
+6533808581,,8,,Via Regina Elena,,,Bar alla Torre,,,,,,B308,Bar
+2429894206,,,,,,,Bar Biolago,,,,,,B309,Bar
+6451134586,,1301,38025,Via Nazionale,,,Bar Latino,,,,,,B310,Bar
+5409402182,Levico Terme,8,38056,Viale Stazione,,,Bar al viale,,,,no,,B311,Bar
+2357927906,Levico Terme,10,38056,Viale Vittorio Emanuele,,,Bar Palazzo delle Terme,,,,,,B312,Bar
+800125238,,,,,,,Bar Al piccolo parco,,,,,,B313,Bar
+835872540,Levico Terme,,38056,Parco Segantini,,,La Rociondola,,,,,,B314,Bar
+9048393610,,,,,,,,,,,,,B315,Bar
+1100567055,Malé,16,38027,Via IV Novembre,,,Cevedale,,,,,,B316,Bar
+622616653,,,,,,,,,,,,,B317,Bar
+4356405321,,,,,,ice_cream,Tropical,,,,,,B318,Bar
+2428696174,,,,,,,,,,,,,B319,Bar
+641844635,,,,,,,,,,,,,B320,Bar
+568433880,,,,,,,Bar Selva,,,,,,B321,Bar
+6240265349,,,,,,,Bar Phoenix,,,,,,B322,Bar
+6259990979,,,,,,,BarbeCus - da Francesca e Alvaro,,,,,,B323,Bar
+5330541422,,,,,,,L'Ora di Punta,,,,,,B324,Bar
+4123997254,,,,,,,Alpino,,,,,,B325,Bar
+4123999071,Mezzana,,,Via Quattro Novembre,,,al Sole,,,,,,B326,Bar
+6341429313,,,,,,,da Renato,,,,,,B327,Bar
+861065544,Mezzolombardo,29,38017,Corso Giuseppe Mazzini,+39 0461 606170,,Liston,,,,,,B328,Bar
+885639416,Mezzolombardo,3/C,38017,Piazza Cassa di Risparmio,,,Caffè Commercio,,,,,,B329,Bar
+6063577655,Mezzolombardo,66,38017,Via Alcide De Gasperi,+39 0461 605121,,Le Rodelle,,,,,,B330,Bar
+4557760212,Mezzolombardo,65/A,38017,Via Trento,+39 0461 091589,,Braide’s bar,,Mo-Su 09:00-20:30,yes,,,B331,Bar
+870463075,,,,,+39 0461 606025,,Bar Centrale,,,,,,B332,Bar
+944999768,Mezzolombardo,8,38017,Piazza Vittoria,+39 0461 600514,,Il Bar Sport,,,,,,B333,Bar
+1669326109,Mezzolombardo,37,38017,Via Guido Fiorini,,,Center Bar,,,,,,B334,Bar
+304626782,,,,,,,Bar Torre Brenta,,,,,,B335,Bar
+3669208161,,57,,Piaz de Ramon,,,Ramon,,,,,,B336,Bar
+3785863119,,,,,,,,,,,,,B337,Bar
+3786688685,,,,,,,Bar Mancin,,,,,,B338,Bar
+375391666,,,,,,,,,,,,,B339,Bar
+1488996243,,,,,,,Bar Danieli,,,,,,B340,Bar
+358203142,,,,,,,Bar Stella,,,,,,B341,Bar
+260573164,,,,,,,Bar Sport,,,,,,B342,Bar
+64194118,,,,,,,Bar Bastianazzo,,,,,,B343,Bar
+1523289654,,,,,,,Bar Malibù,,,,,,B344,Bar
+1524975624,,,,,,,Meeting,,,,,,B345,Bar
+1524976201,Molveno,2,38018,Piazza Scuole,,,Cristallo,,,,,,B346,Bar
+1525276858,Molveno,1,38018,Piazza San Carlo,,,Imperia,,,,,,B347,Bar
+1525277252,,,,,,,,,,,,,B348,Bar
+1100567903,,,,,,,,,,,,,B349,Bar
+1824386638,,,,,,,,,,,,,B350,Bar
+4340248023,,,,,,,Caffé Garden,,Mo-Su 16:00-02:00,,,,B351,Bar
+105588385,,,,,,,,,,,,,B352,Bar
+224157928,,,,,,,,,,,,,B353,Bar
+8724072074,,,,,,,Bar Azzurro,,,,,,B354,Bar
+304632785,,,,,,,Bar Arnica,,,,,,B355,Bar
+5325769522,,,,,,,San Carlo,,,,,,B356,Bar
+6720516413,,,,,,,Bar Laresoti,,,,,,B357,Bar
+8875613965,,,,,,,Osteria Bar Bagat,,,,,,B358,Bar
+804068698,,,,,,,Egal,,,,,,B359,Bar
+4097598013,,25,38086,Via allo stadio,,,Bocciodromo,,,,,,B360,Bar
+702858552,,,,,,,Al Pont,,,,,,B361,Bar
+5375594313,,,,,,,Baraonda,,,,,,B362,Bar
+5406973242,,,,,,,WunderBAR,,,limited,,,B363,Bar
+303828159,,,,,,,Caorer,,,,,,B364,Bar
+303825097,,,,,,,,,,,,,B365,Bar
+303822584,,,,,,,Scarabelin,,,,,,B366,Bar
+303826366,,,,,,,Caffè Predazzo,,,,,,B367,Bar
+3224940241,,5,,Via Dellagiacoma,,,Bar Caffè Croce,,,,,,B368,Bar
+8506320844,,,,,,,Bar Diana,,,,,,B369,Bar
+8506320845,,,,,,,Bar Centrale,,,,,,B370,Bar
+372966334,,,,,,,Snoopy Lake,,,,,,B371,Bar
+6720516413,,,,,,,Bar Laresoti,,,,,,B372,Bar
+6181885334,,,,,,,,,,,,,B373,Bar
+229220957,,,,,,,,,,,,,B374,Bar
+303850136,,2,,,+39 0461 650422,,L'aquila nera,,Mo-Sa 7:30-21:00,yes,,,B375,Bar
+944586213,,,,,,,Centro Ricreativo Sant'Anna,,,,,,B376,Bar
+1279641998,San Michele all'Adige,32,38010,Via Brennero,+39 0461 650540,,Al turista,,,,,,B377,Bar
+1496706607,,7,,,,,905 Wine Bar,,,,,,B378,Bar
+616524577,,,,,,,Bar Trafojer,,,,,,B379,Bar
+866739470,,,,,,,Caffe' Gelateria Dolomiti,,,,,,B380,Bar
+866739494,,,,,,,Bar Gelateria George's,,,,,,B381,Bar
+8982740210,,,,,,,Bar Imbis al Parco,,,,,,B382,Bar
+1765623834,,134,,Via Giuseppe Garibaldi,,,Bar centrale,,,,,,B383,Bar
+1765623837,,,,,,,Bar Pergola,,,,,,B384,Bar
+1765623838,,,,,,,,,,,,,B385,Bar
+1765623839,,,,,,,,,,,,,B386,Bar
+1765623840,,,,,,,,,,,,,B387,Bar
+3440511808,,1,,Piazza Europa,,,Dolce&Peccato,,,,,,B388,Bar
+1765623830,,,,,,,,,,,,,B389,Bar
+4074235413,,,,,,,Bar Baltyk,,,,,,B390,Bar
+1354486693,,,,,,,Bar del Moro,,,,,,B391,Bar
+1354486694,,,,,,,Bar Centrale,,,,,,B392,Bar
+1348333277,,,,,,,Bicigrill,,,,,,B393,Bar
+6397060066,Tesero,2,38038,Via Stava,,,Bar Topo,,,,,,B394,Bar
+6397060067,,,,,,,Bar Stella,,,,,,B395,Bar
+8976351018,,,,,,,pizzaria bar ancora,,,,,,B396,Bar
+8942982791,,,,,,,Bar Arnò,,,,,,B397,Bar
+3709298228,,,,,,,Caffè al Corso,,,,,,B398,Bar
+87032731,,,,,,,Bar '900,,,,,,B399,Bar
+1945868045,,,,,,,Happy Days,,,,,,B400,Bar
+8942982791,,,,,,,Bar Arnò,,,,,,B401,Bar
+1945868045,,,,,,,Happy Days,,,,,,B402,Bar
+2094237801,,,,,,,Bar Glicine,,,,,,B403,Bar
+6610752258,,,,,,,Bar Bailoni - dei Mori,,,,,,B404,Bar
+6557856098,,,,,,,Bar al Parco,,,,,,B405,Bar
+6570668645,,,,,,,Extra Bar,,,,,,B406,Bar
+6572838893,,,,,,,Pane,,,,,,B407,Bar
+463398976,,,,,,,Capanna,,,,,,B408,Bar
+101164761,,,,,,,Toti's Bar,,,,,,B409,Bar
+101164761,,,,,,,Toti's Bar,,,,,,B410,Bar
+721098547,,,,,,,,,,,,,B411,Bar
+721098571,,,,,,,Miramonti,,,,,,B412,Bar
+101164761,,,,,,,Toti's Bar,,,,,,B413,Bar
+101164761,,,,,,,Toti's Bar,,,,,,B414,Bar
+721098547,,,,,,,,,,,,,B415,Bar
+721098571,,,,,,,Miramonti,,,,,,B416,Bar
+101164761,,,,,,,Toti's Bar,,,,,,B417,Bar
+721098547,,,,,,,,,,,,,B418,Bar
+721098571,,,,,,,Miramonti,,,,,,B419,Bar
+2364540528,,,,,,,Caffè Centrale,,,,outside,,B420,Bar
+2364540527,,,,,,,Bar BO,,,,,,B421,Bar
+3996897857,,13/b,,Via Trento,,,Dolci Note,,,,,,B422,Bar
+2364540531,,,,,,,La Stua,,,,outside,,B423,Bar
+2364540529,Andalo,1,38010,Via Piz Galin,,,Caffè Vienna,,,,,,B424,Bar

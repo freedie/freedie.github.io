@@ -1,0 +1,1461 @@
+id	city	housenumber	postcode	street	amenity	contact:phone	name	website	opening_hours	Location_id
+37777877	Trento	108	38123	Via di Madonna Bianca	bar		Bar Groff			B1
+2487319549	Trento	18/E	38122	Via delle Ghiaie	bar		Girasole			B2
+428313987					bar		Bar Cadorin			B3
+428313991					bar		Bar Centauro			B4
+432111591	Trento	4	38122	Via dei Muredei	bar		Bar Prati			B5
+432480294	Trento	45	38122	Via Giuseppe Giusti	bar		pausa kaffè			B6
+432464291	Trento	134	38122	Via Vittorio Veneto	bar		Bar Florida			B7
+432464294	Trento	77	38123	Via Vittorio Veneto	bar		Veneto			B8
+563415882					bar		Europa			B9
+563436064					bar		Melody 2.0			B10
+806380609					bar					B11
+563415898					bar		Green Bar			B12
+4195070620	Trento	18	38122	Via Gorizia	bar	+39 0461 1975651	Keecomm - The Social Stone	www.thesocialstone.net		B13
+4497466477					bar		La Tana del Ghiro			B14
+2397156973	Trento	2	38122	Viale della Costituzione	bar		Outside Trento			B15
+2578549619	Trento	26	38122	Viale Adriano Olivetti	bar		Urban Coffee Lab			B16
+557150199	Trento	43	38122	Corso III Novembre	bar	+39 0461 390696	Osteria della Mal'Ombra			B17
+431658702	Trento	56	38122	Via Antonio Rosmini	bar		Bar da Giorgio			B18
+431658706					bar		Università			B19
+438166682	Trento	18	38122	Via Antonio Rosmini	bar	+39 0461 1821557	Koi Sushi & Bar	https://koi.eatbu.com/?lang=it	Tu-Sa 12:00-15:00,19:00-23:30	B20
+557150264	Trento	19	38122	Piazza Santa Maria Maggiore	bar		Cafè Cavour			B21
+557197346	Trento	3	38122	Via Don Giovanni Battista Zanella	bar	+39 0461 261197	Bar Ateneo			B22
+557197351	Trento	40	38122	Via Giuseppe Verdi	bar	+39 0461 981199	Bar Duomo			B23
+557197354	Trento	22	38122	Piazza del Duomo	bar		Te Ke Voi?			B24
+563398643	Trento	76	38122	Via Rodolfo Belenzani	bar	+39 0461 986282	Golden Eagle Street Bar			B25
+860260433	Trento	75	38122	Via Giuseppe Verdi	bar		Line Cafè			B26
+867377482	Trento	40	38122	Via Camillo Benso Cavour	bar		Locanda del Gatto Gordo			B27
+867439130	Trento	63	38122	Via Antonio Rosmini	bar		Il Panino			B28
+1270294813	Trento	23	38122	Via Tommaso Gar	bar		Fuoricorso			B29
+1290442673	Trento	31	38122	Via Giuseppe Verdi	bar	+39 0461 984465	Caffè Verdi			B30
+1514580922	Trento	71	38122	Via Giuseppe Verdi	bar		Vinom			B31
+2397157018	Trento	3	38122	Corso del Lavoro e della Scienza	bar	+39 0461 270311	MUSE Cafè			B32
+2472335039	Trento	8	38122	Via Don Giovanni Battista Zanella	bar	+39 0461 439362	Pappare' Trento	https://www.pappa-reale.it/pappare-trento/	Mo-Sa 08:00-21:00; Su 09:00-21:00	B33
+268440174	Trento	18	38122	Largo Giosuè Carducci	bar	+39 0461 234701	Caffé Randrè			B34
+439912454	Trento	11	38122	Piazza di Fiera	bar		Baccus		Tu-Su 00:00-01:00,07:30-24:00	B35
+563752837	Trento	28	38122	Via Oriola	bar		La Bella Vita			B36
+570818497					bar		City Bar			B37
+867438536	Trento	59	38122	Via Santa Croce	bar	+39 0461 095329	Soul Bar			B38
+892578902	Trento	11	38122	Via Giuseppe Mazzini	bar		Il Monello			B39
+914013846	Trento	13	38122	Piazza Venezia	bar		Snai Bar			B40
+1503398641	Trento	38	38122	Largo Giosuè Carducci	bar	+39 0461 1740400	Plan			B41
+1651682414	Trento	4	38122	Via Calepina	bar	+39 0461 236197	Fiorentina	https://www.fiorentinatrento.it/	Mo-Sa 07:00-23:00	B42
+3164166969					bar		Il Mercatino			B43
+557150072	Trento	34	38122	Via San Giovanni	bar		Cafè Corner Bianco			B44
+557169191	Trento	6	38122	Vicolo Colico	bar		Accademia		Mo-Su 07:30-23:00	B45
+874501397	Trento	72	38122	Via Prepositura	bar		Bar Nuovo Paradiso		Mo-Sa 18:00-01:00; Su off	B46
+557150023	Trento	7	38122	Via delle Orne	bar		Bar TJ			B47
+563754461	Trento	3	38122	Via Santa Maria Maddalena	bar		Le Note Cafè			B48
+880590945	Trento	15	38122	Via Paolo Oss Mazzurana	bar	+39 0461 230070	Bar Teatro			B49
+1523162586	Trento	9	38122	Via degli Orbi	bar		La Corte			B50
+432473110					bar					B51
+544348558					bar					B52
+544348559					bar					B53
+853801053					bar		Edy Bar			B54
+853801604					bar					B55
+853802199					bar					B56
+1264896532	Trento	59	38122	Via Milano	bar		Bar Style			B57
+431632342	Trento	1	38121	Lungadige Monte Grappa	bar		Bar Funivia 2.0		Tu-Su 07:30-22:00	B58
+431632344					bar		ENI		Mo-Fr 07:30-19:00	B59
+1326513297	Trento	2	38122	Via Torre Vanga	bar	+39 0461 231728	Joyce	http://www.joycetrento.com/		B60
+430690364	Trento	10	38122	Piazza Cesare Battisti	bar	+39 0461 230265	Caffè Città			B61
+474558106	Trento	4	38122	Via Torre Verde	bar		Bar Galasso			B62
+558628474	Trento	83	38122	Via del Suffragio	bar		Suite Café			B63
+858394165	Trento	38	38122	Piazza Venezia	bar		Barycentro			B64
+1366801129	Trento	8	38122	Via San Marco	bar		Bar La vie en rose			B65
+4815875503					bar		Aquila Basket			B66
+867377187	Trento	1	38122	Piazza Dante	bar		Bar Stazione Buffet Trento			B67
+867377209	Trento	2	38122	Via Dogana	bar	+39 0461 239398	Bar Trento-Malé			B68
+4849403999	Trento	43	38122	Corso Michelangelo Buonarroti	bar		Old Liberty Cafè			B69
+475083135	Trento	27	38122	Via Giovanni Segantini	bar		Eurocafè			B70
+584849651	Trento	3	38122	Passaggio Silvio Dorigoni	bar		Al Porteghet		Mo-Fr 07:00-21:30; Sa 08:00-21:30	B71
+660602730	Trento	10/A	38122	Via Gian Domenico Romagnosi	bar		Bar Buonconsiglio			B72
+1367888812	Trento	29	38122	Via Torre D'Augusto	bar		Bookique	http://www.bookique.org/	Mo-Th 17:00-24:00; Fr-Sa 17:00-01:00	B73
+1662768545	Trento	29/1	38122	Via Clementino Vannetti	bar		Giornale & Caffè		Mo-Fr 07:00-18:00	B74
+2366096787	Trento	4	38122	Largo Nazario Sauro	bar		Caffè Adria		Mo-Su 06:30-20:30	B75
+3932953475					bar		Caffè del Corso		Mo-Su 07:00-21:00	B76
+3932953476	Trento	36	38122	Via del Suffragio	bar	+39 0461 230201	Caracolito			B77
+8361545244	Trento	31	38122	Via Alessandro Manzoni	bar		Tavernacolo		Mo-Fr 07:00-23:00; Sa 09:30-23:00; Su off	B78
+431618062					bar		Bar Zinzorla			B79
+431622342					bar		Bar Cristallo			B80
+431622343	Trento	10	38122	Via Giovanni Pedrotti	bar		Bar Rosy			B81
+975288631	Trento	12/2	38122	Corso Michelangelo Buonarroti	bar		Bar Chicco d'Oro			B82
+3089135848	Trento	5	38121	Piazza General Antonio Cantore	bar		Salotto 41			B83
+6260031910	Trento		38121	Via del Brennero	bar		Bar Fornaci		Mo-Fr 06:30-20:30; Sa 07:00-13:00	B84
+73089915	Trento	13		Piazza Dante	bar		Flora		Mo-Sa 06:00-21:00	B85
+9156063622					bar					B86
+1112898176	Trento	320	38121	Via del Brennero	bar		Top Bar			B87
+1580347710					bar					B88
+1784702656	Trento	320	38121	Via del Brennero	bar	+39 0461 823448	TheRing			B89
+5071900744	Trento	83	38121	Via Antonio Pranzelores	bar		Colors Caffè 12		Mo-Sa 7:00-19:00	B90
+5071900749	Trento	11	38121	Via Antonio Pranzelores	bar		Bar Mesa Verde			B91
+6681130020	Trento	320	38121	Via del Brennero	bar	+39 0461 820516	Pappami SRL			B92
+116029569					bar	+39 0461 1823397	Terrazza Tridente			B93
+1157581747					bar		Bar Gabry		Mo-Sa 07:00-22:00	B94
+1112898176	Trento	320	38121	Via del Brennero	bar		Top Bar			B95
+1580347710					bar					B96
+1784702656	Trento	320	38121	Via del Brennero	bar	+39 0461 823448	TheRing			B97
+5071900744	Trento	83	38121	Via Antonio Pranzelores	bar		Colors Caffè 12		Mo-Sa 7:00-19:00	B98
+5071900749	Trento	11	38121	Via Antonio Pranzelores	bar		Bar Mesa Verde			B99
+6681130020	Trento	320	38121	Via del Brennero	bar	+39 0461 820516	Pappami SRL			B100
+895563129	Trento	54	38121	Via Romano Guardini	bar	+39 0461 822447	Bar Tre Torri			B101
+959911054	Trento	54	38121	Via Renato Lunelli	bar		Caffè Onda			B102
+1112898189	Trento	320	38121	Via del Brennero	bar					B103
+1309442322					bar		Bar Smile			B104
+2858848895	Trento	16	38121	Via Giovanni Battista Trener	bar	+39 0461 828844	Red Rose Cafè			B105
+2858848896	Trento	16	38121	Via Giovanni Battista Trener	bar					B106
+2700355078					bar		Bar Ceresella			B107
+6588479288					bar		Bar Pisetta			B108
+4302909329					bar		Bar Aeroporto			B109
+6588442179					bar		Bar Milena			B110
+6657331381					bar		Bar Il Pioppeto			B111
+2618341568	Trento	3		Via del Pra de l'Agnela	bar					B112
+1870408863	Lavis	23	38015	Via Giacomo Matteotti	bar					B113
+1870411537					bar		Bar Acli			B114
+2314672636	Lavis	4	38015	Piazza Manci	bar		Bar Corona			B115
+1402449109	Lavis	58	38015	Via Giovanni Clementi	bar	+39 0461 246646	Caffè Millennium			B116
+163216447					bar					B117
+1308870011					bar					B118
+4320967592					bar					B119
+303850136		2			bar	+39 0461 650422	L'aquila nera		Mo-Sa 7:30-21:00	B120
+944586213					bar		Centro Ricreativo Sant'Anna			B121
+1279641998	San Michele all'Adige	32	38010	Via Brennero	bar	+39 0461 650540	Al turista			B122
+1496706607		7			bar		905 Wine Bar			B123
+945021993	Cognola	5	38121	Via Don Alfonso Anselmi	bar		Caffè Argentario			B124
+798801352					bar		Bar Stella			B125
+663038618					bar		Bar Satellite			B126
+677998379					bar		Bar Renè			B127
+1620451932	Povo	21	38123	Via della Resistenza	bar					B128
+673740777					bar		Bar Locanda "La Canonica"		6:30-24:00	B129
+434228670					bar					B130
+137046871					bar					B131
+563415898					bar		Green Bar			B132
+4195070620	Trento	18	38122	Via Gorizia	bar	+39 0461 1975651	Keecomm - The Social Stone	www.thesocialstone.net		B133
+4497466477					bar		La Tana del Ghiro			B134
+544348561					bar		Bar International			B135
+544348562					bar		Bar G91			B136
+4160534189					bar		Montecarlo Caffè			B137
+432473110					bar					B138
+544348558					bar					B139
+1264896532	Trento	59	38122	Via Milano	bar		Bar Style			B140
+544348560	Trento	25	38122	Viale Trieste	bar		Dorian Gray			B141
+427836296					bar		Bar Terzo Tempo			B142
+427963784					bar					B143
+2502929449					bar		UniBAR			B144
+673740777					bar		Bar Locanda "La Canonica"		6:30-24:00	B145
+434228670					bar					B146
+6240265349					bar		Bar Phoenix			B147
+6259990979					bar		BarbeCus - da Francesca e Alvaro			B148
+6240212648	Mattarello	36	38123	Via Pomeranos	bar		Bar bistrot Tavonatti			B149
+580767433			38066		bar		Bar Roma			B150
+9025816145					bar					B151
+60582758	Riva del Garda	17	38066	Viale Giosuè Carducci	bar		Emozioni			B152
+2189699302					bar		Bar Capriccio			B153
+938753648	Riva del Garda	11	38066	Piazza Catena	bar		Gelateria Cristallo		07:30-01:00	B154
+2874237075			38066		bar		Yachting Bar Porto			B155
+6810233585					bar		Moby Dick Cocktail Bar		Mo-Su 10:00-02:00	B156
+580767423					bar					B157
+2380893435					bar		Marina Beach Club			B158
+7806394387	Riva del Garda			Via Gazzoletti	bar		Poppy Bar			B159
+2527717177					bar		Gelateria Flora Downtown			B160
+2874104628					bar					B161
+7942506039					bar					B162
+9062425321		94		Viale Dante Alighieri	bar		L'Officina del Panino			B163
+76654701					bar		Riva Bar			B164
+580767423					bar					B165
+506781475					bar		Bar degli Amici			B166
+2531405387					bar					B167
+2531413178					bar		Cristallo			B168
+5047412337					bar					B169
+2189699302					bar		Bar Capriccio			B170
+7936238142					bar		Bar Parisi			B171
+8871703724					bar					B172
+2189081694					bar		Bar Moma			B173
+514889050					bar		Inter Bar			B174
+1602626070					bar		Euro Cafè			B175
+2496764579					bar		Marameo			B176
+687011002					bar	+39 0464 437659	Fashion Café			B177
+688209685					bar		RistoBar		09:00-20:00	B178
+689704466					bar		Bar Darwin			B179
+4016315290					bar		Stone bar			B180
+5807182071		9		Piazza Federico Guella	bar		Bar Manolo			B181
+791724497	Rovereto	44	38068	Via Giuseppe Mazzini	bar		Cafè Vanila			B182
+1366734595					bar		Bar Antares			B183
+1366734620	Rovereto	1	38068	Via Fontana	bar		Bar Miami			B184
+783945816	Rovereto	2	38068	Piazza Antonio Rosmini	bar		Bar 18			B185
+2159359633	Rovereto	17	38068	Via Orefici	bar		Bar Christian			B186
+3250930970	Rovereto	12	38068	Via Giuseppe Mazzini	bar		Orange			B187
+980771444	Rovereto	6	38068	Dante Alighieri	bar		De Min		24/7	B188
+3334278987	Rovereto	60	38068	Via Giosuè Carducci	bar					B189
+2194699074	Rovereto	24	38068	Via Roma	bar		Cherry			B190
+680701385					bar		Bar Bocciodromo			B191
+122260326					bar		Iris Bar			B192
+679331323	Rovereto	12	38068	Piazzale Orsi	bar		Bar Stazione			B193
+2623279971					bar		La Perla			B194
+905069861					bar		Bar Total			B195
+6829333248					bar		Bar Snack 2001			B196
+4088908998					bar		Bar Milea			B197
+6829393481					bar		Nero Caffè			B198
+1536632550	Rovereto	41	38068	Via Roma	bar		Piazzetta			B199
+1889419288	Rovereto	61	38068	Via Dante Alighieri	bar		Toma Bar		Mo-Su 07:30-14:30,16:30-24:00	B200
+3264950985	Rovereto	20	38068	Via Dante Alighieri	bar		Via Dante 20			B201
+3281714588	Rovereto	27	38068	Via Dante Alighieri	bar		Anteprima Cafè			B202
+1505642807	Rovereto	8	38068	Piazza del Podestà	bar		Due Colonne			B203
+2151018561	Rovereto	27	38068	Piazza Malfatti	bar		Mani Al Cielo			B204
+2151019684	Rovereto	10	38068	Piazza delle Erbe	bar		Stella d'Italia			B205
+2159355797	Rovereto	34	38068	Via Mercerie	bar		Tentazioni			B206
+2974737929	Rovereto	24	38068	Piazza delle Erbe	bar		Bar Centrale			B207
+2986510940	Rovereto	50	38068	Via Rialto	bar		Good limes			B208
+3104987116	Rovereto	16	38068	Via Portici	bar		La Crypta		Mo-Su 19:00-02:00; Mar-Oct 18:00-19:00 off	B209
+5136279654	Rovereto	12	38068	Piazza delle Erbe	bar		La Chicca da Ale			B210
+6148063867	Rovereto	7	38068	Via Valbusa Grande	bar		Loco's Bar			B211
+680701386					bar		Bar Tandem			B212
+685838662					bar		RistoBar Sapori Emiliani			B213
+1749736032		18		Corso Bettini	bar		Caffè città			B214
+4023188014					bar		Girasole			B215
+5188869806	Rovereto	55	38068	Via Paganini	bar		Viennese Stube			B216
+3076571002	Rovereto	17	38068	Via Paganini	bar					B217
+3859910827	Rovereto	5	38068	Via san Giovanni Bosco	bar		Circolo operaio Paganini			B218
+783945816	Rovereto	2	38068	Piazza Antonio Rosmini	bar		Bar 18			B219
+679331323	Rovereto	12	38068	Piazzale Orsi	bar		Bar Stazione			B220
+685838662					bar		RistoBar Sapori Emiliani			B221
+1749736032		18		Corso Bettini	bar		Caffè città			B222
+5188869806	Rovereto	55	38068	Via Paganini	bar		Viennese Stube			B223
+3076571002	Rovereto	17	38068	Via Paganini	bar					B224
+3859910827	Rovereto	5	38068	Via san Giovanni Bosco	bar		Circolo operaio Paganini			B225
+2168751553					bar					B226
+6010589532	Rovereto	20	38068	Via Barattieri	bar		Caffè Grazia			B227
+417409352					bar		Bar Teatro			B228
+4013418939	Rovereto	56/A	38068	Corso Bettini	bar		Stappomatto Food Drink & More			B229
+778610072	Rovereto		38068	Via Pasqui	bar		Bar Moon			B230
+4013945729	Rovereto	26	38068	Via Pasqui	bar	+39 0464 462563	Bar Melody			B231
+1366753189					bar		Circolo Operaio San Giorgio			B232
+691261290					bar		Class			B233
+2623279971					bar		La Perla			B234
+2623279974					bar		Mimosa			B235
+1366753189					bar		Circolo Operaio San Giorgio			B236
+2490648335					bar					B237
+2189070388					bar					B238
+2189686876					bar					B239
+2555229803			38062		bar		Villa delle Rose			B240
+903513399	Arco	31	38062	Via Bruno Galas	bar	+39 0464 030067	Caffe Viennese		Mo-Su 08:00-20:00; Tu off	B241
+1864713076					bar					B242
+5926176060					bar					B243
+7274664705					bar					B244
+902539232	Arco	6	38062	Via delle Palme	bar	+39 0464 512874	Caffè Casinò Città di Arco		Mo-Su 08:00-20:00; Tu off	B245
+508788335					bar					B246
+2552192968					bar					B247
+6115752454	Arco	114	38062	Via Giovanni Segantini	bar		Nardi Caffè			B248
+242122355					bar		Chiosco Dei Giardini			B249
+2779233532					bar		Bar Beseno			B250
+902593394					bar		Bar Franca			B251
+8330976414	Arco			Viale Rovereto	bar		Bar Primavera			B252
+2552192968					bar					B253
+5027253748					bar					B254
+1984744024	Caldonazzo	12	38052	Piazza Vecchia	bar		Da Emma			B255
+2393235151					bar		Blue Coffee			B256
+1824386417					bar					B257
+8401767870					bar		Bar Ideal			B258
+5787239253					bar		Tirol			B259
+9140041708					bar		Bar Agnello			B260
+9144490193					bar		na Bela Vida			B261
+3302466513					bar					B262
+4318081292					bar		Bar 'il Palazzetto'		Mo-Su 07:30-23:00	B263
+1945847780					bar		Bar Eureka			B264
+4318091389					bar		Bar Sport			B265
+8835049162	Carisolo	7		Piazza 2 Maggio	bar		Bar Ser Artur			B266
+95708700					bar		Bar Trento			B267
+2967729897	Cavalese	9	38033	Piazza Ress	bar		Osteria la Segosta			B268
+2967730253					bar		Giardinetto			B269
+1257221027					bar		Cheers			B270
+4582692757	Cavalese	8	38033	Piazza Cesare Battisti	bar		Aspen			B271
+4594549033					bar		Vicoletto			B272
+4586771955					bar		Bar Roma			B273
+2967727728					bar		Kiss			B274
+3245940264				Piazza Stazione	bar		Bar Stazione			B275
+4586519626					bar		Fitness Bar			B276
+9025458425					bar		Bar Plaza			B277
+850582185					bar		Al Castelliere			B278
+7829919059	Cles		38023	Via Quattro Novembre	bar		Incontro			B279
+2018656030					bar		Bar Corona			B280
+2018656031					bar		Bar alla Pesa			B281
+2431204314					bar		Bar Chiara			B282
+2525009247					bar		Bar Posta			B283
+2525035021					bar		Bar Pizzeria Contessa Dina			B284
+1100566962	Ossana	4	38026	Via Venezia	bar		Delleva Sandro			B285
+2589668245	Pellizzano	45	38020	Via Nazionale	bar		Al Tabià			B286
+1688616579		61		Via San Tommaso	bar		Cafe Vienna			B287
+305506283					bar		Bar Ladin			B288
+305506310					bar		Bar Mirella			B289
+2405088378					bar		Picol Bar			B290
+232137895					bar					B291
+5787238853					bar		Alpen sport			B292
+946581603					bar		Bar El Zirm			B293
+1224415785	Pozza di Fassa	105	38036	Strada Dolomites	bar		Bar Re Laurino		Mo-Sa 07:30-20:00	B294
+722987884	Pozza di Fassa	9	38036	Piaza de Comun	bar		Bar Gelateria Leon d'Oro		Mo-Su 08:00-24:00	B295
+724391083	Pozza di Fassa	44	38036	Strada de Meida	bar		Bar Anny			B296
+736750203	Pozza di Fassa	1	38036	Piaza de Comun	bar		Bar Al Ponte			B297
+1817273242	Pozza di Fassa	0	38036	Strada de Meida	bar					B298
+1230713773	Pozza di Fassa	112	38036	Strada de Meida	bar		Bar Jodler			B299
+1230713777	Pozza di Fassa	16	38036	Strada de Meida	bar		Bar Meeting		Mo-Sa 08:00-24:00	B300
+8752407441					bar		Al Contrario			B301
+1807391641					bar		L'Angolo Bar			B302
+85731067					bar					B303
+267973643	Folgaria		38064	Via Emilio Colpi	bar		Albergo Folgaria			B304
+267983113	Folgaria	108	38064	Via Emilio Colpi	bar		Albergo Restorante Bar			B305
+267991872	Folgaria	84	38064	Via Emilio Colpi	bar		Osteria Bar			B306
+4369741290					bar		Rustik			B307
+6533808581		8		Via Regina Elena	bar		Bar alla Torre			B308
+2429894206					bar		Bar Biolago			B309
+6451134586		1301	38025	Via Nazionale	bar		Bar Latino			B310
+5409402182	Levico Terme	8	38056	Viale Stazione	bar		Bar al viale			B311
+2357927906	Levico Terme	10	38056	Viale Vittorio Emanuele	bar		Bar Palazzo delle Terme			B312
+800125238					bar		Bar Al piccolo parco			B313
+835872540	Levico Terme		38056	Parco Segantini	bar		La Rociondola			B314
+9048393610					bar					B315
+1100567055	Malé	16	38027	Via IV Novembre	bar		Cevedale			B316
+622616653					bar					B317
+4356405321					bar		Tropical			B318
+2428696174					bar					B319
+641844635					bar					B320
+568433880					bar		Bar Selva			B321
+6240265349					bar		Bar Phoenix			B322
+6259990979					bar		BarbeCus - da Francesca e Alvaro			B323
+5330541422					bar		L'Ora di Punta			B324
+4123997254					bar		Alpino			B325
+4123999071	Mezzana			Via Quattro Novembre	bar		al Sole			B326
+6341429313					bar		da Renato			B327
+861065544	Mezzolombardo	29	38017	Corso Giuseppe Mazzini	bar	+39 0461 606170	Liston			B328
+885639416	Mezzolombardo	3/C	38017	Piazza Cassa di Risparmio	bar		Caffè Commercio			B329
+6063577655	Mezzolombardo	66	38017	Via Alcide De Gasperi	bar	+39 0461 605121	Le Rodelle			B330
+4557760212	Mezzolombardo	65/A	38017	Via Trento	bar	+39 0461 091589	Braide’s bar		Mo-Su 09:00-20:30	B331
+870463075					bar	+39 0461 606025	Bar Centrale			B332
+944999768	Mezzolombardo	8	38017	Piazza Vittoria	bar	+39 0461 600514	Il Bar Sport			B333
+1669326109	Mezzolombardo	37	38017	Via Guido Fiorini	bar		Center Bar			B334
+304626782					bar		Bar Torre Brenta			B335
+3669208161		57		Piaz de Ramon	bar		Ramon			B336
+3785863119					bar					B337
+3786688685					bar		Bar Mancin			B338
+375391666					bar					B339
+1488996243					bar		Bar Danieli			B340
+358203142					bar		Bar Stella			B341
+260573164					bar		Bar Sport			B342
+64194118					bar		Bar Bastianazzo			B343
+1523289654					bar		Bar Malibù			B344
+1524975624					bar		Meeting			B345
+1524976201	Molveno	2	38018	Piazza Scuole	bar		Cristallo			B346
+1525276858	Molveno	1	38018	Piazza San Carlo	bar		Imperia			B347
+1525277252					bar					B348
+1100567903					bar					B349
+1824386638					bar					B350
+4340248023					bar		Caffé Garden		Mo-Su 16:00-02:00	B351
+105588385					bar					B352
+224157928					bar					B353
+8724072074					bar		Bar Azzurro			B354
+304632785					bar		Bar Arnica			B355
+5325769522					bar		San Carlo			B356
+6720516413					bar		Bar Laresoti			B357
+8875613965					bar		Osteria Bar Bagat			B358
+804068698					bar		Egal			B359
+4097598013		25	38086	Via allo stadio	bar		Bocciodromo			B360
+702858552					bar		Al Pont			B361
+5375594313					bar		Baraonda			B362
+5406973242					bar		WunderBAR			B363
+303828159					bar		Caorer			B364
+303825097					bar					B365
+303822584					bar		Scarabelin			B366
+303826366					bar		Caffè Predazzo			B367
+3224940241		5		Via Dellagiacoma	bar		Bar Caffè Croce			B368
+8506320844					bar		Bar Diana			B369
+8506320845					bar		Bar Centrale			B370
+372966334					bar		Snoopy Lake			B371
+6720516413					bar		Bar Laresoti			B372
+6181885334					bar					B373
+229220957					bar					B374
+303850136		2			bar	+39 0461 650422	L'aquila nera		Mo-Sa 7:30-21:00	B375
+944586213					bar		Centro Ricreativo Sant'Anna			B376
+1279641998	San Michele all'Adige	32	38010	Via Brennero	bar	+39 0461 650540	Al turista			B377
+1496706607		7			bar		905 Wine Bar			B378
+616524577					bar		Bar Trafojer			B379
+866739470					bar		Caffe' Gelateria Dolomiti			B380
+866739494					bar		Bar Gelateria George's			B381
+8982740210					bar		Bar Imbis al Parco			B382
+1765623834		134		Via Giuseppe Garibaldi	bar		Bar centrale			B383
+1765623837					bar		Bar Pergola			B384
+1765623838					bar					B385
+1765623839					bar					B386
+1765623840					bar					B387
+3440511808		1		Piazza Europa	bar		Dolce&Peccato			B388
+1765623830					bar					B389
+4074235413					bar		Bar Baltyk			B390
+1354486693					bar		Bar del Moro			B391
+1354486694					bar		Bar Centrale			B392
+1348333277					bar		Bicigrill			B393
+6397060066	Tesero	2	38038	Via Stava	bar		Bar Topo			B394
+6397060067					bar		Bar Stella			B395
+8976351018					bar		pizzaria bar ancora			B396
+8942982791					bar		Bar Arnò			B397
+3709298228					bar		Caffè al Corso			B398
+87032731					bar		Bar '900			B399
+1945868045					bar		Happy Days			B400
+8942982791					bar		Bar Arnò			B401
+1945868045					bar		Happy Days			B402
+2094237801					bar		Bar Glicine			B403
+6610752258					bar		Bar Bailoni - dei Mori			B404
+6557856098					bar		Bar al Parco			B405
+6570668645					bar		Extra Bar			B406
+6572838893					bar		Pane			B407
+463398976					bar		Capanna			B408
+101164761					bar		Toti's Bar			B409
+101164761					bar		Toti's Bar			B410
+721098547					bar					B411
+721098571					bar		Miramonti			B412
+101164761					bar		Toti's Bar			B413
+101164761					bar		Toti's Bar			B414
+721098547					bar					B415
+721098571					bar		Miramonti			B416
+101164761					bar		Toti's Bar			B417
+721098547					bar					B418
+721098571					bar		Miramonti			B419
+2364540528					bar		Caffè Centrale			B420
+2364540527					bar		Bar BO			B421
+3996897857		13/b		Via Trento	bar		Dolci Note			B422
+2364540531					bar		La Stua			B423
+2364540529	Andalo	1	38010	Via Piz Galin	bar		Caffè Vienna			B424
+3101758141	Trento	6	38123	Via dei Marinai d'Italia	cafe	+39 0461 933053	Al Marinaio	http://www.almarinaio.eu	24/7	C1
+2250996518					cafe		Eni Bar		Mo-Su 06:00-19:00	C2
+1706421993					cafe		Bar Big Ben			C3
+2314952904	Trento	28	38122	Via Giacomo Matteotti	cafe		Blue Angel			C4
+890516992	Trento	5	38122	Via Monsignor Celestino Endrici	cafe		Bar 70		Su Off	C5
+890517019	Trento	131	38122	Via Fratelli Perini	cafe		Bar Perini Civico 131			C6
+1131515215	Trento	28		Viale Verona	cafe		Bar Michela			C7
+2344162329	Trento	27	38122	Via Giacomo Matteotti	cafe		Girasole			C8
+3123786458	Trento	98	38122	Via Vittorio Veneto	cafe		Maly Bar			C9
+8446128412				Via Fratelli Perini	cafe					C10
+147695036	Trento	10	38122	Via Vittorio Veneto	cafe		Caffè Ristretto			C11
+2437097540	Trento	39/1	38123	Via Roberto da Sanseverino	cafe		Bar Stadio			C12
+867438907	Trento	56	38123	Corso III Novembre	cafe		Pasticceria Lott			C13
+867439156	Trento	40	38122	Corso III Novembre	cafe		Caffè al Corso			C14
+920773541	Trento	76	38122	Corso III Novembre	cafe		Caffè Vittoria			C15
+268401562	Trento	40	38122	Piazza del Duomo	cafe	+39 0461 092622	Caffè Portici			C16
+430669783	Trento	33/1	38122	Via Rodolfo Belenzani	cafe		Caffè Olimpia			C17
+557150243	Trento	34	38122	Piazza del Duomo	cafe	+39 0461 262826	Caffè 34			C18
+558621094	Trento	34	38122	Via del Travai	cafe	+39 0461 231868	Bar Roby			C19
+867377080	Trento	35	38122	Via Camillo Benso Cavour	cafe	+39 0461 232522	Urban Coffee Lab		Mo-Sa 07:30-19:30	C20
+867377406	Trento	42	38122	Via Camillo Benso Cavour	cafe		Le Note			C21
+976794369	Trento	60	38122	Via Rodolfo Belenzani	cafe	+39 0461 1410166	PanCaffè Larcher		Mo-Su 07:00-14:00,16:30-21:00	C22
+991782724	Trento	31	38122	Piazza del Duomo	cafe	+39 0461 260114	Caffè Tridente		Mo-Su 07:00-24:00	C23
+2472335028	Trento	11	38122	Via Don Giovanni Battista Zanella	cafe	+39 0461 238480	Magna Laude	http://www.sositrento.it/	Mo-Fr 07:30-21:00; Sa 07:30-14:30,17:00-21:00	C24
+268401567	Trento	1	38122	Piazza Mario Pasi	cafe	+39 0461 982301	Bar Pasi			C25
+268430906					cafe		Johnny Bar		Mo-Fr 07:00-21:00; Sa 07:00-12:00	C26
+268430908	Trento	29	38122	Via Calepina	cafe		Jo Bar		Mo-Sa 07:00-20:00	C27
+268436704	Trento	5	38122	Piazza Giovanni Battista Garzetti	cafe	+39 0461 231801	Uva & Menta Café	http://www.uvaementa.it		C28
+268440165	Trento	11	38122	Largo Porta Nuova	cafe	+39 0461 262938	Caffè Venezia		Mo-Sa 07:00-20:00; Su 07:00-13:00	C29
+432480281	Trento	48	38122	Via Santa Croce	cafe		Bar 3 Portoni		Mo-Fr 07:00-20:00; Sa 07:00-13:00	C30
+439912351	Trento	25	38122	Largo Giosuè Carducci	cafe		Carducci			C31
+563754421	Trento	20	38122	Via Malpaga	cafe	+39 0461 1822401	Moki			C32
+853802748	Trento	50	38122	Via Giuseppe Mazzini	cafe		Caffè Mazzini			C33
+867439110	Trento	2	38122	Corso III Novembre	cafe		Bar Pasticceria Viennese		Mo-Su 06:30-21:00	C34
+888452672	Trento	39	38122	Via Mantova	cafe		Bottega del Caffè Dersut			C35
+950814168	Trento	7	38122	Piazza del Duomo	cafe		Caffè Italia			C36
+959911026					cafe		Bar Rosa			C37
+976794123	Trento	21	38122	Via Carlo Dordi	cafe	+39 0461 239900	Mini Bistrò Dordi			C38
+1156358255	Trento	10	38122	Via San Vigilio	cafe	+39 0461 230096	Pasticceria San Vigilio			C39
+1156368143	Trento	29	38122	Via Oriola	cafe		Pasticceria Bertelli			C40
+1590524177	Trento	5	38122	Via Galileo Galilei	cafe	+39 0461 234217	Galileo		Mo-Fr 07:00-21:00	C41
+3107513265		74	38122	Via Piave	cafe	+39 0461 916189	Creme			C42
+3153832735	Trento	13	38122	Via Malta	cafe		Red Dream Caffè		Mo-Sa 06:30-19:30	C43
+3461721719	Trento	13	38122	Piazza di Fiera	cafe		Nero			C44
+3885819452	Trento	8	38122	Via San Francesco d'Assisi	cafe		Italiana caffè		Mo-Fr 07:00-21:00; Sa 09:00-22:00; Su 15:00-22:00	C45
+5352312854	Trento	22	38122	Piazza di Fiera	cafe	+39 0461 998877	Caffetteria Perghem 1835		Mo-Th 07:00-21:00; Fr-Su 07:00-22:00	C46
+557150086	Trento	5	38122	Via delle Orfane	cafe		Dersut Caffè			C47
+558528917	Trento	17	38122	Via delle Orfane	cafe		Bar Orchidea		Mo-Fr 07:00-19:30; Sa 07:00-13:00	C48
+570753040	Trento	21	38122	Via Rodolfo Belenzani	cafe	+39 0461 234352	Pasticceria Caffetteria"Casa del Cioccolato"		Mo,We-Fr 07:00-19:30; Sa 07:30-19:30; Su 07:30-13:00	C49
+867377432					cafe		Why not			C50
+268440175	Trento	2/2	38122	Via Francesco Ferruccio	cafe		Kafè Matrix			C51
+439912423	Trento	41	38122	Via Paolo Oss Mazzurana	cafe	+39 0461 932089	Bar Rex			C52
+811086992	Trento	38	38122	Via San Pietro	cafe	+39 0461 985104	Union Casa del Caffè		Mo-Sa 07:00-12:30,15:00-19:30	C53
+430675313	Trento	48	38122	Via Roma	cafe	+39 0461 090538	Osteria Trentina			C54
+3218898157	Trento	55	38122	Via Roma	cafe		Bar Biblioteca			C55
+430690365	Trento	86	38122	Via Giannantonio Manci	cafe	+39 0461 261304	Caffè Excelsior			C56
+880591016	Trento	20/1	38122	Via Giannantonio Manci	cafe		Caffè Specchi		Mo-Sa 11:00-20:30	C57
+975288339	Trento	26	38122	Corso Michelangelo Buonarroti	cafe		Bar Magnani		Mo-Fr 07:00-19:00; Sa 07:00-12:00	C58
+894044597					cafe		Eden Caffè			C59
+1220020567	Trento	32/1	38122	Via Francesco Petrarca	cafe		Caffè Al Tempo Perso			C60
+1833230969	Trento	86	38122	Via San Martino	cafe		El Barrio		Mo-Su 17:00-22:00	C61
+6036162191					cafe					C62
+431618063	Trento	29	38121	Via Antonio Stoppani	cafe		Pasticceria Bar Mazzoleni			C63
+1893051282	Trento	11	38121	Via Ezio Maccani	cafe		Bar Ok			C64
+2383255946					cafe		Bottega del Caffè Dersut			C65
+990461825	Trento	72	38122	Via del Brennero	cafe		Bar Sport		Mo-Sa 07:15-18:00	C66
+1206327036	Trento	46	38122	Via del Brennero	cafe		Bar Carla			C67
+1666211346	Trento	6	38122	Via Bartolameo da Trento	cafe		Caffé Silvana		Mo-Sa 07:00-24:00	C68
+1707649406	Trento	6	38122	Via del Brennero	cafe		Nuovo Bar Chistè		Mo-Fr 06:00-20:00; Su 07:00-13:00; Sa off	C69
+73293759					cafe		Bar Caffetteria Dogana			C70
+1474641633		105	38121	Via Ezio Maccani	cafe		Bar One			C71
+365499676	Trento	36	38121	Via dei Solteri	cafe	+39 0461 820701	Caffè al Parco			C72
+1749611789					cafe		Bar Mister			C73
+2903764668	Trento	288	38121	Via del Brennero	cafe	+39 0461 821979	D&G Fashion Cafè			C74
+1773068160					cafe					C75
+298086065					cafe					C76
+1773068160					cafe					C77
+4891613712	Trento	48	38121	Via Padre Emilio Chiocchetti	cafe		Dolce Mondo			C78
+3103439229					cafe		La Diversa			C79
+1454331896	Trento	34/2	38121	Via Luigi Caneppele	cafe		Bar Lupo			C80
+2311431854					cafe		Bar Sorriso			C81
+1297477234					cafe		Bar alle Scale			C82
+1297477299					cafe					C83
+940654673					cafe		Caffé Marta			C84
+1899168155					cafe		Bottega del Dersut			C85
+2872204373	Lavis	32	38015	Via Nazionale	cafe		Buongiorno Lavis		Mo-Sa 06:00-20:00; Su 06:00-13:00,15:00-20:00	C86
+4464623568	Lavis	34	38015	Via Antonio Rosmini	cafe		Bar Sport			C87
+2304121848					cafe		Leon D'Oro			C88
+3134826456					cafe					C89
+663429535	Lavis	27	38015	Via Cembra	cafe	+39 0461 245148	Gelateria Serafini		Tu-Su 7:30-00:30	C90
+2317509769					cafe		Vanilla Cafe			C91
+2984498949					cafe		Bar Sicilia			C92
+2779346908					cafe					C93
+2984498949					cafe		Bar Sicilia			C94
+1289151753					cafe		Bar Andreis			C95
+1023262474	Mezzocorona	2	38016	Piazza San Gottardo	cafe	+39 0461 603755	Bar Centrale			C96
+1023263517	Mezzocorona	7	38016	Piazza della Chiesa	cafe	+39 0461 601014	En Piaza			C97
+1754018634	Mezzocorona	15	38016	Piazza San Gottardo	cafe		Bar Tram			C98
+2049523808					cafe		Teer Cafè			C99
+2096838561					cafe		Cafè Mirò			C100
+2185695786					cafe					C101
+101372428					cafe		Bar Campetti			C102
+2411091303					cafe		Bar Povo 1		Mo-Fr 08:00-16:00	C103
+2411091439					cafe		bar FBK		Mo-Fr 08:00-16:00	C104
+279462366					cafe		Open			C105
+78363327					cafe		Max und Moritz			C106
+427941701	Trento		38122	Largo Medaglie d'Oro	cafe		Blu Bar			C107
+1311009225	Trento		38122	Largo Medaglie d'Oro	cafe		Medaglie d'Oro			C108
+2150444589	Trento	7	38122	via Paolo Orsi	cafe		27 bar			C109
+2197903913	Trento	7	38122	Via Giuseppe Gerola	cafe		Minibar			C110
+1559090540					cafe		Bar di Ingegneria			C111
+1331576651					cafe		Caffè Al Centro			C112
+1685067432					cafe		Snack Bar Flora			C113
+430543937	Trento	14	38123	Piazza Perini Quintilio	cafe		Bar Pasticceria "Dolce Cuore"		Mo-Sa 06:30-20:00; Su 08:00-20:00	C114
+4742364436			38066	Piazza Tre Novembre	cafe		Antico caffè Maffei			C115
+270673832					cafe		Punta Lido Caffè			C116
+3556927851	Riva del Garda	33		Piazza Tre Novembre	cafe		Caffé Cittá			C117
+901046111					cafe		iLike bar food ice cream			C118
+1373698251			38066		cafe		Cafe Italia			C119
+2874070230			38066		cafe		Casa del Caffè			C120
+2874083201			38066		cafe		Pasticceria Copat			C121
+2887488210	Riva del Garda	18	38066	Viale Roma	cafe		San Marco cafè		7:00 - 20:30	C122
+3244704033	Riva del Garda	2	38066	Via Santa Maria	cafe		Caffe Maroni			C123
+4310581914					cafe		Bar Cafélac			C124
+5859346986					cafe					C125
+9110446721					cafe		Cafe Troiani			C126
+5114843920	Riva del Garda		38066		cafe		Moka MO			C127
+571193717	Riva del Garda	2	38066	Via San Nazzaro	cafe		Caffè Speed Since1969			C128
+2531409644	Riva del Garda	94		Viale Trento	cafe		Gelateria Artigianale Happy Days			C129
+299801308					cafe		Bar Centro Sportivo			C130
+6091712990		50		Via Benacense	cafe		Buonissimo			C131
+2484653256	Rovereto	28	38068	Via Giuseppe Garibaldi	cafe		Bottega del Caffé			C132
+2484736017	Rovereto	14	38068	Via delle Scuole	cafe		Bar Bianco			C133
+2484736018	Rovereto	7	38068	Via della Croce	cafe	+39 335 5342495	Caffè Excelsior			C134
+417409264	Rovereto	14	38068	Piazza Cesare Battisti	cafe		Caffè Bontadi			C135
+3230336766	Rovereto	9	38068	Via Roma	cafe		Bar Andreatta			C136
+2509341606	Rovereto	8	38068	Via Fortunato Zeni	cafe	+39 0464 443277	Bar Piave			C137
+709880990					cafe		Caffè Posta			C138
+710054178					cafe		Caffè Gambrinus			C139
+692409156					cafe		Black Roses Square			C140
+692623276					cafe		Rosmini			C141
+3116375600	Rovereto	2/F	38068	Via Campagnole	cafe	+39 0464 430511	StreetBikers		Mo-Th 07:30-19:00; Fr 07:30-12:00,14:30-19:00; Sa 08:00-12:00	C142
+806751374	Rovereto	40	38068	Via Dante Alighieri	cafe		Harry'S Bar			C143
+2484736030					cafe		Tiffany			C144
+737674794					cafe		Bistrò Cafe			C145
+737674794					cafe		Bistrò Cafe			C146
+3815830157		30		Via Montecorno	cafe		Ca dell'Ora			C147
+4005533476	Rovereto	17/C	38068	Via Parteli	cafe		Serendipity			C148
+8198607089					cafe					C149
+888908469					cafe		Caffè Silver			C150
+2171057706					cafe					C151
+2173939085	Rovereto	31 E	38068	Viale Trento	cafe		Bar City			C152
+2509331932					cafe					C153
+740489409					cafe		Mary Giò Cafè		Mo-Fr 05:00-19:00	C154
+2171057706					cafe					C155
+2509341606	Rovereto	8	38068	Via Fortunato Zeni	cafe	+39 0464 443277	Bar Piave			C156
+8198607089					cafe					C157
+902531895	Arco	3	38062	Via Giovanni Segantini	cafe		Bar Free Master			C158
+1024789858		2	38062	Via Bruno Galas	cafe		Cafè Centrale			C159
+1110591774	Arco	2	38062	Piazza Marchetti	cafe		Caffè Contì d'Arco			C160
+1366770285	Arco	1	38062	Piazza III Novembre	cafe		Caffè Trentino			C161
+4756588954		5		Via Foro Boario	cafe		Hotel Al Sole			C162
+4294950104					cafe		Trento			C163
+7118897430	Bieno	10	38050	Vicolo Busarello	cafe		B&B IL piccolo principe			C164
+4294950102	Bieno	5	38050	Piazza Maggiore	cafe		Bar Rododendro			C165
+4294950135					cafe					C166
+304129300					cafe					C167
+3852571332					cafe					C168
+1620985279	Borgo Valsugana	7	38051	Via Alessandro Spagolla	cafe		Bar Vulcano			C169
+3840753124					cafe		Bar Bianco			C170
+4215202560	Borgo Valsugana	7	38051	Piazza Romani	cafe		Bar Milano			C171
+4215202561	Borgo Valsugana	6	38051	Piazza Alcide De Gasperi	cafe		Bar del Borgo			C172
+4215202567	Borgo Valsugana	12	38051	Piazza Martiri della Resistenza	cafe		Il ritrovo dei sapori			C173
+4215203888	Borgo Valsugana	15	38051	Via Fratelli	cafe		La Cantinota			C174
+4215205797	Borgo Valsugana	15	38051	Piazza Alcide De Gasperi	cafe		Bar Zita			C175
+3575479541	Borgo Valsugana	9b	38051	Via Giuseppe Gozzer	cafe		Wine Bar			C176
+3934055421					cafe					C177
+139516770	Borgo Valsugana	5	38051	Via Roma	cafe		5 Baroni			C178
+4215202559	Borgo Valsugana	17	38051	Piazzale Dante Alighieri	cafe		Bar Cusso			C179
+4127976297	Borgo Valsugana	36	38051	Corso Ausugum	cafe		Caffè Italia			C180
+4664024252	Borgo Valsugana	16	38051	Corso Ausugum	cafe		Bar Trento			C181
+600916200					cafe		Bar Centrale			C182
+5787238954	Campitello di Fassa	4	38031	Strèda dò Ruf	cafe	+39 0462 750434	Pasticceria Marlene		Mo-Su 07:30-12:00,15:15-19:00	C183
+3389055950		23		Piazza Marconi	cafe		La Petite		Mo-Su 08:00-19:00	C184
+3389055949		11	38032	Strèda de Pareda	cafe		Bar Esso			C185
+2232233337	Castelnuovo	13	38050	Piazza del Municipio	cafe	+39 0461 753446	Bar Chin			C186
+2237889662	Castelnuovo	8	38050	Via Trento	cafe	+39 0461 752730	Al vapore			C187
+6656573063	Castelnuovo	17	38050	Viale Venezia	cafe	+39 348 930 7453	Caffè Noir			C188
+2967728499					cafe		Caffè... da te			C189
+859560059		2		Piazza Verdi	cafe		Caffè Pizzeria Tana del Grillo			C190
+2967730228					cafe		Corona			C191
+1843995236					cafe		Albergo Bar "La Rosa"			C192
+945390437					cafe		Nicky's Bar			C193
+946077508	Cles	44	38023	Via Alcide Degasperi	cafe		Caffè Grazia			C194
+946228722		66		Viale Alcide de Gasperi	cafe		Bar Blu			C195
+943772827	Cles	20	38023	Via Romana	cafe		Lanterna Magica		Mo 07:30-15.00; Tu-Fr 07:30-21:00; Sa 08:30-22.00	C196
+945133241	Cles	2	38023	Piazza Navarrino	cafe		Bar Cles			C197
+945133408	Cles	10	38023	Corso Dante	cafe		Bar Centrale			C198
+945390432					cafe		Bar Posta			C199
+945430402					cafe		Bar Roma			C200
+945430407					cafe		Bar Sport			C201
+945430413	Cles	5	38023	Piazza Granda	cafe		Caffè Europa			C202
+945776009	Cles	34	38023	Via Giambattista Lampi	cafe		Bar Claudia			C203
+4020339039	Cles	1	38023	Piazza Primo Maggio	cafe		La Casa di Marzapane			C204
+4516745809	Cles	10	38023	Via Roma	cafe		Pasticceria Ramus			C205
+4589498554	Cles	43/45	38023	Piazza Granda	cafe		Caffe Bertolasi			C206
+4380569085					cafe		Bar Stazione			C207
+5352766111					cafe		Caffè Varena			C208
+5352766112					cafe		Bar al Drago			C209
+1211103522					cafe		Bar Bianco			C210
+261081650					cafe		Bar La Torre			C211
+261086638		9		Via Roma	cafe		Bar caffè Castello			C212
+1806514143					cafe		Caffè in Piazza			C213
+7960090670					cafe		Caffè del viale			C214
+564884219					cafe		Caffe` Impero			C215
+963851255					cafe		Nazionale			C216
+5834717227					cafe		Paint Bar			C217
+622616647					cafe		Pasticceria Verginello			C218
+1100567585	Malé	3	38027	Piazza Santa Maria Assunta	cafe		Pasticceria Roma			C219
+5889694076					cafe		Jolly			C220
+333790690					cafe		Snoopy			C221
+333791073					cafe		Pasticceria			C222
+1620510920	Dimaro	4	38025	Via Caduti	cafe		L'Oasi			C223
+5893152115					cafe		Kaiserkrone			C224
+367891752					cafe		Caffè del Centro			C225
+2433994739					cafe		Bar Tabacchi Giornali			C226
+1331576651					cafe		Caffè Al Centro			C227
+1685067432					cafe		Snack Bar Flora			C228
+430543937	Trento	14	38123	Piazza Perini Quintilio	cafe		Bar Pasticceria "Dolce Cuore"		Mo-Sa 06:30-20:00; Su 08:00-20:00	C229
+1098424327					cafe		Dolce Amaro			C230
+7924119464					cafe		La Stube			C231
+1023262474	Mezzocorona	2	38016	Piazza San Gottardo	cafe	+39 0461 603755	Bar Centrale			C232
+1754018634	Mezzocorona	15	38016	Piazza San Gottardo	cafe		Bar Tram			C233
+2049523808					cafe		Teer Cafè			C234
+2096838561					cafe		Cafè Mirò			C235
+2185695786					cafe					C236
+101372428					cafe		Bar Campetti			C237
+1023263517	Mezzocorona	7	38016	Piazza della Chiesa	cafe	+39 0461 601014	En Piaza			C238
+870463412	Mezzolombardo	34/B	38017	Corso Giuseppe Mazzini	cafe		Caffè Mazzini			C239
+885639402					cafe		Bar Titti			C240
+885639405	Mezzolombardo	11	38017	Via Arturo De Varda	cafe		Casa del Caffè			C241
+890959825	Mezzolombardo	59	38017	Via Alcide De Gasperi	cafe		JD Bar			C242
+1068398503	Mezzolombardo	10	38017	Piazza Pio XII	cafe	+39 0461 606029	Bar Mary			C243
+1362787078					cafe		Bar Stella			C244
+859540287	Mezzolombardo	33	38017	Via Arturo De Varda	cafe		Bar Mirtillo			C245
+859540318	Mezzolombardo	7	38017	Via San Francesco	cafe		Bar Giulia			C246
+863012344					cafe		Big Ball			C247
+885639418	Mezzolombardo	14	38017	Corso del Popolo	cafe	+39 0461 605642	Bar Posta			C248
+890960007	Mezzolombardo	11	38017	Via Alcide De Gasperi	cafe		Lady Bar			C249
+937561932	Mezzolombardo	40/A	38017	Corso del Popolo	cafe		Bar del Corso			C250
+72527979					cafe					C251
+1584024518					cafe		Cafe Gabry			C252
+1512680703					cafe		La Perla			C253
+137884766	Molveno	23	38018	Via Lungolago	cafe		Bar Spiaggia			C254
+333696251					cafe		Caffè Posta			C255
+497089016	Calceranica al Lago	17	38050	Via Guido Donegani	cafe		Bar Pasticceria Gelateria Al Lago			C256
+5662790564					cafe					C257
+102779824					cafe		Punta Lago Gelateria			C258
+333791574					cafe		Caffé Maturi			C259
+610239683	Madonna di Campiglio	27	38086	Via Monte Spinale	cafe		Ober1			C260
+5258618122					cafe		Bar in piazza			C261
+2799076104					cafe		Bar Rosa delle Alpi			C262
+8093496708					cafe		Europeo			C263
+8093532431					cafe		Caffè Genzianella			C264
+4328283797					cafe		Bar pasticceria Carpe Diem			C265
+5258618122					cafe		Bar in piazza			C266
+1357188733					cafe					C267
+1289151753					cafe		Bar Andreis			C268
+2984498949					cafe		Bar Sicilia			C269
+2779346908					cafe					C270
+616524576	Rabbi	150	38020		cafe		Bar Centrale			C271
+2232339460	Scurelle	16	38050	Piazza Maggiore	cafe					C272
+301805267					cafe		Bar Marki			C273
+301799493					cafe		Crosetta			C274
+2338572873					cafe					C275
+2706220782	Castel Ivano	13	38059	Piazza 4 Novembre	cafe		Bar Centrale			C276
+2706220790	Castel Ivano	4	38059	Piazza del Municipio	cafe		Moomba Cafè di Rinaldi			C277
+3686167484	Castel Ivano	27	38059	Via Roma	cafe		Bar Incontri			C278
+3876011271	Castel Ivano	2	38059	Via 24 Maggio	cafe		Bar Nazionale			C279
+2627181974	Telve	1	38050	Via Largo Cacciatori	cafe		Bar Birreria			C280
+2628567192					cafe		Bar Piazza Vecchia			C281
+4080410277					cafe		Alice Cafè			C282
+2611293385					cafe					C283
+2612723304	Telve	1	38050	Località Nale	cafe		Bar Panorama			C284
+3382157053					cafe					C285
+4426899933					cafe					C286
+673196028					cafe		Bar Tre Venezie			C287
+4043601648					cafe					C288
+296426385					cafe		Circolo di Termenago		Mo-Sa 20:30-24:00	C289
+1403121855	Tesero	6	38038	Piazza Cesare Battisti	cafe		Cafè Filò			C290
+4481686090		4		Via Quattro Novembre	cafe		Caffè Pasticceria Elisiana		08:00-12:30,14:00-20:00; Tu off	C291
+922129790					cafe		Bar Brevine			C292
+2378435766	Tione	12/A		Via Filzi	cafe		La Tazzina			C293
+2378445724	Tione	11		Via Damiano Chiesa	cafe		Bar Autostazione			C294
+8610425491					cafe		Caffetteria Incontra			C295
+1805481738					cafe					C296
+2732485798					cafe		Bar Roma			C297
+1843660150					cafe		Bar Bazzega			C298
+169149660					cafe		Bar Carolina			C299
+173581756					cafe		Bar Uceli			C300
+37793331	Trento	5	38123	Via di Madonna Bianca	fast_food	+39 0461 390416	McDonald's			F1
+3148725809	Trento	2	38123	Via Lidorno	fast_food	+39 0461 1740223	Bici Grill Trento		Mo-Su 08:00-24:00	F2
+4233651088					fast_food					F3
+2112857580	Trento	3	38122	Largo Eugenio Prati	fast_food		Pizzeria Bella Napoli			F4
+2487319550	Trento	18/B	38122	Via delle Ghiaie	fast_food		Pedro Pizza	http://www.pedropizza.it	Mo-Fr 11:00-14:00,18:00-22:00; Sa-Su 18:00-22:00	F5
+893551341	Trento	8		Via Aosta	fast_food		Pizza Snack			F6
+2185765240	Trento	3	38123	Viale Verona	fast_food	+39 0461 1592422	Cavalleggeri		Mo-Su 10:00-22:00	F7
+2344162326	Trento	93	38122	Via Giacomo Matteotti	fast_food		Pizza Rimi			F8
+3123756891	Trento	104	38122	Via Vittorio Veneto	fast_food		Portami Via		Mo 11:00-14:00; Tu-Su 18:00-21:30	F9
+643873322	Trento	5	38122	Via Gorizia	fast_food	+39 0461 931663	Pizzeria Bella Italia	http://bellaitalia-trento.it	Mo-Su 11:00-14:30,17:30-22:30	F10
+2197903908	Trento	53	38122	Via dei Mille	fast_food		Bar dei Mille			F11
+557150099	Trento	1	38122	Via Camillo Benso Cavour	fast_food		San Michele Pizza			F12
+557150130	Trento	22	38122	Via Camillo Benso Cavour	fast_food	+39 0461 233753	Pizza Cavour		Mo-Sa 11:00-23:00	F13
+557197349	Trento	13	38122	Piazza Adamo D'Arogno	fast_food		5 Sensi			F14
+976794057	Trento	66	38122	Via Rodolfo Belenzani	fast_food		Friendly			F15
+991704167	Trento	36	38122	Via Camillo Benso Cavour	fast_food	+39 0461 1482485	IBRIS - focacce e pizze			F16
+1005689732	Trento	9	38122	Via senatore Carlo Esterle	fast_food		Graziano's		Mo-Fr 11:00-21:00;Sa 16:00-21:00	F17
+1005689764	Trento	8	38122	Via senatore Carlo Esterle	fast_food		Kebab Duomo			F18
+1129326730	Trento	43	38122	Via Rodolfo Belenzani	fast_food		Subway	http://w.subway.com/en-IT/		F19
+1131515113	Trento	15	38122	Via Camillo Benso Cavour	fast_food		Pak Pizza & Doner Kebab			F20
+1521825496	Trento	7	38122	Vicolo Benassuti	fast_food		Focacceria Belvedere			F21
+3697409370	Trento	42	38122	Via Giovanni Prati	fast_food		Bottega della Piada			F22
+6830933540					fast_food		Mordi & Fuggi			F23
+877620835	Trento	42	38122	Via Santa Croce	fast_food	+39 0461 985263	Capatoast	http://capatoast.it/trento.html		F24
+1005713356	Trento	68	38122	Via del Travai	fast_food		Max			F25
+1152984020	Trento	55	38122	Largo Giosuè Carducci	fast_food		Il posto di Ste			F26
+1167979632	Trento	2/1	38122	Via 24 Maggio 1915	fast_food		L'angolo dello Sfizio			F27
+1220020603	Trento	9	38122	Via Santissima Trinitá	fast_food		Ai Castelli Romani			F28
+1313709067	Trento	1	38122	Vicolo delle Rogge	fast_food	+39 329 8597519	PiadinAmore			F29
+1478989830	Trento	46	38122	Via cardinale Cristoforo Madruzzo	fast_food		La Goulette			F30
+1503398796	Trento	31	38122	Largo Giosuè Carducci	fast_food		Pizza Chef			F31
+1523132849	Trento	24	38122	Largo Giosuè Carducci	fast_food		Oblò Street Food			F32
+5333845155	Trento	22	38122	Via Roggia Grande	fast_food		Patatrak			F33
+557150055	Trento	11	38122	Piazza della Portella	fast_food		Piadineria L'angolo tondo		Mo-Fr 11:30-14:30; Sa,Su fixme	F34
+1687733877	Trento	7	38122	Via Prepositura	fast_food	+39 0461 093321	Break Point			F35
+2467487009	Trento	36/1	38122	Via San Giovanni	fast_food		Pizzopolis			F36
+1523162587	Trento	17/A	38122	Via degli Orbi	fast_food		Tigella Bella			F37
+853802391	Trento	68	38122	Via Giuseppe Grazioli	fast_food		Ni Hao		Mo-Su 11:00-14:30,17:30-22:00	F38
+853803032	Trento	1	38122	Via Benedetto Giovanelli	fast_food		Fast Food			F39
+1264896580	Trento	24	38122	Via San Bernardino	fast_food	+39 0461 262095	Pizza & Pizza	http://pizzaepizza.altervista.org	Mo-Fr 11:30-14:30,18:00-22:00; Sa,Su 18:00-22:00	F40
+5105133056					fast_food		Mamma mia			F41
+73263491	Trento		38122	Piazza Alessandro Vittoria	fast_food		Gusto Giusto			F42
+74199071					fast_food		Bari Chicken Grill		Mo-Th 11:00-01:30, Fr,Sa 11:00-04:00	F43
+75356278		2/A	38122	Via San Francesco d'Assisi	fast_food		Kebab Venezia		Su 15:00-22:30; Mo-Sa 10:30-22:30	F44
+430675311	Trento	13	38122	Via Andrea Pozzo	fast_food		"New Friends" Kebab		Mo-Su 11:00-03:00	F45
+867377379	Trento	7	38122	Via Andrea Pozzo	fast_food		Fam&Gola			F46
+1687733871	Trento	6	38122	Via Prepositura	fast_food					F47
+1366801131	Trento	81	38122	Via del Suffragio	fast_food		NonSoloPizza			F48
+72921865					fast_food		La Bottega del Kebab		Mo-Su 08:00-22:30	F49
+557992526	Trento	12	38122	Largo Nazario Sauro	fast_food	+39 0461 981300	La Perla d'Oriente		Mo-Su 10:30-14:30,17:30-22:30	F50
+814239901	Trento	33/A	38122	Via Alessandro Manzoni	fast_food		Pizza Granda		Mo,We-Fr 11:00-15:00,18:00-22:00; Sa,Su 18:00-22:00	F51
+1666211377	Trento	15	38122	Via Alessandro Manzoni	fast_food		#PIZZAROAD	http://www.pizza-road.it/	Mo-Fr 11:00-14:00,18:30-21:30; Sa,Su 18:30-21:30	F52
+4251314689		21	38122	Via Alessandro Manzoni	fast_food		Lo Stuzzicatilly		Su-Fr 09:30-16:00	F53
+4764819021	Trento	30/3	38122	Via Felice e Gregorio Fontana	fast_food		Emy			F54
+2076852083	Trento	19	38122	Via del Brennero	fast_food		Al-Athir		Mo-Su 08:00-01:00	F55
+7723646124		36/2		Via Ezio Maccani	fast_food		Zac e Tac			F56
+4497466439					fast_food		McDonald's			F57
+1226695010	Trento	80	38121	Via Antonio Pranzelores	fast_food	+39 0461 828282	Da Andrea		Mo-Fr 11:30-14:30,18:00-22:00;Sa-Su 18:00-22:00	F58
+3899564057	Trento	111	38121	Via del Brennero	fast_food	+39 0461 826790	Burger King	https://www.burgerking.it/ristoranti/trento-trento/	Mo-Su 11:00-01:00	F59
+3999916780	Trento	11	38121	Via Guglielmo Marconi	fast_food		Pizza All'Angolo			F60
+365499674	Trento	39/9	38121	Via dei Solteri	fast_food	+39 0461 829523	NoFormat			F61
+959911033	Trento	20	38121	Via Renato Lunelli	fast_food	+39 0461 825594	Benny			F62
+2463316762					fast_food		Roadhouse Grill	http://www.roadhousegrill.it/		F63
+2858848897	Trento	16	38121	Via Giovanni Battista Trener	fast_food		Pizza Smile			F64
+2311431867					fast_food		Pizza Gardolo			F65
+562715342	Lavis	33	38015	Via Matteotti	fast_food	+39 0461 240321	Pizza Granda	http://www.pizzagrandalavis.com/		F66
+2872204377	Lavis	4	38015	Via Antonio Rosmini	fast_food		Break time			F67
+562715347					fast_food		Lavis Pizza			F68
+4593977000	Zambana	7	38010	Via Trento	fast_food		Pizza Kebab Zambana			F69
+1754018654	Mezzocorona	24	38016	Piazza San Gottardo	fast_food					F70
+4265067225					fast_food		Golosità			F71
+289227941	Trento	9/A	38123	Via della Resistenza	fast_food		Pizza Rio		Mo-Fr 11:30-14:00,18:00-21:00; Sa-Su 18:00-21:30; PH 18:00-21:30	F72
+434228673					fast_food		Pizzeria d'asporto			F73
+643873322	Trento	5	38122	Via Gorizia	fast_food	+39 0461 931663	Pizzeria Bella Italia	http://bellaitalia-trento.it	Mo-Su 11:00-14:30,17:30-22:30	F74
+2197903908	Trento	53	38122	Via dei Mille	fast_food		Bar dei Mille			F75
+1264896580	Trento	24	38122	Via San Bernardino	fast_food	+39 0461 262095	Pizza & Pizza	http://pizzaepizza.altervista.org	Mo-Fr 11:30-14:30,18:00-22:00; Sa,Su 18:00-22:00	F76
+1934061227					fast_food					F77
+434228673					fast_food		Pizzeria d'asporto			F78
+1204785293	Mattarello	39	38123	Via Giulio Catoni	fast_food		L'arte della pizza		Tu-Fr 11:00-13:45,17:30-21:30; Sa,Su 17:00-21:30	F79
+6239554144		14		Via Guido Poli	fast_food		Mero Pizza Kebab		Mo, We, Th, Sa 11:30-13:30, 17:30-22:30; Tu Off; Fr, Su 17:30-22:30	F80
+1889573425					fast_food		Caneva			F81
+4313423619			38066		fast_food		Mon Amour			F82
+4315405789					fast_food					F83
+7726936704		8	38066	Viale Giosuè Carducci	fast_food		Go Pizza		Mo-Su 12:00-14:30,17:30-21:00	F84
+700335914					fast_food		Doner Kebab			F85
+4751030319					fast_food					F86
+324160740					fast_food		Pronto Pizza			F87
+8294410170					fast_food		Pappami			F88
+1366734598	Rovereto	9C	38068	Borgo Santa Caterina	fast_food		al Silenzio			F89
+677962323					fast_food		CONAD			F90
+685236438					fast_food		Pizza Break La Torretta			F91
+692409152					fast_food		New Instanbul			F92
+2168813482					fast_food		PizzAngolo			F93
+417409275					fast_food		Kebab			F94
+1457025331	Rovereto	24	38068	Via Mercerie	fast_food		PiadinAmore			F95
+2151026707					fast_food		Pizza al volo			F96
+6210020202	Rovereto	24	38068	Via Mercerie	fast_food		Piadinamore			F97
+7164404829	Rovereto	36	38068	Santa Maria	fast_food	+39 3313533808	Momo's			F98
+940954576					fast_food		In Teglia Pizza			F99
+2151038360	Rovereto	12	38068	Corso Bettini	fast_food		La Mia Africa			F100
+961362760					fast_food		Waikiki Poké Rovereto			F101
+899120910					fast_food		Nawab			F102
+677962323					fast_food		CONAD			F103
+685236438					fast_food		Pizza Break La Torretta			F104
+2151038360	Rovereto	12	38068	Corso Bettini	fast_food		La Mia Africa			F105
+961362760					fast_food		Waikiki Poké Rovereto			F106
+899120910					fast_food		Nawab			F107
+2168751554					fast_food					F108
+3813875433					fast_food		Punto Pizza			F109
+6870007779		14		Via Ergizio Bezzi	fast_food		Ilir Kebab			F110
+6191790557					fast_food		Vamolà		Mo-Sa 11:45-14:15,18:30-21:00; Sa-Su 18:15-21:00; PH closed	F111
+6405061138		10/B		Via Balista	fast_food		Green Pizza		Mo-Fr 11:00-14:30, 17:30-22:00; Sa, Su 17:30-22:00	F112
+888908459					fast_food		Mordi e Fuggi			F113
+888908460					fast_food		La mangiona			F114
+545783350	Rovereto	2	38068	Via Cimarosa	fast_food				12:14-18:22	F115
+545783350	Rovereto	2	38068	Via Cimarosa	fast_food				12:14-18:22	F116
+6191790557					fast_food		Vamolà		Mo-Sa 11:45-14:15,18:30-21:00; Sa-Su 18:15-21:00; PH closed	F117
+6405061138		10/B		Via Balista	fast_food		Green Pizza		Mo-Fr 11:00-14:30, 17:30-22:00; Sa, Su 17:30-22:00	F118
+1105959228	Arco	2	38062	Via Frumento	fast_food		Pizzeria Kebab Kejepi			F119
+1475075466			38062		fast_food		Il Pizzaiolo			F120
+3934052373					fast_food		Speedy Pizza			F121
+4215205792	Borgo Valsugana	16a	38051	Piazza Alcide De Gasperi	fast_food		Pizza al Taglio Titti			F122
+4215203887	Borgo Valsugana	4	38051	Piazzale Dante Alighieri	fast_food		Borgo Kebab			F123
+2133570096	Caldonazzo	13	38052	Piazza Municipio	fast_food		Pizza d'Asporto 50 Special			F124
+8401768367					fast_food		Pizza d'asporto 50 Special			F125
+9144490184					fast_food		Rosticceria			F126
+331526697					fast_food		Pippotto			F127
+7368915455	Castelnuovo	8	38050	Piazza del Municipio	fast_food		Pizza Express			F128
+1257221143					fast_food		Pizza Take Away			F129
+943766910					fast_food		Polleria			F130
+945470844	Cles	6	38023	Via Guglielmo Marconi	fast_food		Istanbul Kebap & Pizzeria			F131
+4020339038	Cles	4	38023	Piazza 1 Maggio	fast_food		Al Pagi RistoPub			F132
+58430604					fast_food		Da Michele			F133
+8207147208					fast_food		Spiki Pizza			F134
+1204785293	Mattarello	39	38123	Via Giulio Catoni	fast_food		L'arte della pizza		Tu-Fr 11:00-13:45,17:30-21:30; Sa,Su 17:00-21:30	F135
+6239554144		14		Via Guido Poli	fast_food		Mero Pizza Kebab		Mo, We, Th, Sa 11:30-13:30, 17:30-22:30; Tu Off; Fr, Su 17:30-22:30	F136
+1754018654	Mezzocorona	24	38016	Piazza San Gottardo	fast_food					F137
+4265067225					fast_food		Golosità			F138
+885639430	Mezzolombardo	3	38017	Via Arturo De Varda	fast_food	+39 0461 604336	Lo Sfizio		Mo Off	F139
+1427239110	Mezzolombardo	4	38017	Via Arturo De Varda	fast_food		Istanbul Pizza & Kebap			F140
+1614921129					fast_food		Rosticceria Girardi			F141
+1721724932	Mezzolombardo	85	38017	Via Roma	fast_food	+39 0461 601502	Mangiamondo	https://www.pizzeriamangiamondo.it/		F142
+870463242	Mezzolombardo	1/C	38017	Piazza Vittoria	fast_food	+39 0461 606102	Pizza Granda	http://pizzagranda.it/	Mo-Sa 11:30-14:30, 18:00-23:30; Su 18:00-23:30	F143
+303826374					fast_food		PizzaTime			F144
+4202862139	Scurelle	10	38050	Via Beniamino Donzelli	fast_food		La Saporita			F145
+666808301	Roncegno Terme	3	38050	Via Trogher	fast_food		Al Goloso			F146
+87032693					fast_food					F147
+2364540530	Andalo	26/A	38010	Via Perli	fast_food		La Marenda			F148
+6049450811	Trento	124	38123	Via di Madonna Bianca	ice_cream		Pingu			I1
+430017181	Trento	76	38123	Via Enrico Conci	ice_cream	+39 0461 922474	Bistro' alle Torri	http://www.terragnoloeis.it		I2
+2022158684	Trento	62	38122	Via Giuseppe Giusti	ice_cream		Gelateria			I3
+563415888	Trento	178	38122	Corso III Novembre	ice_cream		Al Ponte			I4
+2410418912	Trento	28	38123	Viale della Costituzione	ice_cream	+39 0461 036036	DolceMente	http://www.dolcementemarzari.it/		I5
+430669787	Trento	50	38122	Via Rodolfo Belenzani	ice_cream		La Gelateria			I6
+865298450	Trento	27	38122	Piazza del Duomo	ice_cream		Gelateria GROM		May-Sep: Su-Th 11:00-24:00; May-Sep: Fr-Sa 11:00-01:00; Oct-Apr: Su-Th 11:00-22:00; Oct-Apr: Fr-Sa 11:00-23:00	I7
+1005689714	Trento	7	38122	Via senatore Carlo Esterle	ice_cream		Kikkys			I8
+1687770939	Trento	5	38122	Via Antonio Rosmini	ice_cream		La Romana	https://www.gelateriaromana.com/		I9
+853802424	Trento	20	38122	Via Giuseppe Mazzini	ice_cream		La Delizia			I10
+865298469	Trento	9	38122	Via Giuseppe Garibaldi	ice_cream	+39 0461 220014	Gelatomania			I11
+867377271	Trento	27	38122	Via Giuseppe Garibaldi	ice_cream	+39 0461 233160	Ci gusta!	http://www.cigusta.com/	Mo-Fr 08:30-19:30; Sa,Su 10:30-19:30	I12
+877621107	Trento	19	38122	Via San Vigilio	ice_cream		Peterle		Mo-Sa 14:00-19:30,21:00-23:00	I13
+1493571259	Trento	17	38122	Via dei Mille	ice_cream		Robin			I14
+975288320					ice_cream		Yogurt			I15
+1214589540	Trento	35	38122	Via Paolo Oss Mazzurana	ice_cream		Pingu		Tu-Su 09:00-19:00; Mo 14:00-19:00	I16
+853803379					ice_cream		Fior di gusto			I17
+5585598	Trento	1	38122	Piazzetta Padre Diego Lainez	ice_cream		Gelateria Peterle			I18
+1749737657					ice_cream		Igloo		Mo-Sa 12:00-20:30; Su 11:00-20:30	I19
+4160534209					ice_cream		Mason			I20
+2304109638	Gardolo	101	38121	Via 4 Novembre (1918)	ice_cream		Peterle			I21
+2304109638	Gardolo	101	38121	Via 4 Novembre (1918)	ice_cream		Peterle			I22
+3105232729					ice_cream		Pingu			I23
+1408624387	Mezzocorona	4	38016	Piazza della Chiesa	ice_cream	+39 0461 987654	Pingu		Mo 16:00-22:00; Tu-Su 15:00-22:00	I24
+823542138	Povo	3	38123	Piazza Giannantonio Manci	ice_cream		Gelateria Dolomeis			I25
+5059810665					ice_cream		gelateria			I26
+5059810665					ice_cream		gelateria			I27
+1331577392					ice_cream		Alla Vecchia Fontana			I28
+3090949619					ice_cream		Gelateria "Al Ponte"			I29
+4365350290					ice_cream		Gelateria Al Pozzo			I30
+5114840532					ice_cream					I31
+4415047275					ice_cream		Flora Downtown		Mo-Su 08:00-23:00	I32
+6551596192		86		Viale Dante Alighieri	ice_cream		DolceStella		Mo-Su 08:00-23:00	I33
+9141413524		14	38066	Via Disciplini	ice_cream		Gelateria Eta Beta			I34
+700335915					ice_cream		Brolio Ice Cream			I35
+486141846	Riva del Garda	9	38066	Viale San Francesco	ice_cream		Gelateria Adamello			I36
+2496766112					ice_cream		Gelateria Isola del Gelato			I37
+687634184					ice_cream		Gelateria Capriccio		Mo-Su 09:00-20:00	I38
+2484736021	Rovereto	56	38068	Via Giosuè Carducci	ice_cream		Gelateria Goccia di Latte			I39
+685236439					ice_cream		Gelateria La Torretta			I40
+806752621					ice_cream					I41
+2487884664		1		Via Girolamo Tartarotti	ice_cream		Yogurteria			I42
+545487908	Rovereto	23	38068	Via Mercerie	ice_cream		Storie di Latte			I43
+685236439					ice_cream		Gelateria La Torretta			I44
+3836071883					ice_cream		Capriccio di Gola			I45
+888908468					ice_cream		Gelatomania			I46
+3752959293	Rovereto	35	38068	Via Brione	ice_cream		Settimogelo		Mo-Fr 14:00-21:00; Sa-Su 11:30-21:30	I47
+928786698	Arco	2	38062	Via Giovanni Segantini	ice_cream		Gelato Mio		Mo-Su 10:00-22:30	I48
+1110602907		4	38062	Piazza 3 Novembre	ice_cream		Il Gelatiere			I49
+1240999982					ice_cream		Gelateria Artigianale Tarifa			I50
+1760241067					ice_cream		Indimenicabile			I51
+638141773					ice_cream		Garda Gelati			I52
+6251379374	Besenello	35	38060	Via Trento	ice_cream		Nonna Giulia			I53
+2972706128	Borgo Valsugana	7	38051	Via Alessandro Spagolla	ice_cream		Bottega del Gelato			I54
+5865253501	Caldonazzo	5	38052	Via della Polla	ice_cream		Fiocco di neve			I55
+6739952574					ice_cream		tobià			I56
+9144688119					ice_cream		Bar Gelateria Regina			I57
+1263209697	Cavalese	9	38033		ice_cream		Tre Valli			I58
+1256563370	Cavalese	56	38033	Via Fratelli Bronzetti	ice_cream	+39 0462 231625	Gelateria Tre Valli			I59
+945470823					ice_cream		Gelateria Veneta			I60
+2526451125					ice_cream		Gelateria Basi'n			I61
+1381060989					ice_cream		Baita del Gelato			I62
+294466911					ice_cream					I63
+4394168359	Malé	3	38027	Piazza Regina Elena	ice_cream		Gala Ice Cream Gelateria		Mo-Su 10:00-22:00	I64
+1813472290					ice_cream		La Baita del Gelato			I65
+1331577392					ice_cream		Alla Vecchia Fontana			I66
+1408624387	Mezzocorona	4	38016	Piazza della Chiesa	ice_cream	+39 0461 987654	Pingu		Mo 16:00-22:00; Tu-Su 15:00-22:00	I67
+1614921063	Mezzolombardo	2	38017	Via Arturo De Varda	ice_cream					I68
+4557760197	Mezzolombardo	31	38017	Via Guido Fiorini	ice_cream	+39 0461 1595703	La Stua			I69
+72003251	Mezzolombardo	74	38017	Via Quattro Novembre	ice_cream	+39 0461 601390	Gelateria Girasole			I70
+3785859356					ice_cream					I71
+374400990					ice_cream					I72
+1524976160					ice_cream		Bertolini			I73
+8875723182					ice_cream		Dolom'ICE			I74
+5400760153					ice_cream		Mamì			I75
+702858942					ice_cream		Bucaneve			I76
+5375513960					ice_cream		Gelateria Al Parco			I77
+6644330129	Telve	5d	38050	Località Santa Giustina	ice_cream		Bar Gelateria Derby			I78
+268432522	Trento	2	38122	Via Roccabruna	pub		Pub Al Posta			P1
+853801468	Trento	15	38122	Via dei Paradisi	pub		INorOUT			P2
+906968983	Trento	10	38122	Via Calepina	pub		Angolo dei 33		Tu-Sa 15:00-00:00; Su 16:00-22:00	P3
+430673952	Trento	36/2	38122	Via San Giovanni	pub		Bar Picaro		Mo-Sa 18:00-24:00	P4
+2706066321					pub		Il Circolino		Mo-Fr 11:00-15:00,19:00-21:00	P5
+550687807	Trento	1	38122	Via dei Ventuno	pub	+39 349 7152966	H/àkka/		Tu-Sa 22:00-3:00	P6
+961288197	Trento	46	38121	Via Antonio Pranzelores	pub	+39 0461 090741	Willy's Caffè Pub			P7
+432873025	Trento	100	38121	Via Giambattista Unterveger	pub		Tonyk Club			P8
+5504957384	Trento	6	38121	Via Salorno	pub		Passion Brewery	https://passionbrewery.com/		P9
+1140956935	Lavis	31	38015	Via Nazionale	pub		Kiss Pub			P10
+2706066321					pub		Il Circolino		Mo-Fr 11:00-15:00,19:00-21:00	P11
+292021803					pub					P12
+3250914386	Trento	4		Viale degli Olmi	pub		Flambard Pub			P13
+7105717814	Mattarello	41	38123	Via Nazionale	pub		La Pinta Birreria			P14
+511138890	Riva del Garda	28		Piazza Tre Novembre	pub		La Cambusa			P15
+9176575698	Riva del Garda	5	38066	Via Padova	pub		North Pub			P16
+2150998976					pub		Druido			P17
+2159317571					pub		Locos			P18
+2159318291	Rovereto	18	38068	Via Roma	pub		Perbacco			P19
+1985829027	Rovereto	18	38068	Santa Maria	pub		Circolo Operaio SantaMaria			P20
+1024831047	Arco	12	38062	Via Giovanni Segantini	pub		Il Gatto Nero			P21
+4215202557	Borgo Valsugana	13	38051	Piazza Romani	pub		Birreria Absolut			P22
+5787239153					pub		Pub Evita			P23
+7770054585					pub		Bar Centrale			P24
+1263209698	Cavalese	2	38033	Via Unterberger	pub		Bar Canton			P25
+274303880					pub		Pub SottoZero			P26
+414988154		29		Via Roma	pub		Al filo			P27
+6611481842					pub		Rive Bar			P28
+724349525	Pozza di Fassa		38036	Piaza del Malgher	pub		Pub Mirò			P29
+5554963922					pub		Liquid Club			P30
+367891767					pub		Bismarck Pub			P31
+7105717814	Mattarello	41	38123	Via Nazionale	pub		La Pinta Birreria			P32
+168298002					pub		Stal Beer&Grill			P33
+702858655					pub		Pub Saloon			P34
+303832073					pub					P35
+4202862140	Scurelle	3	38050	Piazza Maggiore	pub		Pub Celtic			P36
+4202838207	Scurelle	4	38050	Via 15 Agosto	pub		Rosy's Pub			P37
+3909747543					pub		Pub Freeway			P38
+4202838207	Scurelle	4	38050	Via 15 Agosto	pub		Rosy's Pub			P39
+6397206527		10 b		Via Benesin	pub		Dixie Pub - ex Tolo			P40
+430548245					pub		Cafè Nol			P41
+1405084830	Andalo	1	38010	Via Laghet	pub		Osteria Pub Al Laghet			P42
+3101758142	Trento	6	38123	Via dei Marinai d'Italia	restaurant	+39 0461 933053	L'Altro	http://www.almarinaio.eu	24/7	R1
+4233651058	Trento	30	38123	Via dei Marinai d'Italia	restaurant	+39 0461 1734471	Self Isotta	http://www.risto3.it/ristoranti-self/trento/isotta	Mo-Su,PH 00:00-24:00	R2
+6953660212	Trento	45	38123	Via Stella di Man	restaurant		Tentazioni			R3
+431475183	Trento	16	38123	Piazzale Europa	restaurant		La Terrazza		Mo-Su 11:30-14:30,17:30-23:30	R4
+890516959	Trento	57	38122	Via Fratelli Perini	restaurant	+39 0461 392394	Happy Hour	http://ristorantehappyhour.blogspot.it/	Tu-Sa 07:00-00:00; Su 07:00-20:00	R5
+1477270680	Trento	29	38122	Via San Pio X	restaurant	+39 0461 092843	Aroma		Mo-Sa 06:30-23:00	R6
+3737813836	Trento	15	38123	Piazza delle Donne lavoratrici	restaurant		Old Wild West	http://www.oldwildwest.com/		R7
+3833840613	Trento	6	38122	Via Fratelli Perini	restaurant	+39 0461 091605	Mister Pizza Caffè			R8
+428644278	Trento	62	38122	Via Gocciadoro	restaurant		Ristorante Loto S.r.l.			R9
+430531035	Trento	73	38123	Viale Verona	restaurant	+39 0461 910076	Blue Sax		Su Off	R10
+431648975	Trento	39/4	38123	Via Roberto da Sanseverino	restaurant	+39 0461 984360	Sapori Mediterranei		Tu-Su 12:00-14:30,19:00-23:30	R11
+1290442756	Trento	7	38122	Piazza Ezio Mosna	restaurant		Yoisushi			R12
+2397156968	Trento	8	38122	Corso del Lavoro e della Scienza	restaurant	+39 0461 038998	Le Albere Cafè		Tu-Su 07:00-20:30, Mo 07:00-15:00	R13
+867439213	Trento	29	38122	Corso III Novembre	restaurant	+39 0461 524634	Fujiyama			R14
+1264896565	Trento	80	38122	Via Milano	restaurant		Al Gusto			R15
+431658690	Trento	15/B	38122	Via Giuseppe Verdi	restaurant	+39 0461 231712	Pizzeria da Albert			R16
+431658709	Trento	1	38122	Via degli Orti	restaurant	+39 0461 233477	Pizzeria Tetley's	www.tetleyspub.it	Mo-Su 18:00-24:00; Th 07:00-14:00,18:00-24:00	R17
+463189395	Trento	1	38122	Piazza Santa Teresa Verzeri	restaurant	+39 0461 260673	Ai Vicoli	http://www.aivicoli.it/	Su Off	R18
+557150278					restaurant	+39 0461 261792	Rosa D'Oro		Mo-Sa 12:00-14:30,19:00-24:00	R19
+557197347	Trento	11/1	38122	Via Don Giovanni Battista Zanella	restaurant	+39 0461 234435	Orient	http://www.ristoranteorient.it		R20
+557197352	Trento	77	38122	Via Giuseppe Verdi	restaurant	+39 0461 237209	Al Duomo			R21
+811087041	Trento	11	38122	Via Don Arcangelo Rizzi	restaurant	+39 0461 234343	Le due spade	http://www.leduespade.com		R22
+865298453	Trento	29	38122	Piazza del Duomo	restaurant	+39 0461 220030	Scrigno Del Duomo	http://www.scrignodelduomo.com/		R23
+877620681	Trento	19	38122	Via Antonio Rosmini	restaurant	+39 0461 261848	Il Simposio	http://www.ilsimposio.net	Tu-Fr,Su 18:00-01:00; Fr,Sa 18:00-02:00	R24
+1211136673	Trento	34	38122	Piazza Santa Maria Maggiore	restaurant		Tàstiko	http://www.tastiko.it/		R25
+2578549625	Trento	3	38122	Viale Adriano Olivetti	restaurant		Shi's			R26
+8232536591	Trento	19	38122	Via Giuseppe Verdi	restaurant	+39 0461 141 7506	Waikiki Poké Trento	http://www.waikikipoke.it/		R27
+268430904	Trento	8	38122	Via Roggia Grande	restaurant	+39 0461 263263	Old Bar & Food	http://www.oldbar.it	Mo-Sa 10:00-16:00,18:00-24:00	R28
+268432521	Trento	10	38122	Via Santissima Trinitá	restaurant		Trattoria Al Tino			R29
+268435080	Trento	15	38122	Piazza Giovanni Battista Garzetti	restaurant		Trattoria Al Mercato			R30
+268435081	Trento	20	38122	Prima Androna di Borgo Nuovo	restaurant	+39 0461 261375	Borgo Nuovo Trento	http://3portoni.it/		R31
+269193730	Trento	13	38122	Piazza di Fiera	restaurant	+39 0461 986255	Birreria Pizzeria Pedavena	http://www.birreriapedavena.com	Mo,We 09:00-24:00; Tu 00:00-00:30; Th,Fr 00:00-00:30,09:00-24:00; Sa,Su 00:00-01:00,09:00-24:00	R32
+269193732	Trento	16	38122	Via Santa Croce	restaurant	+39 0461 983776	Trattoria al Volt	http://tienne.it/alvolt/	12:00-15:00,19:30-24:00	R33
+431658713	Trento	19	38122	Via degli Orti	restaurant	+39 0461 984400	Orso Grigio	http://www.orsogrigiotrento.com/	Mo-Sa 12:00-14:30,19:30-22:30; Su Off	R34
+570818625	Trento	14	38122	Via del Simonino	restaurant	+39 0461 262730	Ca' dei Gobj - Ristorante Birreria		Mo-Su 11:30-14:00,18:30-22:00	R35
+877620656					restaurant		Ristorante Patelli			R36
+892579043	Trento	35	38122	Via Dietro le Mura A	restaurant	+39 0461 1903162	Uva & Menta	http://www.uvaementa.it	Mo off, Tu-Fr 12:00-14:30,19:00-23:30, Sa-Su 19:00-23:30	R37
+969087852	Trento	1	38122	Piazza Adamo D'Arogno	restaurant	+39 0461 1416669	Domo			R38
+1062772452	Trento	39	38122	Via Calepina	restaurant	+39 0461 262666	Terramia		Mo Off; Tu-Su 12:00-15:00, 19:00-22:30	R39
+1312818573	Trento	33	38122	Via Giuseppe Mazzini	restaurant		Nunu’s			R40
+1369533422	Trento	28	38122	Via Calepina	restaurant		Tipico		Mo-Su 18:00-23:00	R41
+1493571219					restaurant		La Stua			R42
+1493571353	Trento	1	38122	Via dei Mille	restaurant	+39 0461 391118	Saporoso	http://www.ristorantesaporoso.it		R43
+4412996446					restaurant		Roccaforte Trentina			R44
+4952166591	Trento	88	38122	Via Santa Croce	restaurant	+39 0461 235352	Vecchia Trento			R45
+430673959	Trento	15	38122	Via Prepositura	restaurant		Sapori d'Asia			R46
+557149998	Trento	4	38122	Via delle Orne	restaurant	+39 0461 262979	Ristorante Pizzeria Chistè		Mo-Su 11:30-23:30	R47
+885669886	Trento	5	38122	Piazzetta Bruno Lunelli	restaurant	+39 0461 235850	Osteria il Cappello	http://www.osteriailcappello.it/	Mo-Sa 12:00-14:00,19:30-22:00	R48
+885670117	Trento	10	38122	Piazzetta Anfiteatro	restaurant		Ristorante Pizzeria Anfiteatro			R49
+1147756663	Trento	38	38122	Via Paolo Oss Mazzurana	restaurant	+39 0461 235590	Forsterbräu Trento		Tu-Su 12:00-14:30,18:00-23:00	R50
+1462796976	Trento	14	38122	Via Malpaga	restaurant	+39 0461 262109	Sushizen			R51
+8986484117					restaurant		Al Diciassette			R52
+432473109		148		Via Milano	restaurant	+39 0461 262022	Ristorante Pizzeria Doc	http://www.doctrento.it	Mo-Fr 08:30-14:30, 18:00-00:00; Sa-Su 17:00-00:00	R53
+853802341					restaurant		Mamma Mia			R54
+558628481					restaurant		Antica Trattoria Due Mori			R55
+563754485	Trento	6	38122	Vicolo San Marco	restaurant	+39 0461 987197	Alla Grotta		Mo-Sa 12:00-14:30,18:00-24:00	R56
+885669909	Trento	6	38122	Vicolo della S.A.T.	restaurant	+39 0461 262943	Antico Pozzo	http://www.antico-pozzo.it/	Mo-Su 12:00-14:30, 18:00-24:00	R57
+1366801084	Trento	13	38122	Via Livio Marchetti	restaurant		La Sacrestia			R58
+1366801107	Trento	22	38122	Via San Marco	restaurant		La cantinotta		Mo-Su 12:00-15:00,19:00-23:00; Th off; Fr 19:00-23:00	R59
+6438863499					restaurant		Terra Mia			R60
+8758596219	Trento	31	38122	Vicolo dell'Adige	restaurant		Soul Kitchen Bistrot	https://soulkitchenbistrot.it/	Mo 18:00-23:00; Tu-Sa 11:30-14:30,18:00-23:00	R61
+1138738197	Trento	56/A	38122	Corso Michelangelo Buonarroti	restaurant	+39 0461 984255	Welcome India	http://www.welcomeindia.it/	Mo-Su 12:00-14:30,18:00-23:30	R62
+269184890					restaurant		Acquaefarina pizzaiolo per passione		Tu-Sa 12:00-14:30,19:00-23:00; Su 19:00-23:00; Mo off	R63
+556679636	Trento	29	38122	Via Torre Verde	restaurant	+39 0461 231545	Ristorante Pizzeria Green Tower	http://www.ristorantegreentower.it	Tu-Su 12:00-14:30,19:00-02:00; Sa 19:00-02:00	R64
+811087138					restaurant		Ristorante/Pizzeria Petrarca			R65
+877621024	Trento	1/4	38122	Via Francesco Petrarca	restaurant	+39 0461 236666	Bouganville	http://www.bouganvilletrento.it/		R66
+959910997	Trento	7	38122	Via Antonio Gazzoletti	restaurant		Giulia		Mo-Th 11:30-14:15	R67
+1633007143	Trento	60	38122	Via Torre Verde	restaurant		Caracolito			R68
+1633007183	Trento	7	38122	Piazzetta Nicolò Rasmo	restaurant	+39 0461 1415530	La Maison de Filip	https://www.maisondefilip.it/		R69
+2673313358	Trento	20	38122	Via del Suffragio	restaurant	+39 0461 096502	Locanda Le Due Travi	https://www.locandaleduetravi.it/		R70
+3849792216	Trento	1	38122	Via Felice e Gregorio Fontana	restaurant		Golden India			R71
+269193687	Trento	103	38122	Via della Malvasia	restaurant	+39 0461 987303	Pizzeria Vesuvio	http://www.alvesuvio.it/	Mo,We-Su 12:00-14:30,18:00-02:00; Tu off	R72
+468069349					restaurant		Ristorante Pizzeria Nuova Castelli		Mo-Fr 12:00-14:30,18:30-23:30; Sa,Su 18:30-23:30	R73
+2637298757	Trento	2	38122	Via del Brennero	restaurant	+39 0461 092263	Zushi	http://www.zushi.eu/	Tu-Sa 12:00-15:00,18:30-23:00; Su 18:30-23:00	R74
+888671469	Trento	19	38121	Piazza del "Tridente"	restaurant	+39 0461 822287	Trittico		Mo-Sa 12:00-14:00,18:30-23:00	R75
+888671476	Trento	260/C	38121	Via del Brennero	restaurant	+39 0461 823186	China Town			R76
+3693890436	Trento	190	38121	Via del Brennero	restaurant		Shushika			R77
+4213004875	Trento	260/L	38121	Via del Brennero	restaurant		Zavi Restaurant			R78
+5239187880	Trento	111	38121	Via del Brennero	restaurant	+39 0461 1580027	Sushiland	http://www.sushi-land.it/	Mo-Su 12:00-15:00,19:00-23:30	R79
+1112898194	Trento	320	38121	Via del Brennero	restaurant		Ciao		Mo-Sa 12:00-14:30	R80
+1246694600					restaurant		Lucaffè			R81
+1246694623					restaurant		Nord Cafè			R82
+2589666378	Trento	4	38121	Via Luigi Brugnara	restaurant	+39 0461 1596994	Wok For You	http://www.wokforyou.it/	Mo-Su 11:30-14:30,18:30-23:30	R83
+3755956939	Trento	16/A	38121	Via dei Solteri	restaurant		VeggyDays		Mo-Sa 07:30-14:30; 18:00-22:00	R84
+1112898194	Trento	320	38121	Via del Brennero	restaurant		Ciao		Mo-Sa 12:00-14:30	R85
+1246694600					restaurant		Lucaffè			R86
+1246694623					restaurant		Nord Cafè			R87
+3755956939	Trento	16/A	38121	Via dei Solteri	restaurant		VeggyDays		Mo-Sa 07:30-14:30; 18:00-22:00	R88
+895945447	Trento	42	38121	Via Padre Emilio Chiocchetti	restaurant	+39 0461 822233	Tartufo			R89
+8879333875	Trento	10	38121	Via Padre Emilio Chiocchetti	restaurant		Sapore di Stelle Bistrò			R90
+9050734119		73		Via Renato Lunelli	restaurant		Detto Fatto			R91
+4379398022	Trento	8	38121	Via 25 Aprile 1945	restaurant		L'Anfora			R92
+1272986451	Trento	203	38121	Via Ezio Maccani	restaurant		Ristorante Pizzeria Smakafam		Mo-Su 07:00-23:00	R93
+4628941240	Trento	191/D	38121	Via Ezio Maccani	restaurant	+39 0461 826673	America Graffiti	http://www.americagraffiti.it		R94
+4776882840	Trento	40	38121	Via del Commercio	restaurant		Bar Sirio		Mo-Fr 07:00-16:00	R95
+4776882851	Trento	5	38121	Via del Commercio	restaurant		Bar Spazio Prada		Mo-Fr 06:00-21:00, Sa 06:00-15:00	R96
+1773866574	Trento	4	38121	Via Bassa	restaurant		Canova			R97
+4379398022	Trento	8	38121	Via 25 Aprile 1945	restaurant		L'Anfora			R98
+1773866574	Trento	4	38121	Via Bassa	restaurant		Canova			R99
+1404110995					restaurant					R100
+37241682	Trento	21	38121	Via Martino Aichner	restaurant	+39 0461 990459	El Merendero		Mo-Su 12:00-14:00,18:30-23:30; Tu off	R101
+1979796467	Trento	21	38121	Via San Sebastian	restaurant		Terminal Ro.La.			R102
+6586924485					restaurant		Cilli's Pizza		Tu-Su 18:00-22:00	R103
+177004837	Gardolo	27/1	38121	Via Aeroporto	restaurant		dal Birbante		Mo-Sa 11:30-14:00,18:30-22:00	R104
+177004779					restaurant		Il Dopolavoro		Tu-Su 12:00-14:30,18:30-23:30	R105
+7527311775					restaurant		Carpe Diem			R106
+1350658039	Gardolo	164/B	38121	Via Alto Adige	restaurant	+39 0461 993261	Officina Gambrinus	http://www.officinagambrinus.com/		R107
+562715340	Lavis	2	38015	Piazza Manci	restaurant		Pizzeria Corona			R108
+562715344					restaurant		Pizzeria Dolomiti			R109
+9208227296	Giovo		38030	Strada Statale 612 della Val di Cembra	restaurant		Maso Franch		Mo-Su 12:00-14:30, 19:00-22:00	R110
+667341321					restaurant		Perla d'Oro			R111
+37832976	Lavis	46		Via Rodolofo Zandonai	restaurant		Ristorante Vindimian			R112
+355968440	San Michele all'Adige	47	38010	Via Don A. Tamanini	restaurant	+39 0461 650699	Capriccio			R113
+4695403491		29	38010	Via Roma	restaurant		Pizzeria Cantuccio		Tu-Su 11:30-12:00	R114
+75310719	Grumo	39	38010	Via G. Postal	restaurant	+39 0461 650435	Ristorante da Pino	http://www.ristorantedapino.it/	Mo Off	R115
+267649391					restaurant		Pizzeria Al Caminetto			R116
+2881985266	Mezzocorona	29	38010	Piazza della Chiesa	restaurant	+39 0461 603823	Da Demetrio			R117
+4657167767	Mezzocorona	4	38016	Piazza San Gottardo	restaurant	+39 0461 601710	Trattoria Dolce Spina			R118
+583550447	Trento	65	38122	Via alle Laste	restaurant	+39 0461 231570	Pizzeria Laste	http://www.pizzerialaste.it/	Mo-Su 11:30-14:00,18:30-23:00; Tu off	R119
+292021580	Trento	36	38121	Via San Vito	restaurant	+39 0461 987031	Pizzeria Quattro Stagioni		Tu-Su 12:00-14:00; Tu-Su 18:30-23:00	R120
+909818124	Trento	123	38122	Via Venezia	restaurant		Korallo			R121
+247887464					restaurant		Pizzeria Al Villaggio			R122
+945021956	Trento	79	38121	Via Ponte Alto	restaurant		Cacio & Pepe			R123
+288938675	Trento	10	38123	Via Sommarive	restaurant		Pizzeria OroStube			R124
+7595406510					restaurant		Mensa e pizzeria Povo 0		Mo-Fr 11:45-14:30	R125
+289225782	Povo	14	38123	Piazza Giannatonio Manci	restaurant		Pizzeria Salesà			R126
+275318465					restaurant		Mensa Povo 1		Mo-Fr 11:45-14:30	R127
+441414833					restaurant		Ristorante Bar Pizzeria			R128
+37103877					restaurant		Bar Ristorante "alla Baracca"			R129
+428644278	Trento	62	38122	Via Gocciadoro	restaurant		Ristorante Loto S.r.l.			R130
+430531035	Trento	73	38123	Viale Verona	restaurant	+39 0461 910076	Blue Sax		Su Off	R131
+432473109		148		Via Milano	restaurant	+39 0461 262022	Ristorante Pizzeria Doc	http://www.doctrento.it	Mo-Fr 08:30-14:30, 18:00-00:00; Sa-Su 17:00-00:00	R132
+3318400861	Trento	33	38123	Via Padre Eusebio Chini	restaurant		Pizza Planet			R133
+441414833					restaurant		Ristorante Bar Pizzeria			R134
+1905543727	Mattarello	106	38123	Via Giulio Catoni	restaurant	+39 0461 944401	Antica Stella	http://www.anticastellatrento.com/	Mo-Sa 12:00-14:00, 19:00-23:00; Th Off; Su 19:00-23:00	R135
+7661120689					restaurant		Mensa scolastica			R136
+3090950106					restaurant		Ciccia & birra			R137
+3803736242					restaurant		Villa Bertagnolli			R138
+955304924	Mattarello	46	38123	Via Pomeranos	restaurant		Ristorante pizzeria Torrefranca		Mo off; Tu-Su 10:00-14:30,18:00-23:30	R139
+755622315					restaurant		Pizzoteca			R140
+1889564709	Riva del Garda	20	38066	Viale Trento	restaurant		PizzaExpress		Mo-Su 09:00-23:00	R141
+491426469	Riva del Garda	16	38066	Piazza Catena	restaurant		Nazionale			R142
+1889573421			38066	Piazza San Rocco	restaurant		Osteria il Gallo			R143
+803487776	Riva del Garda	28		Via Fiume	restaurant		Leon D'Oro			R144
+1889567042	Riva del Garda	1	38066	Via Bastione	restaurant		Osteria la Contrada			R145
+1904668687		15		Via Fiume	restaurant		Pizzeria Trieste			R146
+2348266717					restaurant		Ristorante Villetta Annessa			R147
+4315381290		38	38066	Via Fiume	restaurant		Lago d'oro			R148
+4945613322					restaurant		Ristorante Lago d'oro			R149
+5115929421		23	38066	Piazza Tre Novembre	restaurant		Benacense			R150
+6525475785					restaurant		Antiche Mura		Mo-Su 12:00-14:00,19:00-22:00	R151
+926736174	Riva del Garda	27		Piazza Tre Novembre	restaurant		Hotel Centrale			R152
+1889573422	Riva del Garda	4	38066	Lungolago Marinai d'Italia	restaurant		Ristorante Bellavista			R153
+1889573423					restaurant		Ristorante Sole		Mo-Su 11:30-22:30	R154
+3580612001					restaurant		Nuovo 900			R155
+5306731417	Riva del Garda	5	38066	Via Florida	restaurant		Salsamenteria Capolini			R156
+6818200786					restaurant		Ristorante Sud Cucina e Pizza Napoletana		Mo-Su 12:00-14:30, 18:30-22:30	R157
+1488553673					restaurant		Villa Aranci			R158
+6525469986		10		Viale Giosuè Carducci	restaurant		Il Re della Busa			R159
+803634498		29		Via A. Diaz	restaurant		Bella Napoli			R160
+1302018429					restaurant		Pizzeria La Leonessa			R161
+1444891925	Riva del Garda	73	38066	Via Fiume	restaurant		Al Volt			R162
+1706915650					restaurant		La Sirenetta			R163
+1889561976	Riva del Garda	7	38066	Viale Martiri XXVIII Giugno	restaurant		Sushoku		Mo-Su 12:00-15:00; 18:00-24:00	R164
+1889566663					restaurant					R165
+1904436954	Riva del Garda	7	38066	Via Andrea Maffei	restaurant		Ristorante Maffei			R166
+1904668666			38066	Via Santa Maria	restaurant		Al Vaticano			R167
+2874104631			38066		restaurant		Alpino			R168
+2874104632			38066		restaurant		Kapuziner am See			R169
+2887488211	Riva del Garda	16	38066	Viale Roma	restaurant		San Marco cafè		7:00 - 20:30	R170
+4165217023	Riva del Garda	11	38066	Viale Roma	restaurant		Panem			R171
+5852010719			38066		restaurant		Ristorante pizzeria Commercio			R172
+5852016632			38066		restaurant		Ristorante pizzeria Mediterraneo			R173
+5934459988					restaurant		La Piadineria			R174
+8806886940	Riva del Garda	14	38066	Via Lutti	restaurant		Zuin			R175
+9019234103	Riva del Garda	7	38066	Via Pilati	restaurant		Pizzeria Officina 33			R176
+9025816144					restaurant					R177
+4746320522	Riva del Garda	1	38066	Via Padova	restaurant		Sushiko		Mo-Su 12:00-15:00, 18:30-23:30	R178
+6856716373	Riva del Garda	5	38066	Via Padova	restaurant		La Scala Bistrò /=\		08:00 - 23:15	R179
+9176581959	Riva del Garda	5	38066	Via Padova	restaurant		Sud			R180
+9176581960	Riva del Garda	5	38066	Via Padova	restaurant		Taste of India			R181
+210563371					restaurant		Il Veliero			R182
+755622315					restaurant		Pizzoteca			R183
+4003293513					restaurant		Pizzeria Fenice			R184
+1889564709	Riva del Garda	20	38066	Viale Trento	restaurant		PizzaExpress		Mo-Su 09:00-23:00	R185
+9176586464	Riva del Garda	39	38066	Località San Tomaso	restaurant		Albergo Rolly;Ristorante Pizzeria Rolly			R186
+554977838					restaurant		Peter Pan			R187
+59180626					restaurant		Ristorante La Berlera			R188
+41772401					restaurant		Pizzeria Boccon d'Oro			R189
+903941484					restaurant		La Brace		Mo-We 11:45-14:30,19:00-23:00; Th,Fr 11:45-14:30,19:00-23:30; Sa 18:00-24:00	R190
+5852942369		44/a		Via del Garda	restaurant		SúYoshì			R191
+903941484					restaurant		La Brace		Mo-We 11:45-14:30,19:00-23:00; Th,Fr 11:45-14:30,19:00-23:30; Sa 18:00-24:00	R192
+915652265					restaurant		Ristorante alla Staffa			R193
+417856704					restaurant		Pizzeria Botti			R194
+445562136					restaurant		Pizzeria Okay			R195
+724615063	Rovereto	145	38068	Via Brennero	restaurant		Roadhouse		12:00-15:00,18:30-23:30	R196
+557813326	Rovereto	7/A	38068	Via delle Zigherane	restaurant		Bici Grill Rovereto		07:30-23:45	R197
+67153594		18A		Via Benacense	restaurant		Pizzeria Celeste			R198
+2486092346	Rovereto	82/d	38068	Corso Antonio Rosmini	restaurant		Ristorante Novecento dell'Hotel Rovereto			R199
+4874793589	Rovereto	67	38068	Via Giuseppe Garibaldi	restaurant		Dogali Burgers		Mo-Sa 12:00-14:00,18:30-23:00; Su 18:30-23:00	R200
+1366734642	Rovereto	20	38068	Borgo Santa Caterina	restaurant	+39 0464 436229	al Silenzio	http://al-silenzio.it/	Mo-Tu Off; We-Sa 11:30-14:30, 17:30-00:00; Su Off	R201
+9178364617		2	38068	Via Valbusa Grande	restaurant		Amaranta Bio Bistrot		Mo-Fr 07:30-16:00; Sa 09:00-12:00, 13:00-16:00, 18:00-22:00	R202
+700206987					restaurant		Piccolo Fiore			R203
+883455523					restaurant		Pizzeria Fucine			R204
+7928997808		64		Via delle Maioliche	restaurant		Hong Kong		Mo,We-Su 10:30-14:00,17:30-22:00; PH,Tu 10:30-14:00,17:30-22:00	R205
+2638148558	Rovereto	9	38068	Via Abetone	restaurant	+39 0464 433155	Sushoku			R206
+8197332146	Rovereto	17	38068	Vicolo dei Conciatori	restaurant		Putipù		Mo-Fr 11:30-14:30,18:30-22:00; Sa 18:30-22:00; Su off	R207
+802269764					restaurant		Sushi alla Roza		Tu-Su 12:00-14:30,19:00-22:30	R208
+2159310289					restaurant		Al trivio			R209
+2484736031					restaurant		Vecchia Trattoria Birraria Scala della Torre			R210
+2493523507	Rovereto	20		Piazza Malfatti	restaurant		l'Orto di Pitagora		Th-Sa 12:00-14:00,20:00-23:00	R211
+2946662243	Rovereto	8	38068	Piazza Malfatti	restaurant		Assaporando			R212
+3699585392	Rovereto	12	38068	Piazza Malfatti	restaurant		Drago d'Oro			R213
+4013446318					restaurant		Terrazza sul Leno			R214
+5069371904	Rovereto	4	38068	Scala del Redentore	restaurant		Il Doge		Mo-Su 12:00-14:00, 19:00-22:00	R215
+721714716					restaurant		El Raminel			R216
+2159362024	Rovereto	24	38068	Corso Bettini	restaurant	+39 0464 422463	Osteria del Pettirosso	http://www.osteriadelpettirosso.it/		R217
+3076630067	Rovereto	51	38068	Via Paganini	restaurant		Pizzeria Marco			R218
+6536659765		13	38068	Via San Giovanni Bosco	restaurant		Bella Rovereto		Mo-Su 11:00-23:00	R219
+721714716					restaurant		El Raminel			R220
+2159362024	Rovereto	24	38068	Corso Bettini	restaurant	+39 0464 422463	Osteria del Pettirosso	http://www.osteriadelpettirosso.it/		R221
+3076630067	Rovereto	51	38068	Via Paganini	restaurant		Pizzeria Marco			R222
+6536659765		13	38068	Via San Giovanni Bosco	restaurant		Bella Rovereto		Mo-Su 11:00-23:00	R223
+780142013	Rovereto	20E	38068	Via Paoli	restaurant		Pizzeria Napoli			R224
+1402541403					restaurant		Trattoria da Pierino			R225
+3815857590	Rovereto	18	38068	Via Azzolini	restaurant		Margherita			R226
+557944128	Rovereto		38068	Corso Bettini	restaurant		Tema			R227
+777284830					restaurant		Pizzeria Brione			R228
+1154395707					restaurant		Ristorante S.Ilario Pizzeria			R229
+2638148201	Rovereto	77	38068	Viale Trento	restaurant		Watami			R230
+1431628407		42	38062	Via Vergolano	restaurant		Pizzeria Ristorante Pace			R231
+2335415593	Arco	8	38062	Via Vergolano	restaurant		Ristorante Alla Lega		Mo-Fr 18:30-22:30; Sa-Su 12:00-14:00,18:30-22:30	R232
+2484983368					restaurant					R233
+5817248052	Arco	3	38062	Largo Pina	restaurant		Birreria Arciduca			R234
+6038788911					restaurant					R235
+904600325					restaurant		Pizzeria Ristorante Antica Corte			R236
+1445808059			38062		restaurant		Ritorante Pizzeria Cantina Marchetti			R237
+3396099194	Arco	55	38062	Via Giovanni Segantini	restaurant		Peccato di Vino			R238
+6096089813	Arco	92	38062	Via Giovanni Segantini	restaurant		Spaghetteria moderna			R239
+8019079953					restaurant		Piccola Osteria		Tu-Th, Su 18:30-21:00; Fr, Sa 18:30-21:30	R240
+76608290					restaurant		Ristorante "Al Fiume"			R241
+5396534652					restaurant		Al Castel			R242
+77403179	Arco	11	38062	Via Luigi Maffei	restaurant		Sawadee			R243
+77405222					restaurant		Ristorante Bar Aurora			R244
+904600325					restaurant		Pizzeria Ristorante Antica Corte			R245
+76608290					restaurant		Ristorante "Al Fiume"			R246
+1532731021	Borgo Valsugana	3	38051	Piazza Martiri della Resistenza	restaurant		Ristorante Pizzeria Centrale		Th Off	R247
+3607707620	Borgo Valsugana	6	38051	Via Fratelli	restaurant		Ristorante San Giorgio			R248
+3932910252	Borgo Valsugana	7b	38051	Via Alessandro Spagolla	restaurant		Osteria Al Borgo			R249
+4135182630	Borgo Valsugana	19	38051	Via Francesco Naurizio	restaurant		La Rustica			R250
+139516769					restaurant		Sale e Pepe			R251
+828742974					restaurant		Albergo Ristorante Casa Moresc			R252
+5662788361					restaurant					R253
+6574523149	Caldonazzo	13	38052	Via Roma	restaurant		Aquila D'oro			R254
+5724991017	Caldonazzo	22	38052	Via Brenta	restaurant		Gilda Ristorante Pizzeria			R255
+7248487285					restaurant		Restaurant Pizzeria Kamerloy			R256
+9144797518					restaurant		Ristorante Crepes De Sela			R257
+1659161775		27	38031	strèda de Morandin	restaurant		Mini Restaurant			R258
+2991891922					restaurant		Osteria Heidi			R259
+5787239054					restaurant					R260
+6203284000					restaurant		La stalla del nonno			R261
+6739988301					restaurant		tobià			R262
+9140041709					restaurant		Ristaurante Pizzeria Agnello			R263
+9144412337					restaurant		Ristaurante della Villa			R264
+9144688122					restaurant		Stua De Macoch			R265
+9145165083					restaurant		Pizzeria Speckstube			R266
+7240881786					restaurant					R267
+5411852729					restaurant					R268
+5411852730	Canazei	58		Via Roma	restaurant		El Pael			R269
+7240893487					restaurant		Kaiserstube		PH,Mo-Su 10:00-14:30,19:00-22:00	R270
+734964406					restaurant		La Cantinetta			R271
+3302466499	Canazei	1		Via di Pareda	restaurant		Te Cevena			R272
+3302466500	Canazei	96	38032	Strèda Dolomites	restaurant	+39 0462 601799	Scoiattolo			R273
+3302466501					restaurant		Stua dei Ladins			R274
+4949207822					restaurant		La Montanara			R275
+6256572712					restaurant		L'Ostaria da Besic			R276
+59276375					restaurant		Baita Al Parco			R277
+2717008013					restaurant		Ristorante Pizzeria All'Antica Segheria			R278
+4586898946					restaurant		Angelo D'Oro			R279
+1257221199		2		Via Balderoni	restaurant		Hotel La Stua			R280
+4582441585	Cavalese	11	38033	Piazza Cesare Battisti	restaurant		Bar Pizzeria Excelsior			R281
+4582692759					restaurant		El Molin			R282
+3244177632					restaurant	+39 0462 232060	La Pieve			R283
+1257221101	Cavalese	14		Via IX Novembre	restaurant		Vecchia Osteria			R284
+1526314493	Cavalese	3	38033	Via Pizzegoda	restaurant		La Salera			R285
+1404359364	Cavizzana	10	38022	Piazza dell'Emigrante	restaurant	+39 0463 900162	Bar Pizzeria Cucina San Francesco			R286
+966990745				Via ai Cei	restaurant	+39 0463 900222	Locanda San Martino			R287
+5243991946		102	38071	Località Rango	restaurant		IL Catenaccio			R288
+943372500	Cles	18	38023	Via Armando Diaz	restaurant		Caprice			R289
+943772764					restaurant		Al Cermolo			R290
+943890849	Cles	52	38023	Via Trento	restaurant		Nazionale			R291
+939588720					restaurant		Giardino			R292
+939588781	Cles	1	38023	Via Romana	restaurant	+39 0463 421105	Flamingo		Mo-Su 00:00-01:00,11:00-14:00,18:00-24:00; We 00:00-01:00; Th 11:00-14:00,18:00-24:00	R293
+943285753	Cles	54	38023	Piazza Granda	restaurant	+39 0463 424007	Pizza Granda	http://www.pizzagranda.it/		R294
+943767056					restaurant		Meridiana			R295
+945470814					restaurant		Antica Trattoria			R296
+945470837					restaurant		El Magic			R297
+945470842	Cles	17c	38023	Via Fabio Filzi	restaurant		Il Glicine			R298
+945470857	Cles	23	38023	Via Fabio Filzi	restaurant		Piadineria Picasso		Mo-Fr 10:00-22:30; Sa 17:00-22:30	R299
+1821220620					restaurant	+39 0463 421300	Osteria Palazan			R300
+6044816338	Cogolo	7		Via delle Roge	restaurant		Ristorante-pizzeria "La Presef"			R301
+2431204320					restaurant		San Rocco			R302
+82591509					restaurant		St. Sebastian			R303
+4510120958	Cusiano	16	38020	Via Santa Maria Maddalena	restaurant		Bar Pizzeria Niagara			R304
+1100568256		1	38026	Via Venezia	restaurant		Antica Osteria		We off	R305
+388930801					restaurant		La Lanterna			R306
+5352766113					restaurant		Pizzeria Ristorante La Cantinetta			R307
+1915825371					restaurant		La Grotta			R308
+3674418127					restaurant		Rezia			R309
+5788019253					restaurant		El Tobia			R310
+4318695290					restaurant		Ristorante Pizzeria Daniel Zen			R311
+946581637	Pozza di Fassa	103	38036	Strada Dolomites	restaurant		Ristorante El Filò			R312
+623894359					restaurant		Malga Aloch			R313
+1256745268					restaurant		Do Vea		Mo-Su 19:00-23:00; We off	R314
+1228464461	Pozza di Fassa	135	38036	Strada Dolomites	restaurant				Mo-Su 16:00-20:30	R315
+1229166759	Pozza di Fassa	32	38036	Strada de Meida	restaurant		Pizza Asporto		Mo-Sa 11:30-14:00,17:00-20:30	R316
+1230287511	Pozza di Fassa	169	38036	Strada Dolomites	restaurant		Pizzeria Da Salin			R317
+58425582					restaurant		Bar Pizzaria Le Giarre			R318
+58429469					restaurant		Ristorante Al vecchio mulino			R319
+58533321					restaurant		Bar Pizzeria Winkler			R320
+261081683					restaurant		Agritur			R321
+268803099					restaurant		Agritur Maso Sorte			R322
+8752407442					restaurant		Al Contrario			R323
+1806514148					restaurant		La Sgeva			R324
+5911749189					restaurant		Residence Alaska			R325
+84173109					restaurant		Sanscrivel			R326
+268273017	Folgaria	39		Via E. Colpi	restaurant		La Piazzetta			R327
+267968544	Folgaria	343	38064	Via Emilio Colpi	restaurant		da Ugo			R328
+267991882	Folgaria	329		Via Emilio Colpi	restaurant		Trattoria al Fogolar			R329
+268014579	Folgaria	235	38064	Via E. Colpi	restaurant		Forst Pizzeria			R330
+268014580	Folgaria	233	38064	Via E. Colpi	restaurant		Scoiattolo Pizzeria			R331
+85739247					restaurant	+39 0464 721322	alla Segheria	http://www.ristoranteallasegheria.it/		R332
+7054924421	Folgaria	52	38064	Via Maffei	restaurant		Hotel Rech-Hof Sayonara			R333
+1984418523		62	38064	Via Negheli	restaurant		L'Alpe			R334
+36782118					restaurant		Osteria del Carador			R335
+3125868985					restaurant		Anna			R336
+3127526120					restaurant		La Spleuza			R337
+963839415	Levico Terme	99	38056	Via iuseppe Garibaldi	restaurant	+39 0461 701802	Taverna dei Gonzaga			R338
+799244380	Levico Terme	62	38056	Via Cesare Battisti	restaurant		La Stua		PH,Tu-Su 11:45-14:00+,18:30-22:00	R339
+799244306	Levico Terme	9	38056	Via Giuseppe Garibaldi	restaurant		Ristorante Boivin			R340
+799244882	Levico Terme	8	38056	Via Regia	restaurant	+39 0461 702302	Pizzeria al Conte		Tu-Su 12:00-14:00,18:00-23:30	R341
+963850107	Levico Terme	5	38056	Piazza Venezia	restaurant	+39 0461 706366	La Vecchia Fontana			R342
+1072504536	Levico Terme	1	38056	Via Trieste	restaurant	+39 0461 711699	La Cantinota			R343
+5300784172	Levico Terme	22	38056	Via Cesare Battisti	restaurant		L'Angolo dei Risotti			R344
+5216237021	Levico Terme	4	38056	Via Traversa Lido	restaurant		Fabbrica di Pedavena			R345
+323676098					restaurant		Vecchia Fattoria			R346
+963860070					restaurant		La Cantina			R347
+799244416	Levico Terme	50	38056	Viale Vittorio Emanuele	restaurant	+39 0461 703012	Pizzeria Ristorante Millennium			R348
+65608560	Levico Terme		38056	Località Belvedere	restaurant		Ristorante Prime Rose			R349
+6341344169	Malè	3	38027	Zona Commerciale	restaurant	+39 0463 901282	L'Olimpo			R350
+4394168358	Malé	36	38027	Via Brescia	restaurant	+39 0463 901281	Caminetto			R351
+335596730					restaurant		El Barba			R352
+4356605691					restaurant		Vecchia Canonica			R353
+614841366	Malé	59	38027	Via Trento	restaurant	+39 0463 901390	La Segosta	http://www.segosta.com/		R354
+229817069					restaurant					R355
+415504641					restaurant		Al Maso Vecchio			R356
+4350304189					restaurant		Dolomiti			R357
+511337508					restaurant		Ristorante Scaranò			R358
+963849190	Levico Terme	9	38056	Via Domenico Giannettini	restaurant		Papillon			R359
+1905543727	Mattarello	106	38123	Via Giulio Catoni	restaurant	+39 0461 944401	Antica Stella	http://www.anticastellatrento.com/	Mo-Sa 12:00-14:00, 19:00-23:00; Th Off; Su 19:00-23:00	R360
+7661120689					restaurant		Mensa scolastica			R361
+3090950106					restaurant		Ciccia & birra			R362
+3803736242					restaurant		Villa Bertagnolli			R363
+5330541921					restaurant		Bucaneve			R364
+7944379443	Commezzadura		38020	Via di Sóta la Crós	restaurant		Hotel Genzianella			R365
+7944379453	Daolasa	13	38020	Via della Fantoma	restaurant		Bio Hotel Benny			R366
+4390451735					restaurant		Agriturismo Bontempelli			R367
+4123999073					restaurant		al Sole			R368
+2412844972	Mezzana	1		Localita Marilleva 900	restaurant		Bar ristorante pizzeria Kristall			R369
+267649391					restaurant		Pizzeria Al Caminetto			R370
+2881985266	Mezzocorona	29	38010	Piazza della Chiesa	restaurant	+39 0461 603823	Da Demetrio			R371
+4657167767	Mezzocorona	4	38016	Piazza San Gottardo	restaurant	+39 0461 601710	Trattoria Dolce Spina			R372
+341091742					restaurant		Osteria Al Travaion			R373
+973022382					restaurant		Borghetto			R374
+1068411472	Mezzolombardo	100	38017	Via Garibaldi	restaurant		Roma			R375
+861050488	Mezzolombardo	24	38017	Via Trento	restaurant	+39 0461 602338	La Paninoteca			R376
+870463323	Mezzolombardo	85	38017	Corso Giuseppe Mazzini	restaurant	+39 0461 605778	Hua Xing			R377
+72528026	Mezzolombardo	1	38017	Via Guido Fiorini	restaurant	+39 0461 604185	Ristorante Pizzeria Al Duomo		Mo-Su 12:00-14:30, 18:00-00:00; Th Off	R378
+73424152	Mezzolombardo	15	38017	Via Guido Fiorini	restaurant		Ristorante Casa Nardon			R379
+304632837					restaurant		Ristorante Pizzeria Le Roi			R380
+2952518898	Madonna di Campiglio	104	38086	Via Cima Tosa	restaurant		Osteria del Circo			R381
+6341426156					restaurant					R382
+3785872417	Moena	24	38035	Via Loewy	restaurant		Taverna del Garber Ristorante Pizzeria			R383
+3787700764	Moena	32	38035	Strada De Fachin	restaurant		Lo Sfizio Caffè Pizzeria Bar			R384
+266158481					restaurant		Ristorante Faloria			R385
+2957454881					restaurant		Malga Roncac			R386
+5013934509					restaurant		Agritur el Mas			R387
+1562362389					restaurant					R388
+44030265					restaurant		Agriturismo Santa Barbara			R389
+261086637					restaurant		Pizzeria La Ruota			R390
+64392934					restaurant		Ristorante Pizzeria Pineta			R391
+459656419	Molveno	4	38018	Via Cima Tosa	restaurant	+39 0461 586948	Taverna La Botte	http://www.tavernalabotte.it/		R392
+1512648046					restaurant		El Filò			R393
+1524975600					restaurant		Antica Bosnia			R394
+1525442359					restaurant		Bucaneve			R395
+1511958499	Molveno	22	38018	Via Nazionale	restaurant		Bar Ciao			R396
+1523289665		7		Via Lungolago	restaurant		L'Osteria del Maso			R397
+459656425					restaurant		Al Caminetto			R398
+2929049984	Molveno	19	38018	Via Lungolago	restaurant		Pizzico			R399
+2929049985	Molveno	11/B	38018	Via Lungolago	restaurant	+39 461 58 69 60	Bar L'Aquilone			R400
+616524688					restaurant		Al Molin			R401
+224374897					restaurant		Energy Hotel			R402
+105602356		1			restaurant		Le barche			R403
+102779829	Calceranica al Lago	50	38050	Via Lungo Lago	restaurant		Biba's			R404
+5016695590	Tre Ville			Via Vallesinella	restaurant		Ristorante Piccadilly			R405
+5016686035					restaurant		Ristorante Pappagallo			R406
+2381700948	Madonna di Campiglio	64	38084	Via Dolomiti di Brenta	restaurant		Ristorante Pizzeria Antico Focolare			R407
+6835725712					restaurant		Rosengarten			R408
+6241059685		5		Via Vallesinella	restaurant		Alfiero			R409
+4960330833	Madonna di Campiglio			Viale Dolomiti di Brenta	restaurant		Il Ruggito			R410
+304632628					restaurant		Pizzeria Ristorante Belvedere			R411
+333791569					restaurant		La Cantina di Suisse			R412
+1438109519					restaurant		La Stube di Franz Josef			R413
+304632837					restaurant		Ristorante Pizzeria Le Roi			R414
+232580438					restaurant		Hotel Cristo d'Oro			R415
+616524794					restaurant		Al Cervo			R416
+2422074148		20	38086	Via Manci	restaurant		Pizzeria Al Cardo			R417
+5624428609	Pinzolo	11	38086	Viale Guglielmo Marconi	restaurant		La Roda			R418
+702858982					restaurant		Saionara			R419
+702859059					restaurant		Posta			R420
+702859043					restaurant		Don Pedro			R421
+89723503					restaurant		Lo Scoiattolo			R422
+560024840					restaurant		IL Picchio			R423
+303826370					restaurant		Pizzeria Millenium			R424
+303828168					restaurant		Pizzeria L'arcade			R425
+303832096					restaurant		Majestic			R426
+4336800368					restaurant		La Primoteca			R427
+8506320843					restaurant		Pizzeria Diana			R428
+2416095112					restaurant					R429
+165535910					restaurant		Ristoro			R430
+232580438					restaurant		Hotel Cristo d'Oro			R431
+355968440	San Michele all'Adige	47	38010	Via Don A. Tamanini	restaurant	+39 0461 650699	Capriccio			R432
+4695403491		29	38010	Via Roma	restaurant		Pizzeria Cantuccio		Tu-Su 11:30-12:00	R433
+75310719	Grumo	39	38010	Via G. Postal	restaurant	+39 0461 650435	Ristorante da Pino	http://www.ristorantedapino.it/	Mo Off	R434
+616524561	Rabbi	105	38020		restaurant		Ristorante Pizzeria 800			R435
+331045899	Rabbi	134	38020		restaurant		Osteria al Rabies			R436
+395318007					restaurant		Mas de la Bolp			R437
+4202862135	Scurelle	2	38050	Via del Municipio vecchio	restaurant		Chardonnay			R438
+4202838209					restaurant					R439
+866739433					restaurant		Goofy Pub-Ristorante-Pizzeria			R440
+1585221252					restaurant		Ja Vito			R441
+1585221511					restaurant		Ristorante Pizzeria Sas da Rocia			R442
+8868691187		4		Via all'Üscla	restaurant		Casa Ferrazza			R443
+8887842646					restaurant		Casa Ferrazza			R444
+3910683995	Castel Ivano	11	38059	Via Marconi	restaurant		Ristorante Pizzeria Al Torchio			R445
+255443503	Telve	3	38050	Località Nale	restaurant		Osteria Baraonda			R446
+4185984948	Roncegno Terme	9	38050	Via Enrico Capraro	restaurant		Al Volto			R447
+331155754					restaurant		Albergo Vittoria			R448
+121382586					restaurant		Pizzeria il Picchio			R449
+4315863098	Pellizzano	13	38020	Località Claiano	restaurant		Alla Veccia Macina			R450
+115849758					restaurant		Agritur Darial			R451
+87054865	Tre Ville	34	38079	Via San Antonio	restaurant		La Contea Pizzeria Ristorante Snow Pub			R452
+5731537800	Tione di Trento	4/A	38079	Via Durone	restaurant		Pizza al Taglio Le Ghinghe			R453
+5446414999	Tione di Trento	5	38079	Via Legione Trentina	restaurant	+39 0465 326249	C'era una volta			R454
+87054865	Tre Ville	34	38079	Via San Antonio	restaurant		La Contea Pizzeria Ristorante Snow Pub			R455
+334787448					restaurant		Al Pescatore			R456
+518731748					restaurant		Agritur Solasna			R457
+37811920	Vattaro	31	38049	Via Doss del Bue	restaurant		Ristorante TEX			R458
+2094237771					restaurant		Ristorante La Madia			R459
+6610752260					restaurant		Pizzeria Vittoria			R460
+101164735					restaurant		Bar Trattoria alla Lepre			R461
+101164735					restaurant		Bar Trattoria alla Lepre			R462
+101164735					restaurant		Bar Trattoria alla Lepre			R463
+101164735					restaurant		Bar Trattoria alla Lepre			R464
+101164735					restaurant		Bar Trattoria alla Lepre			R465
+2367677548					restaurant		Pizzeria Romantica			R466
+2598641850	Andalo	6			restaurant		Ski Bar			R467
+2364540524	Andalo	4	38010	Via Ponte Lambin	restaurant		Bistrot Dolomieu	https://www.lacucinadifilippo.com/		R468

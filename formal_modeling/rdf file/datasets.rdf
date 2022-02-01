@@ -1,0 +1,87 @@
+
+<?xml version="1.0"?>
+
+<RDF>
+	<dataset_identifier>p_TN:d8948251-9e9b-4aa5-9ab1-
+d13e37cd4320</dataset_identifier>
+<other_identifier>na</other_identifier>
+<themes>Economy, finance, regions, cities</themes>
+<dataset_publisher_name>Servizio Turismo e Sport</dataset_publisher_name>
+<issued>28-02-2014</issued>
+<date_modified>25-10-2017</date_modified>
+<geographic_coverage>Trento</geographic_coverage>
+<geonames_uri>https://www.geonames.org/3165241</geonames_uri>
+<language>italian</language>
+<time_extension>na</time_extension>
+<holder_name>Provincia Autonoma di Trento
+Codice IPA/IVA: p_TN</holder_name>
+<update_frequency>weekly</update_frequency>
+<version>na</version>
+<compliant_with>Standard: utf-8</compliant_with>
+<author>Servizio Turismo e Sport IPA/IVA:294WVJ</author>
+</RDF> 
+
+<RDF>
+	<dataset_identifier>p_TN:bf341ac4-aa6e-4c7c-9bef-
+90d11a70e6ac</dataset_identifier>
+<other_identifier>na</other_identifier>
+<themes>Economy, finance, population, society</themes>
+<dataset_publisher_name>Servizio Turismo e Sport</dataset_publisher_name>
+<issued>28-02-2014</issued>
+<date_modified>28-02-2014</date_modified>
+<geographic_coverage>Trento</geographic_coverage>
+<geonames_uri>https://www.geonames.org/3165241</geonames_uri>
+<language>italian</language>
+<time_extension>na</time_extension>
+<holder_name>Provincia Autonoma di Trento
+Codice IPA/IVA: p_TN</holder_name>
+<update_frequency>daily</update_frequency>
+<version>na</version>
+<author>Servizio Turismo e Sport</author>
+</RDF> 
+
+<RDF>
+
+<dataset_publisher_name>OpenStreetMap</dataset_publisher_name>
+<data_introduced>September 2012 </data_introduced>
+<license>OpenStreetMap License</license>
+<geographic_coverage>Trento</geographic_coverage>
+<language>english</language>
+<author>OpenStreetMap</author>
+<update_schedule>Weekly</update_schedule>
+<compliant_with>Standard: utf-8</compliant_with>
+</RDF> 
+
+<RDF>
+
+<dataset_publisher_name>InsideAirbnb</dataset_publisher_name>
+<data_introduced>August 2020</data_introduced>
+<version>4</version>
+<geographic_coverage>Trento</geographic_coverage>
+<language>english</language>
+<author>InsideAirbnb</author>
+<compliant_with>Standard: utf-8</compliant_with>
+</RDF> 
+
+<RDF>
+	<dataset_identifier>p_TN:6fbd1580-2264-43df-a91d-
+9e809893cbb0</dataset_identifier>
+<other_identifier>na</other_identifier>
+<themes>struzione, cultura e sport
+2826 vita sociale</themes>
+<dataset_publisher_name>Servizio artigianato e commercio
+IPA/IVA Code: 8VFPQI</dataset_publisher_name>
+<issued>16-12-2013</issued>
+<date_modified>03-06-2019</date_modified>
+<geographic_coverage>Trento</geographic_coverage>
+<geonames_uri>http://www.geonames.org/3165241</geonames_uri>
+<language>italian</language>
+<time_extension>na</time_extension>
+<holder_name>Provincia Autonoma di Trento
+Codice IPA/IVA: p_TN</holder_name>
+<update_frequency>annual</update_frequency>
+<version>na</version>
+<compliant_with>Standard: utf-8</compliant_with>
+<author>Servizio artigianato e commercio
+IPA/IVA: 8VFPQI</author>
+</RDF> 

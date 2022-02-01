@@ -1,0 +1,666 @@
+<http://localhost:8080/source/CC1> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Campo basket/volley" .
+<http://localhost:8080/source/CC1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC1> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505222" .
+<http://localhost:8080/source/CC1> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC1> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-cor.it" .
+<http://localhost:8080/source/CC1> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "NAGO-TORBOLE" .
+
+<http://localhost:8080/source/CC2> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC2> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Tennis tavolo - ping pong" .
+<http://localhost:8080/source/CC2> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-cor.it" .
+<http://localhost:8080/source/CC2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC2> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "NAGO-TORBOLE" .
+<http://localhost:8080/source/CC2> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505222" .
+
+<http://localhost:8080/source/CC3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC3> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Minigolf" .
+<http://localhost:8080/source/CC3> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-cor.it" .
+<http://localhost:8080/source/CC3> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "NAGO-TORBOLE" .
+<http://localhost:8080/source/CC3> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505222" .
+<http://localhost:8080/source/CC3> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC4> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "NAGO-TORBOLE" .
+<http://localhost:8080/source/CC4> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505222" .
+<http://localhost:8080/source/CC4> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Campo tennis" .
+<http://localhost:8080/source/CC4> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC4> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-cor.it" .
+
+<http://localhost:8080/source/CC5> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "NAGO-TORBOLE" .
+<http://localhost:8080/source/CC5> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Campo bocce" .
+<http://localhost:8080/source/CC5> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-cor.it" .
+<http://localhost:8080/source/CC5> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505222" .
+<http://localhost:8080/source/CC5> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+
+<http://localhost:8080/source/CC6> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "NAGO-TORBOLE" .
+<http://localhost:8080/source/CC6> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505222" .
+<http://localhost:8080/source/CC6> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC6> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-cor.it" .
+
+<http://localhost:8080/source/CC7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC7> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "NAGO-TORBOLE" .
+<http://localhost:8080/source/CC7> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1300" .
+<http://localhost:8080/source/CC7> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505222" .
+<http://localhost:8080/source/CC7> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC7> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-cor.it" .
+
+<http://localhost:8080/source/CC8> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "NAGO-TORBOLE" .
+<http://localhost:8080/source/CC8> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC8> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC8> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505222" .
+<http://localhost:8080/source/CC8> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-cor.it" .
+
+<http://localhost:8080/source/CC9> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "NAGO-TORBOLE" .
+<http://localhost:8080/source/CC9> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505222" .
+<http://localhost:8080/source/CC9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC9> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-cor.it" .
+<http://localhost:8080/source/CC9> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC9> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC10> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC10> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "NAGO-TORBOLE" .
+<http://localhost:8080/source/CC10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC10> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505222" .
+<http://localhost:8080/source/CC10> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-cor.it" .
+<http://localhost:8080/source/CC10> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "8000" .
+
+<http://localhost:8080/source/CC11> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC11> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "4500" .
+<http://localhost:8080/source/CC11> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "NAGO-TORBOLE" .
+<http://localhost:8080/source/CC11> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505222" .
+<http://localhost:8080/source/CC11> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-cor.it" .
+
+<http://localhost:8080/source/CC12> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505222" .
+<http://localhost:8080/source/CC12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC12> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "6000" .
+<http://localhost:8080/source/CC12> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "NAGO-TORBOLE" .
+<http://localhost:8080/source/CC12> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC12> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-cor.it" .
+
+<http://localhost:8080/source/CC13> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "RIVA DEL GARDA" .
+<http://localhost:8080/source/CC13> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC13> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-553186" .
+<http://localhost:8080/source/CC13> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campingallago.com" .
+
+<http://localhost:8080/source/CC14> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campingallago.com" .
+<http://localhost:8080/source/CC14> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-553186" .
+<http://localhost:8080/source/CC14> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "RIVA DEL GARDA" .
+<http://localhost:8080/source/CC14> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+
+<http://localhost:8080/source/CC15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC15> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campingallago.com" .
+<http://localhost:8080/source/CC15> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC15> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-553186" .
+<http://localhost:8080/source/CC15> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "RIVA DEL GARDA" .
+<http://localhost:8080/source/CC15> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1200" .
+
+<http://localhost:8080/source/CC16> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campingallago.com" .
+<http://localhost:8080/source/CC16> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC16> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC16> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "RIVA DEL GARDA" .
+<http://localhost:8080/source/CC16> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-553186" .
+
+<http://localhost:8080/source/CC17> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campingallago.com" .
+<http://localhost:8080/source/CC17> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC17> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "RIVA DEL GARDA" .
+<http://localhost:8080/source/CC17> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-553186" .
+
+<http://localhost:8080/source/CC18> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campingallago.com" .
+<http://localhost:8080/source/CC18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC18> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-553186" .
+<http://localhost:8080/source/CC18> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC18> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "RIVA DEL GARDA" .
+
+<http://localhost:8080/source/CC19> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.bestledrocamping.it" .
+<http://localhost:8080/source/CC19> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Campo basket/volley" .
+<http://localhost:8080/source/CC19> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC19> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "MOLINA DI LEDRO" .
+<http://localhost:8080/source/CC19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC19> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "347-8664991" .
+
+<http://localhost:8080/source/CC20> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "347-8664991" .
+<http://localhost:8080/source/CC20> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Tennis tavolo - ping pong" .
+<http://localhost:8080/source/CC20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC20> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC20> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.bestledrocamping.it" .
+<http://localhost:8080/source/CC20> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "MOLINA DI LEDRO" .
+
+<http://localhost:8080/source/CC21> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Baby room attrezzata" .
+<http://localhost:8080/source/CC21> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC21> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "MOLINA DI LEDRO" .
+<http://localhost:8080/source/CC21> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.bestledrocamping.it" .
+<http://localhost:8080/source/CC21> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "347-8664991" .
+<http://localhost:8080/source/CC21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+
+<http://localhost:8080/source/CC22> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC22> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "347-8664991" .
+<http://localhost:8080/source/CC22> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.bestledrocamping.it" .
+<http://localhost:8080/source/CC22> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "MOLINA DI LEDRO" .
+
+<http://localhost:8080/source/CC23> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "347-8664991" .
+<http://localhost:8080/source/CC23> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "MOLINA DI LEDRO" .
+<http://localhost:8080/source/CC23> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC23> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.bestledrocamping.it" .
+<http://localhost:8080/source/CC23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC23> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+
+<http://localhost:8080/source/CC24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC24> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.bestledrocamping.it" .
+<http://localhost:8080/source/CC24> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC24> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC24> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "347-8664991" .
+<http://localhost:8080/source/CC24> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "MOLINA DI LEDRO" .
+
+<http://localhost:8080/source/CC25> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "MOLINA DI LEDRO" .
+<http://localhost:8080/source/CC25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC25> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC25> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC25> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.bestledrocamping.it" .
+<http://localhost:8080/source/CC25> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "347-8664991" .
+
+<http://localhost:8080/source/CC26> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.bestledrocamping.it" .
+<http://localhost:8080/source/CC26> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "347-8664991" .
+<http://localhost:8080/source/CC26> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC26> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "MOLINA DI LEDRO" .
+
+<http://localhost:8080/source/CC27> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.bestledrocamping.it" .
+<http://localhost:8080/source/CC27> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC27> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "347-8664991" .
+<http://localhost:8080/source/CC27> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "MOLINA DI LEDRO" .
+<http://localhost:8080/source/CC27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+
+<http://localhost:8080/source/CC28> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-766129" .
+<http://localhost:8080/source/CC28> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC28> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "TORCEGNO" .
+<http://localhost:8080/source/CC28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC28> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Tennis tavolo - ping pong" .
+
+<http://localhost:8080/source/CC29> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC29> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "TORCEGNO" .
+<http://localhost:8080/source/CC29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC29> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Biliardo" .
+<http://localhost:8080/source/CC29> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-766129" .
+
+<http://localhost:8080/source/CC30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC30> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-766129" .
+<http://localhost:8080/source/CC30> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "TORCEGNO" .
+<http://localhost:8080/source/CC30> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Postazione di lavoro internet" .
+<http://localhost:8080/source/CC30> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC31> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-766129" .
+<http://localhost:8080/source/CC31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC31> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "TORCEGNO" .
+<http://localhost:8080/source/CC31> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC32> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-766129" .
+<http://localhost:8080/source/CC32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC32> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "600" .
+<http://localhost:8080/source/CC32> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "TORCEGNO" .
+<http://localhost:8080/source/CC32> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC33> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC33> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "TORCEGNO" .
+<http://localhost:8080/source/CC33> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC33> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-766129" .
+
+<http://localhost:8080/source/CC34> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC34> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-lago.it" .
+<http://localhost:8080/source/CC34> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-591250" .
+<http://localhost:8080/source/CC34> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Tennis tavolo - ping pong" .
+<http://localhost:8080/source/CC34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC34> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "PIEVE DI LEDRO" .
+
+<http://localhost:8080/source/CC35> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC35> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-lago.it" .
+<http://localhost:8080/source/CC35> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Postazione di lavoro internet" .
+<http://localhost:8080/source/CC35> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "PIEVE DI LEDRO" .
+<http://localhost:8080/source/CC35> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-591250" .
+<http://localhost:8080/source/CC35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+
+<http://localhost:8080/source/CC36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC36> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC36> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "PIEVE DI LEDRO" .
+<http://localhost:8080/source/CC36> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-lago.it" .
+<http://localhost:8080/source/CC36> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-591250" .
+
+<http://localhost:8080/source/CC37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC37> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "PIEVE DI LEDRO" .
+<http://localhost:8080/source/CC37> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1300" .
+<http://localhost:8080/source/CC37> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-591250" .
+<http://localhost:8080/source/CC37> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC37> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-lago.it" .
+
+<http://localhost:8080/source/CC38> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "PIEVE DI LEDRO" .
+<http://localhost:8080/source/CC38> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC38> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-lago.it" .
+<http://localhost:8080/source/CC38> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-591250" .
+<http://localhost:8080/source/CC38> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+
+<http://localhost:8080/source/CC39> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-lago.it" .
+<http://localhost:8080/source/CC39> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "11000" .
+<http://localhost:8080/source/CC39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC39> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC39> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "PIEVE DI LEDRO" .
+<http://localhost:8080/source/CC39> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-591250" .
+
+<http://localhost:8080/source/CC40> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-591250" .
+<http://localhost:8080/source/CC40> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "12300" .
+<http://localhost:8080/source/CC40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC40> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "PIEVE DI LEDRO" .
+<http://localhost:8080/source/CC40> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-lago.it" .
+<http://localhost:8080/source/CC40> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC41> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-lago.it" .
+<http://localhost:8080/source/CC41> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "PIEVE DI LEDRO" .
+<http://localhost:8080/source/CC41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC41> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC41> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-591250" .
+
+<http://localhost:8080/source/CC42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC42> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "PIEVE DI LEDRO" .
+<http://localhost:8080/source/CC42> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-591250" .
+<http://localhost:8080/source/CC42> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.camping-al-lago.it" .
+<http://localhost:8080/source/CC42> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC43> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-594018" .
+<http://localhost:8080/source/CC43> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC43> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "CASTELLO TESINO" .
+<http://localhost:8080/source/CC43> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campeggioalice.it" .
+<http://localhost:8080/source/CC43> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Tennis tavolo - ping pong" .
+<http://localhost:8080/source/CC43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+
+<http://localhost:8080/source/CC44> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "CASTELLO TESINO" .
+<http://localhost:8080/source/CC44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC44> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Campo bocce" .
+<http://localhost:8080/source/CC44> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campeggioalice.it" .
+<http://localhost:8080/source/CC44> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC44> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-594018" .
+
+<http://localhost:8080/source/CC45> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "CASTELLO TESINO" .
+<http://localhost:8080/source/CC45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC45> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-594018" .
+<http://localhost:8080/source/CC45> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC45> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campeggioalice.it" .
+
+<http://localhost:8080/source/CC46> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC46> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1000" .
+<http://localhost:8080/source/CC46> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-594018" .
+<http://localhost:8080/source/CC46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC46> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "CASTELLO TESINO" .
+<http://localhost:8080/source/CC46> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campeggioalice.it" .
+
+<http://localhost:8080/source/CC47> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC47> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "CASTELLO TESINO" .
+<http://localhost:8080/source/CC47> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-594018" .
+<http://localhost:8080/source/CC47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC47> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC47> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campeggioalice.it" .
+
+<http://localhost:8080/source/CC48> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Campo basket/volley" .
+<http://localhost:8080/source/CC48> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.andalolifepark.it" .
+<http://localhost:8080/source/CC48> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ANDALO" .
+<http://localhost:8080/source/CC48> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC48> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-585753" .
+<http://localhost:8080/source/CC48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+
+<http://localhost:8080/source/CC49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC49> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Tennis tavolo - ping pong" .
+<http://localhost:8080/source/CC49> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ANDALO" .
+<http://localhost:8080/source/CC49> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC49> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.andalolifepark.it" .
+<http://localhost:8080/source/CC49> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-585753" .
+
+<http://localhost:8080/source/CC50> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.andalolifepark.it" .
+<http://localhost:8080/source/CC50> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Minigolf" .
+<http://localhost:8080/source/CC50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC50> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC50> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ANDALO" .
+<http://localhost:8080/source/CC50> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-585753" .
+
+<http://localhost:8080/source/CC51> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC51> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Biliardo" .
+<http://localhost:8080/source/CC51> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.andalolifepark.it" .
+<http://localhost:8080/source/CC51> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-585753" .
+<http://localhost:8080/source/CC51> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ANDALO" .
+<http://localhost:8080/source/CC51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+
+<http://localhost:8080/source/CC52> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.andalolifepark.it" .
+<http://localhost:8080/source/CC52> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC52> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ANDALO" .
+<http://localhost:8080/source/CC52> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-585753" .
+<http://localhost:8080/source/CC52> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Campo tennis" .
+
+<http://localhost:8080/source/CC53> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.andalolifepark.it" .
+<http://localhost:8080/source/CC53> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Campo bocce" .
+<http://localhost:8080/source/CC53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC53> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-585753" .
+<http://localhost:8080/source/CC53> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC53> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ANDALO" .
+
+<http://localhost:8080/source/CC54> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.andalolifepark.it" .
+<http://localhost:8080/source/CC54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC54> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ANDALO" .
+<http://localhost:8080/source/CC54> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-585753" .
+<http://localhost:8080/source/CC54> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC55> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.andalolifepark.it" .
+<http://localhost:8080/source/CC55> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-585753" .
+<http://localhost:8080/source/CC55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC55> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC55> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1450" .
+<http://localhost:8080/source/CC55> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ANDALO" .
+
+<http://localhost:8080/source/CC56> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-585753" .
+<http://localhost:8080/source/CC56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC56> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC56> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ANDALO" .
+<http://localhost:8080/source/CC56> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.andalolifepark.it" .
+<http://localhost:8080/source/CC56> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC57> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-517491" .
+<http://localhost:8080/source/CC57> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+<http://localhost:8080/source/CC57> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+<http://localhost:8080/source/CC57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC57> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Campo basket/volley" .
+<http://localhost:8080/source/CC57> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC58> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC58> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+<http://localhost:8080/source/CC58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC58> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+<http://localhost:8080/source/CC58> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Tennis tavolo - ping pong" .
+<http://localhost:8080/source/CC58> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-517491" .
+
+<http://localhost:8080/source/CC59> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+<http://localhost:8080/source/CC59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC59> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+<http://localhost:8080/source/CC59> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Baby room attrezzata" .
+<http://localhost:8080/source/CC59> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-517491" .
+<http://localhost:8080/source/CC59> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC60> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+<http://localhost:8080/source/CC60> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+<http://localhost:8080/source/CC60> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC60> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Campo tennis" .
+<http://localhost:8080/source/CC60> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-517491" .
+
+<http://localhost:8080/source/CC61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC61> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-517491" .
+<http://localhost:8080/source/CC61> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+<http://localhost:8080/source/CC61> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Postazione di lavoro internet" .
+<http://localhost:8080/source/CC61> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC61> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+
+<http://localhost:8080/source/CC62> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC62> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+<http://localhost:8080/source/CC62> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-517491" .
+<http://localhost:8080/source/CC62> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+
+<http://localhost:8080/source/CC63> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC63> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1300" .
+<http://localhost:8080/source/CC63> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-517491" .
+<http://localhost:8080/source/CC63> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+<http://localhost:8080/source/CC63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC63> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+
+<http://localhost:8080/source/CC64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC64> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC64> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+<http://localhost:8080/source/CC64> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+<http://localhost:8080/source/CC64> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC64> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-517491" .
+
+<http://localhost:8080/source/CC65> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC65> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC65> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+<http://localhost:8080/source/CC65> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+<http://localhost:8080/source/CC65> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-517491" .
+<http://localhost:8080/source/CC65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+
+<http://localhost:8080/source/CC66> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-517491" .
+<http://localhost:8080/source/CC66> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+<http://localhost:8080/source/CC66> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+<http://localhost:8080/source/CC66> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC66> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "11000" .
+
+<http://localhost:8080/source/CC67> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+<http://localhost:8080/source/CC67> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505077" .
+<http://localhost:8080/source/CC67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC67> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+<http://localhost:8080/source/CC67> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC67> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Tennis tavolo - ping pong" .
+
+<http://localhost:8080/source/CC68> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505077" .
+<http://localhost:8080/source/CC68> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+<http://localhost:8080/source/CC68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC68> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+<http://localhost:8080/source/CC68> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Baby room attrezzata" .
+<http://localhost:8080/source/CC68> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC69> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+<http://localhost:8080/source/CC69> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+<http://localhost:8080/source/CC69> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Postazione di lavoro internet" .
+<http://localhost:8080/source/CC69> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC69> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505077" .
+
+<http://localhost:8080/source/CC70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC70> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC70> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+<http://localhost:8080/source/CC70> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+<http://localhost:8080/source/CC70> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505077" .
+
+<http://localhost:8080/source/CC71> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC71> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505077" .
+<http://localhost:8080/source/CC71> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1150" .
+<http://localhost:8080/source/CC71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC71> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+<http://localhost:8080/source/CC71> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+
+<http://localhost:8080/source/CC72> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.arcoturistica.com" .
+<http://localhost:8080/source/CC72> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0464-505077" .
+<http://localhost:8080/source/CC72> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC72> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "ARCO" .
+<http://localhost:8080/source/CC72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC72> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+
+<http://localhost:8080/source/CC73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC73> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "334-8362626" .
+<http://localhost:8080/source/CC73> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "LAVARONE" .
+<http://localhost:8080/source/CC73> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Postazione di lavoro internet" .
+<http://localhost:8080/source/CC73> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC73> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "campeggiobelvederelavaron e.wordpress.com" .
+
+<http://localhost:8080/source/CC74> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "campeggiobelvederelavaron e.wordpress.com" .
+<http://localhost:8080/source/CC74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC74> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC74> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "LAVARONE" .
+<http://localhost:8080/source/CC74> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "334-8362626" .
+
+<http://localhost:8080/source/CC75> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "900" .
+<http://localhost:8080/source/CC75> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "LAVARONE" .
+<http://localhost:8080/source/CC75> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "campeggiobelvederelavaron e.wordpress.com" .
+<http://localhost:8080/source/CC75> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC75> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "334-8362626" .
+
+<http://localhost:8080/source/CC76> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "334-8362626" .
+<http://localhost:8080/source/CC76> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC76> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC76> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "LAVARONE" .
+<http://localhost:8080/source/CC76> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "campeggiobelvederelavaron e.wordpress.com" .
+
+<http://localhost:8080/source/CC77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC77> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC77> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "334-8362626" .
+<http://localhost:8080/source/CC77> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "LAVARONE" .
+<http://localhost:8080/source/CC77> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "campeggiobelvederelavaron e.wordpress.com" .
+<http://localhost:8080/source/CC77> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+
+<http://localhost:8080/source/CC78> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0462-341694" .
+<http://localhost:8080/source/CC78> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC78> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Tennis tavolo - ping pong" .
+<http://localhost:8080/source/CC78> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campeggiocalvello.it" .
+<http://localhost:8080/source/CC78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC78> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "CARANO" .
+
+<http://localhost:8080/source/CC79> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campeggiocalvello.it" .
+<http://localhost:8080/source/CC79> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "CARANO" .
+<http://localhost:8080/source/CC79> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC79> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0462-341694" .
+<http://localhost:8080/source/CC79> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Baby room attrezzata" .
+<http://localhost:8080/source/CC79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+
+<http://localhost:8080/source/CC80> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC80> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "CARANO" .
+<http://localhost:8080/source/CC80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC80> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campeggiocalvello.it" .
+<http://localhost:8080/source/CC80> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0462-341694" .
+
+<http://localhost:8080/source/CC81> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1100" .
+<http://localhost:8080/source/CC81> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC81> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campeggiocalvello.it" .
+<http://localhost:8080/source/CC81> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0462-341694" .
+<http://localhost:8080/source/CC81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC81> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "CARANO" .
+
+<http://localhost:8080/source/CC82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC82> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0462-341694" .
+<http://localhost:8080/source/CC82> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC82> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.campeggiocalvello.it" .
+<http://localhost:8080/source/CC82> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "CARANO" .
+<http://localhost:8080/source/CC82> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+
+<http://localhost:8080/source/CC83> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "POZZA DI FASSA" .
+<http://localhost:8080/source/CC83> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC83> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0462-763305" .
+<http://localhost:8080/source/CC83> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Tennis tavolo - ping pong" .
+<http://localhost:8080/source/CC83> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.catinacciorosengarten .com" .
+
+<http://localhost:8080/source/CC84> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0462-763305" .
+<http://localhost:8080/source/CC84> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "POZZA DI FASSA" .
+<http://localhost:8080/source/CC84> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Baby room attrezzata" .
+<http://localhost:8080/source/CC84> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.catinacciorosengarten .com" .
+<http://localhost:8080/source/CC84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC84> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC85> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Campo tennis" .
+<http://localhost:8080/source/CC85> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0462-763305" .
+<http://localhost:8080/source/CC85> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC85> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.catinacciorosengarten .com" .
+<http://localhost:8080/source/CC85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC85> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "POZZA DI FASSA" .
+
+<http://localhost:8080/source/CC86> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0462-763305" .
+<http://localhost:8080/source/CC86> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC86> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Campo bocce" .
+<http://localhost:8080/source/CC86> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "POZZA DI FASSA" .
+<http://localhost:8080/source/CC86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC86> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.catinacciorosengarten .com" .
+
+<http://localhost:8080/source/CC87> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.catinacciorosengarten .com" .
+<http://localhost:8080/source/CC87> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0462-763305" .
+<http://localhost:8080/source/CC87> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC87> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "POZZA DI FASSA" .
+<http://localhost:8080/source/CC87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+
+<http://localhost:8080/source/CC88> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC88> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1280" .
+<http://localhost:8080/source/CC88> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.catinacciorosengarten .com" .
+<http://localhost:8080/source/CC88> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0462-763305" .
+<http://localhost:8080/source/CC88> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "POZZA DI FASSA" .
+
+<http://localhost:8080/source/CC89> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0462-763305" .
+<http://localhost:8080/source/CC89> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.catinacciorosengarten .com" .
+<http://localhost:8080/source/CC89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC89> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC89> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC89> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "POZZA DI FASSA" .
+
+<http://localhost:8080/source/CC90> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.catinacciorosengarten .com" .
+<http://localhost:8080/source/CC90> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "18500" .
+<http://localhost:8080/source/CC90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC90> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC90> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "POZZA DI FASSA" .
+<http://localhost:8080/source/CC90> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0462-763305" .
+
+<http://localhost:8080/source/CC91> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0462-763305" .
+<http://localhost:8080/source/CC91> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "POZZA DI FASSA" .
+<http://localhost:8080/source/CC91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC91> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.catinacciorosengarten .com" .
+<http://localhost:8080/source/CC91> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC92> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Campo basket/volley" .
+<http://localhost:8080/source/CC92> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.laghidilamar.com" .
+<http://localhost:8080/source/CC92> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "TERLAGO" .
+<http://localhost:8080/source/CC92> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-860423" .
+<http://localhost:8080/source/CC92> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC93> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Tennis tavolo - ping pong" .
+<http://localhost:8080/source/CC93> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC93> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.laghidilamar.com" .
+<http://localhost:8080/source/CC93> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-860423" .
+<http://localhost:8080/source/CC93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC93> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "TERLAGO" .
+
+<http://localhost:8080/source/CC94> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC94> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "TERLAGO" .
+<http://localhost:8080/source/CC94> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.laghidilamar.com" .
+<http://localhost:8080/source/CC94> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Minigolf" .
+<http://localhost:8080/source/CC94> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-860423" .
+<http://localhost:8080/source/CC94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+
+<http://localhost:8080/source/CC95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC95> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.laghidilamar.com" .
+<http://localhost:8080/source/CC95> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Biliardo" .
+<http://localhost:8080/source/CC95> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "TERLAGO" .
+<http://localhost:8080/source/CC95> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-860423" .
+<http://localhost:8080/source/CC95> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC96> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-860423" .
+<http://localhost:8080/source/CC96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC96> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "TERLAGO" .
+<http://localhost:8080/source/CC96> <http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440> "Baby room attrezzata" .
+<http://localhost:8080/source/CC96> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.laghidilamar.com" .
+<http://localhost:8080/source/CC96> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+
+<http://localhost:8080/source/CC97> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.laghidilamar.com" .
+<http://localhost:8080/source/CC97> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-860423" .
+<http://localhost:8080/source/CC97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC97> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC97> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "TERLAGO" .
+
+<http://localhost:8080/source/CC98> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.laghidilamar.com" .
+<http://localhost:8080/source/CC98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+<http://localhost:8080/source/CC98> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "TERLAGO" .
+<http://localhost:8080/source/CC98> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "1400" .
+<http://localhost:8080/source/CC98> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC98> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-860423" .
+
+<http://localhost:8080/source/CC99> <http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440> "0461-860423" .
+<http://localhost:8080/source/CC99> <http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440> "TERLAGO" .
+<http://localhost:8080/source/CC99> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Camping" .
+<http://localhost:8080/source/CC99> <http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440> "www.laghidilamar.com" .
+<http://localhost:8080/source/CC99> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/CC99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Camping_GID-5440> .
+

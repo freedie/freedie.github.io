@@ -1,0 +1,101 @@
+﻿id	postcode	city	number_of_bed	number_of_room	email	phone	website	type_boarding	description_service	stars	accommodation category	price	type
+H1	38056	LEVICO TERME	49	23	info@hotelcristallo.trentino.it	0461-706427	www.hotelaaritztrentino.it	breakfast	lift to all floors				Hotel
+H2	38056	LEVICO TERME	49	23	info@hotelcristallo.trentino.it	0461-706427	www.hotelaaritztrentino.it	breakfast	Parking(secured for at least 50% of the housing units)				Hotel
+H3	38056	LEVICO TERME	49	23	info@hotelcristallo.trentino.it	0461-706427	www.hotelaaritztrentino.it	breakfast	TV in all bedrooms				Hotel
+H4	38056	LEVICO TERME	49	23	info@hotelcristallo.trentino.it	0461-706427	www.hotelaaritztrentino.it	breakfast	telephone in all rooms				Hotel
+H5	38056	LEVICO TERME	49	23	info@hotelcristallo.trentino.it	0461-706427	www.hotelaaritztrentino.it	breakfast		3	room-with-bathroom	16000	Hotel
+H6	38056	LEVICO TERME	49	23	info@hotelcristallo.trentino.it	0461-706427	www.hotelaaritztrentino.it	breakfast		3	room-with-bathroom	19000	Hotel
+H7	38010	ANDALO	86	36	info@hotelabetebianco.it	0461-589127	www.hotelabetebianco.it	full-board	lift to all floors				Hotel
+H8	38010	ANDALO	86	36	info@hotelabetebianco.it	0461-589127	www.hotelabetebianco.it	full-board	Terrace or garden solarium				Hotel
+H9	38010	ANDALO	86	36	info@hotelabetebianco.it	0461-589127	www.hotelabetebianco.it	full-board	Parking(secured for at least 50% of the housing units)				Hotel
+H10	38010	ANDALO	86	36	info@hotelabetebianco.it	0461-589127	www.hotelabetebianco.it	full-board	TV in all bedrooms				Hotel
+H11	38010	ANDALO	86	36	info@hotelabetebianco.it	0461-589127	www.hotelabetebianco.it	full-board	telephone in all rooms				Hotel
+H12	38010	ANDALO	86	36	info@hotelabetebianco.it	0461-589127	www.hotelabetebianco.it	full-board		3		10500	Hotel
+H13	38010	ANDALO	86	36	info@hotelabetebianco.it	0461-589127	www.hotelabetebianco.it	full-board		3	room-with-bathroom	17200	Hotel
+H14	38010	ANDALO	86	36	info@hotelabetebianco.it	0461-589127	www.hotelabetebianco.it	full-board		3	room-with-bathroom	25000	Hotel
+H15	38010	ANDALO	86	36	info@hotelabetebianco.it	0461-589127	www.hotelabetebianco.it	full-board		3	room-with-bathroom		Hotel
+H16	38010	ANDALO	86	36	info@hotelabetebianco.it	0461-589127	www.hotelabetebianco.it	full-board		3	biroom-with-bathroom		Hotel
+H17	38010	ANDALO	86	36	info@hotelabetebianco.it	0461-589127	www.hotelabetebianco.it	full-board		3	biroom-with-bathroom		Hotel
+H18	38010	ANDALO	86	36	info@hotelabetebianco.it	0461-589127	www.hotelabetebianco.it	full-board		3	biroom-with-bathroom		Hotel
+H19	38010	ANDALO	86	36	info@hotelabetebianco.it	0461-589127	www.hotelabetebianco.it	full-board		3	biroom-with-bathroom	37200	Hotel
+H20	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast	lift to all floors				Hotel
+H21	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast	Air conditioning in at least 80% of the housing units				Hotel
+H22	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast	Terrace or garden solarium				Hotel
+H23	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast	TV in all bedrooms				Hotel
+H24	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast	telephone in all rooms				Hotel
+H25	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast	Air conditioning in the restaurant and bar				Hotel
+H26	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast		4	jr-suite		Hotel
+H27	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast		4	jr-suite	0	Hotel
+H28	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast		4	jr-suite		Hotel
+H29	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast		4	jr-suite		Hotel
+H30	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast		4	room-with-bathroom	13700	Hotel
+H31	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast		4	room-with-bathroom	27000	Hotel
+H32	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast		4	room-with-bathroom	30000	Hotel
+H33	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast		4	room-with-bathroom		Hotel
+H34	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast		4	biroom-with-bathroom		Hotel
+H35	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast		4	biroom-with-bathroom		Hotel
+H36	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast		4	biroom-with-bathroom		Hotel
+H37	38100	TRENTO	78	40	info@accademiahotel.it	0461-233600	www.accademiahotel.it	breakfast		4	biroom-with-bathroom	30000	Hotel
+H38	38010	ANDALO	132	77	info@negritella.it	0461-585802	www.negritella.it	full-board	lift to all floors				Hotel
+H39	38010	ANDALO	132	77	info@negritella.it	0461-585802	www.negritella.it	full-board	Terrace or garden solarium				Hotel
+H40	38010	ANDALO	132	77	info@negritella.it	0461-585802	www.negritella.it	full-board	Parking(secured for at least 50% of the housing units)				Hotel
+H41	38010	ANDALO	132	77	info@negritella.it	0461-585802	www.negritella.it	full-board	TV in all bedrooms				Hotel
+H42	38010	ANDALO	132	77	info@negritella.it	0461-585802	www.negritella.it	full-board	telephone in all rooms				Hotel
+H43	38010	ANDALO	132	77	info@negritella.it	0461-585802	www.negritella.it	full-board		3	jr-suite		Hotel
+H44	38010	ANDALO	132	77	info@negritella.it	0461-585802	www.negritella.it	full-board		3	jr-suite		Hotel
+H45	38010	ANDALO	132	77	info@negritella.it	0461-585802	www.negritella.it	full-board		3	jr-suite	18800	Hotel
+H46	38010	ANDALO	132	77	info@negritella.it	0461-585802	www.negritella.it	full-board		3	room-with-bathroom	8000	Hotel
+H47	38010	ANDALO	132	77	info@negritella.it	0461-585802	www.negritella.it	full-board		3	room-with-bathroom	14400	Hotel
+H48	38010	ANDALO	132	77	info@negritella.it	0461-585802	www.negritella.it	full-board		3	room-with-bathroom		Hotel
+H49	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board	Outdoor pool				Hotel
+H50	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board	lift to all floors				Hotel
+H51	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board	Air conditioning in at least 80% of the housing units				Hotel
+H52	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board	Terrace or garden solarium				Hotel
+H53	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board	Parking(secured for at least 50% of the housing units)				Hotel
+H54	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board	TV in all bedrooms				Hotel
+H55	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board	telephone in all rooms				Hotel
+H56	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board	Air conditioning in the restaurant and bar				Hotel
+H57	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board		4	jr-suite		Hotel
+H58	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board		4	jr-suite	23000	Hotel
+H59	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board		4	jr-suite	31000	Hotel
+H60	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board		4	jr-suite	39000	Hotel
+H61	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board		4	room-with-bathroom	9500	Hotel
+H62	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board		4	room-with-bathroom	20000	Hotel
+H63	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board		4	room-with-bathroom	27000	Hotel
+H64	38066	RIVA DEL GARDA	81	34	hotel@gioiosa.it	0464-521356	www.gioiosa.it	full-board		4	room-with-bathroom		Hotel
+H65	38020	PEIO	46	20	info@hotelgranzebru.com	0463-754433	www.hotelgranzebru.com	full-board	Terrace or garden solarium				Hotel
+H66	38020	PEIO	46	20	info@hotelgranzebru.com	0463-754433	www.hotelgranzebru.com	full-board	Parking(secured for at least 50% of the housing units)				Hotel
+H67	38020	PEIO	46	20	info@hotelgranzebru.com	0463-754433	www.hotelgranzebru.com	full-board	TV in all bedrooms				Hotel
+H68	38020	PEIO	46	20	info@hotelgranzebru.com	0463-754433	www.hotelgranzebru.com	full-board	telephone in all rooms				Hotel
+H69	38020	PEIO	46	20	info@hotelgranzebru.com	0463-754433	www.hotelgranzebru.com	full-board	Sauna				Hotel
+H70	38020	PEIO	46	20	info@hotelgranzebru.com	0463-754433	www.hotelgranzebru.com	full-board		3	room-with-bathroom	12000	Hotel
+H71	38020	PEIO	46	20	info@hotelgranzebru.com	0463-754433	www.hotelgranzebru.com	full-board		3	room-with-bathroom	16500	Hotel
+H72	38020	PEIO	46	20	info@hotelgranzebru.com	0463-754433	www.hotelgranzebru.com	full-board		3	room-with-bathroom		Hotel
+H73	38020	PEIO	46	20	info@hotelgranzebru.com	0463-754433	www.hotelgranzebru.com	full-board		3	biroom-with-bathroom		Hotel
+H74	38020	PEIO	46	20	info@hotelgranzebru.com	0463-754433	www.hotelgranzebru.com	full-board		3	biroom-with-bathroom		Hotel
+H75	38020	PEIO	46	20	info@hotelgranzebru.com	0463-754433	www.hotelgranzebru.com	full-board		3	biroom-with-bathroom	21500	Hotel
+H76	38037	PREDAZZO	62	30	info@activehotelrosat.it	0462-501239	www.hotelallarosa.it	full-board	Terrace or garden solarium				Hotel
+H77	38037	PREDAZZO	62	30	info@activehotelrosat.it	0462-501239	www.hotelallarosa.it	full-board	Parking(secured for at least 50% of the housing units)				Hotel
+H78	38037	PREDAZZO	62	30	info@activehotelrosat.it	0462-501239	www.hotelallarosa.it	full-board	TV in all bedrooms				Hotel
+H79	38037	PREDAZZO	62	30	info@activehotelrosat.it	0462-501239	www.hotelallarosa.it	full-board	telephone in all rooms				Hotel
+H80	38037	PREDAZZO	62	30	info@activehotelrosat.it	0462-501239	www.hotelallarosa.it	full-board	Sauna				Hotel
+H81	38037	PREDAZZO	62	30	info@activehotelrosat.it	0462-501239	www.hotelallarosa.it	full-board		3	room-with-bathroom	8000	Hotel
+H82	38037	PREDAZZO	62	30	info@activehotelrosat.it	0462-501239	www.hotelallarosa.it	full-board		3	room-with-bathroom	13000	Hotel
+H83	38037	PREDAZZO	62	30	info@activehotelrosat.it	0462-501239	www.hotelallarosa.it	full-board		3	room-with-bathroom	17000	Hotel
+H84	38020	PASSO DEL TONALE	90	43	info@hoteladamello.com	0364-903886	www.hoteladamello.com	full-board	lift to all floors				Hotel
+H85	38020	PASSO DEL TONALE	90	43	info@hoteladamello.com	0364-903886	www.hoteladamello.com	full-board	Terrace or garden solarium				Hotel
+H86	38020	PASSO DEL TONALE	90	43	info@hoteladamello.com	0364-903886	www.hoteladamello.com	full-board	Parking(secured for at least 50% of the housing units)				Hotel
+H87	38020	PASSO DEL TONALE	90	43	info@hoteladamello.com	0364-903886	www.hoteladamello.com	full-board	TV in all bedrooms				Hotel
+H88	38020	PASSO DEL TONALE	90	43	info@hoteladamello.com	0364-903886	www.hoteladamello.com	full-board	telephone in all rooms				Hotel
+H89	38020	PASSO DEL TONALE	90	43	info@hoteladamello.com	0364-903886	www.hoteladamello.com	full-board		3	room-with-bathroom	23200	Hotel
+H90	38020	PASSO DEL TONALE	90	43	info@hoteladamello.com	0364-903886	www.hoteladamello.com	full-board		3	room-with-bathroom	32480	Hotel
+H91	38035	MOENA	96	24	adler@clubres.com	0462-574144	www.clubres.com	breakfast	lift to all floors				Hotel
+H92	38035	MOENA	96	24	adler@clubres.com	0462-574144	www.clubres.com	breakfast	gym				Hotel
+H93	38035	MOENA	96	24	adler@clubres.com	0462-574144	www.clubres.com	breakfast	Terrace or garden solarium				Hotel
+H94	38035	MOENA	96	24	adler@clubres.com	0462-574144	www.clubres.com	breakfast	covered pool				Hotel
+H95	38035	MOENA	96	24	adler@clubres.com	0462-574144	www.clubres.com	breakfast	Parking(secured for at least 50% of the housing units)				Hotel
+H96	38035	MOENA	96	24	adler@clubres.com	0462-574144	www.clubres.com	breakfast	TV in all bedrooms				Hotel
+H97	38035	MOENA	96	24	adler@clubres.com	0462-574144	www.clubres.com	breakfast	telephone in all rooms				Hotel
+H98	38010	ANDALO	119	59	info@adlerhotel.it	0461-585828	www.adlerhotel.it	full-board	lift to all floors				Hotel
+H99	38010	ANDALO	119	59	info@adlerhotel.it	0461-585828	www.adlerhotel.it	full-board	Terrace or garden solarium				Hotel
+													

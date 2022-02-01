@@ -1,0 +1,149 @@
+﻿id	city	housenumber	postcode	street	phone_number	cuisine	name	takeaway	website	opening_hours	delivery	Location_id	amenity
+37793331	Trento	5	38123	Via di Madonna Bianca	+39 0461 390416	burger	McDonald's	yes				F1	fastfood
+3148725809	Trento	2	38123	Via Lidorno	+39 0461 1740223	burger	Bici Grill Trento	IT02237640228	https://www.facebook.com/pages/Bici-Grill-Trento/	Mo-Su 08:00-24:00		F2	fastfood
+4233651088												F3	fastfood
+2112857580	Trento	3	38122	Largo Eugenio Prati		pizza;kebab	Pizzeria Bella Napoli	IT02338380229				F4	fastfood
+2487319550	Trento	18/B	38122	Via delle Ghiaie		pizza	Pedro Pizza	yes	http://www.pedropizza.it	Mo-Fr 11:00-14:00,18:00-22:00; Sa-Su 18:00-22:00	yes	F5	fastfood
+893551341	Trento	8		Via Aosta		pizza;kebab	Pizza Snack					F6	fastfood
+2185765240	Trento	3	38123	Viale Verona	+39 0461 1592422	kebab;pizza	Cavalleggeri	yes		Mo-Su 10:00-22:00	yes	F7	fastfood
+2344162326	Trento	93	38122	Via Giacomo Matteotti		pizza	Pizza Rimi	yes				F8	fastfood
+3123756891	Trento	104	38122	Via Vittorio Veneto		fried_food; pizza	Portami Via	only		Mo 11:00-14:00; Tu-Su 18:00-21:30		F9	fastfood
+643873322	Trento	5	38122	Via Gorizia	+39 0461 931663	kebab;pizza	Pizzeria Bella Italia	IT02377600222	http://bellaitalia-trento.it	Mo-Su 11:00-14:30,17:30-22:30		F10	fastfood
+2197903908	Trento	53	38122	Via dei Mille			Bar dei Mille					F11	fastfood
+557150099	Trento	1	38122	Via Camillo Benso Cavour		pizza	San Michele Pizza	IT02059920229				F12	fastfood
+557150130	Trento	22	38122	Via Camillo Benso Cavour	+39 0461 233753	pizza	Pizza Cavour	IT02131170223		Mo-Sa 11:00-23:00		F13	fastfood
+557197349	Trento	13	38122	Piazza Adamo D'Arogno		pizza	5 Sensi					F14	fastfood
+976794057	Trento	66	38122	Via Rodolfo Belenzani		kebab;pizza	Friendly	IT02172670222				F15	fastfood
+991704167	Trento	36	38122	Via Camillo Benso Cavour	+39 0461 1482485	pizza;flat bread	IBRIS - focacce e pizze					F16	fastfood
+1005689732	Trento	9	38122	Via senatore Carlo Esterle		pizza	Graziano's			Mo-Fr 11:00-21:00;Sa 16:00-21:00		F17	fastfood
+1005689764	Trento	8	38122	Via senatore Carlo Esterle		kebab	Kebab Duomo	IT02249310224			yes	F18	fastfood
+1129326730	Trento	43	38122	Via Rodolfo Belenzani		burger	Subway		http://w.subway.com/en-IT/			F19	fastfood
+1131515113	Trento	15	38122	Via Camillo Benso Cavour			Pak Pizza & Doner Kebab					F20	fastfood
+1521825496	Trento	7	38122	Vicolo Benassuti			Focacceria Belvedere					F21	fastfood
+3697409370	Trento	42	38122	Via Giovanni Prati			Bottega della Piada					F22	fastfood
+6830933540							Mordi & Fuggi					F23	fastfood
+877620835	Trento	42	38122	Via Santa Croce	+39 0461 985263		Capatoast	IT02444110221	http://capatoast.it/trento.html			F24	fastfood
+1005713356	Trento	68	38122	Via del Travai		kebab;pizza	Max					F25	fastfood
+1152984020	Trento	55	38122	Largo Giosuè Carducci			Il posto di Ste					F26	fastfood
+1167979632	Trento	02-Jan	38122	Via 24 Maggio 1915			L'angolo dello Sfizio	IT02182480224				F27	fastfood
+1220020603	Trento	9	38122	Via Santissima Trinitá		regional	Ai Castelli Romani					F28	fastfood
+1313709067	Trento	1	38122	Vicolo delle Rogge	+39 329 8597519		PiadinAmore					F29	fastfood
+1478989830	Trento	46	38122	Via cardinale Cristoforo Madruzzo		kebab	La Goulette					F30	fastfood
+1503398796	Trento	31	38122	Largo Giosuè Carducci			Pizza Chef					F31	fastfood
+1523132849	Trento	24	38122	Largo Giosuè Carducci			Oblò Street Food					F32	fastfood
+5333845155	Trento	22	38122	Via Roggia Grande		fish_and_chips	Patatrak	IT02383460223				F33	fastfood
+557150055	Trento	11	38122	Piazza della Portella		burger	Piadineria L'angolo tondo	IT01893350221		Mo-Fr 11:30-14:30; Sa,Su fixme		F34	fastfood
+1687733877	Trento	7	38122	Via Prepositura	+39 0461 093321	pakistan; indian; pizza	Break Point	IT02374280226			yes	F35	fastfood
+2467487009	Trento	36/1	38122	Via San Giovanni		pizza	Pizzopolis					F36	fastfood
+1523162587	Trento	17/A	38122	Via degli Orbi			Tigella Bella					F37	fastfood
+853802391	Trento	68	38122	Via Giuseppe Grazioli		japanese;chinese;thai	Ni Hao	yes		Mo-Su 11:00-14:30,17:30-22:00	yes	F38	fastfood
+853803032	Trento	1	38122	Via Benedetto Giovanelli			Fast Food					F39	fastfood
+1264896580	Trento	24	38122	Via San Bernardino	+39 0461 262095	pizza	Pizza & Pizza	IT02144260227	http://pizzaepizza.altervista.org	Mo-Fr 11:30-14:30,18:00-22:00; Sa,Su 18:00-22:00		F40	fastfood
+5105133056						pizza	Mamma mia	yes				F41	fastfood
+73263491	Trento		38122	Piazza Alessandro Vittoria			Gusto Giusto					F42	fastfood
+74199071						kebab	Bari Chicken Grill			Mo-Th 11:00-01:30, Fr,Sa 11:00-04:00		F43	fastfood
+75356278		2/A	38122	Via San Francesco d'Assisi		sandwich	Kebab Venezia	IT02265010229	Muhammad Waquas	Su 15:00-22:30; Mo-Sa 10:30-22:30		F44	fastfood
+430675311	Trento	13	38122	Via Andrea Pozzo		kebab	New Friends Kebab	yes		Mo-Su 11:00-03:00		F45	fastfood
+867377379	Trento	7	38122	Via Andrea Pozzo			Fam&Gola					F46	fastfood
+1687733871	Trento	6	38122	Via Prepositura		pizza;kebab						F47	fastfood
+1366801131	Trento	81	38122	Via del Suffragio		pizza	NonSoloPizza					F48	fastfood
+72921865						kebab	La Bottega del Kebab			Mo-Su 08:00-22:30		F49	fastfood
+557992526	Trento	12	38122	Largo Nazario Sauro	+39 0461 981300	chinese	La Perla d'Oriente	yes		Mo-Su 10:30-14:30,17:30-22:30		F50	fastfood
+814239901	Trento	33/A	38122	Via Alessandro Manzoni		pizza	Pizza Granda	yes		Mo,We-Fr 11:00-15:00,18:00-22:00; Sa,Su 18:00-22:00		F51	fastfood
+1666211377	Trento	15	38122	Via Alessandro Manzoni		pizza	#PIZZAROAD		http://www.pizza-road.it/	Mo-Fr 11:00-14:00,18:30-21:30; Sa,Su 18:30-21:30		F52	fastfood
+4251314689		21	38122	Via Alessandro Manzoni		italian;deli;pasta	Lo Stuzzicatilly	yes		Su-Fr 09:30-16:00		F53	fastfood
+4764819021	Trento	30-Mar	38122	Via Felice e Gregorio Fontana		pizza;kebab	Emy	yes				F54	fastfood
+2076852083	Trento	19	38122	Via del Brennero		kebab	Al-Athir			Mo-Su 08:00-01:00		F55	fastfood
+7723646124		36/2		Via Ezio Maccani		pizza	Zac e Tac					F56	fastfood
+4497466439						burger	McDonald's	yes				F57	fastfood
+1226695010	Trento	80	38121	Via Antonio Pranzelores	+39 0461 828282	pizza	Da Andrea	yes		Mo-Fr 11:30-14:30,18:00-22:00;Sa-Su 18:00-22:00		F58	fastfood
+3899564057	Trento	111	38121	Via del Brennero	+39 0461 826790	burger	Burger King	yes	https://www.burgerking.it/ristoranti/trento-trento/	Mo-Su 11:00-01:00		F59	fastfood
+3999916780	Trento	11	38121	Via Guglielmo Marconi		italian	Pizza All'Angolo					F60	fastfood
+365499674	Trento	39/9	38121	Via dei Solteri	+39 0461 829523	pizza	NoFormat		https://www.facebook.com/pizzerianoformat/			F61	fastfood
+959911033	Trento	20	38121	Via Renato Lunelli	+39 0461 825594	pizza	Benny					F62	fastfood
+2463316762							Roadhouse Grill		http://www.roadhousegrill.it/			F63	fastfood
+2858848897	Trento	16	38121	Via Giovanni Battista Trener		pizza	Pizza Smile					F64	fastfood
+2311431867						pizza	Pizza Gardolo					F65	fastfood
+562715342	Lavis	33	38015	Via Matteotti	+39 0461 240321	pizza	Pizza Granda	yes	http://www.pizzagrandalavis.com/			F66	fastfood
+2872204377	Lavis	4	38015	Via Antonio Rosmini		kebab	Break time					F67	fastfood
+562715347						pizza	Lavis Pizza					F68	fastfood
+4593977000	Zambana	7	38010	Via Trento		pizza;kebab	Pizza Kebab Zambana					F69	fastfood
+1754018654	Mezzocorona	24	38016	Piazza San Gottardo		pizza						F70	fastfood
+4265067225						pizza;kebab	Golosità					F71	fastfood
+289227941	Trento	9/A	38123	Via della Resistenza		pizza	Pizza Rio	yes		Mo-Fr 11:30-14:00,18:00-21:00; Sa-Su 18:00-21:30; PH 18:00-21:30		F72	fastfood
+434228673						pizza	Pizzeria d'asporto					F73	fastfood
+643873322	Trento	5	38122	Via Gorizia	+39 0461 931663	kebab;pizza	Pizzeria Bella Italia	IT02377600222	http://bellaitalia-trento.it	Mo-Su 11:00-14:30,17:30-22:30		F74	fastfood
+2197903908	Trento	53	38122	Via dei Mille			Bar dei Mille					F75	fastfood
+1264896580	Trento	24	38122	Via San Bernardino	+39 0461 262095	pizza	Pizza & Pizza	IT02144260227	http://pizzaepizza.altervista.org	Mo-Fr 11:30-14:30,18:00-22:00; Sa,Su 18:00-22:00		F76	fastfood
+1934061227						pizza						F77	fastfood
+434228673						pizza	Pizzeria d'asporto					F78	fastfood
+1204785293	Mattarello	39	38123	Via Giulio Catoni		pizza	L'arte della pizza			Tu-Fr 11:00-13:45,17:30-21:30; Sa,Su 17:00-21:30		F79	fastfood
+6239554144		14		Via Guido Poli			Mero Pizza Kebab			Mo, We, Th, Sa 11:30-13:30, 17:30-22:30; Tu Off; Fr, Su 17:30-22:30		F80	fastfood
+1889573425							Caneva					F81	fastfood
+4313423619			38066			pizza	Mon Amour					F82	fastfood
+4315405789						kebab;pizza						F83	fastfood
+7726936704		8	38066	Viale Giosuè Carducci		italian;italian_pizza;pizza	Go Pizza			Mo-Su 12:00-14:30,17:30-21:00		F84	fastfood
+700335914						kebab	Doner Kebab					F85	fastfood
+4751030319						pizza;kebab						F86	fastfood
+324160740						pizza	Pronto Pizza					F87	fastfood
+8294410170						italian	Pappami					F88	fastfood
+1366734598	Rovereto	9C	38068	Borgo Santa Caterina		italian	al Silenzio	yes				F89	fastfood
+677962323							CONAD					F90	fastfood
+685236438						pizza	Pizza Break La Torretta	IT01734920224				F91	fastfood
+692409152						turkish; kebab	New Instanbul	IT02419180225				F92	fastfood
+2168813482						pizza	PizzAngolo					F93	fastfood
+417409275						kebab	Kebab					F94	fastfood
+1457025331	Rovereto	24	38068	Via Mercerie		piadina	PiadinAmore					F95	fastfood
+2151026707						pizza	Pizza al volo					F96	fastfood
+6210020202	Rovereto	24	38068	Via Mercerie		piadina	Piadinamore	yes			no	F97	fastfood
+7164404829	Rovereto	36	38068	Santa Maria	+39 3313533808		Momo's		https://www.facebook.com/Momos-Burger-103939221153685/			F98	fastfood
+940954576						pizza	In Teglia Pizza	yes			yes	F99	fastfood
+2151038360	Rovereto	12	38068	Corso Bettini		kebab	La Mia Africa	IT02380660221				F100	fastfood
+961362760							Waikiki Poké Rovereto	yes			yes	F101	fastfood
+899120910						asian	Nawab	yes			yes	F102	fastfood
+677962323							CONAD					F103	fastfood
+685236438						pizza	Pizza Break La Torretta	IT01734920224				F104	fastfood
+2151038360	Rovereto	12	38068	Corso Bettini		kebab	La Mia Africa	IT02380660221				F105	fastfood
+961362760							Waikiki Poké Rovereto	yes			yes	F106	fastfood
+899120910						asian	Nawab	yes			yes	F107	fastfood
+2168751554						kebab						F108	fastfood
+3813875433						pizza	Punto Pizza					F109	fastfood
+6870007779		14		Via Ergizio Bezzi		kebab	Ilir Kebab	yes				F110	fastfood
+6191790557						piadina	Vamolà	yes		Mo-Sa 11:45-14:15,18:30-21:00; Sa-Su 18:15-21:00; PH closed	no	F111	fastfood
+6405061138		10/B		Via Balista		pizza	Green Pizza	yes		Mo-Fr 11:00-14:30, 17:30-22:00; Sa, Su 17:30-22:00		F112	fastfood
+888908459							Mordi e Fuggi					F113	fastfood
+888908460						pizza	La mangiona	yes				F114	fastfood
+545783350	Rovereto	2	38068	Via Cimarosa		pizza		only		12:14-18:22	no	F115	fastfood
+545783350	Rovereto	2	38068	Via Cimarosa		pizza		only		12:14-18:22	no	F116	fastfood
+6191790557						piadina	Vamolà	yes		Mo-Sa 11:45-14:15,18:30-21:00; Sa-Su 18:15-21:00; PH closed	no	F117	fastfood
+6405061138		10/B		Via Balista		pizza	Green Pizza	yes		Mo-Fr 11:00-14:30, 17:30-22:00; Sa, Su 17:30-22:00		F118	fastfood
+1105959228	Arco	2	38062	Via Frumento			Pizzeria Kebab Kejepi					F119	fastfood
+1475075466			38062			pizza	Il Pizzaiolo					F120	fastfood
+3934052373							Speedy Pizza	yes				F121	fastfood
+4215205792	Borgo Valsugana	16a	38051	Piazza Alcide De Gasperi		pizza	Pizza al Taglio Titti	yes				F122	fastfood
+4215203887	Borgo Valsugana	4	38051	Piazzale Dante Alighieri		kebab	Borgo Kebab	yes				F123	fastfood
+2133570096	Caldonazzo	13	38052	Piazza Municipio		pizza	Pizza d'Asporto 50 Special	IT03216510242				F124	fastfood
+8401768367							Pizza d'asporto 50 Special					F125	fastfood
+9144490184							Rosticceria					F126	fastfood
+331526697							Pippotto					F127	fastfood
+7368915455	Castelnuovo	8	38050	Piazza del Municipio		pizza	Pizza Express					F128	fastfood
+1257221143							Pizza Take Away					F129	fastfood
+943766910							Polleria					F130	fastfood
+945470844	Cles	6	38023	Via Guglielmo Marconi		kebab;pizza	Istanbul Kebap & Pizzeria					F131	fastfood
+4020339038	Cles	4	38023	Piazza 1 Maggio		pizza	Al Pagi RistoPub					F132	fastfood
+58430604							Da Michele					F133	fastfood
+8207147208							Spiki Pizza					F134	fastfood
+1204785293	Mattarello	39	38123	Via Giulio Catoni		pizza	L'arte della pizza			Tu-Fr 11:00-13:45,17:30-21:30; Sa,Su 17:00-21:30		F135	fastfood
+6239554144		14		Via Guido Poli			Mero Pizza Kebab			Mo, We, Th, Sa 11:30-13:30, 17:30-22:30; Tu Off; Fr, Su 17:30-22:30		F136	fastfood
+1754018654	Mezzocorona	24	38016	Piazza San Gottardo		pizza						F137	fastfood
+4265067225						pizza;kebab	Golosità					F138	fastfood
+885639430	Mezzolombardo	3	38017	Via Arturo De Varda	+39 0461 604336	pizza	Lo Sfizio	yes		Mo Off		F139	fastfood
+1427239110	Mezzolombardo	4	38017	Via Arturo De Varda		kebab;pizza	Istanbul Pizza & Kebap	yes				F140	fastfood
+1614921129							Rosticceria Girardi					F141	fastfood
+1721724932	Mezzolombardo	85	38017	Via Roma	+39 0461 601502	pizza	Mangiamondo	yes	https://www.pizzeriamangiamondo.it/		yes	F142	fastfood
+870463242	Mezzolombardo	1/C	38017	Piazza Vittoria	+39 0461 606102	pizza	Pizza Granda	yes	http://pizzagranda.it/	Mo-Sa 11:30-14:30, 18:00-23:30; Su 18:00-23:30		F143	fastfood
+303826374							PizzaTime					F144	fastfood
+4202862139	Scurelle	10	38050	Via Beniamino Donzelli		pizza	La Saporita	yes				F145	fastfood
+666808301	Roncegno Terme	3	38050	Via Trogher			Al Goloso	IT02070210220				F146	fastfood
+87032693						pizza						F147	fastfood
+2364540530	Andalo	26/A	38010	Via Perli		pizza	La Marenda					F148	fastfood

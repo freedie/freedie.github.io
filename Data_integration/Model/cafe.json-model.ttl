@@ -1,0 +1,1332 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix etype: <http://knowdive.disi.unitn.it/etype#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node1foefl0nax1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "cafe.json" ;
+	km-dev:modelPublicationTime "1641163686634"^^xsd:long ;
+	km-dev:modelVersion "1.7" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"street\"}],[{\"columnName\":\"amenity\"}],[{\"columnName\":\"website\"}],[{\"columnName\":\"phone_number\"}],[{\"columnName\":\"opening_hours\"}],[{\"columnName\":\"diet_vegan\"}],[{\"columnName\":\"postcode\"}],[{\"columnName\":\"Location_ID\"}],[{\"columnName\":\"takeaway\"}],[{\"columnName\":\"housenumber\"}],[{\"columnName\":\"name\"}],[{\"columnName\":\"id\"}],[{\"columnName\":\"wheelchair\"}],[{\"columnName\":\"outdoor_seating\"}],[{\"columnName\":\"city\"}],[{\"columnName\":\"internet_access\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"street\"}],[{\"columnName\":\"amenity\"}],[{\"columnName\":\"website\"}],[{\"columnName\":\"phone_number\"}],[{\"columnName\":\"opening_hours\"}],[{\"columnName\":\"diet_vegan\"}],[{\"columnName\":\"postcode\"}],[{\"columnName\":\"Location_ID\"}],[{\"columnName\":\"takeaway\"}],[{\"columnName\":\"housenumber\"}],[{\"columnName\":\"name\"}],[{\"columnName\":\"id\"}],[{\"columnName\":\"wheelchair\"}],[{\"columnName\":\"outdoor_seating\"}],[{\"columnName\":\"city\"}],[{\"columnName\":\"internet_access\"}]]" ;
+	km-dev:hasModelLabel "cafe.json" ;
+	km-dev:hasBaseURI "http://localhost:8080/source/" ;
+	km-dev:hasWorksheetHistory """[
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"id\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_id_GID-31465_Type-43815\",
+                    \"DomainLabel\": \"etype:Cafe_GID-158041 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"id\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"id\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"city\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_city_GID-45969_Type-43815\",
+                    \"DomainLabel\": \"etype:Cafe_GID-158041\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"city\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"city\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"housenumber\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_housenumber_GID-34489_Type-43815\",
+                    \"DomainLabel\": \"etype:Cafe_GID-158041\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"housenumber\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"housenumber\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"postcode\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_postcode_GID-34110_Type-43815\",
+                    \"DomainLabel\": \"etype:Cafe_GID-158041\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"postcode\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"postcode\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"street\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_street_GID-24034_Type-43815\",
+                    \"DomainLabel\": \"etype:Cafe_GID-158041\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"street\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"street\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"phone_number\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-43815\",
+                    \"DomainLabel\": \"etype:Cafe_GID-158041\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"phone_number\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"phone_number\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"name\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_name_GID-2_Type-43815\",
+                    \"DomainLabel\": \"etype:Cafe_GID-158041\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"name\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"name\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"outdoor_seating\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_OutdoorSeating_GID-46525_Type-15804\",
+                    \"DomainLabel\": \"etype:Cafe_GID-158041\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"outdoor_seating\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"outdoor_seating\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"takeaway\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_Takeaway_GID-107450_Type-15804\",
+                    \"DomainLabel\": \"etype:Cafe_GID-158041\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"takeaway\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"takeaway\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"website\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_webSite_GID-34126_Type-43815\",
+                    \"DomainLabel\": \"etype:Cafe_GID-158041\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"website\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"website\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"opening_hours\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_opening_hours_GID-80563_Type-43815\",
+                    \"DomainLabel\": \"etype:Cafe_GID-158041\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"opening_hours\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"opening_hours\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"wheelchair\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_Wheelchair_GID-25446_Type-15804\",
+                    \"DomainLabel\": \"etype:Cafe_GID-158041\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"wheelchair\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"wheelchair\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"internet_access\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_internet_Access_GID-19562_Type-15804\",
+                    \"DomainLabel\": \"etype:Cafe_GID-158041\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"xsd:boolean\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"internet_access\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"internet_access\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"diet_vegan\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_diet_Vegan_GID-300002_Type-15804\",
+                    \"DomainLabel\": \"etype:Cafe_GID-158041\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"xsd:boolean\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"diet_vegan\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"diet_vegan\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetMetaPropertyCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Location_ID\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"metaPropertyName\",
+                \"type\": \"other\",
+                \"value\": \"isUriOfClass\"
+            },
+            {
+                \"name\": \"metaPropertyUri\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Location_GID-779\"
+            },
+            {
+                \"name\": \"metaPropertyId\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Location_GID-7791\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Location_GID-779\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Location_GID-7791\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
+                    \"DomainLabel\": \"etype:Location_GID-7791 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Location_ID\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Location_ID\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"amenity\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_amenity_GID-2973_Type-43815\",
+                    \"DomainLabel\": \"etype:Cafe_GID-158041\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"amenity\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"amenity\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Location_GID-7791\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#has_Location_GID-779_Type-779\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Location_GID-779\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-158041\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#Cafe_GID-15804\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    }
+]""" .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 a rr:TriplesMap .
+
+_:node1foefl0nax1 km-dev:hasTriplesMap km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax2 rr:tableName "cafe.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasLogicalTable _:node1foefl0nax2 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:logicalTable _:node1foefl0nax2 ;
+	rr:subjectMap _:node1foefl0nax3 .
+
+_:node1foefl0nax1 km-dev:hasSubjectMap _:node1foefl0nax3 .
+
+_:node1foefl0nax3 km-dev:isPartOfMapping _:node1foefl0nax1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Cafe_GID-158041" ;
+	rr:class etype:Cafe_GID-15804 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Cafe_GID-158041" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_73142fc5-4f2a-4b1d-bf3f-649c2a7c6364 rr:predicate etype:has_Location_GID-779_Type-779 .
+
+km-dev:RefObjectMap_02932cf4-de52-4643-9a75-495374d2fb97 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_0233a536-905c-4d67-98b9-30d69985067e ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap km-dev:RefObjectMap_02932cf4-de52-4643-9a75-495374d2fb97 .
+
+km-dev:PredicateObjectMap_73142fc5-4f2a-4b1d-bf3f-649c2a7c6364 rr:objectMap km-dev:RefObjectMap_02932cf4-de52-4643-9a75-495374d2fb97 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_73142fc5-4f2a-4b1d-bf3f-649c2a7c6364 .
+
+km-dev:PredicateObjectMap_73142fc5-4f2a-4b1d-bf3f-649c2a7c6364 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_73142fc5-4f2a-4b1d-bf3f-649c2a7c6364 .
+
+km-dev:PredicateObjectMap_111b4457-1260-4514-920b-afeceb249e98 rr:predicate etype:has_street_GID-24034_Type-43815 .
+
+_:node1foefl0nax4 rr:column "street" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap _:node1foefl0nax4 .
+
+km-dev:PredicateObjectMap_111b4457-1260-4514-920b-afeceb249e98 rr:objectMap _:node1foefl0nax4 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_111b4457-1260-4514-920b-afeceb249e98 .
+
+km-dev:PredicateObjectMap_111b4457-1260-4514-920b-afeceb249e98 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_111b4457-1260-4514-920b-afeceb249e98 .
+
+km-dev:PredicateObjectMap_b8124415-eab7-4e4c-acf6-6c17e63f030e rr:predicate etype:has_amenity_GID-2973_Type-43815 .
+
+_:node1foefl0nax5 rr:column "amenity" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap _:node1foefl0nax5 .
+
+km-dev:PredicateObjectMap_b8124415-eab7-4e4c-acf6-6c17e63f030e rr:objectMap _:node1foefl0nax5 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_b8124415-eab7-4e4c-acf6-6c17e63f030e .
+
+km-dev:PredicateObjectMap_b8124415-eab7-4e4c-acf6-6c17e63f030e a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_b8124415-eab7-4e4c-acf6-6c17e63f030e .
+
+km-dev:PredicateObjectMap_f87331a6-81b3-4656-aacb-555973755092 rr:predicate etype:has_webSite_GID-34126_Type-43815 .
+
+_:node1foefl0nax6 rr:column "website" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap _:node1foefl0nax6 .
+
+km-dev:PredicateObjectMap_f87331a6-81b3-4656-aacb-555973755092 rr:objectMap _:node1foefl0nax6 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_f87331a6-81b3-4656-aacb-555973755092 .
+
+km-dev:PredicateObjectMap_f87331a6-81b3-4656-aacb-555973755092 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_f87331a6-81b3-4656-aacb-555973755092 .
+
+km-dev:PredicateObjectMap_6e36f98b-3aed-4b12-accc-2de1055e0455 rr:predicate etype:has_phone_number_GID-34494_Type-43815 .
+
+_:node1foefl0nax7 rr:column "phone_number" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap _:node1foefl0nax7 .
+
+km-dev:PredicateObjectMap_6e36f98b-3aed-4b12-accc-2de1055e0455 rr:objectMap _:node1foefl0nax7 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_6e36f98b-3aed-4b12-accc-2de1055e0455 .
+
+km-dev:PredicateObjectMap_6e36f98b-3aed-4b12-accc-2de1055e0455 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_6e36f98b-3aed-4b12-accc-2de1055e0455 .
+
+km-dev:PredicateObjectMap_22264473-caff-44e9-8474-7365fdbafd3e rr:predicate etype:has_opening_hours_GID-80563_Type-43815 .
+
+_:node1foefl0nax8 rr:column "opening_hours" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap _:node1foefl0nax8 .
+
+km-dev:PredicateObjectMap_22264473-caff-44e9-8474-7365fdbafd3e rr:objectMap _:node1foefl0nax8 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_22264473-caff-44e9-8474-7365fdbafd3e .
+
+km-dev:PredicateObjectMap_22264473-caff-44e9-8474-7365fdbafd3e a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_22264473-caff-44e9-8474-7365fdbafd3e .
+
+km-dev:PredicateObjectMap_971ce309-8c7e-40fc-bf01-fc24ae711ef8 rr:predicate etype:has_diet_Vegan_GID-300002_Type-15804 .
+
+_:node1foefl0nax9 rr:column "diet_vegan" ;
+	a rr:ObjectMap ;
+	rr:datatype "http://www.w3.org/2001/XMLSchema#boolean" ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap _:node1foefl0nax9 .
+
+km-dev:PredicateObjectMap_971ce309-8c7e-40fc-bf01-fc24ae711ef8 rr:objectMap _:node1foefl0nax9 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_971ce309-8c7e-40fc-bf01-fc24ae711ef8 .
+
+km-dev:PredicateObjectMap_971ce309-8c7e-40fc-bf01-fc24ae711ef8 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_971ce309-8c7e-40fc-bf01-fc24ae711ef8 .
+
+km-dev:PredicateObjectMap_6aa07c87-4f2c-4979-b601-12b1e3b2090a rr:predicate etype:has_postcode_GID-34110_Type-43815 .
+
+_:node1foefl0nax10 rr:column "postcode" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap _:node1foefl0nax10 .
+
+km-dev:PredicateObjectMap_6aa07c87-4f2c-4979-b601-12b1e3b2090a rr:objectMap _:node1foefl0nax10 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_6aa07c87-4f2c-4979-b601-12b1e3b2090a .
+
+km-dev:PredicateObjectMap_6aa07c87-4f2c-4979-b601-12b1e3b2090a a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_6aa07c87-4f2c-4979-b601-12b1e3b2090a .
+
+km-dev:PredicateObjectMap_c324d98c-25e3-4222-9194-917fd51b80d5 rr:predicate etype:has_Takeaway_GID-107450_Type-15804 .
+
+_:node1foefl0nax11 rr:column "takeaway" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap _:node1foefl0nax11 .
+
+km-dev:PredicateObjectMap_c324d98c-25e3-4222-9194-917fd51b80d5 rr:objectMap _:node1foefl0nax11 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_c324d98c-25e3-4222-9194-917fd51b80d5 .
+
+km-dev:PredicateObjectMap_c324d98c-25e3-4222-9194-917fd51b80d5 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c324d98c-25e3-4222-9194-917fd51b80d5 .
+
+km-dev:PredicateObjectMap_be1b5f71-48cb-4057-b283-fc495c7cd44b rr:predicate etype:has_housenumber_GID-34489_Type-43815 .
+
+_:node1foefl0nax12 rr:column "housenumber" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap _:node1foefl0nax12 .
+
+km-dev:PredicateObjectMap_be1b5f71-48cb-4057-b283-fc495c7cd44b rr:objectMap _:node1foefl0nax12 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_be1b5f71-48cb-4057-b283-fc495c7cd44b .
+
+km-dev:PredicateObjectMap_be1b5f71-48cb-4057-b283-fc495c7cd44b a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_be1b5f71-48cb-4057-b283-fc495c7cd44b .
+
+km-dev:PredicateObjectMap_1fdbf808-d2b0-49a5-a370-67ab11d1ef1f rr:predicate etype:has_name_GID-2_Type-43815 .
+
+_:node1foefl0nax13 rr:column "name" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap _:node1foefl0nax13 .
+
+km-dev:PredicateObjectMap_1fdbf808-d2b0-49a5-a370-67ab11d1ef1f rr:objectMap _:node1foefl0nax13 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_1fdbf808-d2b0-49a5-a370-67ab11d1ef1f .
+
+km-dev:PredicateObjectMap_1fdbf808-d2b0-49a5-a370-67ab11d1ef1f a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_1fdbf808-d2b0-49a5-a370-67ab11d1ef1f .
+
+km-dev:PredicateObjectMap_847a7d50-b08c-4fff-b4dc-91e730547992 rr:predicate etype:has_id_GID-31465_Type-43815 .
+
+_:node1foefl0nax14 rr:column "id" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap _:node1foefl0nax14 .
+
+km-dev:PredicateObjectMap_847a7d50-b08c-4fff-b4dc-91e730547992 rr:objectMap _:node1foefl0nax14 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_847a7d50-b08c-4fff-b4dc-91e730547992 .
+
+km-dev:PredicateObjectMap_847a7d50-b08c-4fff-b4dc-91e730547992 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_847a7d50-b08c-4fff-b4dc-91e730547992 .
+
+km-dev:PredicateObjectMap_4c4f810a-1de3-4b23-bc07-e156a4c79467 rr:predicate etype:has_Wheelchair_GID-25446_Type-15804 .
+
+_:node1foefl0nax15 rr:column "wheelchair" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap _:node1foefl0nax15 .
+
+km-dev:PredicateObjectMap_4c4f810a-1de3-4b23-bc07-e156a4c79467 rr:objectMap _:node1foefl0nax15 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_4c4f810a-1de3-4b23-bc07-e156a4c79467 .
+
+km-dev:PredicateObjectMap_4c4f810a-1de3-4b23-bc07-e156a4c79467 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_4c4f810a-1de3-4b23-bc07-e156a4c79467 .
+
+km-dev:PredicateObjectMap_fa26167e-7a60-426b-a967-61acb623f5dd rr:predicate etype:has_OutdoorSeating_GID-46525_Type-15804 .
+
+_:node1foefl0nax16 rr:column "outdoor_seating" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap _:node1foefl0nax16 .
+
+km-dev:PredicateObjectMap_fa26167e-7a60-426b-a967-61acb623f5dd rr:objectMap _:node1foefl0nax16 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_fa26167e-7a60-426b-a967-61acb623f5dd .
+
+km-dev:PredicateObjectMap_fa26167e-7a60-426b-a967-61acb623f5dd a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_fa26167e-7a60-426b-a967-61acb623f5dd .
+
+km-dev:PredicateObjectMap_47f4a0bf-0158-4e93-9c5a-dd9f75df9cd0 rr:predicate etype:has_city_GID-45969_Type-43815 .
+
+_:node1foefl0nax17 rr:column "city" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap _:node1foefl0nax17 .
+
+km-dev:PredicateObjectMap_47f4a0bf-0158-4e93-9c5a-dd9f75df9cd0 rr:objectMap _:node1foefl0nax17 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_47f4a0bf-0158-4e93-9c5a-dd9f75df9cd0 .
+
+km-dev:PredicateObjectMap_47f4a0bf-0158-4e93-9c5a-dd9f75df9cd0 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_47f4a0bf-0158-4e93-9c5a-dd9f75df9cd0 .
+
+km-dev:PredicateObjectMap_ffb24288-bbe2-4662-beb9-84650f26f456 rr:predicate etype:has_internet_Access_GID-19562_Type-15804 .
+
+_:node1foefl0nax18 rr:column "internet_access" ;
+	a rr:ObjectMap ;
+	rr:datatype "http://www.w3.org/2001/XMLSchema#boolean" ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasObjectMap _:node1foefl0nax18 .
+
+km-dev:PredicateObjectMap_ffb24288-bbe2-4662-beb9-84650f26f456 rr:objectMap _:node1foefl0nax18 .
+
+km-dev:TriplesMap_ae89b8ba-c024-43b8-908f-77fef549dd30 rr:predicateObjectMap km-dev:PredicateObjectMap_ffb24288-bbe2-4662-beb9-84650f26f456 .
+
+km-dev:PredicateObjectMap_ffb24288-bbe2-4662-beb9-84650f26f456 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_ffb24288-bbe2-4662-beb9-84650f26f456 .
+
+km-dev:TriplesMap_0233a536-905c-4d67-98b9-30d69985067e a rr:TriplesMap .
+
+_:node1foefl0nax1 km-dev:hasTriplesMap km-dev:TriplesMap_0233a536-905c-4d67-98b9-30d69985067e .
+
+km-dev:TriplesMap_0233a536-905c-4d67-98b9-30d69985067e km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax19 rr:tableName "cafe.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1foefl0nax1 .
+
+_:node1foefl0nax1 km-dev:hasLogicalTable _:node1foefl0nax19 .
+
+km-dev:TriplesMap_0233a536-905c-4d67-98b9-30d69985067e rr:logicalTable _:node1foefl0nax19 ;
+	rr:subjectMap _:node1foefl0nax20 .
+
+_:node1foefl0nax1 km-dev:hasSubjectMap _:node1foefl0nax20 .
+
+_:node1foefl0nax20 km-dev:isPartOfMapping _:node1foefl0nax1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Location_GID-7791" ;
+	rr:class etype:Location_GID-779 ;
+	rr:template "{Location_ID}" .

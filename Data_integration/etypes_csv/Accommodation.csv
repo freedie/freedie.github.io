@@ -1,0 +1,401 @@
+id	price	type
+37736	58	Apartment
+56292	90	Apartment
+138917	240	Apartment
+367596	75	Apartment
+398211	90	Apartment
+398240	65	Apartment
+398249	50	Apartment
+444104	100	Apartment
+578775	31	Apartment
+587230	57	Apartment
+661736	120	Apartment
+666144	39	Apartment
+715781	300	Apartment
+726907	68	Apartment
+726936	88	Apartment
+730565	125	Apartment
+740209	101	Apartment
+745668	60	Apartment
+772315	69	Apartment
+772318	63	Apartment
+872611	80	Apartment
+873945	80	Apartment
+921139	80	Apartment
+927170	88	Apartment
+946214	84	Apartment
+960850	98	Apartment
+1016693	66	Apartment
+1211930	95	Apartment
+1248260	46	Apartment
+1252024	120	Apartment
+1278542	43	Apartment
+1278750	33	Apartment
+1344922	85	Apartment
+1389891	250	Apartment
+1453842	158	Apartment
+1457725	90	Apartment
+1544744	80	Apartment
+1561239	35	Apartment
+1647050	112	Apartment
+1648750	104	Apartment
+1652881	80	Apartment
+1700712	91	Apartment
+1711668	120	Apartment
+1715277	86	Apartment
+1716587	110	Apartment
+1733796	89	Apartment
+1736819	70	Apartment
+1748581	120	Apartment
+1758877	90	Apartment
+1770327	213	Apartment
+1777329	108	Apartment
+1780256	84	Apartment
+1845279	70	Apartment
+1864113	160	Apartment
+1882273	67	Apartment
+1885587	66	Apartment
+1992640	90	Apartment
+2002066	66	Apartment
+2002148	121	Apartment
+2002317	108	Apartment
+2011959	23	Apartment
+2021500	100	Apartment
+2033118	21	Apartment
+2033190	24	Apartment
+2054723	73	Apartment
+2125785	80	Apartment
+2168118	82	Apartment
+2227624	95	Apartment
+2241212	100	Apartment
+2245097	43	Apartment
+2251219	79	Apartment
+2297081	147	Apartment
+2324307	66	Apartment
+2329082	143	Apartment
+2330183	60	Apartment
+2354665	57	Apartment
+2395846	70	Apartment
+2403403	110	Apartment
+2404048	90	Apartment
+2413100	76	Apartment
+2415923	51	Apartment
+2416868	79	Apartment
+2422754	55	Apartment
+2422910	78	Apartment
+2427227	79	Apartment
+2428969	55	Apartment
+2431711	86	Apartment
+2434951	54	Apartment
+2445167	56	Apartment
+2448852	55	Apartment
+2465157	225	Apartment
+2475095	75	Apartment
+2478117	87	Apartment
+2487685	75	Apartment
+2541767	95	Apartment
+2579727	240	Apartment
+2582877	100	Apartment
+2613779	108	Apartment
+2621845	63	Apartment
+id	price	type
+249351	72	BB
+414591	70	BB
+1440752	76	BB
+1440859	80	BB
+1689369	59	BB
+1854763	170	BB
+1921298	110	BB
+2017726	170	BB
+2081704	74	BB
+2236311	75	BB
+2773830	78	BB
+2890713	56	BB
+2909773	95	BB
+3062569	72	BB
+3365713	55	BB
+3464772	70	BB
+3469536	110	BB
+3484693	50	BB
+3591347	115	BB
+3676799	75	BB
+3780134	50	BB
+4073751	84	BB
+4210132	55	BB
+4425260	49	BB
+4466786	48	BB
+4734463	79	BB
+4984036	198	BB
+5176727	120	BB
+5198395	61	BB
+5821479	82	BB
+5996670	74	BB
+6220439	118	BB
+6345874	55	BB
+6345895	75	BB
+7034346	76	BB
+7208528	45	BB
+7629271	60	BB
+7723970	22	BB
+7724982	22	BB
+7725932	81	BB
+7794557	120	BB
+7848759	68	BB
+7863209	95	BB
+7863958	70	BB
+8026380	71	BB
+8039887	60	BB
+8049005	54	BB
+8109135	60	BB
+8252993	76	BB
+8369105	80	BB
+8415500	100	BB
+8529956	130	BB
+8641708	120	BB
+8666291	56	BB
+9005917	43	BB
+9124013	110	BB
+9341840	45	BB
+9384663	75	BB
+9620421	589	BB
+10350088	32	BB
+11002130	75	BB
+11163269	80	BB
+11467369	64	BB
+11486025	53	BB
+12047429	53	BB
+12355211	67	BB
+12376427	51	BB
+12746965	45	BB
+13162961	90	BB
+13629533	90	BB
+13631032	120	BB
+13780178	35	BB
+13849645	500	BB
+13849914	500	BB
+13849973	500	BB
+13850037	500	BB
+13850107	500	BB
+13851033	500	BB
+13862113	160	BB
+13873200	59	BB
+13954978	34	BB
+14003745	48	BB
+14083933	152	BB
+14119179	80	BB
+14742262	112	BB
+15156232	45	BB
+15156555	45	BB
+15156722	45	BB
+15224777	50	BB
+15224920	50	BB
+15225126	65	BB
+15493285	90	BB
+15654659	136	BB
+15667310	99	BB
+15667521	89	BB
+15673323	116	BB
+15673754	113	BB
+15693922	74	BB
+15767742	113	BB
+id	price	type
+H1		Hotel
+H2		Hotel
+H3		Hotel
+H4		Hotel
+H5	16000	Hotel
+H6	19000	Hotel
+H7		Hotel
+H8		Hotel
+H9		Hotel
+H10		Hotel
+H11		Hotel
+H12	10500	Hotel
+H13	17200	Hotel
+H14	25000	Hotel
+H15		Hotel
+H16		Hotel
+H17		Hotel
+H18		Hotel
+H19	37200	Hotel
+H20		Hotel
+H21		Hotel
+H22		Hotel
+H23		Hotel
+H24		Hotel
+H25		Hotel
+H26		Hotel
+H27	0	Hotel
+H28		Hotel
+H29		Hotel
+H30	13700	Hotel
+H31	27000	Hotel
+H32	30000	Hotel
+H33		Hotel
+H34		Hotel
+H35		Hotel
+H36		Hotel
+H37	30000	Hotel
+H38		Hotel
+H39		Hotel
+H40		Hotel
+H41		Hotel
+H42		Hotel
+H43		Hotel
+H44		Hotel
+H45	18800	Hotel
+H46	8000	Hotel
+H47	14400	Hotel
+H48		Hotel
+H49		Hotel
+H50		Hotel
+H51		Hotel
+H52		Hotel
+H53		Hotel
+H54		Hotel
+H55		Hotel
+H56		Hotel
+H57		Hotel
+H58	23000	Hotel
+H59	31000	Hotel
+H60	39000	Hotel
+H61	9500	Hotel
+H62	20000	Hotel
+H63	27000	Hotel
+H64		Hotel
+H65		Hotel
+H66		Hotel
+H67		Hotel
+H68		Hotel
+H69		Hotel
+H70	12000	Hotel
+H71	16500	Hotel
+H72		Hotel
+H73		Hotel
+H74		Hotel
+H75	21500	Hotel
+H76		Hotel
+H77		Hotel
+H78		Hotel
+H79		Hotel
+H80		Hotel
+H81	8000	Hotel
+H82	13000	Hotel
+H83	17000	Hotel
+H84		Hotel
+H85		Hotel
+H86		Hotel
+H87		Hotel
+H88		Hotel
+H89	23200	Hotel
+H90	32480	Hotel
+H91		Hotel
+H92		Hotel
+H93		Hotel
+H94		Hotel
+H95		Hotel
+H96		Hotel
+H97		Hotel
+H98		Hotel
+H99		Hotel
+postcode	price	type
+CC1		Camping
+CC2		Camping
+CC3		Camping
+CC4		Camping
+CC5		Camping
+CC6		Camping
+CC7	1300	Camping
+CC8	0	Camping
+CC9	0	Camping
+CC10	8000	Camping
+CC11	4500	Camping
+CC12	6000	Camping
+CC13		Camping
+CC14		Camping
+CC15	1200	Camping
+CC16	0	Camping
+CC17		Camping
+CC18		Camping
+CC19		Camping
+CC20		Camping
+CC21		Camping
+CC22		Camping
+CC23	0	Camping
+CC24	0	Camping
+CC25	0	Camping
+CC26		Camping
+CC27		Camping
+CC28		Camping
+CC29		Camping
+CC30		Camping
+CC31		Camping
+CC32	600	Camping
+CC33	0	Camping
+CC34		Camping
+CC35		Camping
+CC36		Camping
+CC37	1300	Camping
+CC38	0	Camping
+CC39	11000	Camping
+CC40	12300	Camping
+CC41		Camping
+CC42		Camping
+CC43		Camping
+CC44		Camping
+CC45		Camping
+CC46	1000	Camping
+CC47	0	Camping
+CC48		Camping
+CC49		Camping
+CC50		Camping
+CC51		Camping
+CC52		Camping
+CC53		Camping
+CC54		Camping
+CC55	1450	Camping
+CC56	0	Camping
+CC57		Camping
+CC58		Camping
+CC59		Camping
+CC60		Camping
+CC61		Camping
+CC62		Camping
+CC63	1300	Camping
+CC64	0	Camping
+CC65	0	Camping
+CC66	11000	Camping
+CC67		Camping
+CC68		Camping
+CC69		Camping
+CC70		Camping
+CC71	1150	Camping
+CC72	0	Camping
+CC73		Camping
+CC74		Camping
+CC75	900	Camping
+CC76	0	Camping
+CC77	0	Camping
+CC78		Camping
+CC79		Camping
+CC80		Camping
+CC81	1100	Camping
+CC82	0	Camping
+CC83		Camping
+CC84		Camping
+CC85		Camping
+CC86		Camping
+CC87		Camping
+CC88	1280	Camping
+CC89	0	Camping
+CC90	18500	Camping
+CC91		Camping
+CC92		Camping
+CC93		Camping
+CC94		Camping
+CC95		Camping
+CC96		Camping
+CC97		Camping
+CC98	1400	Camping
+CC99	0	Camping
+		

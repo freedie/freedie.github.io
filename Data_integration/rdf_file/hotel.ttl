@@ -1,0 +1,1263 @@
+<http://localhost:8080/source/H1> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H1> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "lift to all floors" .
+<http://localhost:8080/source/H1> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-706427" .
+<http://localhost:8080/source/H1> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelaaritztrentino.it" .
+<http://localhost:8080/source/H1> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H1> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "23" .
+<http://localhost:8080/source/H1> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelcristallo.trentino.it" .
+<http://localhost:8080/source/H1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H1> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "LEVICO TERME" .
+<http://localhost:8080/source/H1> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "49" .
+<http://localhost:8080/source/H1> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38056" .
+
+<http://localhost:8080/source/H2> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "LEVICO TERME" .
+<http://localhost:8080/source/H2> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "49" .
+<http://localhost:8080/source/H2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H2> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "23" .
+<http://localhost:8080/source/H2> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-706427" .
+<http://localhost:8080/source/H2> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H2> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38056" .
+<http://localhost:8080/source/H2> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelcristallo.trentino.it" .
+<http://localhost:8080/source/H2> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H2> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Parking(secured for at least 50% of the housing units)" .
+<http://localhost:8080/source/H2> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelaaritztrentino.it" .
+
+<http://localhost:8080/source/H3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H3> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "23" .
+<http://localhost:8080/source/H3> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "TV in all bedrooms" .
+<http://localhost:8080/source/H3> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelcristallo.trentino.it" .
+<http://localhost:8080/source/H3> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H3> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-706427" .
+<http://localhost:8080/source/H3> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelaaritztrentino.it" .
+<http://localhost:8080/source/H3> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "49" .
+<http://localhost:8080/source/H3> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "LEVICO TERME" .
+<http://localhost:8080/source/H3> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H3> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38056" .
+
+<http://localhost:8080/source/H4> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "telephone in all rooms" .
+<http://localhost:8080/source/H4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H4> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelaaritztrentino.it" .
+<http://localhost:8080/source/H4> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "23" .
+<http://localhost:8080/source/H4> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H4> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H4> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "49" .
+<http://localhost:8080/source/H4> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38056" .
+<http://localhost:8080/source/H4> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-706427" .
+<http://localhost:8080/source/H4> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelcristallo.trentino.it" .
+<http://localhost:8080/source/H4> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "LEVICO TERME" .
+
+<http://localhost:8080/source/H5> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-706427" .
+<http://localhost:8080/source/H5> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H5> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "LEVICO TERME" .
+<http://localhost:8080/source/H5> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H5> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "23" .
+<http://localhost:8080/source/H5> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H5> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38056" .
+<http://localhost:8080/source/H5> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelcristallo.trentino.it" .
+<http://localhost:8080/source/H5> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H5> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelaaritztrentino.it" .
+<http://localhost:8080/source/H5> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "49" .
+<http://localhost:8080/source/H5> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "16000" .
+
+<http://localhost:8080/source/H6> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-706427" .
+<http://localhost:8080/source/H6> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H6> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "23" .
+<http://localhost:8080/source/H6> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "19000" .
+<http://localhost:8080/source/H6> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelaaritztrentino.it" .
+<http://localhost:8080/source/H6> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H6> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H6> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "49" .
+<http://localhost:8080/source/H6> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38056" .
+<http://localhost:8080/source/H6> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "LEVICO TERME" .
+<http://localhost:8080/source/H6> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H6> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelcristallo.trentino.it" .
+
+<http://localhost:8080/source/H7> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "86" .
+<http://localhost:8080/source/H7> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H7> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "lift to all floors" .
+<http://localhost:8080/source/H7> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H7> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-589127" .
+<http://localhost:8080/source/H7> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "36" .
+<http://localhost:8080/source/H7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H7> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelabetebianco.it" .
+<http://localhost:8080/source/H7> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H7> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H7> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelabetebianco.it" .
+
+<http://localhost:8080/source/H8> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H8> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Terrace or garden solarium" .
+<http://localhost:8080/source/H8> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-589127" .
+<http://localhost:8080/source/H8> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelabetebianco.it" .
+<http://localhost:8080/source/H8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H8> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H8> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelabetebianco.it" .
+<http://localhost:8080/source/H8> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "86" .
+<http://localhost:8080/source/H8> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "36" .
+<http://localhost:8080/source/H8> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H8> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H9> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H9> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H9> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Parking(secured for at least 50% of the housing units)" .
+<http://localhost:8080/source/H9> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-589127" .
+<http://localhost:8080/source/H9> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelabetebianco.it" .
+<http://localhost:8080/source/H9> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelabetebianco.it" .
+<http://localhost:8080/source/H9> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "36" .
+<http://localhost:8080/source/H9> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H9> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "86" .
+<http://localhost:8080/source/H9> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+
+<http://localhost:8080/source/H10> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "86" .
+<http://localhost:8080/source/H10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H10> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H10> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-589127" .
+<http://localhost:8080/source/H10> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H10> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H10> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelabetebianco.it" .
+<http://localhost:8080/source/H10> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "36" .
+<http://localhost:8080/source/H10> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelabetebianco.it" .
+<http://localhost:8080/source/H10> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H10> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "TV in all bedrooms" .
+
+<http://localhost:8080/source/H11> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "36" .
+<http://localhost:8080/source/H11> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "telephone in all rooms" .
+<http://localhost:8080/source/H11> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-589127" .
+<http://localhost:8080/source/H11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H11> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H11> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H11> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H11> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "86" .
+<http://localhost:8080/source/H11> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelabetebianco.it" .
+<http://localhost:8080/source/H11> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelabetebianco.it" .
+<http://localhost:8080/source/H11> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H12> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H12> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "10500" .
+<http://localhost:8080/source/H12> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-589127" .
+<http://localhost:8080/source/H12> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H12> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H12> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelabetebianco.it" .
+<http://localhost:8080/source/H12> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H12> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "36" .
+<http://localhost:8080/source/H12> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "86" .
+<http://localhost:8080/source/H12> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelabetebianco.it" .
+<http://localhost:8080/source/H12> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+
+<http://localhost:8080/source/H13> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H13> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H13> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H13> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelabetebianco.it" .
+<http://localhost:8080/source/H13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H13> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H13> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H13> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-589127" .
+<http://localhost:8080/source/H13> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelabetebianco.it" .
+<http://localhost:8080/source/H13> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "86" .
+<http://localhost:8080/source/H13> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "17200" .
+<http://localhost:8080/source/H13> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H13> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "36" .
+
+<http://localhost:8080/source/H14> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H14> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "36" .
+<http://localhost:8080/source/H14> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelabetebianco.it" .
+<http://localhost:8080/source/H14> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "86" .
+<http://localhost:8080/source/H14> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "25000" .
+<http://localhost:8080/source/H14> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-589127" .
+<http://localhost:8080/source/H14> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H14> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H14> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H14> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H14> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H14> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelabetebianco.it" .
+
+<http://localhost:8080/source/H15> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "36" .
+<http://localhost:8080/source/H15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H15> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "86" .
+<http://localhost:8080/source/H15> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H15> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H15> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-589127" .
+<http://localhost:8080/source/H15> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelabetebianco.it" .
+<http://localhost:8080/source/H15> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H15> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelabetebianco.it" .
+<http://localhost:8080/source/H15> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H15> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H15> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+
+<http://localhost:8080/source/H16> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H16> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "86" .
+<http://localhost:8080/source/H16> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H16> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "36" .
+<http://localhost:8080/source/H16> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "biroom-with-bathroom" .
+<http://localhost:8080/source/H16> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelabetebianco.it" .
+<http://localhost:8080/source/H16> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-589127" .
+<http://localhost:8080/source/H16> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H16> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H16> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelabetebianco.it" .
+<http://localhost:8080/source/H16> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+
+<http://localhost:8080/source/H17> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "36" .
+<http://localhost:8080/source/H17> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H17> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H17> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "86" .
+<http://localhost:8080/source/H17> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H17> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-589127" .
+<http://localhost:8080/source/H17> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H17> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "biroom-with-bathroom" .
+<http://localhost:8080/source/H17> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelabetebianco.it" .
+<http://localhost:8080/source/H17> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H17> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelabetebianco.it" .
+
+<http://localhost:8080/source/H18> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H18> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-589127" .
+<http://localhost:8080/source/H18> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelabetebianco.it" .
+<http://localhost:8080/source/H18> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H18> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H18> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "86" .
+<http://localhost:8080/source/H18> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelabetebianco.it" .
+<http://localhost:8080/source/H18> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "biroom-with-bathroom" .
+<http://localhost:8080/source/H18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H18> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H18> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "36" .
+<http://localhost:8080/source/H18> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H19> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H19> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H19> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelabetebianco.it" .
+<http://localhost:8080/source/H19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H19> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-589127" .
+<http://localhost:8080/source/H19> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H19> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelabetebianco.it" .
+<http://localhost:8080/source/H19> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "36" .
+<http://localhost:8080/source/H19> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H19> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "37200" .
+<http://localhost:8080/source/H19> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H19> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "86" .
+<http://localhost:8080/source/H19> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "biroom-with-bathroom" .
+
+<http://localhost:8080/source/H20> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H20> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H20> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H20> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H20> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H20> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "lift to all floors" .
+<http://localhost:8080/source/H20> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H20> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H20> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H20> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+
+<http://localhost:8080/source/H21> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H21> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H21> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H21> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H21> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H21> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H21> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Air conditioning in at least 80% of the housing units" .
+<http://localhost:8080/source/H21> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+<http://localhost:8080/source/H21> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H21> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+
+<http://localhost:8080/source/H22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H22> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Terrace or garden solarium" .
+<http://localhost:8080/source/H22> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H22> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H22> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H22> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H22> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H22> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H22> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H22> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+<http://localhost:8080/source/H22> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+
+<http://localhost:8080/source/H23> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H23> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H23> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "TV in all bedrooms" .
+<http://localhost:8080/source/H23> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H23> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+<http://localhost:8080/source/H23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H23> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H23> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H23> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H23> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H23> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+
+<http://localhost:8080/source/H24> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H24> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H24> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H24> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H24> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H24> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "telephone in all rooms" .
+<http://localhost:8080/source/H24> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H24> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H24> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+<http://localhost:8080/source/H24> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H25> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H25> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+<http://localhost:8080/source/H25> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H25> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H25> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Air conditioning in the restaurant and bar" .
+<http://localhost:8080/source/H25> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H25> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H25> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H25> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H25> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+
+<http://localhost:8080/source/H26> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H26> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H26> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H26> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H26> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+<http://localhost:8080/source/H26> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H26> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H26> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "jr-suite" .
+<http://localhost:8080/source/H26> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H26> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H26> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+
+<http://localhost:8080/source/H27> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H27> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H27> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+<http://localhost:8080/source/H27> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H27> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H27> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H27> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H27> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H27> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H27> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H27> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "0" .
+<http://localhost:8080/source/H27> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "jr-suite" .
+
+<http://localhost:8080/source/H28> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H28> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H28> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "jr-suite" .
+<http://localhost:8080/source/H28> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H28> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H28> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H28> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H28> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H28> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H28> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H28> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+
+<http://localhost:8080/source/H29> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H29> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H29> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H29> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H29> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H29> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H29> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H29> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "jr-suite" .
+<http://localhost:8080/source/H29> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H29> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+<http://localhost:8080/source/H29> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+
+<http://localhost:8080/source/H30> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H30> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H30> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H30> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H30> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H30> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+<http://localhost:8080/source/H30> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H30> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "13700" .
+<http://localhost:8080/source/H30> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H30> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H30> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H30> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+
+<http://localhost:8080/source/H31> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "27000" .
+<http://localhost:8080/source/H31> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H31> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H31> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H31> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H31> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H31> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H31> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H31> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H31> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+<http://localhost:8080/source/H31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H31> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H31> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+
+<http://localhost:8080/source/H32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H32> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H32> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H32> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+<http://localhost:8080/source/H32> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H32> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H32> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H32> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "30000" .
+<http://localhost:8080/source/H32> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H32> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H32> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H32> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H32> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+
+<http://localhost:8080/source/H33> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+<http://localhost:8080/source/H33> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H33> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H33> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H33> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H33> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H33> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H33> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H33> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H33> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H33> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+
+<http://localhost:8080/source/H34> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "biroom-with-bathroom" .
+<http://localhost:8080/source/H34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H34> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H34> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H34> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+<http://localhost:8080/source/H34> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H34> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H34> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H34> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H34> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H34> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H34> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+
+<http://localhost:8080/source/H35> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H35> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H35> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H35> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H35> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H35> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H35> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "biroom-with-bathroom" .
+<http://localhost:8080/source/H35> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H35> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H35> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H35> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+
+<http://localhost:8080/source/H36> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H36> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H36> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H36> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H36> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "biroom-with-bathroom" .
+<http://localhost:8080/source/H36> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H36> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H36> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+<http://localhost:8080/source/H36> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H36> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H36> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+
+<http://localhost:8080/source/H37> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38100" .
+<http://localhost:8080/source/H37> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@accademiahotel.it" .
+<http://localhost:8080/source/H37> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H37> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "78" .
+<http://localhost:8080/source/H37> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-233600" .
+<http://localhost:8080/source/H37> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "40" .
+<http://localhost:8080/source/H37> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H37> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "TRENTO" .
+<http://localhost:8080/source/H37> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "30000" .
+<http://localhost:8080/source/H37> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.accademiahotel.it" .
+<http://localhost:8080/source/H37> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "biroom-with-bathroom" .
+<http://localhost:8080/source/H37> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+
+<http://localhost:8080/source/H38> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "132" .
+<http://localhost:8080/source/H38> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H38> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "lift to all floors" .
+<http://localhost:8080/source/H38> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H38> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "77" .
+<http://localhost:8080/source/H38> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@negritella.it" .
+<http://localhost:8080/source/H38> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H38> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H38> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.negritella.it" .
+<http://localhost:8080/source/H38> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-585802" .
+
+<http://localhost:8080/source/H39> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Terrace or garden solarium" .
+<http://localhost:8080/source/H39> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H39> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "77" .
+<http://localhost:8080/source/H39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H39> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H39> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H39> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.negritella.it" .
+<http://localhost:8080/source/H39> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@negritella.it" .
+<http://localhost:8080/source/H39> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H39> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "132" .
+<http://localhost:8080/source/H39> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-585802" .
+
+<http://localhost:8080/source/H40> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Parking(secured for at least 50% of the housing units)" .
+<http://localhost:8080/source/H40> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@negritella.it" .
+<http://localhost:8080/source/H40> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "77" .
+<http://localhost:8080/source/H40> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.negritella.it" .
+<http://localhost:8080/source/H40> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H40> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H40> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "132" .
+<http://localhost:8080/source/H40> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H40> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H40> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-585802" .
+<http://localhost:8080/source/H40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+
+<http://localhost:8080/source/H41> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H41> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H41> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H41> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H41> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "132" .
+<http://localhost:8080/source/H41> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@negritella.it" .
+<http://localhost:8080/source/H41> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.negritella.it" .
+<http://localhost:8080/source/H41> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-585802" .
+<http://localhost:8080/source/H41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H41> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "77" .
+<http://localhost:8080/source/H41> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "TV in all bedrooms" .
+
+<http://localhost:8080/source/H42> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.negritella.it" .
+<http://localhost:8080/source/H42> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@negritella.it" .
+<http://localhost:8080/source/H42> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "77" .
+<http://localhost:8080/source/H42> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "telephone in all rooms" .
+<http://localhost:8080/source/H42> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-585802" .
+<http://localhost:8080/source/H42> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H42> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H42> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "132" .
+<http://localhost:8080/source/H42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H42> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H42> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H43> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H43> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H43> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H43> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H43> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "77" .
+<http://localhost:8080/source/H43> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H43> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.negritella.it" .
+<http://localhost:8080/source/H43> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "jr-suite" .
+<http://localhost:8080/source/H43> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-585802" .
+<http://localhost:8080/source/H43> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@negritella.it" .
+<http://localhost:8080/source/H43> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "132" .
+
+<http://localhost:8080/source/H44> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H44> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H44> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "jr-suite" .
+<http://localhost:8080/source/H44> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.negritella.it" .
+<http://localhost:8080/source/H44> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "132" .
+<http://localhost:8080/source/H44> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H44> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "77" .
+<http://localhost:8080/source/H44> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H44> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H44> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-585802" .
+<http://localhost:8080/source/H44> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@negritella.it" .
+
+<http://localhost:8080/source/H45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H45> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H45> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.negritella.it" .
+<http://localhost:8080/source/H45> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "18800" .
+<http://localhost:8080/source/H45> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H45> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "132" .
+<http://localhost:8080/source/H45> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H45> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "77" .
+<http://localhost:8080/source/H45> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-585802" .
+<http://localhost:8080/source/H45> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H45> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "jr-suite" .
+<http://localhost:8080/source/H45> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H45> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@negritella.it" .
+
+<http://localhost:8080/source/H46> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "132" .
+<http://localhost:8080/source/H46> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.negritella.it" .
+<http://localhost:8080/source/H46> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H46> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "8000" .
+<http://localhost:8080/source/H46> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H46> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H46> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H46> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H46> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-585802" .
+<http://localhost:8080/source/H46> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H46> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "77" .
+<http://localhost:8080/source/H46> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@negritella.it" .
+
+<http://localhost:8080/source/H47> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@negritella.it" .
+<http://localhost:8080/source/H47> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H47> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H47> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "14400" .
+<http://localhost:8080/source/H47> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.negritella.it" .
+<http://localhost:8080/source/H47> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H47> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H47> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H47> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-585802" .
+<http://localhost:8080/source/H47> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H47> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "132" .
+<http://localhost:8080/source/H47> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "77" .
+
+<http://localhost:8080/source/H48> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@negritella.it" .
+<http://localhost:8080/source/H48> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "77" .
+<http://localhost:8080/source/H48> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.negritella.it" .
+<http://localhost:8080/source/H48> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H48> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H48> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-585802" .
+<http://localhost:8080/source/H48> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H48> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H48> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "132" .
+<http://localhost:8080/source/H48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H48> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H48> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+
+<http://localhost:8080/source/H49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H49> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+<http://localhost:8080/source/H49> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H49> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Outdoor pool" .
+<http://localhost:8080/source/H49> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+<http://localhost:8080/source/H49> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H49> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+<http://localhost:8080/source/H49> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+<http://localhost:8080/source/H49> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+<http://localhost:8080/source/H49> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+<http://localhost:8080/source/H49> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H50> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+<http://localhost:8080/source/H50> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H50> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H50> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+<http://localhost:8080/source/H50> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+<http://localhost:8080/source/H50> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+<http://localhost:8080/source/H50> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+<http://localhost:8080/source/H50> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "lift to all floors" .
+<http://localhost:8080/source/H50> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H50> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+
+<http://localhost:8080/source/H51> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Air conditioning in at least 80% of the housing units" .
+<http://localhost:8080/source/H51> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+<http://localhost:8080/source/H51> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+<http://localhost:8080/source/H51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H51> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+<http://localhost:8080/source/H51> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H51> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H51> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H51> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+<http://localhost:8080/source/H51> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+<http://localhost:8080/source/H51> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+
+<http://localhost:8080/source/H52> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+<http://localhost:8080/source/H52> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+<http://localhost:8080/source/H52> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H52> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Terrace or garden solarium" .
+<http://localhost:8080/source/H52> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H52> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+<http://localhost:8080/source/H52> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+<http://localhost:8080/source/H52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H52> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+<http://localhost:8080/source/H52> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H52> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+
+<http://localhost:8080/source/H53> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+<http://localhost:8080/source/H53> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+<http://localhost:8080/source/H53> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H53> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+<http://localhost:8080/source/H53> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Parking(secured for at least 50% of the housing units)" .
+<http://localhost:8080/source/H53> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+<http://localhost:8080/source/H53> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H53> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H53> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+<http://localhost:8080/source/H53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H53> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+
+<http://localhost:8080/source/H54> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H54> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+<http://localhost:8080/source/H54> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+<http://localhost:8080/source/H54> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+<http://localhost:8080/source/H54> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "TV in all bedrooms" .
+<http://localhost:8080/source/H54> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+<http://localhost:8080/source/H54> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H54> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+<http://localhost:8080/source/H54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H54> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H54> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+
+<http://localhost:8080/source/H55> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+<http://localhost:8080/source/H55> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+<http://localhost:8080/source/H55> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+<http://localhost:8080/source/H55> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H55> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+<http://localhost:8080/source/H55> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H55> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+<http://localhost:8080/source/H55> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H55> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "telephone in all rooms" .
+<http://localhost:8080/source/H55> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+<http://localhost:8080/source/H55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+
+<http://localhost:8080/source/H56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H56> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+<http://localhost:8080/source/H56> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H56> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Air conditioning in the restaurant and bar" .
+<http://localhost:8080/source/H56> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+<http://localhost:8080/source/H56> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+<http://localhost:8080/source/H56> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+<http://localhost:8080/source/H56> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+<http://localhost:8080/source/H56> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H56> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+<http://localhost:8080/source/H56> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+
+<http://localhost:8080/source/H57> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H57> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H57> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "jr-suite" .
+<http://localhost:8080/source/H57> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H57> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+<http://localhost:8080/source/H57> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+<http://localhost:8080/source/H57> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+<http://localhost:8080/source/H57> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H57> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+<http://localhost:8080/source/H57> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+<http://localhost:8080/source/H57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H57> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+
+<http://localhost:8080/source/H58> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H58> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "23000" .
+<http://localhost:8080/source/H58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H58> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+<http://localhost:8080/source/H58> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H58> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+<http://localhost:8080/source/H58> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+<http://localhost:8080/source/H58> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+<http://localhost:8080/source/H58> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "jr-suite" .
+<http://localhost:8080/source/H58> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+<http://localhost:8080/source/H58> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H58> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H58> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+
+<http://localhost:8080/source/H59> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+<http://localhost:8080/source/H59> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+<http://localhost:8080/source/H59> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H59> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+<http://localhost:8080/source/H59> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+<http://localhost:8080/source/H59> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "31000" .
+<http://localhost:8080/source/H59> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H59> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "jr-suite" .
+<http://localhost:8080/source/H59> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H59> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H59> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+<http://localhost:8080/source/H59> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+
+<http://localhost:8080/source/H60> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H60> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H60> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+<http://localhost:8080/source/H60> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+<http://localhost:8080/source/H60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H60> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+<http://localhost:8080/source/H60> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "39000" .
+<http://localhost:8080/source/H60> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H60> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+<http://localhost:8080/source/H60> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H60> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+<http://localhost:8080/source/H60> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+<http://localhost:8080/source/H60> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "jr-suite" .
+
+<http://localhost:8080/source/H61> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "9500" .
+<http://localhost:8080/source/H61> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+<http://localhost:8080/source/H61> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H61> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H61> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+<http://localhost:8080/source/H61> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H61> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+<http://localhost:8080/source/H61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H61> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+<http://localhost:8080/source/H61> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H61> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+<http://localhost:8080/source/H61> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H61> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+
+<http://localhost:8080/source/H62> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H62> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H62> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H62> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+<http://localhost:8080/source/H62> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+<http://localhost:8080/source/H62> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+<http://localhost:8080/source/H62> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+<http://localhost:8080/source/H62> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H62> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "20000" .
+<http://localhost:8080/source/H62> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+<http://localhost:8080/source/H62> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H62> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+
+<http://localhost:8080/source/H63> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+<http://localhost:8080/source/H63> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+<http://localhost:8080/source/H63> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+<http://localhost:8080/source/H63> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H63> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+<http://localhost:8080/source/H63> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+<http://localhost:8080/source/H63> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "27000" .
+<http://localhost:8080/source/H63> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H63> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H63> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H63> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H63> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+
+<http://localhost:8080/source/H64> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.gioiosa.it" .
+<http://localhost:8080/source/H64> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H64> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "RIVA DEL GARDA" .
+<http://localhost:8080/source/H64> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38066" .
+<http://localhost:8080/source/H64> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "hotel@gioiosa.it" .
+<http://localhost:8080/source/H64> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "34" .
+<http://localhost:8080/source/H64> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "81" .
+<http://localhost:8080/source/H64> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H64> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H64> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0464-521356" .
+<http://localhost:8080/source/H64> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "4" .
+<http://localhost:8080/source/H64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+
+<http://localhost:8080/source/H65> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelgranzebru.com" .
+<http://localhost:8080/source/H65> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H65> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H65> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Terrace or garden solarium" .
+<http://localhost:8080/source/H65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H65> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelgranzebru.com" .
+<http://localhost:8080/source/H65> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H65> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "46" .
+<http://localhost:8080/source/H65> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0463-754433" .
+<http://localhost:8080/source/H65> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "20" .
+<http://localhost:8080/source/H65> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PEIO" .
+
+<http://localhost:8080/source/H66> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "46" .
+<http://localhost:8080/source/H66> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelgranzebru.com" .
+<http://localhost:8080/source/H66> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PEIO" .
+<http://localhost:8080/source/H66> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "20" .
+<http://localhost:8080/source/H66> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0463-754433" .
+<http://localhost:8080/source/H66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H66> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Parking(secured for at least 50% of the housing units)" .
+<http://localhost:8080/source/H66> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H66> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H66> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelgranzebru.com" .
+<http://localhost:8080/source/H66> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+
+<http://localhost:8080/source/H67> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PEIO" .
+<http://localhost:8080/source/H67> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "46" .
+<http://localhost:8080/source/H67> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "TV in all bedrooms" .
+<http://localhost:8080/source/H67> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "20" .
+<http://localhost:8080/source/H67> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H67> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H67> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelgranzebru.com" .
+<http://localhost:8080/source/H67> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelgranzebru.com" .
+<http://localhost:8080/source/H67> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0463-754433" .
+<http://localhost:8080/source/H67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H67> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H68> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "20" .
+<http://localhost:8080/source/H68> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "telephone in all rooms" .
+<http://localhost:8080/source/H68> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H68> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelgranzebru.com" .
+<http://localhost:8080/source/H68> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "46" .
+<http://localhost:8080/source/H68> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H68> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelgranzebru.com" .
+<http://localhost:8080/source/H68> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PEIO" .
+<http://localhost:8080/source/H68> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0463-754433" .
+<http://localhost:8080/source/H68> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+
+<http://localhost:8080/source/H69> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "46" .
+<http://localhost:8080/source/H69> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "20" .
+<http://localhost:8080/source/H69> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Sauna" .
+<http://localhost:8080/source/H69> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H69> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PEIO" .
+<http://localhost:8080/source/H69> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H69> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelgranzebru.com" .
+<http://localhost:8080/source/H69> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H69> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelgranzebru.com" .
+<http://localhost:8080/source/H69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H69> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0463-754433" .
+
+<http://localhost:8080/source/H70> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H70> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H70> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "12000" .
+<http://localhost:8080/source/H70> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H70> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "46" .
+<http://localhost:8080/source/H70> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H70> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelgranzebru.com" .
+<http://localhost:8080/source/H70> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0463-754433" .
+<http://localhost:8080/source/H70> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "20" .
+<http://localhost:8080/source/H70> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelgranzebru.com" .
+<http://localhost:8080/source/H70> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H70> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PEIO" .
+
+<http://localhost:8080/source/H71> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "20" .
+<http://localhost:8080/source/H71> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PEIO" .
+<http://localhost:8080/source/H71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H71> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelgranzebru.com" .
+<http://localhost:8080/source/H71> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H71> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "16500" .
+<http://localhost:8080/source/H71> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H71> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelgranzebru.com" .
+<http://localhost:8080/source/H71> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H71> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H71> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0463-754433" .
+<http://localhost:8080/source/H71> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "46" .
+<http://localhost:8080/source/H71> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+
+<http://localhost:8080/source/H72> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H72> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "46" .
+<http://localhost:8080/source/H72> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "20" .
+<http://localhost:8080/source/H72> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H72> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H72> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PEIO" .
+<http://localhost:8080/source/H72> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H72> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelgranzebru.com" .
+<http://localhost:8080/source/H72> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H72> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0463-754433" .
+<http://localhost:8080/source/H72> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelgranzebru.com" .
+
+<http://localhost:8080/source/H73> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelgranzebru.com" .
+<http://localhost:8080/source/H73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H73> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "20" .
+<http://localhost:8080/source/H73> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "46" .
+<http://localhost:8080/source/H73> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H73> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelgranzebru.com" .
+<http://localhost:8080/source/H73> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H73> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PEIO" .
+<http://localhost:8080/source/H73> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "biroom-with-bathroom" .
+<http://localhost:8080/source/H73> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H73> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H73> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0463-754433" .
+
+<http://localhost:8080/source/H74> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelgranzebru.com" .
+<http://localhost:8080/source/H74> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H74> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H74> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PEIO" .
+<http://localhost:8080/source/H74> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "biroom-with-bathroom" .
+<http://localhost:8080/source/H74> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H74> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H74> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0463-754433" .
+<http://localhost:8080/source/H74> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "46" .
+<http://localhost:8080/source/H74> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelgranzebru.com" .
+<http://localhost:8080/source/H74> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "20" .
+
+<http://localhost:8080/source/H75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H75> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H75> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "biroom-with-bathroom" .
+<http://localhost:8080/source/H75> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H75> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "21500" .
+<http://localhost:8080/source/H75> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PEIO" .
+<http://localhost:8080/source/H75> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0463-754433" .
+<http://localhost:8080/source/H75> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "46" .
+<http://localhost:8080/source/H75> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "20" .
+<http://localhost:8080/source/H75> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H75> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hotelgranzebru.com" .
+<http://localhost:8080/source/H75> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H75> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelgranzebru.com" .
+
+<http://localhost:8080/source/H76> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H76> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "30" .
+<http://localhost:8080/source/H76> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "62" .
+<http://localhost:8080/source/H76> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38037" .
+<http://localhost:8080/source/H76> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PREDAZZO" .
+<http://localhost:8080/source/H76> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H76> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0462-501239" .
+<http://localhost:8080/source/H76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H76> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Terrace or garden solarium" .
+<http://localhost:8080/source/H76> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@activehotelrosat.it" .
+<http://localhost:8080/source/H76> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelallarosa.it" .
+
+<http://localhost:8080/source/H77> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H77> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H77> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Parking(secured for at least 50% of the housing units)" .
+<http://localhost:8080/source/H77> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "30" .
+<http://localhost:8080/source/H77> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@activehotelrosat.it" .
+<http://localhost:8080/source/H77> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0462-501239" .
+<http://localhost:8080/source/H77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H77> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PREDAZZO" .
+<http://localhost:8080/source/H77> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelallarosa.it" .
+<http://localhost:8080/source/H77> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38037" .
+<http://localhost:8080/source/H77> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "62" .
+
+<http://localhost:8080/source/H78> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelallarosa.it" .
+<http://localhost:8080/source/H78> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "30" .
+<http://localhost:8080/source/H78> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38037" .
+<http://localhost:8080/source/H78> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0462-501239" .
+<http://localhost:8080/source/H78> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "TV in all bedrooms" .
+<http://localhost:8080/source/H78> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H78> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "62" .
+<http://localhost:8080/source/H78> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@activehotelrosat.it" .
+<http://localhost:8080/source/H78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H78> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PREDAZZO" .
+<http://localhost:8080/source/H78> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+
+<http://localhost:8080/source/H79> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H79> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "62" .
+<http://localhost:8080/source/H79> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PREDAZZO" .
+<http://localhost:8080/source/H79> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "30" .
+<http://localhost:8080/source/H79> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "telephone in all rooms" .
+<http://localhost:8080/source/H79> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelallarosa.it" .
+<http://localhost:8080/source/H79> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0462-501239" .
+<http://localhost:8080/source/H79> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38037" .
+<http://localhost:8080/source/H79> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@activehotelrosat.it" .
+<http://localhost:8080/source/H79> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H80> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@activehotelrosat.it" .
+<http://localhost:8080/source/H80> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelallarosa.it" .
+<http://localhost:8080/source/H80> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H80> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H80> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PREDAZZO" .
+<http://localhost:8080/source/H80> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Sauna" .
+<http://localhost:8080/source/H80> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0462-501239" .
+<http://localhost:8080/source/H80> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "62" .
+<http://localhost:8080/source/H80> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "30" .
+<http://localhost:8080/source/H80> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38037" .
+
+<http://localhost:8080/source/H81> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H81> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "8000" .
+<http://localhost:8080/source/H81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H81> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38037" .
+<http://localhost:8080/source/H81> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0462-501239" .
+<http://localhost:8080/source/H81> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "30" .
+<http://localhost:8080/source/H81> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H81> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@activehotelrosat.it" .
+<http://localhost:8080/source/H81> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H81> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "62" .
+<http://localhost:8080/source/H81> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PREDAZZO" .
+<http://localhost:8080/source/H81> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H81> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelallarosa.it" .
+
+<http://localhost:8080/source/H82> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@activehotelrosat.it" .
+<http://localhost:8080/source/H82> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H82> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0462-501239" .
+<http://localhost:8080/source/H82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H82> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelallarosa.it" .
+<http://localhost:8080/source/H82> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38037" .
+<http://localhost:8080/source/H82> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H82> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H82> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "30" .
+<http://localhost:8080/source/H82> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H82> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "13000" .
+<http://localhost:8080/source/H82> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PREDAZZO" .
+<http://localhost:8080/source/H82> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "62" .
+
+<http://localhost:8080/source/H83> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0462-501239" .
+<http://localhost:8080/source/H83> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "17000" .
+<http://localhost:8080/source/H83> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H83> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H83> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@activehotelrosat.it" .
+<http://localhost:8080/source/H83> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38037" .
+<http://localhost:8080/source/H83> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "62" .
+<http://localhost:8080/source/H83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H83> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H83> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H83> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hotelallarosa.it" .
+<http://localhost:8080/source/H83> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PREDAZZO" .
+<http://localhost:8080/source/H83> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "30" .
+
+<http://localhost:8080/source/H84> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "lift to all floors" .
+<http://localhost:8080/source/H84> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "90" .
+<http://localhost:8080/source/H84> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H84> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "43" .
+<http://localhost:8080/source/H84> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hoteladamello.com" .
+<http://localhost:8080/source/H84> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0364-903886" .
+<http://localhost:8080/source/H84> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hoteladamello.com" .
+<http://localhost:8080/source/H84> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H84> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H84> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PASSO DEL TONALE" .
+
+<http://localhost:8080/source/H85> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H85> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Terrace or garden solarium" .
+<http://localhost:8080/source/H85> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hoteladamello.com" .
+<http://localhost:8080/source/H85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H85> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hoteladamello.com" .
+<http://localhost:8080/source/H85> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "43" .
+<http://localhost:8080/source/H85> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "90" .
+<http://localhost:8080/source/H85> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PASSO DEL TONALE" .
+<http://localhost:8080/source/H85> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H85> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H85> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0364-903886" .
+
+<http://localhost:8080/source/H86> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hoteladamello.com" .
+<http://localhost:8080/source/H86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H86> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PASSO DEL TONALE" .
+<http://localhost:8080/source/H86> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Parking(secured for at least 50% of the housing units)" .
+<http://localhost:8080/source/H86> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H86> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H86> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hoteladamello.com" .
+<http://localhost:8080/source/H86> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "43" .
+<http://localhost:8080/source/H86> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "90" .
+<http://localhost:8080/source/H86> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H86> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0364-903886" .
+
+<http://localhost:8080/source/H87> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H87> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "43" .
+<http://localhost:8080/source/H87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H87> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H87> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "90" .
+<http://localhost:8080/source/H87> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PASSO DEL TONALE" .
+<http://localhost:8080/source/H87> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "TV in all bedrooms" .
+<http://localhost:8080/source/H87> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H87> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hoteladamello.com" .
+<http://localhost:8080/source/H87> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0364-903886" .
+<http://localhost:8080/source/H87> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hoteladamello.com" .
+
+<http://localhost:8080/source/H88> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PASSO DEL TONALE" .
+<http://localhost:8080/source/H88> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "telephone in all rooms" .
+<http://localhost:8080/source/H88> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hoteladamello.com" .
+<http://localhost:8080/source/H88> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H88> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H88> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "90" .
+<http://localhost:8080/source/H88> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hoteladamello.com" .
+<http://localhost:8080/source/H88> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0364-903886" .
+<http://localhost:8080/source/H88> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H88> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "43" .
+
+<http://localhost:8080/source/H89> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H89> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "90" .
+<http://localhost:8080/source/H89> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PASSO DEL TONALE" .
+<http://localhost:8080/source/H89> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H89> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "43" .
+<http://localhost:8080/source/H89> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H89> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hoteladamello.com" .
+<http://localhost:8080/source/H89> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0364-903886" .
+<http://localhost:8080/source/H89> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H89> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hoteladamello.com" .
+<http://localhost:8080/source/H89> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H89> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "23200" .
+
+<http://localhost:8080/source/H90> <http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254> "32480" .
+<http://localhost:8080/source/H90> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "90" .
+<http://localhost:8080/source/H90> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H90> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0364-903886" .
+<http://localhost:8080/source/H90> <http://knowdive.disi.unitn.it/etype#has_accommodation_category_GID-31828_Type-19355> "room-with-bathroom" .
+<http://localhost:8080/source/H90> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38020" .
+<http://localhost:8080/source/H90> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.hoteladamello.com" .
+<http://localhost:8080/source/H90> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@hoteladamello.com" .
+<http://localhost:8080/source/H90> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "PASSO DEL TONALE" .
+<http://localhost:8080/source/H90> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "43" .
+<http://localhost:8080/source/H90> <http://knowdive.disi.unitn.it/etype#has_stars_GID-31330_Type-19355> "3" .
+<http://localhost:8080/source/H90> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+
+<http://localhost:8080/source/H91> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.clubres.com" .
+<http://localhost:8080/source/H91> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "adler@clubres.com" .
+<http://localhost:8080/source/H91> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H91> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38035" .
+<http://localhost:8080/source/H91> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "lift to all floors" .
+<http://localhost:8080/source/H91> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "MOENA" .
+<http://localhost:8080/source/H91> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H91> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "24" .
+<http://localhost:8080/source/H91> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "96" .
+<http://localhost:8080/source/H91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H91> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0462-574144" .
+
+<http://localhost:8080/source/H92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H92> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "24" .
+<http://localhost:8080/source/H92> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38035" .
+<http://localhost:8080/source/H92> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H92> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H92> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "MOENA" .
+<http://localhost:8080/source/H92> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "adler@clubres.com" .
+<http://localhost:8080/source/H92> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "96" .
+<http://localhost:8080/source/H92> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0462-574144" .
+<http://localhost:8080/source/H92> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "gym" .
+<http://localhost:8080/source/H92> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.clubres.com" .
+
+<http://localhost:8080/source/H93> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "96" .
+<http://localhost:8080/source/H93> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H93> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Terrace or garden solarium" .
+<http://localhost:8080/source/H93> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "MOENA" .
+<http://localhost:8080/source/H93> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "adler@clubres.com" .
+<http://localhost:8080/source/H93> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.clubres.com" .
+<http://localhost:8080/source/H93> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H93> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "24" .
+<http://localhost:8080/source/H93> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38035" .
+<http://localhost:8080/source/H93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H93> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0462-574144" .
+
+<http://localhost:8080/source/H94> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0462-574144" .
+<http://localhost:8080/source/H94> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38035" .
+<http://localhost:8080/source/H94> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "adler@clubres.com" .
+<http://localhost:8080/source/H94> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H94> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H94> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.clubres.com" .
+<http://localhost:8080/source/H94> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "MOENA" .
+<http://localhost:8080/source/H94> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "covered pool" .
+<http://localhost:8080/source/H94> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "96" .
+<http://localhost:8080/source/H94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H94> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "24" .
+
+<http://localhost:8080/source/H95> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0462-574144" .
+<http://localhost:8080/source/H95> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Parking(secured for at least 50% of the housing units)" .
+<http://localhost:8080/source/H95> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H95> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "adler@clubres.com" .
+<http://localhost:8080/source/H95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H95> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "24" .
+<http://localhost:8080/source/H95> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H95> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38035" .
+<http://localhost:8080/source/H95> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.clubres.com" .
+<http://localhost:8080/source/H95> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "96" .
+<http://localhost:8080/source/H95> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "MOENA" .
+
+<http://localhost:8080/source/H96> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "MOENA" .
+<http://localhost:8080/source/H96> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H96> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "96" .
+<http://localhost:8080/source/H96> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0462-574144" .
+<http://localhost:8080/source/H96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H96> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "24" .
+<http://localhost:8080/source/H96> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H96> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "TV in all bedrooms" .
+<http://localhost:8080/source/H96> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38035" .
+<http://localhost:8080/source/H96> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "adler@clubres.com" .
+<http://localhost:8080/source/H96> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.clubres.com" .
+
+<http://localhost:8080/source/H97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H97> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0462-574144" .
+<http://localhost:8080/source/H97> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.clubres.com" .
+<http://localhost:8080/source/H97> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "adler@clubres.com" .
+<http://localhost:8080/source/H97> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38035" .
+<http://localhost:8080/source/H97> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "MOENA" .
+<http://localhost:8080/source/H97> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "96" .
+<http://localhost:8080/source/H97> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "breakfast" .
+<http://localhost:8080/source/H97> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "telephone in all rooms" .
+<http://localhost:8080/source/H97> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "24" .
+<http://localhost:8080/source/H97> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+
+<http://localhost:8080/source/H98> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H98> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@adlerhotel.it" .
+<http://localhost:8080/source/H98> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.adlerhotel.it" .
+<http://localhost:8080/source/H98> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-585828" .
+<http://localhost:8080/source/H98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H98> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "119" .
+<http://localhost:8080/source/H98> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "lift to all floors" .
+<http://localhost:8080/source/H98> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H98> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "59" .
+<http://localhost:8080/source/H98> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H98> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+
+<http://localhost:8080/source/H99> <http://knowdive.disi.unitn.it/etype#has_postal_code_GID-34110_Type-19355> "38010" .
+<http://localhost:8080/source/H99> <http://knowdive.disi.unitn.it/etype#has_phone_number_GID-34494_Type-19355> "0461-585828" .
+<http://localhost:8080/source/H99> <http://knowdive.disi.unitn.it/etype#has_City_GID-45969_Type-19355> "ANDALO" .
+<http://localhost:8080/source/H99> <http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254> "Hotel" .
+<http://localhost:8080/source/H99> <http://knowdive.disi.unitn.it/etype#has_Email_GID-33745_Type-19355> "info@adlerhotel.it" .
+<http://localhost:8080/source/H99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Hotel_GID-19355> .
+<http://localhost:8080/source/H99> <http://knowdive.disi.unitn.it/etype#has_type_boarding_GID-300001_Type-19355> "full-board" .
+<http://localhost:8080/source/H99> <http://knowdive.disi.unitn.it/etype#has_number_of_rooms_GID-22651_Type-19355> "59" .
+<http://localhost:8080/source/H99> <http://knowdive.disi.unitn.it/etype#has_number_of_beds_GID-15089_Type-19355> "119" .
+<http://localhost:8080/source/H99> <http://knowdive.disi.unitn.it/etype#has_description_service_GID-3_Type-19355> "Terrace or garden solarium" .
+<http://localhost:8080/source/H99> <http://knowdive.disi.unitn.it/etype#has_website_GID-34126_Type-19355> "www.adlerhotel.it" .
+
+

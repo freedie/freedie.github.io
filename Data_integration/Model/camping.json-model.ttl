@@ -1,0 +1,651 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix etype: <http://knowdive.disi.unitn.it/etype#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node1fodkd7jax1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "camping.json" ;
+	km-dev:modelPublicationTime "1641135119978"^^xsd:long ;
+	km-dev:modelVersion "1.7" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"website\"}],[{\"columnName\":\"phone_number\"}],[{\"columnName\":\"price\"}],[{\"columnName\":\"city\"}],[{\"columnName\":\"service\"}],[{\"columnName\":\"postcode\"}],[{\"columnName\":\"type\"}],[{\"columnName\":\"id\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"website\"}],[{\"columnName\":\"phone_number\"}],[{\"columnName\":\"price\"}],[{\"columnName\":\"city\"}],[{\"columnName\":\"service\"}],[{\"columnName\":\"postcode\"}],[{\"columnName\":\"type\"}],[{\"columnName\":\"id\"}]]" ;
+	km-dev:hasModelLabel "camping.json" ;
+	km-dev:hasBaseURI "http://localhost:8080/source/" ;
+	km-dev:hasWorksheetHistory """[
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"postcode\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-5440\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-54401\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_Postal_code_GID-34110_Type-5440\",
+                    \"DomainLabel\": \"etype:Camping_GID-54401 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"postcode\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"postcode\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"city\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-5440\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-54401\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_city_camping_GID-44481_Type-5440\",
+                    \"DomainLabel\": \"etype:Camping_GID-54401\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"city\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"city\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"id\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-5440\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-54401\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_ID_GID-31465_Type-14254\",
+                    \"DomainLabel\": \"etype:Camping_GID-54401\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"id\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"id\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"phone_number\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-5440\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-54401\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_Phone_number_GID-34494_Type-5440\",
+                    \"DomainLabel\": \"etype:Camping_GID-54401\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"phone_number\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"phone_number\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"website\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-5440\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-54401\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_Website_GID-34126_Type-5440\",
+                    \"DomainLabel\": \"etype:Camping_GID-54401\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"website\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"website\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"service\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-5440\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-54401\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_service_GID-3_Type-5440\",
+                    \"DomainLabel\": \"etype:Camping_GID-54401\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"service\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"service\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"price\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-5440\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-54401\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_price_GID-70571_Type-14254\",
+                    \"DomainLabel\": \"etype:Camping_GID-54401\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"price\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"price\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"type\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-5440\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Camping_GID-54401\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_type_GID-31834_Type-14254\",
+                    \"DomainLabel\": \"etype:Camping_GID-54401\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"type\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"type\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    }
+]""" .
+
+km-dev:TriplesMap_b483265f-a23b-4f6a-82fb-6ec24ebfc316 a rr:TriplesMap .
+
+_:node1fodkd7jax1 km-dev:hasTriplesMap km-dev:TriplesMap_b483265f-a23b-4f6a-82fb-6ec24ebfc316 .
+
+km-dev:TriplesMap_b483265f-a23b-4f6a-82fb-6ec24ebfc316 km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax2 rr:tableName "camping.json" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasLogicalTable _:node1fodkd7jax2 .
+
+km-dev:TriplesMap_b483265f-a23b-4f6a-82fb-6ec24ebfc316 rr:logicalTable _:node1fodkd7jax2 ;
+	rr:subjectMap _:node1fodkd7jax3 .
+
+_:node1fodkd7jax1 km-dev:hasSubjectMap _:node1fodkd7jax3 .
+
+_:node1fodkd7jax3 km-dev:isPartOfMapping _:node1fodkd7jax1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Camping_GID-54401" ;
+	rr:class etype:Camping_GID-5440 ;
+	rr:termType rr:BlankNode ;
+	km-dev:namePrefix "etype:Camping_GID-54401" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_c799eeaa-c9ba-4f7e-b32d-554746c4c548 rr:predicate etype:has_Website_GID-34126_Type-5440 .
+
+_:node1fodkd7jax4 rr:column "website" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasObjectMap _:node1fodkd7jax4 .
+
+km-dev:PredicateObjectMap_c799eeaa-c9ba-4f7e-b32d-554746c4c548 rr:objectMap _:node1fodkd7jax4 .
+
+km-dev:TriplesMap_b483265f-a23b-4f6a-82fb-6ec24ebfc316 rr:predicateObjectMap km-dev:PredicateObjectMap_c799eeaa-c9ba-4f7e-b32d-554746c4c548 .
+
+km-dev:PredicateObjectMap_c799eeaa-c9ba-4f7e-b32d-554746c4c548 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c799eeaa-c9ba-4f7e-b32d-554746c4c548 .
+
+km-dev:PredicateObjectMap_68fbaf3c-1fcd-4c59-8b48-2611a2e55f67 rr:predicate etype:has_Phone_number_GID-34494_Type-5440 .
+
+_:node1fodkd7jax5 rr:column "phone_number" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasObjectMap _:node1fodkd7jax5 .
+
+km-dev:PredicateObjectMap_68fbaf3c-1fcd-4c59-8b48-2611a2e55f67 rr:objectMap _:node1fodkd7jax5 .
+
+km-dev:TriplesMap_b483265f-a23b-4f6a-82fb-6ec24ebfc316 rr:predicateObjectMap km-dev:PredicateObjectMap_68fbaf3c-1fcd-4c59-8b48-2611a2e55f67 .
+
+km-dev:PredicateObjectMap_68fbaf3c-1fcd-4c59-8b48-2611a2e55f67 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_68fbaf3c-1fcd-4c59-8b48-2611a2e55f67 .
+
+km-dev:PredicateObjectMap_d7c58b1c-5d50-47c6-bb17-a0c9829f550b rr:predicate etype:has_price_GID-70571_Type-14254 .
+
+_:node1fodkd7jax6 rr:column "price" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasObjectMap _:node1fodkd7jax6 .
+
+km-dev:PredicateObjectMap_d7c58b1c-5d50-47c6-bb17-a0c9829f550b rr:objectMap _:node1fodkd7jax6 .
+
+km-dev:TriplesMap_b483265f-a23b-4f6a-82fb-6ec24ebfc316 rr:predicateObjectMap km-dev:PredicateObjectMap_d7c58b1c-5d50-47c6-bb17-a0c9829f550b .
+
+km-dev:PredicateObjectMap_d7c58b1c-5d50-47c6-bb17-a0c9829f550b a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_d7c58b1c-5d50-47c6-bb17-a0c9829f550b .
+
+km-dev:PredicateObjectMap_8164e16c-40c9-4d4f-86c5-59ff45e1423e rr:predicate etype:has_city_camping_GID-44481_Type-5440 .
+
+_:node1fodkd7jax7 rr:column "city" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasObjectMap _:node1fodkd7jax7 .
+
+km-dev:PredicateObjectMap_8164e16c-40c9-4d4f-86c5-59ff45e1423e rr:objectMap _:node1fodkd7jax7 .
+
+km-dev:TriplesMap_b483265f-a23b-4f6a-82fb-6ec24ebfc316 rr:predicateObjectMap km-dev:PredicateObjectMap_8164e16c-40c9-4d4f-86c5-59ff45e1423e .
+
+km-dev:PredicateObjectMap_8164e16c-40c9-4d4f-86c5-59ff45e1423e a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_8164e16c-40c9-4d4f-86c5-59ff45e1423e .
+
+km-dev:PredicateObjectMap_7f85e452-6cd2-40ca-bcdd-a0f79db8cb8a rr:predicate etype:has_service_GID-3_Type-5440 .
+
+_:node1fodkd7jax8 rr:column "service" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasObjectMap _:node1fodkd7jax8 .
+
+km-dev:PredicateObjectMap_7f85e452-6cd2-40ca-bcdd-a0f79db8cb8a rr:objectMap _:node1fodkd7jax8 .
+
+km-dev:TriplesMap_b483265f-a23b-4f6a-82fb-6ec24ebfc316 rr:predicateObjectMap km-dev:PredicateObjectMap_7f85e452-6cd2-40ca-bcdd-a0f79db8cb8a .
+
+km-dev:PredicateObjectMap_7f85e452-6cd2-40ca-bcdd-a0f79db8cb8a a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_7f85e452-6cd2-40ca-bcdd-a0f79db8cb8a .
+
+km-dev:PredicateObjectMap_7589a40b-21e0-490e-818c-83fe1e886974 rr:predicate etype:has_Postal_code_GID-34110_Type-5440 .
+
+_:node1fodkd7jax9 rr:column "postcode" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasObjectMap _:node1fodkd7jax9 .
+
+km-dev:PredicateObjectMap_7589a40b-21e0-490e-818c-83fe1e886974 rr:objectMap _:node1fodkd7jax9 .
+
+km-dev:TriplesMap_b483265f-a23b-4f6a-82fb-6ec24ebfc316 rr:predicateObjectMap km-dev:PredicateObjectMap_7589a40b-21e0-490e-818c-83fe1e886974 .
+
+km-dev:PredicateObjectMap_7589a40b-21e0-490e-818c-83fe1e886974 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_7589a40b-21e0-490e-818c-83fe1e886974 .
+
+km-dev:PredicateObjectMap_c30a8382-3361-4aeb-89bd-6f0ef7fd96d4 rr:predicate etype:has_type_GID-31834_Type-14254 .
+
+_:node1fodkd7jax10 rr:column "type" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasObjectMap _:node1fodkd7jax10 .
+
+km-dev:PredicateObjectMap_c30a8382-3361-4aeb-89bd-6f0ef7fd96d4 rr:objectMap _:node1fodkd7jax10 .
+
+km-dev:TriplesMap_b483265f-a23b-4f6a-82fb-6ec24ebfc316 rr:predicateObjectMap km-dev:PredicateObjectMap_c30a8382-3361-4aeb-89bd-6f0ef7fd96d4 .
+
+km-dev:PredicateObjectMap_c30a8382-3361-4aeb-89bd-6f0ef7fd96d4 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c30a8382-3361-4aeb-89bd-6f0ef7fd96d4 .
+
+km-dev:PredicateObjectMap_bf4efd33-2b14-4002-9bcb-993f77bf8644 rr:predicate etype:has_ID_GID-31465_Type-14254 .
+
+_:node1fodkd7jax11 rr:column "id" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasObjectMap _:node1fodkd7jax11 .
+
+km-dev:PredicateObjectMap_bf4efd33-2b14-4002-9bcb-993f77bf8644 rr:objectMap _:node1fodkd7jax11 .
+
+km-dev:TriplesMap_b483265f-a23b-4f6a-82fb-6ec24ebfc316 rr:predicateObjectMap km-dev:PredicateObjectMap_bf4efd33-2b14-4002-9bcb-993f77bf8644 .
+
+km-dev:PredicateObjectMap_bf4efd33-2b14-4002-9bcb-993f77bf8644 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1fodkd7jax1 .
+
+_:node1fodkd7jax1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_bf4efd33-2b14-4002-9bcb-993f77bf8644 .
