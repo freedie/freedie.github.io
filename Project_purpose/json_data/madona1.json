@@ -1,0 +1,386 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 8724072074,
+            "version": 1,
+            "timestamp": "2021-05-12T06:59:43Z",
+            "changeset": 104551563,
+            "uid": 7007430,
+            "user": "genk87",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Azzurro"
+            },
+            "lat": 46.224063,
+            "lon": 10.8240634
+        },
+        {
+            "type": "node",
+            "id": 5016695590,
+            "version": 4,
+            "timestamp": "2019-08-25T20:44:04Z",
+            "changeset": 73726369,
+            "uid": 5631066,
+            "user": "osm_fede",
+            "tags": {
+                "addr:city": "Tre Ville",
+                "addr:street": "Via Vallesinella",
+                "amenity": "restaurant",
+                "name": "Ristorante Piccadilly"
+            },
+            "lat": 46.2236245,
+            "lon": 10.828224
+        },
+        {
+            "type": "node",
+            "id": 5016686035,
+            "version": 3,
+            "timestamp": "2018-05-30T21:08:56Z",
+            "changeset": 59410369,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Ristorante Pappagallo"
+            },
+            "lat": 46.2252983,
+            "lon": 10.8236725
+        },
+        {
+            "type": "node",
+            "id": 2381700948,
+            "version": 3,
+            "timestamp": "2019-09-29T19:46:33Z",
+            "changeset": 75071012,
+            "uid": 1972608,
+            "user": "rabon",
+            "tags": {
+                "addr:city": "Madonna di Campiglio",
+                "addr:housenumber": "64",
+                "addr:postcode": "38084",
+                "addr:street": "Via Dolomiti di Brenta",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Ristorante Pizzeria Antico Focolare"
+            },
+            "lat": 46.226376,
+            "lon": 10.825985
+        },
+        {
+            "type": "node",
+            "id": 6835725712,
+            "version": 1,
+            "timestamp": "2019-09-29T19:46:24Z",
+            "changeset": 75071007,
+            "uid": 1972608,
+            "user": "rabon",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Rosengarten"
+            },
+            "lat": 46.2259621,
+            "lon": 10.8260496
+        },
+        {
+            "type": "node",
+            "id": 6241059685,
+            "version": 3,
+            "timestamp": "2020-05-14T14:45:09Z",
+            "changeset": 85207741,
+            "uid": 249316,
+            "user": "jopi56",
+            "tags": {
+                "addr:housenumber": "5",
+                "addr:street": "Via Vallesinella",
+                "amenity": "restaurant",
+                "email": "info@ristorantealfiero.it",
+                "name": "Alfiero",
+                "phone": "+39 0465 440 117",
+                "website": "https://ristorantealfieromadonnadicampiglio.business.site"
+            },
+            "lat": 46.2251659,
+            "lon": 10.8281206
+        },
+        {
+            "type": "node",
+            "id": 333791574,
+            "version": 3,
+            "timestamp": "2018-05-30T21:11:09Z",
+            "changeset": 59410424,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Caffé Maturi"
+            },
+            "lat": 46.229635,
+            "lon": 10.826907
+        },
+        {
+            "type": "node",
+            "id": 4960330833,
+            "version": 2,
+            "timestamp": "2018-04-09T14:36:34Z",
+            "changeset": 57942961,
+            "uid": 5631066,
+            "user": "osm_fede",
+            "tags": {
+                "addr:city": "Madonna di Campiglio",
+                "addr:street": "Viale Dolomiti di Brenta",
+                "amenity": "restaurant",
+                "cuisine": "sandwich;italian_pizza;kebab;pizza",
+                "name": "Il Ruggito",
+                "name:it": "Il Ruggito"
+            },
+            "lat": 46.2270183,
+            "lon": 10.8266511
+        },
+        {
+            "type": "node",
+            "id": 5779430797,
+            "version": 3,
+            "timestamp": "2019-10-03T10:59:08Z",
+            "changeset": 75225815,
+            "uid": 1972608,
+            "user": "rabon",
+            "tags": {
+                "addr:city": "Madonna di Campiglio",
+                "addr:housenumber": "27",
+                "addr:postcode": "38086",
+                "addr:street": "Via Monte Spinale",
+                "amenity": "food_court",
+                "name": "I Tre Sensi Restaurant",
+                "smoking": "outside"
+            },
+            "lat": 46.2291096,
+            "lon": 10.8291242
+        },
+        {
+            "type": "way",
+            "id": 610239683,
+            "version": 3,
+            "timestamp": "2019-10-03T10:59:08Z",
+            "changeset": 75225815,
+            "uid": 1972608,
+            "user": "rabon",
+            "tags": {
+                "addr:city": "Madonna di Campiglio",
+                "addr:housenumber": "27",
+                "addr:postcode": "38086",
+                "addr:street": "Via Monte Spinale",
+                "amenity": "cafe",
+                "building": "yes",
+                "description": "Breakfast, quick lunch, APRES SKI, Caffe, Aperitivi, Disco Music, Terrace Solarium, in front of Spinale Lift.",
+                "ele": "1520",
+                "email": "info@ober1.com",
+                "internet_access": "yes",
+                "name": "Ober1",
+                "payment:american_express": "yes",
+                "payment:cash": "yes",
+                "payment:maestro": "yes",
+                "payment:mastercard": "yes",
+                "payment:visa": "yes",
+                "phone": "+39 0465441136",
+                "smoking": "outside",
+                "source": "local knowledge",
+                "tourism": "Apres_Ski,_Caffe",
+                "website": "http://www.ober1.com",
+                "wheelchair": "yes"
+            },
+            "nodes": [
+                5779425410,
+                5779425411,
+                1113205756,
+                5779425412,
+                5779425413,
+                5779425414,
+                5779425415,
+                5779425416,
+                5779425410
+            ]
+        },
+        {
+            "type": "node",
+            "id": 5779425410,
+            "version": 1,
+            "timestamp": "2018-07-23T14:38:27Z",
+            "changeset": 60989916,
+            "uid": 8589864,
+            "user": "Padroz",
+            "lat": 46.2287017,
+            "lon": 10.8289822
+        },
+        {
+            "type": "node",
+            "id": 5779425411,
+            "version": 1,
+            "timestamp": "2018-07-23T14:38:27Z",
+            "changeset": 60989916,
+            "uid": 8589864,
+            "user": "Padroz",
+            "lat": 46.2286903,
+            "lon": 10.8291191
+        },
+        {
+            "type": "node",
+            "id": 1113205756,
+            "version": 3,
+            "timestamp": "2018-07-23T14:38:28Z",
+            "changeset": 60989916,
+            "uid": 8589864,
+            "user": "Padroz",
+            "lat": 46.2287564,
+            "lon": 10.8291305
+        },
+        {
+            "type": "node",
+            "id": 5779425412,
+            "version": 1,
+            "timestamp": "2018-07-23T14:38:27Z",
+            "changeset": 60989916,
+            "uid": 8589864,
+            "user": "Padroz",
+            "lat": 46.2287499,
+            "lon": 10.8292094
+        },
+        {
+            "type": "node",
+            "id": 5779425413,
+            "version": 1,
+            "timestamp": "2018-07-23T14:38:27Z",
+            "changeset": 60989916,
+            "uid": 8589864,
+            "user": "Padroz",
+            "lat": 46.2286927,
+            "lon": 10.8291995
+        },
+        {
+            "type": "node",
+            "id": 5779425414,
+            "version": 1,
+            "timestamp": "2018-07-23T14:38:27Z",
+            "changeset": 60989916,
+            "uid": 8589864,
+            "user": "Padroz",
+            "lat": 46.2286901,
+            "lon": 10.8292309
+        },
+        {
+            "type": "node",
+            "id": 5779425415,
+            "version": 1,
+            "timestamp": "2018-07-23T14:38:27Z",
+            "changeset": 60989916,
+            "uid": 8589864,
+            "user": "Padroz",
+            "lat": 46.2285725,
+            "lon": 10.8292105
+        },
+        {
+            "type": "node",
+            "id": 5779425416,
+            "version": 1,
+            "timestamp": "2018-07-23T14:38:27Z",
+            "changeset": 60989916,
+            "uid": 8589864,
+            "user": "Padroz",
+            "lat": 46.228593,
+            "lon": 10.8289634
+        },
+        {
+            "type": "node",
+            "id": 304632785,
+            "version": 3,
+            "timestamp": "2011-01-21T16:06:02Z",
+            "changeset": 7041640,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Arnica"
+            },
+            "lat": 46.2319427,
+            "lon": 10.8258459
+        },
+        {
+            "type": "node",
+            "id": 304632628,
+            "version": 2,
+            "timestamp": "2011-01-21T16:06:24Z",
+            "changeset": 7041640,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Pizzeria Ristorante Belvedere"
+            },
+            "lat": 46.2320688,
+            "lon": 10.8274323
+        },
+        {
+            "type": "node",
+            "id": 333791569,
+            "version": 3,
+            "timestamp": "2018-07-23T20:36:45Z",
+            "changeset": 60999013,
+            "uid": 290680,
+            "user": "wheelmap_visitor",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "name": "La Cantina di Suisse",
+                "wheelchair": "no"
+            },
+            "lat": 46.230922,
+            "lon": 10.8265841
+        },
+        {
+            "type": "node",
+            "id": 1438109519,
+            "version": 3,
+            "timestamp": "2018-05-30T21:12:03Z",
+            "changeset": 59410444,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "La Stube di Franz Josef"
+            },
+            "lat": 46.2305377,
+            "lon": 10.8267554
+        },
+        {
+            "type": "node",
+            "id": 5325769522,
+            "version": 1,
+            "timestamp": "2018-01-07T18:36:53Z",
+            "changeset": 55242973,
+            "uid": 4731195,
+            "user": "Don Viper",
+            "tags": {
+                "amenity": "bar",
+                "name": "San Carlo"
+            },
+            "lat": 46.2318449,
+            "lon": 10.8277156
+        },
+        {
+            "type": "node",
+            "id": 304632837,
+            "version": 2,
+            "timestamp": "2011-01-21T16:06:09Z",
+            "changeset": 7041640,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Ristorante Pizzeria Le Roi"
+            },
+            "lat": 46.2325953,
+            "lon": 10.8254299
+        }
+    ]
+}

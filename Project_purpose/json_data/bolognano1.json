@@ -1,0 +1,38 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 902593394,
+            "version": 3,
+            "timestamp": "2013-10-11T06:09:42Z",
+            "changeset": 18291852,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Franca"
+            },
+            "lat": 45.9131298,
+            "lon": 10.9030851
+        },
+        {
+            "type": "node",
+            "id": 8330976414,
+            "version": 1,
+            "timestamp": "2021-01-17T16:15:23Z",
+            "changeset": 97643778,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "addr:city": "Arco",
+                "addr:street": "Viale Rovereto",
+                "amenity": "bar",
+                "name": "Bar Primavera"
+            },
+            "lat": 45.9118871,
+            "lon": 10.8992225
+        }
+    ]
+}

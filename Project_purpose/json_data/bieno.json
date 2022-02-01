@@ -1,0 +1,142 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 4294950104,
+            "version": 1,
+            "timestamp": "2016-07-10T18:55:30Z",
+            "changeset": 40636269,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Trento"
+            },
+            "lat": 46.0801593,
+            "lon": 11.5528965
+        },
+        {
+            "type": "node",
+            "id": 7118897430,
+            "version": 1,
+            "timestamp": "2020-01-09T08:30:21Z",
+            "changeset": 79369194,
+            "uid": 8783683,
+            "user": "Dagogatto",
+            "tags": {
+                "addr:city": "Bieno",
+                "addr:housenumber": "10",
+                "addr:postcode": "38050",
+                "addr:street": "Vicolo Busarello",
+                "amenity": "cafe",
+                "cuisine": "italian;coffee_shop",
+                "internet_access": "wlan",
+                "name": "B&B IL piccolo principe",
+                "outdoor_seating": "yes"
+            },
+            "lat": 46.0797107,
+            "lon": 11.5529214
+        },
+        {
+            "type": "node",
+            "id": 4294950102,
+            "version": 4,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Bieno",
+                "addr:country": "IT",
+                "addr:housenumber": "5",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Piazza Maggiore",
+                "amenity": "cafe",
+                "name": "Bar Rododendro"
+            },
+            "lat": 46.0803354,
+            "lon": 11.5540306
+        },
+        {
+            "type": "node",
+            "id": 4294950135,
+            "version": 1,
+            "timestamp": "2016-07-10T18:55:33Z",
+            "changeset": 40636269,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 46.0804089,
+            "lon": 11.5543947
+        },
+        {
+            "type": "way",
+            "id": 304129300,
+            "version": 2,
+            "timestamp": "2016-11-23T19:36:33Z",
+            "changeset": 43903895,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "tags": {
+                "amenity": "cafe",
+                "building": "yes"
+            },
+            "nodes": [
+                3086518313,
+                3086518777,
+                3086518769,
+                3086518771,
+                3086518313
+            ]
+        },
+        {
+            "type": "node",
+            "id": 3086518313,
+            "version": 2,
+            "timestamp": "2016-11-23T19:36:27Z",
+            "changeset": 43903895,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.079317,
+            "lon": 11.5568478
+        },
+        {
+            "type": "node",
+            "id": 3086518777,
+            "version": 2,
+            "timestamp": "2016-11-23T19:36:28Z",
+            "changeset": 43903895,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0793084,
+            "lon": 11.5569509
+        },
+        {
+            "type": "node",
+            "id": 3086518769,
+            "version": 2,
+            "timestamp": "2016-11-23T19:36:27Z",
+            "changeset": 43903895,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0792307,
+            "lon": 11.5569374
+        },
+        {
+            "type": "node",
+            "id": 3086518771,
+            "version": 2,
+            "timestamp": "2016-11-23T19:36:27Z",
+            "changeset": 43903895,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0792393,
+            "lon": 11.5568343
+        }
+    ]
+}

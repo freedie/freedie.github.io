@@ -1,0 +1,164 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1488996243,
+            "version": 2,
+            "timestamp": "2011-11-02T19:43:17Z",
+            "changeset": 9725085,
+            "uid": 547108,
+            "user": "fantom",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Danieli"
+            },
+            "lat": 45.8294321,
+            "lon": 10.5360572
+        },
+        {
+            "type": "node",
+            "id": 1562362389,
+            "version": 2,
+            "timestamp": "2011-12-26T11:48:23Z",
+            "changeset": 10206351,
+            "uid": 547108,
+            "user": "fantom",
+            "tags": {
+                "amenity": "restaurant"
+            },
+            "lat": 45.8306375,
+            "lon": 10.5394219
+        },
+        {
+            "type": "way",
+            "id": 358203142,
+            "version": 1,
+            "timestamp": "2015-07-02T14:37:34Z",
+            "changeset": 32355661,
+            "uid": 163090,
+            "user": "zonta72",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Stella"
+            },
+            "nodes": [
+                3631640029,
+                3631640027,
+                3631640028,
+                3631640030,
+                3631640029
+            ]
+        },
+        {
+            "type": "node",
+            "id": 3631640029,
+            "version": 1,
+            "timestamp": "2015-07-02T14:37:34Z",
+            "changeset": 32355661,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.8301375,
+            "lon": 10.5373641
+        },
+        {
+            "type": "node",
+            "id": 3631640027,
+            "version": 1,
+            "timestamp": "2015-07-02T14:37:34Z",
+            "changeset": 32355661,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.8300954,
+            "lon": 10.5373855
+        },
+        {
+            "type": "node",
+            "id": 3631640028,
+            "version": 1,
+            "timestamp": "2015-07-02T14:37:34Z",
+            "changeset": 32355661,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.8301111,
+            "lon": 10.5374376
+        },
+        {
+            "type": "node",
+            "id": 3631640030,
+            "version": 1,
+            "timestamp": "2015-07-02T14:37:34Z",
+            "changeset": 32355661,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.8301532,
+            "lon": 10.5374198
+        },
+        {
+            "type": "way",
+            "id": 44030265,
+            "version": 3,
+            "timestamp": "2013-09-18T20:50:18Z",
+            "changeset": 17913437,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "Agriturismo Santa Barbara"
+            },
+            "nodes": [
+                559793085,
+                559793086,
+                559793083,
+                559793084,
+                559793085
+            ]
+        },
+        {
+            "type": "node",
+            "id": 559793085,
+            "version": 1,
+            "timestamp": "2009-11-08T22:49:59Z",
+            "changeset": 3069494,
+            "uid": 140995,
+            "user": "costoro",
+            "lat": 45.83588,
+            "lon": 10.5416868
+        },
+        {
+            "type": "node",
+            "id": 559793086,
+            "version": 1,
+            "timestamp": "2009-11-08T22:49:59Z",
+            "changeset": 3069494,
+            "uid": 140995,
+            "user": "costoro",
+            "lat": 45.8359398,
+            "lon": 10.5417829
+        },
+        {
+            "type": "node",
+            "id": 559793083,
+            "version": 1,
+            "timestamp": "2009-11-08T22:49:59Z",
+            "changeset": 3069494,
+            "uid": 140995,
+            "user": "costoro",
+            "lat": 45.8358575,
+            "lon": 10.541888
+        },
+        {
+            "type": "node",
+            "id": 559793084,
+            "version": 1,
+            "timestamp": "2009-11-08T22:49:59Z",
+            "changeset": 3069494,
+            "uid": 140995,
+            "user": "costoro",
+            "lat": 45.8357975,
+            "lon": 10.5417918
+        }
+    ]
+}

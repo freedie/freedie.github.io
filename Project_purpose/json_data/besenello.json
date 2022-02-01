@@ -1,0 +1,66 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2779233532,
+            "version": 5,
+            "timestamp": "2018-02-07T20:04:25Z",
+            "changeset": 56159712,
+            "uid": 143034,
+            "user": "portobeseno",
+            "tags": {
+                "amenity": "bar",
+                "brewery": "yes;various",
+                "name": "Bar Beseno",
+                "outdoor_seating": "yes",
+                "phone": "+39 0464 834128",
+                "smoking": "separated",
+                "wheelchair": "yes"
+            },
+            "lat": 45.9402464,
+            "lon": 11.1117157
+        },
+        {
+            "type": "node",
+            "id": 5396534652,
+            "version": 1,
+            "timestamp": "2018-02-07T20:02:17Z",
+            "changeset": 56159654,
+            "uid": 143034,
+            "user": "portobeseno",
+            "tags": {
+                "amenity": "restaurant",
+                "capacity": "50",
+                "cuisine": "pizza;italian",
+                "name": "Al Castel",
+                "outdoor_seating": "yes",
+                "smoking": "separated",
+                "takeaway": "yes"
+            },
+            "lat": 45.9401668,
+            "lon": 11.1098939
+        },
+        {
+            "type": "node",
+            "id": 6251379374,
+            "version": 1,
+            "timestamp": "2019-02-01T10:52:29Z",
+            "changeset": 66829544,
+            "uid": 143034,
+            "user": "portobeseno",
+            "tags": {
+                "addr:city": "Besenello",
+                "addr:housenumber": "35",
+                "addr:postcode": "38060",
+                "addr:street": "Via Trento",
+                "amenity": "ice_cream",
+                "name": "Nonna Giulia",
+                "phone": "+39 324 635 4508"
+            },
+            "lat": 45.9412671,
+            "lon": 11.1124659
+        }
+    ]
+}

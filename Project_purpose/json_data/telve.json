@@ -1,0 +1,217 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2627181974,
+            "version": 6,
+            "timestamp": "2019-06-24T14:15:39Z",
+            "changeset": 71563460,
+            "uid": 2795427,
+            "user": "vitoplus",
+            "tags": {
+                "addr:city": "Telve",
+                "addr:housenumber": "1",
+                "addr:postcode": "38050",
+                "addr:street": "Via Largo Cacciatori",
+                "amenity": "cafe",
+                "name": "Bar Birreria"
+            },
+            "lat": 46.0715022,
+            "lon": 11.477803
+        },
+        {
+            "type": "node",
+            "id": 2628567192,
+            "version": 5,
+            "timestamp": "2016-06-02T14:06:55Z",
+            "changeset": 39735248,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Piazza Vecchia"
+            },
+            "lat": 46.0713317,
+            "lon": 11.4791909
+        },
+        {
+            "type": "node",
+            "id": 4080410277,
+            "version": 5,
+            "timestamp": "2019-10-15T08:56:24Z",
+            "changeset": 75707155,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Alice Cafè"
+            },
+            "lat": 46.0702503,
+            "lon": 11.4776439
+        },
+        {
+            "type": "node",
+            "id": 2611293385,
+            "version": 5,
+            "timestamp": "2017-09-01T15:58:44Z",
+            "changeset": 51648157,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 46.0688243,
+            "lon": 11.482469
+        },
+        {
+            "type": "node",
+            "id": 2612723304,
+            "version": 8,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Telve",
+                "addr:country": "IT",
+                "addr:housenumber": "1",
+                "addr:place": "Località Nale",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Località Nale",
+                "amenity": "cafe",
+                "name": "Bar Panorama",
+                "operator": "Manzucchi Riccardo",
+                "ref:vatin": "IT01865910226"
+            },
+            "lat": 46.0702001,
+            "lon": 11.4826494
+        },
+        {
+            "type": "node",
+            "id": 6644330129,
+            "version": 3,
+            "timestamp": "2021-06-30T16:42:49Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Telve",
+                "addr:country": "IT",
+                "addr:housenumber": "5d",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Località Santa Giustina",
+                "amenity": "ice_cream",
+                "name": "Bar Gelateria Derby"
+            },
+            "lat": 46.0749842,
+            "lon": 11.4870482
+        },
+        {
+            "type": "way",
+            "id": 255443503,
+            "version": 7,
+            "timestamp": "2021-06-30T16:42:54Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Telve",
+                "addr:country": "IT",
+                "addr:housenumber": "3",
+                "addr:place": "Località Nale",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Località Nale",
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "italian",
+                "name": "Osteria Baraonda",
+                "phone": "+39 0461 766940",
+                "restaurant:type:it": "regional;pizza",
+                "takeaway": "no"
+            },
+            "nodes": [
+                2611293392,
+                2611293379,
+                2611293359,
+                2611293388,
+                2612723333,
+                2611293392
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2611293392,
+            "version": 4,
+            "timestamp": "2016-08-22T09:53:44Z",
+            "changeset": 41610574,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0688434,
+            "lon": 11.4824646
+        },
+        {
+            "type": "node",
+            "id": 2611293379,
+            "version": 4,
+            "timestamp": "2016-08-22T09:53:44Z",
+            "changeset": 41610574,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0686739,
+            "lon": 11.4823835
+        },
+        {
+            "type": "node",
+            "id": 2611293359,
+            "version": 4,
+            "timestamp": "2016-08-22T09:53:44Z",
+            "changeset": 41610574,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0686382,
+            "lon": 11.4825386
+        },
+        {
+            "type": "node",
+            "id": 2611293388,
+            "version": 4,
+            "timestamp": "2016-08-22T09:53:44Z",
+            "changeset": 41610574,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0688078,
+            "lon": 11.4826197
+        },
+        {
+            "type": "node",
+            "id": 2612723333,
+            "version": 3,
+            "timestamp": "2016-08-22T09:53:46Z",
+            "changeset": 41610574,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0688111,
+            "lon": 11.4826051
+        },
+        {
+            "type": "node",
+            "id": 4074235413,
+            "version": 2,
+            "timestamp": "2016-06-02T14:09:59Z",
+            "changeset": 39735313,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Baltyk"
+            },
+            "lat": 46.0705691,
+            "lon": 11.4714544
+        }
+    ]
+}

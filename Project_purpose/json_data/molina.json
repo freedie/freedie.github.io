@@ -1,0 +1,202 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 261086637,
+            "version": 3,
+            "timestamp": "2010-06-26T11:19:15Z",
+            "changeset": 5080223,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Pizzeria La Ruota"
+            },
+            "lat": 46.2712502,
+            "lon": 11.417343
+        },
+        {
+            "type": "node",
+            "id": 260573164,
+            "version": 4,
+            "timestamp": "2010-06-27T09:37:51Z",
+            "changeset": 5087847,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Sport"
+            },
+            "lat": 46.2730274,
+            "lon": 11.4165704
+        },
+        {
+            "type": "way",
+            "id": 64392934,
+            "version": 1,
+            "timestamp": "2010-06-27T09:11:46Z",
+            "changeset": 5087665,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "Ristorante Pizzeria Pineta"
+            },
+            "nodes": [
+                792360128,
+                792360034,
+                792359935,
+                792360196,
+                792360128
+            ]
+        },
+        {
+            "type": "node",
+            "id": 792360128,
+            "version": 1,
+            "timestamp": "2010-06-27T09:11:41Z",
+            "changeset": 5087665,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2680555,
+            "lon": 11.4177346
+        },
+        {
+            "type": "node",
+            "id": 792360034,
+            "version": 1,
+            "timestamp": "2010-06-27T09:11:40Z",
+            "changeset": 5087665,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2680372,
+            "lon": 11.4178898
+        },
+        {
+            "type": "node",
+            "id": 792359935,
+            "version": 1,
+            "timestamp": "2010-06-27T09:11:39Z",
+            "changeset": 5087665,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.267944,
+            "lon": 11.4178668
+        },
+        {
+            "type": "node",
+            "id": 792360196,
+            "version": 1,
+            "timestamp": "2010-06-27T09:11:42Z",
+            "changeset": 5087665,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2679623,
+            "lon": 11.4177116
+        },
+        {
+            "type": "way",
+            "id": 64194118,
+            "version": 3,
+            "timestamp": "2021-08-24T09:32:00Z",
+            "changeset": 110160890,
+            "uid": 1096195,
+            "user": "Dardy",
+            "tags": {
+                "amenity": "bar",
+                "building": "yes",
+                "name": "Bar Bastianazzo"
+            },
+            "nodes": [
+                791023906,
+                791023511,
+                791024274,
+                791023797,
+                791023407,
+                792428638,
+                791024202,
+                791023906
+            ]
+        },
+        {
+            "type": "node",
+            "id": 791023906,
+            "version": 1,
+            "timestamp": "2010-06-26T11:18:50Z",
+            "changeset": 5080223,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2719416,
+            "lon": 11.4187892
+        },
+        {
+            "type": "node",
+            "id": 791023511,
+            "version": 1,
+            "timestamp": "2010-06-26T11:18:45Z",
+            "changeset": 5080223,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2719631,
+            "lon": 11.4188643
+        },
+        {
+            "type": "node",
+            "id": 791024274,
+            "version": 1,
+            "timestamp": "2010-06-26T11:18:55Z",
+            "changeset": 5080223,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2719834,
+            "lon": 11.4188588
+        },
+        {
+            "type": "node",
+            "id": 791023797,
+            "version": 1,
+            "timestamp": "2010-06-26T11:18:48Z",
+            "changeset": 5080223,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2720201,
+            "lon": 11.4190128
+        },
+        {
+            "type": "node",
+            "id": 791023407,
+            "version": 1,
+            "timestamp": "2010-06-26T11:18:43Z",
+            "changeset": 5080223,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2719517,
+            "lon": 11.419055
+        },
+        {
+            "type": "node",
+            "id": 792428638,
+            "version": 1,
+            "timestamp": "2010-06-27T09:37:40Z",
+            "changeset": 5087847,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2719267,
+            "lon": 11.4189531
+        },
+        {
+            "type": "node",
+            "id": 791024202,
+            "version": 1,
+            "timestamp": "2010-06-26T11:18:54Z",
+            "changeset": 5080223,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2718922,
+            "lon": 11.418813
+        }
+    ]
+}

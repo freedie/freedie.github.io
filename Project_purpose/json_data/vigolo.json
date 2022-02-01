@@ -1,0 +1,67 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2094237771,
+            "version": 1,
+            "timestamp": "2013-01-04T01:09:00Z",
+            "changeset": 14521080,
+            "uid": 118863,
+            "user": "bstegmaier",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Ristorante La Madia"
+            },
+            "lat": 46.0049343,
+            "lon": 11.1968545
+        },
+        {
+            "type": "node",
+            "id": 2094237801,
+            "version": 3,
+            "timestamp": "2020-04-29T15:46:49Z",
+            "changeset": 84349786,
+            "uid": 11102289,
+            "user": "Jd75",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Glicine"
+            },
+            "lat": 46.0050275,
+            "lon": 11.1983229
+        },
+        {
+            "type": "node",
+            "id": 6610752258,
+            "version": 1,
+            "timestamp": "2019-07-12T19:08:43Z",
+            "changeset": 72194929,
+            "uid": 9601757,
+            "user": "Roberta Orienteering",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Bailoni - dei Mori"
+            },
+            "lat": 46.0048946,
+            "lon": 11.1959911
+        },
+        {
+            "type": "node",
+            "id": 6610752260,
+            "version": 1,
+            "timestamp": "2019-07-12T19:08:43Z",
+            "changeset": 72194929,
+            "uid": 9601757,
+            "user": "Roberta Orienteering",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzeria Vittoria"
+            },
+            "lat": 46.004645,
+            "lon": 11.1991131
+        }
+    ]
+}

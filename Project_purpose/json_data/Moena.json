@@ -1,0 +1,483 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 3785859356,
+            "version": 1,
+            "timestamp": "2015-10-14T08:39:34Z",
+            "changeset": 34628309,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "ice_cream"
+            },
+            "lat": 46.3751641,
+            "lon": 11.6571979
+        },
+        {
+            "type": "node",
+            "id": 3785872417,
+            "version": 2,
+            "timestamp": "2015-10-17T03:15:56Z",
+            "changeset": 34686735,
+            "uid": 893327,
+            "user": "mcheckimport",
+            "tags": {
+                "addr:city": "Moena",
+                "addr:country": "IT",
+                "addr:housenumber": "24",
+                "addr:postcode": "38035",
+                "addr:street": "Via Loewy",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Taverna del Garber Ristorante Pizzeria",
+                "outdoor_seating": "yes",
+                "phone": "+39 0462 573218"
+            },
+            "lat": 46.3756495,
+            "lon": 11.6579203
+        },
+        {
+            "type": "node",
+            "id": 1584024518,
+            "version": 1,
+            "timestamp": "2012-01-09T20:28:54Z",
+            "changeset": 10345786,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Cafe Gabry"
+            },
+            "lat": 46.3764556,
+            "lon": 11.6620286
+        },
+        {
+            "type": "node",
+            "id": 3669208161,
+            "version": 1,
+            "timestamp": "2015-07-27T20:16:23Z",
+            "changeset": 32917698,
+            "uid": 646083,
+            "user": "freak_antoni",
+            "tags": {
+                "addr:housenumber": "57",
+                "addr:street": "Piaz de Ramon",
+                "amenity": "bar",
+                "name": "Ramon",
+                "phone": "+39 0462 090164"
+            },
+            "lat": 46.3761563,
+            "lon": 11.660856
+        },
+        {
+            "type": "node",
+            "id": 3787700764,
+            "version": 2,
+            "timestamp": "2015-10-17T03:15:56Z",
+            "changeset": 34686735,
+            "uid": 893327,
+            "user": "mcheckimport",
+            "tags": {
+                "addr:city": "Moena",
+                "addr:housenumber": "32",
+                "addr:postcode": "38035",
+                "addr:street": "Strada De Fachin",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Lo Sfizio Caffè Pizzeria Bar",
+                "outdoor_seating": "yes",
+                "phone": "+39 0462 574757"
+            },
+            "lat": 46.3762151,
+            "lon": 11.6619454
+        },
+        {
+            "type": "node",
+            "id": 3785863119,
+            "version": 1,
+            "timestamp": "2015-10-14T08:15:47Z",
+            "changeset": 34627904,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.3766039,
+            "lon": 11.6590301
+        },
+        {
+            "type": "node",
+            "id": 3786688685,
+            "version": 1,
+            "timestamp": "2015-10-14T20:26:47Z",
+            "changeset": 34641138,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Mancin"
+            },
+            "lat": 46.3770366,
+            "lon": 11.65966
+        },
+        {
+            "type": "way",
+            "id": 375391666,
+            "version": 1,
+            "timestamp": "2015-10-15T13:33:09Z",
+            "changeset": 34654964,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar",
+                "building": "yes"
+            },
+            "nodes": [
+                3787630528,
+                3787630530,
+                3787630531,
+                3787630529,
+                3787630528
+            ]
+        },
+        {
+            "type": "node",
+            "id": 3787630528,
+            "version": 1,
+            "timestamp": "2015-10-15T13:33:08Z",
+            "changeset": 34654964,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3762024,
+            "lon": 11.6601412
+        },
+        {
+            "type": "node",
+            "id": 3787630530,
+            "version": 1,
+            "timestamp": "2015-10-15T13:33:08Z",
+            "changeset": 34654964,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3762364,
+            "lon": 11.6601073
+        },
+        {
+            "type": "node",
+            "id": 3787630531,
+            "version": 1,
+            "timestamp": "2015-10-15T13:33:08Z",
+            "changeset": 34654964,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.37625,
+            "lon": 11.6601358
+        },
+        {
+            "type": "node",
+            "id": 3787630529,
+            "version": 1,
+            "timestamp": "2015-10-15T13:33:08Z",
+            "changeset": 34654964,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3762159,
+            "lon": 11.6601697
+        },
+        {
+            "type": "way",
+            "id": 266158481,
+            "version": 3,
+            "timestamp": "2015-10-14T20:19:56Z",
+            "changeset": 34641016,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "Ristorante Faloria"
+            },
+            "nodes": [
+                2717402796,
+                2717402797,
+                2717402798,
+                2717402799,
+                2717402800,
+                2717402801,
+                3786683907,
+                2717402802,
+                2717402803,
+                2717402796
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2717402796,
+            "version": 2,
+            "timestamp": "2015-10-14T20:19:56Z",
+            "changeset": 34641016,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3767904,
+            "lon": 11.6600882
+        },
+        {
+            "type": "node",
+            "id": 2717402797,
+            "version": 2,
+            "timestamp": "2015-10-14T20:19:56Z",
+            "changeset": 34641016,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3766869,
+            "lon": 11.6601374
+        },
+        {
+            "type": "node",
+            "id": 2717402798,
+            "version": 2,
+            "timestamp": "2015-10-14T20:19:56Z",
+            "changeset": 34641016,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3767141,
+            "lon": 11.6602578
+        },
+        {
+            "type": "node",
+            "id": 2717402799,
+            "version": 2,
+            "timestamp": "2015-10-14T20:19:56Z",
+            "changeset": 34641016,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3766919,
+            "lon": 11.6602683
+        },
+        {
+            "type": "node",
+            "id": 2717402800,
+            "version": 2,
+            "timestamp": "2015-10-14T20:19:56Z",
+            "changeset": 34641016,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3767218,
+            "lon": 11.6604003
+        },
+        {
+            "type": "node",
+            "id": 2717402801,
+            "version": 2,
+            "timestamp": "2015-10-14T20:19:56Z",
+            "changeset": 34641016,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3768699,
+            "lon": 11.6603299
+        },
+        {
+            "type": "node",
+            "id": 3786683907,
+            "version": 1,
+            "timestamp": "2015-10-14T20:19:56Z",
+            "changeset": 34641016,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3768565,
+            "lon": 11.6602706
+        },
+        {
+            "type": "node",
+            "id": 2717402802,
+            "version": 2,
+            "timestamp": "2015-10-14T20:19:56Z",
+            "changeset": 34641016,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3768466,
+            "lon": 11.6602268
+        },
+        {
+            "type": "node",
+            "id": 2717402803,
+            "version": 2,
+            "timestamp": "2015-10-14T20:19:56Z",
+            "changeset": 34641016,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3768242,
+            "lon": 11.6602375
+        },
+        {
+            "type": "way",
+            "id": 374400990,
+            "version": 2,
+            "timestamp": "2016-08-01T21:32:49Z",
+            "changeset": 41178374,
+            "uid": 480266,
+            "user": "laami Änte",
+            "tags": {
+                "amenity": "ice_cream",
+                "building": "yes",
+                "outdoor_seating": "yes"
+            },
+            "nodes": [
+                3777889323,
+                3777889321,
+                3777889319,
+                3777889317,
+                3777889316,
+                3777889318,
+                3777889320,
+                3777889324,
+                3777889325,
+                3777889322,
+                3777889323
+            ]
+        },
+        {
+            "type": "node",
+            "id": 3777889323,
+            "version": 1,
+            "timestamp": "2015-10-08T08:29:38Z",
+            "changeset": 34505631,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3810872,
+            "lon": 11.6635893
+        },
+        {
+            "type": "node",
+            "id": 3777889321,
+            "version": 1,
+            "timestamp": "2015-10-08T08:29:38Z",
+            "changeset": 34505631,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.381061,
+            "lon": 11.6635668
+        },
+        {
+            "type": "node",
+            "id": 3777889319,
+            "version": 1,
+            "timestamp": "2015-10-08T08:29:38Z",
+            "changeset": 34505631,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3810294,
+            "lon": 11.6635706
+        },
+        {
+            "type": "node",
+            "id": 3777889317,
+            "version": 1,
+            "timestamp": "2015-10-08T08:29:37Z",
+            "changeset": 34505631,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3809978,
+            "lon": 11.6636304
+        },
+        {
+            "type": "node",
+            "id": 3777889316,
+            "version": 1,
+            "timestamp": "2015-10-08T08:29:37Z",
+            "changeset": 34505631,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3809924,
+            "lon": 11.6636925
+        },
+        {
+            "type": "node",
+            "id": 3777889318,
+            "version": 1,
+            "timestamp": "2015-10-08T08:29:37Z",
+            "changeset": 34505631,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3810165,
+            "lon": 11.6637547
+        },
+        {
+            "type": "node",
+            "id": 3777889320,
+            "version": 1,
+            "timestamp": "2015-10-08T08:29:38Z",
+            "changeset": 34505631,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3810535,
+            "lon": 11.6637904
+        },
+        {
+            "type": "node",
+            "id": 3777889324,
+            "version": 1,
+            "timestamp": "2015-10-08T08:29:38Z",
+            "changeset": 34505631,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3810872,
+            "lon": 11.663795
+        },
+        {
+            "type": "node",
+            "id": 3777889325,
+            "version": 1,
+            "timestamp": "2015-10-08T08:29:38Z",
+            "changeset": 34505631,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3811156,
+            "lon": 11.6637376
+        },
+        {
+            "type": "node",
+            "id": 3777889322,
+            "version": 1,
+            "timestamp": "2015-10-08T08:29:38Z",
+            "changeset": 34505631,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.3810631,
+            "lon": 11.6636848
+        },
+        {
+            "type": "node",
+            "id": 2957454881,
+            "version": 1,
+            "timestamp": "2014-07-10T17:16:04Z",
+            "changeset": 24067832,
+            "uid": 181562,
+            "user": "Roberto Kneipp",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Malga Roncac"
+            },
+            "lat": 46.3821423,
+            "lon": 11.6511042
+        },
+        {
+            "type": "node",
+            "id": 5013934509,
+            "version": 1,
+            "timestamp": "2017-08-04T11:01:30Z",
+            "changeset": 50835024,
+            "uid": 33296,
+            "user": "Moosi",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Agritur el Mas"
+            },
+            "lat": 46.3829421,
+            "lon": 11.6622268
+        }
+    ]
+}

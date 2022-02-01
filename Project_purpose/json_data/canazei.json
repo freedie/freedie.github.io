@@ -1,0 +1,372 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 3389055950,
+            "version": 3,
+            "timestamp": "2021-08-08T07:35:57Z",
+            "changeset": 109333982,
+            "uid": 1096195,
+            "user": "Dardy",
+            "tags": {
+                "addr:country": "IT",
+                "addr:housenumber": "23",
+                "addr:state": "TN",
+                "addr:street": "Piazza Marconi",
+                "amenity": "cafe",
+                "name": "La Petite",
+                "opening_hours": "Mo-Su 08:00-19:00"
+            },
+            "lat": 46.4768935,
+            "lon": 11.7700745
+        },
+        {
+            "type": "node",
+            "id": 5411852729,
+            "version": 2,
+            "timestamp": "2021-06-28T17:01:46Z",
+            "changeset": 107100925,
+            "uid": 12705050,
+            "user": "ticki_52",
+            "tags": {
+                "amenity": "restaurant"
+            },
+            "lat": 46.476819,
+            "lon": 11.7685177
+        },
+        {
+            "type": "node",
+            "id": 5411852730,
+            "version": 1,
+            "timestamp": "2018-02-14T09:13:31Z",
+            "changeset": 56347216,
+            "uid": 7617299,
+            "user": "Anna Becevel",
+            "tags": {
+                "addr:city": "Canazei",
+                "addr:housenumber": "58",
+                "addr:street": "Via Roma",
+                "amenity": "restaurant",
+                "name": "El Pael"
+            },
+            "lat": 46.476819,
+            "lon": 11.7685177
+        },
+        {
+            "type": "node",
+            "id": 7240893487,
+            "version": 3,
+            "timestamp": "2021-08-08T07:41:33Z",
+            "changeset": 109333982,
+            "uid": 1096195,
+            "user": "Dardy",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Kaiserstube",
+                "name:en": "Kaiserstube",
+                "opening_hours": "PH,Mo-Su 10:00-14:30,19:00-22:00"
+            },
+            "lat": 46.4770408,
+            "lon": 11.769553
+        },
+        {
+            "type": "node",
+            "id": 734964406,
+            "version": 4,
+            "timestamp": "2021-06-28T17:01:46Z",
+            "changeset": 107100925,
+            "uid": 12705050,
+            "user": "ticki_52",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "La Cantinetta",
+                "outdoor_seating": "yes"
+            },
+            "lat": 46.4755634,
+            "lon": 11.774023
+        },
+        {
+            "type": "node",
+            "id": 3302466499,
+            "version": 4,
+            "timestamp": "2020-02-15T13:20:05Z",
+            "changeset": 81042993,
+            "uid": 160229,
+            "user": "sorcrosc",
+            "tags": {
+                "addr:city": "Canazei",
+                "addr:city:lld": "Cianacei",
+                "addr:housenumber": "1",
+                "addr:street": "Via di Pareda",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Te Cevena",
+                "phone": "+39 366 3943660",
+                "website": "http://tecevena.it/"
+            },
+            "lat": 46.4760902,
+            "lon": 11.7714905
+        },
+        {
+            "type": "node",
+            "id": 3302466500,
+            "version": 3,
+            "timestamp": "2016-07-18T17:39:38Z",
+            "changeset": 40827733,
+            "uid": 3008195,
+            "user": "7do",
+            "tags": {
+                "addr:city": "Canazei",
+                "addr:country": "IT",
+                "addr:housenumber": "96",
+                "addr:postcode": "38032",
+                "addr:street": "Strèda Dolomites",
+                "amenity": "restaurant",
+                "contact:phone": "+39 0462 601799",
+                "name": "Scoiattolo"
+            },
+            "lat": 46.4768734,
+            "lon": 11.7716989
+        },
+        {
+            "type": "node",
+            "id": 3302466501,
+            "version": 1,
+            "timestamp": "2015-01-21T13:53:06Z",
+            "changeset": 28306855,
+            "uid": 68540,
+            "user": "paracetamolo",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Stua dei Ladins"
+            },
+            "lat": 46.4754158,
+            "lon": 11.7726131
+        },
+        {
+            "type": "node",
+            "id": 3302466513,
+            "version": 1,
+            "timestamp": "2015-01-21T13:53:07Z",
+            "changeset": 28306855,
+            "uid": 68540,
+            "user": "paracetamolo",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.475974,
+            "lon": 11.7716708
+        },
+        {
+            "type": "node",
+            "id": 3389055949,
+            "version": 2,
+            "timestamp": "2021-06-28T17:01:46Z",
+            "changeset": 107100925,
+            "uid": 12705050,
+            "user": "ticki_52",
+            "tags": {
+                "addr:country": "IT",
+                "addr:housenumber": "11",
+                "addr:postcode": "38032",
+                "addr:state": "TN",
+                "addr:street": "Strèda de Pareda",
+                "addr:street:it": "Via di Pareda",
+                "amenity": "cafe",
+                "name": "Bar Esso"
+            },
+            "lat": 46.4758053,
+            "lon": 11.7720077
+        },
+        {
+            "type": "node",
+            "id": 4949207822,
+            "version": 1,
+            "timestamp": "2017-07-03T16:35:04Z",
+            "changeset": 50013569,
+            "uid": 5358181,
+            "user": "Leopold Hiesmair",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "La Montanara"
+            },
+            "lat": 46.4766901,
+            "lon": 11.7735042
+        },
+        {
+            "type": "node",
+            "id": 6256572712,
+            "version": 1,
+            "timestamp": "2019-02-03T20:58:17Z",
+            "changeset": 66886288,
+            "uid": 2611295,
+            "user": "cbeddow",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "L'Ostaria da Besic"
+            },
+            "lat": 46.477307,
+            "lon": 11.7702986
+        },
+        {
+            "type": "node",
+            "id": 7770054585,
+            "version": 1,
+            "timestamp": "2020-07-30T13:02:35Z",
+            "changeset": 88734845,
+            "uid": 467915,
+            "user": "Cdrik_69",
+            "tags": {
+                "amenity": "pub",
+                "name": "Bar Centrale"
+            },
+            "lat": 46.4763337,
+            "lon": 11.7739489
+        },
+        {
+            "type": "way",
+            "id": 59276375,
+            "version": 3,
+            "timestamp": "2017-04-24T21:05:20Z",
+            "changeset": 48103167,
+            "uid": 4138605,
+            "user": "MapperGo",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "Baita Al Parco"
+            },
+            "nodes": [
+                735004046,
+                2614060010,
+                735004047,
+                735004023,
+                735003836,
+                735004046
+            ]
+        },
+        {
+            "type": "node",
+            "id": 735004046,
+            "version": 1,
+            "timestamp": "2010-05-15T11:56:28Z",
+            "changeset": 4705353,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.4755999,
+            "lon": 11.7686556
+        },
+        {
+            "type": "node",
+            "id": 2614060010,
+            "version": 1,
+            "timestamp": "2014-01-07T22:53:35Z",
+            "changeset": 19873241,
+            "uid": 252933,
+            "user": "Eric Jul",
+            "lat": 46.4755473,
+            "lon": 11.7686732
+        },
+        {
+            "type": "node",
+            "id": 735004047,
+            "version": 1,
+            "timestamp": "2010-05-15T11:56:28Z",
+            "changeset": 4705353,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.4754467,
+            "lon": 11.7687384
+        },
+        {
+            "type": "node",
+            "id": 735004023,
+            "version": 1,
+            "timestamp": "2010-05-15T11:56:28Z",
+            "changeset": 4705353,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.4754015,
+            "lon": 11.7685619
+        },
+        {
+            "type": "node",
+            "id": 735003836,
+            "version": 1,
+            "timestamp": "2010-05-15T11:56:24Z",
+            "changeset": 4705353,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.4755547,
+            "lon": 11.7684791
+        },
+        {
+            "type": "way",
+            "id": 331526697,
+            "version": 2,
+            "timestamp": "2019-02-04T18:40:53Z",
+            "changeset": 66912075,
+            "uid": 2611295,
+            "user": "cbeddow",
+            "tags": {
+                "amenity": "fast_food",
+                "building": "yes",
+                "name": "Pippotto"
+            },
+            "nodes": [
+                3385975035,
+                3385975033,
+                3385975032,
+                3385975034,
+                3385975035
+            ]
+        },
+        {
+            "type": "node",
+            "id": 3385975035,
+            "version": 1,
+            "timestamp": "2015-03-06T14:01:38Z",
+            "changeset": 29290187,
+            "uid": 68540,
+            "user": "paracetamolo",
+            "lat": 46.476431,
+            "lon": 11.7710676
+        },
+        {
+            "type": "node",
+            "id": 3385975033,
+            "version": 1,
+            "timestamp": "2015-03-06T14:01:38Z",
+            "changeset": 29290187,
+            "uid": 68540,
+            "user": "paracetamolo",
+            "lat": 46.4763706,
+            "lon": 11.7711383
+        },
+        {
+            "type": "node",
+            "id": 3385975032,
+            "version": 1,
+            "timestamp": "2015-03-06T14:01:38Z",
+            "changeset": 29290187,
+            "uid": 68540,
+            "user": "paracetamolo",
+            "lat": 46.4763413,
+            "lon": 11.7710856
+        },
+        {
+            "type": "node",
+            "id": 3385975034,
+            "version": 1,
+            "timestamp": "2015-03-06T14:01:38Z",
+            "changeset": 29290187,
+            "uid": 68540,
+            "user": "paracetamolo",
+            "lat": 46.4764017,
+            "lon": 11.771015
+        }
+    ]
+}

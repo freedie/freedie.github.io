@@ -1,0 +1,153 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1354486693,
+            "version": 3,
+            "timestamp": "2016-09-09T22:17:32Z",
+            "changeset": 42049232,
+            "uid": 351361,
+            "user": "dvdzero",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar del Moro"
+            },
+            "lat": 46.3096745,
+            "lon": 10.7604664
+        },
+        {
+            "type": "node",
+            "id": 1354486694,
+            "version": 3,
+            "timestamp": "2016-09-09T22:17:32Z",
+            "changeset": 42049232,
+            "uid": 351361,
+            "user": "dvdzero",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Centrale"
+            },
+            "lat": 46.3097687,
+            "lon": 10.7607194
+        },
+        {
+            "type": "node",
+            "id": 1348333277,
+            "version": 1,
+            "timestamp": "2011-07-03T18:39:05Z",
+            "changeset": 8622309,
+            "uid": 383307,
+            "user": "centurie",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bicigrill"
+            },
+            "lat": 46.3098266,
+            "lon": 10.7637421
+        },
+        {
+            "type": "node",
+            "id": 4315863098,
+            "version": 5,
+            "timestamp": "2018-11-07T21:38:45Z",
+            "changeset": 64274831,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "addr:city": "Pellizzano",
+                "addr:housenumber": "13",
+                "addr:postcode": "38020",
+                "addr:street": "Località Claiano",
+                "amenity": "restaurant",
+                "email": "allavecchiamacina@gmail.com",
+                "name": "Alla Veccia Macina",
+                "phone": "+39 0463 751954",
+                "website": "http://www.vecchiamacinapellizzano.com/"
+            },
+            "lat": 46.3163649,
+            "lon": 10.7744696
+        },
+        {
+            "type": "way",
+            "id": 296426385,
+            "version": 2,
+            "timestamp": "2014-08-07T10:54:30Z",
+            "changeset": 24593805,
+            "uid": 1600655,
+            "user": "edivad36",
+            "tags": {
+                "amenity": "cafe",
+                "building": "yes",
+                "internet_access": "no",
+                "name": "Circolo di Termenago",
+                "opening_hours": "Mo-Sa 20:30-24:00",
+                "smoking": "no"
+            },
+            "nodes": [
+                3002243260,
+                3002243261,
+                3002243262,
+                3002243263,
+                3002346905,
+                3002243260
+            ]
+        },
+        {
+            "type": "node",
+            "id": 3002243260,
+            "version": 1,
+            "timestamp": "2014-08-07T10:12:23Z",
+            "changeset": 24593046,
+            "uid": 1600655,
+            "user": "edivad36",
+            "lat": 46.3156705,
+            "lon": 10.7648778
+        },
+        {
+            "type": "node",
+            "id": 3002243261,
+            "version": 1,
+            "timestamp": "2014-08-07T10:12:23Z",
+            "changeset": 24593046,
+            "uid": 1600655,
+            "user": "edivad36",
+            "lat": 46.3155936,
+            "lon": 10.764918
+        },
+        {
+            "type": "node",
+            "id": 3002243262,
+            "version": 1,
+            "timestamp": "2014-08-07T10:12:23Z",
+            "changeset": 24593046,
+            "uid": 1600655,
+            "user": "edivad36",
+            "lat": 46.3156205,
+            "lon": 10.7651393
+        },
+        {
+            "type": "node",
+            "id": 3002243263,
+            "version": 1,
+            "timestamp": "2014-08-07T10:12:23Z",
+            "changeset": 24593046,
+            "uid": 1600655,
+            "user": "edivad36",
+            "lat": 46.3157113,
+            "lon": 10.7650923
+        },
+        {
+            "type": "node",
+            "id": 3002346905,
+            "version": 1,
+            "timestamp": "2014-08-07T10:54:30Z",
+            "changeset": 24593805,
+            "uid": 1600655,
+            "user": "edivad36",
+            "lat": 46.3156881,
+            "lon": 10.7649702
+        }
+    ]
+}

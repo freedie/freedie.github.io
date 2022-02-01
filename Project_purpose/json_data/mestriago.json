@@ -1,0 +1,106 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1098424327,
+            "version": 1,
+            "timestamp": "2011-01-11T19:47:37Z",
+            "changeset": 6940616,
+            "uid": 1987,
+            "user": "niubii",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Dolce Amaro"
+            },
+            "lat": 46.319399,
+            "lon": 10.8367956
+        },
+        {
+            "type": "node",
+            "id": 5330541422,
+            "version": 1,
+            "timestamp": "2018-01-10T06:32:21Z",
+            "changeset": 55312799,
+            "uid": 4731195,
+            "user": "Don Viper",
+            "tags": {
+                "amenity": "bar",
+                "name": "L'Ora di Punta"
+            },
+            "lat": 46.3192933,
+            "lon": 10.8360968
+        },
+        {
+            "type": "node",
+            "id": 5330541921,
+            "version": 2,
+            "timestamp": "2019-07-17T06:12:16Z",
+            "changeset": 72331396,
+            "uid": 8313119,
+            "user": "TEPOIMAENATTE",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Bucaneve",
+                "phone": "+39 0463 974263"
+            },
+            "lat": 46.3202338,
+            "lon": 10.8358557
+        },
+        {
+            "type": "node",
+            "id": 7924119464,
+            "version": 1,
+            "timestamp": "2020-09-19T19:54:42Z",
+            "changeset": 91160048,
+            "uid": 852319,
+            "user": "vrmap",
+            "tags": {
+                "amenity": "cafe",
+                "name": "La Stube"
+            },
+            "lat": 46.3212542,
+            "lon": 10.8399144
+        },
+        {
+            "type": "node",
+            "id": 7944379443,
+            "version": 1,
+            "timestamp": "2020-09-26T09:00:27Z",
+            "changeset": 91543703,
+            "uid": 852319,
+            "user": "vrmap",
+            "tags": {
+                "addr:city": "Commezzadura",
+                "addr:country": "IT",
+                "addr:postcode": "38020",
+                "addr:street": "Via di Sóta la Crós",
+                "amenity": "restaurant",
+                "name": "Hotel Genzianella"
+            },
+            "lat": 46.3193129,
+            "lon": 10.8430204
+        },
+        {
+            "type": "node",
+            "id": 7944379453,
+            "version": 1,
+            "timestamp": "2020-09-26T09:00:27Z",
+            "changeset": 91543703,
+            "uid": 852319,
+            "user": "vrmap",
+            "tags": {
+                "addr:city": "Daolasa",
+                "addr:country": "IT",
+                "addr:housenumber": "13",
+                "addr:postcode": "38020",
+                "addr:street": "Via della Fantoma",
+                "amenity": "restaurant",
+                "name": "Bio Hotel Benny"
+            },
+            "lat": 46.319537,
+            "lon": 10.8422533
+        }
+    ]
+}

@@ -1,0 +1,584 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 497089016,
+            "version": 4,
+            "timestamp": "2020-09-01T07:40:09Z",
+            "changeset": 90227956,
+            "uid": 3922164,
+            "user": "Himbeergeist",
+            "tags": {
+                "addr:city": "Calceranica al Lago",
+                "addr:housenumber": "17",
+                "addr:postcode": "38050",
+                "addr:street": "Via Guido Donegani",
+                "amenity": "cafe",
+                "cuisine": "bistro;ice_cream",
+                "ice_cream": "yes",
+                "name": "Bar Pasticceria Gelateria Al Lago",
+                "outdoor_seating": "yes",
+                "snack": "yes",
+                "takeaway": "yes"
+            },
+            "lat": 46.0059842,
+            "lon": 11.2411636
+        },
+        {
+            "type": "node",
+            "id": 1824386638,
+            "version": 1,
+            "timestamp": "2012-07-13T14:44:01Z",
+            "changeset": 12207461,
+            "uid": 504502,
+            "user": "kkklllppp",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.0050127,
+            "lon": 11.2423619
+        },
+        {
+            "type": "node",
+            "id": 5662790564,
+            "version": 1,
+            "timestamp": "2018-06-04T06:58:15Z",
+            "changeset": 59525405,
+            "uid": 852319,
+            "user": "vrmap",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 46.0033366,
+            "lon": 11.2429123
+        },
+        {
+            "type": "node",
+            "id": 4340248023,
+            "version": 1,
+            "timestamp": "2016-08-07T19:12:14Z",
+            "changeset": 41310304,
+            "uid": 4181896,
+            "user": "Emmavb",
+            "tags": {
+                "amenity": "bar",
+                "internet_access": "wlan",
+                "name": "Caffé Garden",
+                "opening_hours": "Mo-Su 16:00-02:00"
+            },
+            "lat": 46.0010464,
+            "lon": 11.2488043
+        },
+        {
+            "type": "way",
+            "id": 105588385,
+            "version": 6,
+            "timestamp": "2018-12-12T22:55:09Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "building": "yes"
+            },
+            "nodes": [
+                1215888706,
+                1215888668,
+                1215888629,
+                6133657103,
+                6133657104,
+                1215888597,
+                1215888706
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1215888706,
+            "version": 5,
+            "timestamp": "2018-12-12T22:54:25Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0050932,
+            "lon": 11.2346709
+        },
+        {
+            "type": "node",
+            "id": 1215888668,
+            "version": 5,
+            "timestamp": "2018-12-12T22:54:25Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0050437,
+            "lon": 11.2345237
+        },
+        {
+            "type": "node",
+            "id": 1215888629,
+            "version": 5,
+            "timestamp": "2018-12-12T22:54:25Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0048908,
+            "lon": 11.2346303
+        },
+        {
+            "type": "node",
+            "id": 6133657103,
+            "version": 1,
+            "timestamp": "2018-12-12T22:54:03Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.004923,
+            "lon": 11.2347261
+        },
+        {
+            "type": "node",
+            "id": 6133657104,
+            "version": 1,
+            "timestamp": "2018-12-12T22:54:03Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0049604,
+            "lon": 11.2347001
+        },
+        {
+            "type": "node",
+            "id": 1215888597,
+            "version": 5,
+            "timestamp": "2018-12-12T22:54:25Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0049776,
+            "lon": 11.2347514
+        },
+        {
+            "type": "way",
+            "id": 224374897,
+            "version": 3,
+            "timestamp": "2019-03-24T15:59:17Z",
+            "changeset": 68475566,
+            "uid": 9451067,
+            "user": "b-jazz-bot",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "Energy Hotel",
+                "tourism": "hotel",
+                "website": "https://www.energyhotel.it/"
+            },
+            "nodes": [
+                2331890903,
+                2331890891,
+                2331890899,
+                2331890914,
+                2331890903
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2331890903,
+            "version": 1,
+            "timestamp": "2013-06-04T15:44:44Z",
+            "changeset": 16421196,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0044027,
+            "lon": 11.2433929
+        },
+        {
+            "type": "node",
+            "id": 2331890891,
+            "version": 1,
+            "timestamp": "2013-06-04T15:44:44Z",
+            "changeset": 16421196,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0042675,
+            "lon": 11.2431769
+        },
+        {
+            "type": "node",
+            "id": 2331890899,
+            "version": 1,
+            "timestamp": "2013-06-04T15:44:44Z",
+            "changeset": 16421196,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0043494,
+            "lon": 11.2430707
+        },
+        {
+            "type": "node",
+            "id": 2331890914,
+            "version": 1,
+            "timestamp": "2013-06-04T15:44:45Z",
+            "changeset": 16421196,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0044845,
+            "lon": 11.2432867
+        },
+        {
+            "type": "way",
+            "id": 105602356,
+            "version": 5,
+            "timestamp": "2018-08-29T07:38:12Z",
+            "changeset": 62094730,
+            "uid": 351361,
+            "user": "dvdzero",
+            "tags": {
+                "addr:housenumber": "1",
+                "amenity": "restaurant",
+                "building": "house",
+                "building:levels": "1",
+                "name": "Le barche"
+            },
+            "nodes": [
+                1216023771,
+                1216023379,
+                1216024424,
+                2327250327,
+                1216024066,
+                1216023771
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1216023771,
+            "version": 2,
+            "timestamp": "2013-05-31T15:01:32Z",
+            "changeset": 16366387,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0015977,
+            "lon": 11.2486234
+        },
+        {
+            "type": "node",
+            "id": 1216023379,
+            "version": 2,
+            "timestamp": "2013-05-31T15:01:32Z",
+            "changeset": 16366387,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0016001,
+            "lon": 11.24872
+        },
+        {
+            "type": "node",
+            "id": 1216024424,
+            "version": 2,
+            "timestamp": "2013-05-31T15:01:32Z",
+            "changeset": 16366387,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0017621,
+            "lon": 11.2488077
+        },
+        {
+            "type": "node",
+            "id": 2327250327,
+            "version": 1,
+            "timestamp": "2013-05-31T15:01:24Z",
+            "changeset": 16366387,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0017422,
+            "lon": 11.2485706
+        },
+        {
+            "type": "node",
+            "id": 1216024066,
+            "version": 2,
+            "timestamp": "2013-05-31T15:01:32Z",
+            "changeset": 16366387,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0016872,
+            "lon": 11.2485316
+        },
+        {
+            "type": "way",
+            "id": 102779824,
+            "version": 2,
+            "timestamp": "2016-07-05T22:59:28Z",
+            "changeset": 40511486,
+            "uid": 371369,
+            "user": "mucx",
+            "tags": {
+                "amenity": "cafe",
+                "building": "yes",
+                "name": "Punta Lago Gelateria"
+            },
+            "nodes": [
+                1187034481,
+                1187034435,
+                1187034458,
+                1187034474,
+                1187034481
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1187034481,
+            "version": 4,
+            "timestamp": "2016-07-05T22:59:29Z",
+            "changeset": 40511486,
+            "uid": 371369,
+            "user": "mucx",
+            "lat": 46.0020849,
+            "lon": 11.2544025
+        },
+        {
+            "type": "node",
+            "id": 1187034435,
+            "version": 4,
+            "timestamp": "2016-07-05T22:59:29Z",
+            "changeset": 40511486,
+            "uid": 371369,
+            "user": "mucx",
+            "lat": 46.0020392,
+            "lon": 11.2542487
+        },
+        {
+            "type": "node",
+            "id": 1187034458,
+            "version": 4,
+            "timestamp": "2016-07-05T22:59:29Z",
+            "changeset": 40511486,
+            "uid": 371369,
+            "user": "mucx",
+            "lat": 46.0021292,
+            "lon": 11.2541933
+        },
+        {
+            "type": "node",
+            "id": 1187034474,
+            "version": 4,
+            "timestamp": "2016-07-05T22:59:29Z",
+            "changeset": 40511486,
+            "uid": 371369,
+            "user": "mucx",
+            "lat": 46.0021749,
+            "lon": 11.2543471
+        },
+        {
+            "type": "way",
+            "id": 102779829,
+            "version": 8,
+            "timestamp": "2021-06-30T16:42:52Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Calceranica al Lago",
+                "addr:country": "IT",
+                "addr:housenumber": "50",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Via Lungo Lago",
+                "amenity": "restaurant",
+                "building": "yes",
+                "contact:email": "bibashaus@yahoo.it",
+                "name": "Biba's",
+                "operator": "Prizzi snc di Pitton e Rizzi"
+            },
+            "nodes": [
+                1187034445,
+                1187034433,
+                1187034457,
+                2327172421,
+                2327172422,
+                2327172425,
+                2327172423,
+                1187034472,
+                1403219065,
+                2327172419,
+                1187034445
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1187034445,
+            "version": 4,
+            "timestamp": "2018-12-12T22:54:23Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0016049,
+            "lon": 11.2532276
+        },
+        {
+            "type": "node",
+            "id": 1187034433,
+            "version": 4,
+            "timestamp": "2018-12-12T22:54:23Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0015313,
+            "lon": 11.2529576
+        },
+        {
+            "type": "node",
+            "id": 1187034457,
+            "version": 4,
+            "timestamp": "2018-12-12T22:54:23Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0016722,
+            "lon": 11.2528779
+        },
+        {
+            "type": "node",
+            "id": 2327172421,
+            "version": 2,
+            "timestamp": "2018-12-12T22:54:42Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0017009,
+            "lon": 11.2529829
+        },
+        {
+            "type": "node",
+            "id": 2327172422,
+            "version": 2,
+            "timestamp": "2018-12-12T22:54:42Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0017273,
+            "lon": 11.2529679
+        },
+        {
+            "type": "node",
+            "id": 2327172425,
+            "version": 2,
+            "timestamp": "2018-12-12T22:54:42Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0017735,
+            "lon": 11.2531372
+        },
+        {
+            "type": "node",
+            "id": 2327172423,
+            "version": 2,
+            "timestamp": "2018-12-12T22:54:42Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0017492,
+            "lon": 11.253151
+        },
+        {
+            "type": "node",
+            "id": 1187034472,
+            "version": 4,
+            "timestamp": "2018-12-12T22:54:23Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0017566,
+            "lon": 11.2531781
+        },
+        {
+            "type": "node",
+            "id": 1403219065,
+            "version": 3,
+            "timestamp": "2018-12-12T22:54:29Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0016606,
+            "lon": 11.2532324
+        },
+        {
+            "type": "node",
+            "id": 2327172419,
+            "version": 2,
+            "timestamp": "2018-12-12T22:54:42Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.001652,
+            "lon": 11.253201
+        },
+        {
+            "type": "way",
+            "id": 224157928,
+            "version": 2,
+            "timestamp": "2014-09-01T21:13:21Z",
+            "changeset": 25170310,
+            "uid": 202713,
+            "user": "rupps",
+            "tags": {
+                "amenity": "bar",
+                "building": "yes",
+                "shop": "kiosk"
+            },
+            "nodes": [
+                3054461690,
+                2329880454,
+                2329880437,
+                3054461689,
+                3054461690
+            ]
+        },
+        {
+            "type": "node",
+            "id": 3054461690,
+            "version": 2,
+            "timestamp": "2014-09-03T13:55:46Z",
+            "changeset": 25205397,
+            "uid": 202713,
+            "user": "rupps",
+            "lat": 46.0066101,
+            "lon": 11.2469952
+        },
+        {
+            "type": "node",
+            "id": 2329880454,
+            "version": 2,
+            "timestamp": "2014-09-03T13:55:45Z",
+            "changeset": 25205397,
+            "uid": 202713,
+            "user": "rupps",
+            "lat": 46.0065022,
+            "lon": 11.2470933
+        },
+        {
+            "type": "node",
+            "id": 2329880437,
+            "version": 2,
+            "timestamp": "2014-09-03T13:55:45Z",
+            "changeset": 25205397,
+            "uid": 202713,
+            "user": "rupps",
+            "lat": 46.0064378,
+            "lon": 11.2469466
+        },
+        {
+            "type": "node",
+            "id": 3054461689,
+            "version": 2,
+            "timestamp": "2014-09-03T13:55:46Z",
+            "changeset": 25205397,
+            "uid": 202713,
+            "user": "rupps",
+            "lat": 46.0065463,
+            "lon": 11.246848
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1843995236,
+            "version": 3,
+            "timestamp": "2016-11-29T18:07:29Z",
+            "changeset": 44040089,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Albergo Bar \"La Rosa\"",
+                "tourism": "hotel"
+            },
+            "lat": 46.0174524,
+            "lon": 10.8196861
+        },
+        {
+            "type": "node",
+            "id": 5243991946,
+            "version": 2,
+            "timestamp": "2018-11-07T12:45:20Z",
+            "changeset": 64261197,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:housenumber": "102",
+                "addr:postcode": "38071",
+                "addr:street": "Località Rango",
+                "amenity": "restaurant",
+                "email": "ristorantecatenaccio@gmail.com",
+                "name": "IL Catenaccio",
+                "phone": "+39 0465 779317",
+                "website": "http://www.catenaccio-rango.it/"
+            },
+            "lat": 46.0186336,
+            "lon": 10.8111131
+        },
+        {
+            "type": "node",
+            "id": 850582185,
+            "version": 3,
+            "timestamp": "2013-07-24T14:16:19Z",
+            "changeset": 17076065,
+            "uid": 459100,
+            "user": "Superfebs",
+            "tags": {
+                "amenity": "bar",
+                "cuisine": "pizza",
+                "name": "Al Castelliere"
+            },
+            "lat": 46.0231844,
+            "lon": 10.8192864
+        }
+    ]
+}

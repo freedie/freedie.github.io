@@ -1,0 +1,87 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 4318081292,
+            "version": 1,
+            "timestamp": "2016-07-24T10:55:50Z",
+            "changeset": 40988651,
+            "uid": 4312150,
+            "user": "Stefano Bertoli",
+            "tags": {
+                "amenity": "bar",
+                "internet_access": "wlan",
+                "name": "Bar 'il Palazzetto'",
+                "opening_hours": "Mo-Su 07:30-23:00"
+            },
+            "lat": 46.1666949,
+            "lon": 10.7575356
+        },
+        {
+            "type": "node",
+            "id": 1945847780,
+            "version": 2,
+            "timestamp": "2013-08-17T16:32:30Z",
+            "changeset": 17385850,
+            "uid": 966775,
+            "user": "corradotisi",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Eureka"
+            },
+            "lat": 46.1687941,
+            "lon": 10.7633346
+        },
+        {
+            "type": "node",
+            "id": 2717008013,
+            "version": 1,
+            "timestamp": "2014-03-14T11:33:49Z",
+            "changeset": 21097771,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Ristorante Pizzeria All'Antica Segheria",
+                "restaurant:type:it": "ristorante;pizzeria"
+            },
+            "lat": 46.1701203,
+            "lon": 10.7647325
+        },
+        {
+            "type": "node",
+            "id": 4318091389,
+            "version": 1,
+            "timestamp": "2016-07-24T10:55:51Z",
+            "changeset": 40988651,
+            "uid": 4312150,
+            "user": "Stefano Bertoli",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Sport"
+            },
+            "lat": 46.1689598,
+            "lon": 10.7613392
+        },
+        {
+            "type": "node",
+            "id": 8835049162,
+            "version": 1,
+            "timestamp": "2021-06-15T08:24:59Z",
+            "changeset": 106383986,
+            "uid": 13535663,
+            "user": "Yousri2003",
+            "tags": {
+                "addr:city": "Carisolo",
+                "addr:housenumber": "7",
+                "addr:street": "Piazza 2 Maggio",
+                "amenity": "bar",
+                "name": "Bar Ser Artur"
+            },
+            "lat": 46.1691676,
+            "lon": 10.7623606
+        }
+    ]
+}

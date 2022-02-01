@@ -1,0 +1,97 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 866739433,
+            "version": 5,
+            "timestamp": "2019-05-05T10:31:43Z",
+            "changeset": 69900176,
+            "uid": 527535,
+            "user": "Constable",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Goofy Pub-Ristorante-Pizzeria"
+            },
+            "lat": 46.3956967,
+            "lon": 11.6653218
+        },
+        {
+            "type": "node",
+            "id": 866739470,
+            "version": 3,
+            "timestamp": "2019-05-07T12:45:12Z",
+            "changeset": 69975687,
+            "uid": 9852349,
+            "user": "AndreaPellegrin",
+            "tags": {
+                "amenity": "bar",
+                "name": "Caffe' Gelateria Dolomiti"
+            },
+            "lat": 46.3951587,
+            "lon": 11.6663271
+        },
+        {
+            "type": "node",
+            "id": 866739494,
+            "version": 7,
+            "timestamp": "2015-07-02T23:10:04Z",
+            "changeset": 32376806,
+            "uid": 1974520,
+            "user": "user_1974520",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Gelateria George's"
+            },
+            "lat": 46.3956323,
+            "lon": 11.6674253
+        },
+        {
+            "type": "node",
+            "id": 1585221252,
+            "version": 2,
+            "timestamp": "2012-03-05T13:21:05Z",
+            "changeset": 10879363,
+            "uid": 38267,
+            "user": "DaniloP",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Ja Vito"
+            },
+            "lat": 46.3944645,
+            "lon": 11.666888
+        },
+        {
+            "type": "node",
+            "id": 1585221511,
+            "version": 4,
+            "timestamp": "2019-05-07T10:20:31Z",
+            "changeset": 69969089,
+            "uid": 527535,
+            "user": "Constable",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Ristorante Pizzeria Sas da Rocia"
+            },
+            "lat": 46.3957595,
+            "lon": 11.6666167
+        },
+        {
+            "type": "node",
+            "id": 8982740210,
+            "version": 1,
+            "timestamp": "2021-08-05T08:57:30Z",
+            "changeset": 109188809,
+            "uid": 68540,
+            "user": "paracetamolo",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Imbis al Parco"
+            },
+            "lat": 46.3964935,
+            "lon": 11.6695689
+        }
+    ]
+}

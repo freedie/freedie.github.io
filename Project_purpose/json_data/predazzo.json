@@ -1,0 +1,175 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 303826370,
+            "version": 2,
+            "timestamp": "2012-12-19T16:57:04Z",
+            "changeset": 14333539,
+            "uid": 78656,
+            "user": "Walter Schlögl",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzeria Millenium"
+            },
+            "lat": 46.3093023,
+            "lon": 11.6013606
+        },
+        {
+            "type": "node",
+            "id": 303826374,
+            "version": 2,
+            "timestamp": "2011-04-28T11:12:26Z",
+            "changeset": 7993619,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "fast_food",
+                "name": "PizzaTime"
+            },
+            "lat": 46.3102985,
+            "lon": 11.6021108
+        },
+        {
+            "type": "node",
+            "id": 303828159,
+            "version": 1,
+            "timestamp": "2008-10-11T21:28:40Z",
+            "changeset": 270317,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "amenity": "bar",
+                "name": "Caorer"
+            },
+            "lat": 46.310868,
+            "lon": 11.6019299
+        },
+        {
+            "type": "node",
+            "id": 303828168,
+            "version": 2,
+            "timestamp": "2012-12-19T16:57:04Z",
+            "changeset": 14333539,
+            "uid": 78656,
+            "user": "Walter Schlögl",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzeria L'arcade"
+            },
+            "lat": 46.3109084,
+            "lon": 11.602838
+        },
+        {
+            "type": "node",
+            "id": 303825097,
+            "version": 2,
+            "timestamp": "2011-04-28T11:12:46Z",
+            "changeset": 7993619,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.3117416,
+            "lon": 11.5994554
+        },
+        {
+            "type": "node",
+            "id": 303832073,
+            "version": 1,
+            "timestamp": "2008-10-11T21:41:52Z",
+            "changeset": 270317,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "amenity": "pub"
+            },
+            "lat": 46.3139024,
+            "lon": 11.5995676
+        },
+        {
+            "type": "node",
+            "id": 303822584,
+            "version": 3,
+            "timestamp": "2016-09-08T14:10:25Z",
+            "changeset": 42004998,
+            "uid": 4546640,
+            "user": "bjd90",
+            "tags": {
+                "amenity": "bar",
+                "name": "Scarabelin"
+            },
+            "lat": 46.3130928,
+            "lon": 11.6011867
+        },
+        {
+            "type": "node",
+            "id": 303826366,
+            "version": 1,
+            "timestamp": "2008-10-11T21:21:04Z",
+            "changeset": 270317,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "amenity": "bar",
+                "name": "Caffè Predazzo"
+            },
+            "lat": 46.3117817,
+            "lon": 11.6019811
+        },
+        {
+            "type": "node",
+            "id": 3224940241,
+            "version": 1,
+            "timestamp": "2014-12-08T14:27:30Z",
+            "changeset": 27335083,
+            "uid": 579545,
+            "user": "Aury88",
+            "tags": {
+                "addr:housenumber": "5",
+                "addr:street": "Via Dellagiacoma",
+                "amenity": "bar",
+                "name": "Bar Caffè Croce",
+                "owner": "Vanzo LinavAnna",
+                "ref:vatin": "IT02318810229"
+            },
+            "lat": 46.3129358,
+            "lon": 11.6028196
+        },
+        {
+            "type": "node",
+            "id": 303832096,
+            "version": 1,
+            "timestamp": "2008-10-11T21:41:54Z",
+            "changeset": 270317,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Majestic"
+            },
+            "lat": 46.3065591,
+            "lon": 11.5985512
+        },
+        {
+            "type": "node",
+            "id": 4336800368,
+            "version": 1,
+            "timestamp": "2016-08-05T10:59:55Z",
+            "changeset": 41257089,
+            "uid": 1396397,
+            "user": "Gianni Bragante",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "La Primoteca"
+            },
+            "lat": 46.3155825,
+            "lon": 11.5972855
+        }
+    ]
+}

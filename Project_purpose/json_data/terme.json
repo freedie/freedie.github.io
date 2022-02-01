@@ -1,0 +1,328 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 3382157053,
+            "version": 4,
+            "timestamp": "2016-03-06T13:20:53Z",
+            "changeset": 37644963,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 46.0511247,
+            "lon": 11.4096581
+        },
+        {
+            "type": "node",
+            "id": 4426899933,
+            "version": 1,
+            "timestamp": "2016-10-01T19:50:10Z",
+            "changeset": 42569876,
+            "uid": 223093,
+            "user": "geow",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 46.0516662,
+            "lon": 11.4095821
+        },
+        {
+            "type": "node",
+            "id": 666808301,
+            "version": 6,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Roncegno Terme",
+                "addr:country": "IT",
+                "addr:housenumber": "3",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Via Trogher",
+                "amenity": "fast_food",
+                "name": "Al Goloso",
+                "operator": "Montibeller Mario",
+                "ref:vatin": "IT02070210220"
+            },
+            "lat": 46.0531494,
+            "lon": 11.4108356
+        },
+        {
+            "type": "node",
+            "id": 673196028,
+            "version": 10,
+            "timestamp": "2016-05-23T19:08:43Z",
+            "changeset": 39516985,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Tre Venezie"
+            },
+            "lat": 46.0529493,
+            "lon": 11.4102617
+        },
+        {
+            "type": "node",
+            "id": 4043601648,
+            "version": 1,
+            "timestamp": "2016-03-06T13:20:06Z",
+            "changeset": 37644963,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 46.0525343,
+            "lon": 11.4099671
+        },
+        {
+            "type": "node",
+            "id": 4185984948,
+            "version": 4,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Roncegno Terme",
+                "addr:country": "IT",
+                "addr:housenumber": "9",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Via Enrico Capraro",
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "name": "Al Volto"
+            },
+            "lat": 46.0509082,
+            "lon": 11.4109013
+        },
+        {
+            "type": "way",
+            "id": 331155754,
+            "version": 3,
+            "timestamp": "2016-09-30T06:51:58Z",
+            "changeset": 42534792,
+            "uid": 223093,
+            "user": "geow",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "italian",
+                "internet_access": "wlan",
+                "name": "Albergo Vittoria",
+                "tourism": "hotel"
+            },
+            "nodes": [
+                3382157731,
+                3382157053,
+                3382157727,
+                3382157742,
+                3382157743,
+                3382157745,
+                3382157738,
+                3382157737,
+                3382157731
+            ]
+        },
+        {
+            "type": "node",
+            "id": 3382157731,
+            "version": 3,
+            "timestamp": "2015-07-21T20:02:35Z",
+            "changeset": 32787329,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0511319,
+            "lon": 11.4095756
+        },
+        {
+            "type": "node",
+            "id": 3382157727,
+            "version": 3,
+            "timestamp": "2015-07-21T20:02:35Z",
+            "changeset": 32787329,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0511204,
+            "lon": 11.4097081
+        },
+        {
+            "type": "node",
+            "id": 3382157742,
+            "version": 3,
+            "timestamp": "2015-07-21T20:02:36Z",
+            "changeset": 32787329,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0513094,
+            "lon": 11.4097421
+        },
+        {
+            "type": "node",
+            "id": 3382157743,
+            "version": 3,
+            "timestamp": "2015-07-21T20:02:36Z",
+            "changeset": 32787329,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0513161,
+            "lon": 11.4096649
+        },
+        {
+            "type": "node",
+            "id": 3382157745,
+            "version": 3,
+            "timestamp": "2015-07-21T20:02:36Z",
+            "changeset": 32787329,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0513249,
+            "lon": 11.4095629
+        },
+        {
+            "type": "node",
+            "id": 3382157738,
+            "version": 3,
+            "timestamp": "2015-07-21T20:02:36Z",
+            "changeset": 32787329,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0512212,
+            "lon": 11.4095443
+        },
+        {
+            "type": "node",
+            "id": 3382157737,
+            "version": 3,
+            "timestamp": "2015-07-21T20:02:36Z",
+            "changeset": 32787329,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0512172,
+            "lon": 11.4095909
+        },
+        {
+            "type": "way",
+            "id": 121382586,
+            "version": 4,
+            "timestamp": "2015-06-06T14:48:50Z",
+            "changeset": 31770726,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "pizza",
+                "microbrewery": "no",
+                "name": "Pizzeria il Picchio"
+            },
+            "nodes": [
+                1359213846,
+                3577110032,
+                3577110031,
+                1359213837,
+                1359213836,
+                3577110029,
+                3577110030,
+                1359213845,
+                1359213846
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1359213846,
+            "version": 2,
+            "timestamp": "2015-06-06T14:52:17Z",
+            "changeset": 31770726,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0497946,
+            "lon": 11.4109568
+        },
+        {
+            "type": "node",
+            "id": 3577110032,
+            "version": 1,
+            "timestamp": "2015-06-06T14:48:48Z",
+            "changeset": 31770726,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0497205,
+            "lon": 11.4109557
+        },
+        {
+            "type": "node",
+            "id": 3577110031,
+            "version": 1,
+            "timestamp": "2015-06-06T14:48:48Z",
+            "changeset": 31770726,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0497204,
+            "lon": 11.4109689
+        },
+        {
+            "type": "node",
+            "id": 1359213837,
+            "version": 2,
+            "timestamp": "2015-06-06T14:52:16Z",
+            "changeset": 31770726,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0496355,
+            "lon": 11.4109676
+        },
+        {
+            "type": "node",
+            "id": 1359213836,
+            "version": 2,
+            "timestamp": "2015-06-06T14:52:16Z",
+            "changeset": 31770726,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0496363,
+            "lon": 11.4108565
+        },
+        {
+            "type": "node",
+            "id": 3577110029,
+            "version": 1,
+            "timestamp": "2015-06-06T14:48:48Z",
+            "changeset": 31770726,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0497182,
+            "lon": 11.4108577
+        },
+        {
+            "type": "node",
+            "id": 3577110030,
+            "version": 1,
+            "timestamp": "2015-06-06T14:48:48Z",
+            "changeset": 31770726,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0497183,
+            "lon": 11.4108459
+        },
+        {
+            "type": "node",
+            "id": 1359213845,
+            "version": 2,
+            "timestamp": "2015-06-06T14:52:16Z",
+            "changeset": 31770726,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0497954,
+            "lon": 11.4108471
+        }
+    ]
+}

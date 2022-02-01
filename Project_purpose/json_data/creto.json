@@ -1,0 +1,168 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2526451125,
+            "version": 1,
+            "timestamp": "2013-11-10T13:46:37Z",
+            "changeset": 18816581,
+            "uid": 457880,
+            "user": "Michele_69",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Gelateria Basi'n"
+            },
+            "lat": 45.9441399,
+            "lon": 10.642506
+        },
+        {
+            "type": "node",
+            "id": 2525009247,
+            "version": 1,
+            "timestamp": "2013-11-09T07:44:04Z",
+            "changeset": 18794877,
+            "uid": 457880,
+            "user": "Michele_69",
+            "tags": {
+                "alt_name": "Bar Albergo alla Posta",
+                "amenity": "bar",
+                "name": "Bar Posta"
+            },
+            "lat": 45.9391331,
+            "lon": 10.6389348
+        },
+        {
+            "type": "node",
+            "id": 2525035021,
+            "version": 1,
+            "timestamp": "2013-11-09T08:34:27Z",
+            "changeset": 18795362,
+            "uid": 457880,
+            "user": "Michele_69",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Pizzeria Contessa Dina",
+                "operator": "Bar Pizzeria Contessa Dina di De Silvestri Paolo & C. Società in nome collettivo"
+            },
+            "lat": 45.9399054,
+            "lon": 10.6391401
+        },
+        {
+            "type": "way",
+            "id": 82591509,
+            "version": 1,
+            "timestamp": "2010-10-23T08:39:26Z",
+            "changeset": 6142888,
+            "uid": 163090,
+            "user": "zonta72",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "St. Sebastian",
+                "stars": "1",
+                "tourism": "hotel"
+            },
+            "nodes": [
+                961289199,
+                961289170,
+                961289156,
+                961289196,
+                961289176,
+                961289164,
+                961289148,
+                961289190,
+                961289199
+            ]
+        },
+        {
+            "type": "node",
+            "id": 961289199,
+            "version": 1,
+            "timestamp": "2010-10-23T08:39:25Z",
+            "changeset": 6142888,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.9450754,
+            "lon": 10.6316334
+        },
+        {
+            "type": "node",
+            "id": 961289170,
+            "version": 1,
+            "timestamp": "2010-10-23T08:39:23Z",
+            "changeset": 6142888,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.9449954,
+            "lon": 10.6318799
+        },
+        {
+            "type": "node",
+            "id": 961289156,
+            "version": 1,
+            "timestamp": "2010-10-23T08:39:22Z",
+            "changeset": 6142888,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.9449377,
+            "lon": 10.631851
+        },
+        {
+            "type": "node",
+            "id": 961289196,
+            "version": 1,
+            "timestamp": "2010-10-23T08:39:25Z",
+            "changeset": 6142888,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.9448801,
+            "lon": 10.6320143
+        },
+        {
+            "type": "node",
+            "id": 961289176,
+            "version": 1,
+            "timestamp": "2010-10-23T08:39:24Z",
+            "changeset": 6142888,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.9447041,
+            "lon": 10.6319055
+        },
+        {
+            "type": "node",
+            "id": 961289164,
+            "version": 1,
+            "timestamp": "2010-10-23T08:39:23Z",
+            "changeset": 6142888,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.9447905,
+            "lon": 10.6316718
+        },
+        {
+            "type": "node",
+            "id": 961289148,
+            "version": 1,
+            "timestamp": "2010-10-23T08:39:22Z",
+            "changeset": 6142888,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.9448833,
+            "lon": 10.6317262
+        },
+        {
+            "type": "node",
+            "id": 961289190,
+            "version": 1,
+            "timestamp": "2010-10-23T08:39:24Z",
+            "changeset": 6142888,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.9449377,
+            "lon": 10.6315437
+        }
+    ]
+}

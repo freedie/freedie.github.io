@@ -1,0 +1,70 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 301805267,
+            "version": 4,
+            "timestamp": "2021-08-26T19:33:07Z",
+            "changeset": 110305038,
+            "uid": 13993847,
+            "user": "Vancif",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Marki"
+            },
+            "lat": 46.1187425,
+            "lon": 10.752345
+        },
+        {
+            "type": "node",
+            "id": 8868691187,
+            "version": 1,
+            "timestamp": "2021-06-26T19:20:03Z",
+            "changeset": 107014401,
+            "uid": 45684,
+            "user": "Niouta",
+            "tags": {
+                "addr:housenumber": "4",
+                "addr:street": "Via all'Üscla",
+                "amenity": "restaurant",
+                "name": "Casa Ferrazza",
+                "phone": "+390465804724"
+            },
+            "lat": 46.1182349,
+            "lon": 10.7582538
+        },
+        {
+            "type": "node",
+            "id": 8887842646,
+            "version": 1,
+            "timestamp": "2021-07-02T13:54:32Z",
+            "changeset": 107314472,
+            "uid": 45684,
+            "user": "Niouta",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Casa Ferrazza"
+            },
+            "lat": 46.1182251,
+            "lon": 10.7582403
+        },
+        {
+            "type": "node",
+            "id": 301799493,
+            "version": 4,
+            "timestamp": "2019-01-01T14:28:03Z",
+            "changeset": 65933631,
+            "uid": 6817530,
+            "user": "Mzzntn",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Crosetta",
+                "opening_hours:signed": "no"
+            },
+            "lat": 46.1248315,
+            "lon": 10.7558523
+        }
+    ]
+}

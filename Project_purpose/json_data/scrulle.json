@@ -1,0 +1,159 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2232339460,
+            "version": 8,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Scurelle",
+                "addr:country": "IT",
+                "addr:housenumber": "16",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Piazza Maggiore",
+                "amenity": "cafe",
+                "note:it": "Manca nome caffè e varie informazioni locale",
+                "outdoor_seating": "yes"
+            },
+            "lat": 46.0650679,
+            "lon": 11.5066136
+        },
+        {
+            "type": "node",
+            "id": 4202862135,
+            "version": 5,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Scurelle",
+                "addr:country": "IT",
+                "addr:housenumber": "2",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Via del Municipio vecchio",
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Chardonnay",
+                "operator": "Caon L. E Cerato L. S.N.C.",
+                "phone": "+39 0461 763886",
+                "restaurant:type:it": "pizzeria",
+                "smoking": "no",
+                "takeaway": "yes"
+            },
+            "lat": 46.0648051,
+            "lon": 11.5066355
+        },
+        {
+            "type": "node",
+            "id": 4202862139,
+            "version": 6,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Scurelle",
+                "addr:country": "IT",
+                "addr:housenumber": "10",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Via Beniamino Donzelli",
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "name": "La Saporita",
+                "operator": "Ceka Valentina",
+                "phone": "+39 0461 762307",
+                "ref:vatin": "IT02140100229",
+                "takeaway": "yes"
+            },
+            "lat": 46.0653183,
+            "lon": 11.5059642
+        },
+        {
+            "type": "node",
+            "id": 4202862140,
+            "version": 4,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Scurelle",
+                "addr:country": "IT",
+                "addr:housenumber": "3",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Piazza Maggiore",
+                "amenity": "pub",
+                "name": "Pub Celtic",
+                "operator": "Baraonda S.R.L.S.",
+                "outdoor_seating": "yes",
+                "ref:vatin": "IT02481520225"
+            },
+            "lat": 46.065078,
+            "lon": 11.5062589
+        },
+        {
+            "type": "node",
+            "id": 4202838207,
+            "version": 7,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Scurelle",
+                "addr:country": "IT",
+                "addr:housenumber": "4",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Via 15 Agosto",
+                "amenity": "pub",
+                "name": "Rosy's Pub",
+                "operator": "Rosy's pub S.N.C. di Stenico Diego & C.",
+                "phone": "+39 0461 762370"
+            },
+            "lat": 46.0624944,
+            "lon": 11.5155949
+        },
+        {
+            "type": "node",
+            "id": 4202838209,
+            "version": 2,
+            "timestamp": "2018-02-06T22:33:45Z",
+            "changeset": 56131969,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "restaurant:type:it": "Pizzeria"
+            },
+            "lat": 46.06252,
+            "lon": 11.5155508
+        },
+        {
+            "type": "node",
+            "id": 3909747543,
+            "version": 2,
+            "timestamp": "2017-01-17T19:55:39Z",
+            "changeset": 45252580,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "tags": {
+                "amenity": "pub",
+                "name": "Pub Freeway"
+            },
+            "lat": 46.0700744,
+            "lon": 11.5092648
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "way",
+            "id": 77403179,
+            "version": 6,
+            "timestamp": "2021-05-16T12:20:34Z",
+            "changeset": 104766421,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Arco",
+                "addr:housenumber": "11",
+                "addr:postcode": "38062",
+                "addr:street": "Via Luigi Maffei",
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "thai",
+                "name": "Sawadee"
+            },
+            "nodes": [
+                911099825,
+                911099777,
+                911099809,
+                911099797,
+                8736100938,
+                911099825
+            ]
+        },
+        {
+            "type": "node",
+            "id": 911099825,
+            "version": 2,
+            "timestamp": "2021-05-16T12:20:34Z",
+            "changeset": 104766421,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9243493,
+            "lon": 10.8974121
+        },
+        {
+            "type": "node",
+            "id": 911099777,
+            "version": 2,
+            "timestamp": "2021-05-16T12:20:34Z",
+            "changeset": 104766421,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9242712,
+            "lon": 10.8975881
+        },
+        {
+            "type": "node",
+            "id": 911099809,
+            "version": 2,
+            "timestamp": "2021-05-16T12:20:34Z",
+            "changeset": 104766421,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9241463,
+            "lon": 10.8974722
+        },
+        {
+            "type": "node",
+            "id": 911099797,
+            "version": 2,
+            "timestamp": "2021-05-16T12:20:34Z",
+            "changeset": 104766421,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9242247,
+            "lon": 10.8972956
+        },
+        {
+            "type": "node",
+            "id": 8736100938,
+            "version": 1,
+            "timestamp": "2021-05-16T12:20:34Z",
+            "changeset": 104766421,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9243217,
+            "lon": 10.8973853
+        },
+        {
+            "type": "way",
+            "id": 77405222,
+            "version": 3,
+            "timestamp": "2013-11-07T08:11:52Z",
+            "changeset": 18760615,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "italian",
+                "name": "Ristorante Bar Aurora",
+                "phone": "+39 0464 516147"
+            },
+            "nodes": [
+                911113834,
+                911113842,
+                911113852,
+                911113845,
+                911113834
+            ]
+        },
+        {
+            "type": "node",
+            "id": 911113834,
+            "version": 1,
+            "timestamp": "2010-09-13T19:29:53Z",
+            "changeset": 5772825,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 45.925515,
+            "lon": 10.8946851
+        },
+        {
+            "type": "node",
+            "id": 911113842,
+            "version": 1,
+            "timestamp": "2010-09-13T19:29:53Z",
+            "changeset": 5772825,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 45.9252821,
+            "lon": 10.894602
+        },
+        {
+            "type": "node",
+            "id": 911113852,
+            "version": 1,
+            "timestamp": "2010-09-13T19:29:53Z",
+            "changeset": 5772825,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 45.9252666,
+            "lon": 10.8946989
+        },
+        {
+            "type": "node",
+            "id": 911113845,
+            "version": 1,
+            "timestamp": "2010-09-13T19:29:53Z",
+            "changeset": 5772825,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 45.9255016,
+            "lon": 10.8947792
+        },
+        {
+            "type": "node",
+            "id": 904600325,
+            "version": 4,
+            "timestamp": "2016-05-21T15:38:44Z",
+            "changeset": 39471444,
+            "uid": 3991092,
+            "user": "Stefania V",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzeria Ristorante Antica Corte",
+                "phone": "+39 0464 512789",
+                "takeaway": "yes"
+            },
+            "lat": 45.9207581,
+            "lon": 10.8909989
+        },
+        {
+            "type": "node",
+            "id": 2552192968,
+            "version": 1,
+            "timestamp": "2013-11-26T08:24:31Z",
+            "changeset": 19122605,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.9208303,
+            "lon": 10.8911018
+        },
+        {
+            "type": "way",
+            "id": 76608290,
+            "version": 6,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "Ristorante \"Al Fiume\"",
+                "phone": "+39 0464 517683",
+                "website": "https://www.pizzeriaalfiume.com/"
+            },
+            "nodes": [
+                902830690,
+                8013124809,
+                8013124802,
+                902830725,
+                8013124799,
+                8013124798,
+                902830682,
+                902830719,
+                8013124898,
+                902830690
+            ]
+        },
+        {
+            "type": "node",
+            "id": 902830690,
+            "version": 2,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9203319,
+            "lon": 10.8903246
+        },
+        {
+            "type": "node",
+            "id": 8013124809,
+            "version": 1,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9203246,
+            "lon": 10.8903428
+        },
+        {
+            "type": "node",
+            "id": 8013124802,
+            "version": 1,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9202437,
+            "lon": 10.8905441
+        },
+        {
+            "type": "node",
+            "id": 902830725,
+            "version": 2,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9202896,
+            "lon": 10.8905835
+        },
+        {
+            "type": "node",
+            "id": 8013124799,
+            "version": 1,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9203664,
+            "lon": 10.8906461
+        },
+        {
+            "type": "node",
+            "id": 8013124798,
+            "version": 1,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9203824,
+            "lon": 10.8906593
+        },
+        {
+            "type": "node",
+            "id": 902830682,
+            "version": 2,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9204428,
+            "lon": 10.8907095
+        },
+        {
+            "type": "node",
+            "id": 902830719,
+            "version": 2,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.920531,
+            "lon": 10.8904899
+        },
+        {
+            "type": "node",
+            "id": 8013124898,
+            "version": 1,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9204719,
+            "lon": 10.8904409
+        }
+    ]
+}

@@ -1,0 +1,921 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1806514143,
+            "version": 1,
+            "timestamp": "2012-06-29T20:44:10Z",
+            "changeset": 12060582,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Caffè in Piazza"
+            },
+            "lat": 45.9168658,
+            "lon": 11.1691844
+        },
+        {
+            "type": "node",
+            "id": 1806514148,
+            "version": 1,
+            "timestamp": "2012-06-29T20:44:10Z",
+            "changeset": 12060582,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "La Sgeva"
+            },
+            "lat": 45.9168784,
+            "lon": 11.168811
+        },
+        {
+            "type": "node",
+            "id": 1807391641,
+            "version": 1,
+            "timestamp": "2012-06-30T13:41:04Z",
+            "changeset": 12065949,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "name": "L'Angolo Bar"
+            },
+            "lat": 45.9157285,
+            "lon": 11.1717781
+        },
+        {
+            "type": "node",
+            "id": 1381060989,
+            "version": 2,
+            "timestamp": "2014-03-22T11:14:53Z",
+            "changeset": 21241788,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Baita del Gelato"
+            },
+            "lat": 45.9142352,
+            "lon": 11.176535
+        },
+        {
+            "type": "node",
+            "id": 5911749189,
+            "version": 2,
+            "timestamp": "2020-11-02T22:47:58Z",
+            "changeset": 93443700,
+            "uid": 12104260,
+            "user": "Pprazolari",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Residence Alaska"
+            },
+            "lat": 45.9132105,
+            "lon": 11.1788901
+        },
+        {
+            "type": "way",
+            "id": 85731067,
+            "version": 3,
+            "timestamp": "2020-11-10T16:59:54Z",
+            "changeset": 93874628,
+            "uid": 12150554,
+            "user": "Daniele GNP",
+            "tags": {
+                "amenity": "bar",
+                "brand": "Pompe Bianche",
+                "building": "yes",
+                "operator": "Tecnobenz di Valle Giovanni e Guido S.N.C.",
+                "ref:mise": "17705",
+                "source": "PCN ortofoto_colore 2006 - autorizzazione 10687/TRI",
+                "source:date": "2018-04-16"
+            },
+            "nodes": [
+                995147202,
+                995145965,
+                995146505,
+                995147129,
+                995147256,
+                995146421,
+                995147202
+            ]
+        },
+        {
+            "type": "node",
+            "id": 995147202,
+            "version": 2,
+            "timestamp": "2020-11-10T16:59:54Z",
+            "changeset": 93874628,
+            "uid": 12150554,
+            "user": "Daniele GNP",
+            "lat": 45.9147493,
+            "lon": 11.1670808
+        },
+        {
+            "type": "node",
+            "id": 995145965,
+            "version": 1,
+            "timestamp": "2010-11-19T19:38:13Z",
+            "changeset": 6409590,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9147104,
+            "lon": 11.1673074
+        },
+        {
+            "type": "node",
+            "id": 995146505,
+            "version": 1,
+            "timestamp": "2010-11-19T19:38:36Z",
+            "changeset": 6409590,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9146696,
+            "lon": 11.1672926
+        },
+        {
+            "type": "node",
+            "id": 995147129,
+            "version": 1,
+            "timestamp": "2010-11-19T19:39:09Z",
+            "changeset": 6409590,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9146857,
+            "lon": 11.1672006
+        },
+        {
+            "type": "node",
+            "id": 995147256,
+            "version": 2,
+            "timestamp": "2020-11-10T16:59:54Z",
+            "changeset": 93874628,
+            "uid": 12150554,
+            "user": "Daniele GNP",
+            "lat": 45.9145666,
+            "lon": 11.1671642
+        },
+        {
+            "type": "node",
+            "id": 995146421,
+            "version": 2,
+            "timestamp": "2020-11-10T16:59:54Z",
+            "changeset": 93874628,
+            "uid": 12150554,
+            "user": "Daniele GNP",
+            "lat": 45.9145947,
+            "lon": 11.1670237
+        },
+        {
+            "type": "way",
+            "id": 84173109,
+            "version": 1,
+            "timestamp": "2010-11-06T16:05:53Z",
+            "changeset": 6303643,
+            "uid": 76312,
+            "user": "scratera",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "Sanscrivel",
+                "source": "PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"
+            },
+            "nodes": [
+                370910274,
+                979185481,
+                979185614,
+                979185377,
+                370910274
+            ]
+        },
+        {
+            "type": "node",
+            "id": 370910274,
+            "version": 2,
+            "timestamp": "2010-11-06T16:06:02Z",
+            "changeset": 6303643,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9143254,
+            "lon": 11.1719218
+        },
+        {
+            "type": "node",
+            "id": 979185481,
+            "version": 1,
+            "timestamp": "2010-11-06T16:05:46Z",
+            "changeset": 6303643,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9144227,
+            "lon": 11.172036
+        },
+        {
+            "type": "node",
+            "id": 979185614,
+            "version": 1,
+            "timestamp": "2010-11-06T16:05:49Z",
+            "changeset": 6303643,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9145421,
+            "lon": 11.1718259
+        },
+        {
+            "type": "node",
+            "id": 979185377,
+            "version": 1,
+            "timestamp": "2010-11-06T16:05:40Z",
+            "changeset": 6303643,
+            "uid": 76312,
+            "user": "scratera",
+            "lat": 45.9144448,
+            "lon": 11.1717117
+        },
+        {
+            "type": "way",
+            "id": 268273017,
+            "version": 1,
+            "timestamp": "2014-03-23T11:34:31Z",
+            "changeset": 21262049,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "tags": {
+                "addr:city": "Folgaria",
+                "addr:housenumber": "39",
+                "addr:street": "Via E. Colpi",
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "pizza",
+                "name": "La Piazzetta"
+            },
+            "nodes": [
+                2736278726,
+                2736278728,
+                2736278731,
+                2736278733,
+                2736278726
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2736278726,
+            "version": 1,
+            "timestamp": "2014-03-23T11:34:31Z",
+            "changeset": 21262049,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "lat": 45.9157236,
+            "lon": 11.1726829
+        },
+        {
+            "type": "node",
+            "id": 2736278728,
+            "version": 1,
+            "timestamp": "2014-03-23T11:34:31Z",
+            "changeset": 21262049,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "lat": 45.9157843,
+            "lon": 11.1725988
+        },
+        {
+            "type": "node",
+            "id": 2736278731,
+            "version": 1,
+            "timestamp": "2014-03-23T11:34:31Z",
+            "changeset": 21262049,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "lat": 45.9158516,
+            "lon": 11.1726992
+        },
+        {
+            "type": "node",
+            "id": 2736278733,
+            "version": 1,
+            "timestamp": "2014-03-23T11:34:31Z",
+            "changeset": 21262049,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "lat": 45.9157909,
+            "lon": 11.1727833
+        },
+        {
+            "type": "way",
+            "id": 267968544,
+            "version": 1,
+            "timestamp": "2014-03-22T11:14:52Z",
+            "changeset": 21241788,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "tags": {
+                "addr:city": "Folgaria",
+                "addr:housenumber": "343",
+                "addr:postcode": "38064",
+                "addr:street": "Via Emilio Colpi",
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "da Ugo"
+            },
+            "nodes": [
+                2733531593,
+                2733531594,
+                2733531595,
+                2733531596,
+                2733531593
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2733531593,
+            "version": 1,
+            "timestamp": "2014-03-22T11:14:51Z",
+            "changeset": 21241788,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "lat": 45.9142519,
+            "lon": 11.1763271
+        },
+        {
+            "type": "node",
+            "id": 2733531594,
+            "version": 1,
+            "timestamp": "2014-03-22T11:14:51Z",
+            "changeset": 21241788,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "lat": 45.9142931,
+            "lon": 11.1762354
+        },
+        {
+            "type": "node",
+            "id": 2733531595,
+            "version": 1,
+            "timestamp": "2014-03-22T11:14:52Z",
+            "changeset": 21241788,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "lat": 45.9144099,
+            "lon": 11.1763365
+        },
+        {
+            "type": "node",
+            "id": 2733531596,
+            "version": 1,
+            "timestamp": "2014-03-22T11:14:52Z",
+            "changeset": 21241788,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "lat": 45.9143743,
+            "lon": 11.176428
+        },
+        {
+            "type": "way",
+            "id": 267973643,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:56Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Folgaria",
+                "addr:postcode": "38064",
+                "addr:street": "Via Emilio Colpi",
+                "amenity": "bar",
+                "building": "yes",
+                "name": "Albergo Folgaria"
+            },
+            "nodes": [
+                2733570349,
+                6242515252,
+                2733570351,
+                2733570345,
+                2733570347,
+                2733570349
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2733570349,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:49Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9145126,
+            "lon": 11.1754867
+        },
+        {
+            "type": "node",
+            "id": 6242515252,
+            "version": 1,
+            "timestamp": "2019-01-28T20:00:30Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9144258,
+            "lon": 11.175397
+        },
+        {
+            "type": "node",
+            "id": 2733570351,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:49Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9142843,
+            "lon": 11.1753612
+        },
+        {
+            "type": "node",
+            "id": 2733570345,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:49Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9142625,
+            "lon": 11.1754152
+        },
+        {
+            "type": "node",
+            "id": 2733570347,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:49Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9144777,
+            "lon": 11.1755795
+        },
+        {
+            "type": "way",
+            "id": 267983113,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:56Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Folgaria",
+                "addr:housenumber": "108",
+                "addr:postcode": "38064",
+                "addr:street": "Via Emilio Colpi",
+                "amenity": "bar",
+                "building": "yes",
+                "name": "Albergo Restorante Bar"
+            },
+            "nodes": [
+                2733625235,
+                2733625233,
+                2733625231,
+                6242515233,
+                6242515241,
+                6242515240,
+                6242515242,
+                2733625238,
+                2733625235
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2733625235,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:49Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9145746,
+            "lon": 11.1752222
+        },
+        {
+            "type": "node",
+            "id": 2733625233,
+            "version": 1,
+            "timestamp": "2014-03-22T12:10:23Z",
+            "changeset": 21242672,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "lat": 45.9145423,
+            "lon": 11.1753527
+        },
+        {
+            "type": "node",
+            "id": 2733625231,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:49Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9144171,
+            "lon": 11.1752585
+        },
+        {
+            "type": "node",
+            "id": 6242515233,
+            "version": 1,
+            "timestamp": "2019-01-28T20:00:29Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9143496,
+            "lon": 11.1752111
+        },
+        {
+            "type": "node",
+            "id": 6242515241,
+            "version": 1,
+            "timestamp": "2019-01-28T20:00:30Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9143297,
+            "lon": 11.1751972
+        },
+        {
+            "type": "node",
+            "id": 6242515240,
+            "version": 1,
+            "timestamp": "2019-01-28T20:00:30Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9143713,
+            "lon": 11.1750633
+        },
+        {
+            "type": "node",
+            "id": 6242515242,
+            "version": 1,
+            "timestamp": "2019-01-28T20:00:30Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9143801,
+            "lon": 11.1750349
+        },
+        {
+            "type": "node",
+            "id": 2733625238,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:49Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9144634,
+            "lon": 11.1751145
+        },
+        {
+            "type": "way",
+            "id": 267991872,
+            "version": 1,
+            "timestamp": "2014-03-22T12:30:07Z",
+            "changeset": 21242929,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "tags": {
+                "addr:city": "Folgaria",
+                "addr:housenumber": "84",
+                "addr:postcode": "38064",
+                "addr:street": "Via Emilio Colpi",
+                "amenity": "bar",
+                "building": "yes",
+                "name": "Osteria Bar"
+            },
+            "nodes": [
+                2733677402,
+                2733677404,
+                2733677405,
+                2733677406,
+                2733677402
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2733677402,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:49Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9146203,
+            "lon": 11.174638
+        },
+        {
+            "type": "node",
+            "id": 2733677404,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:50Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.91456,
+            "lon": 11.1745963
+        },
+        {
+            "type": "node",
+            "id": 2733677405,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:50Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9145965,
+            "lon": 11.1744832
+        },
+        {
+            "type": "node",
+            "id": 2733677406,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:50Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9146585,
+            "lon": 11.1745242
+        },
+        {
+            "type": "way",
+            "id": 267991882,
+            "version": 1,
+            "timestamp": "2014-03-22T12:30:08Z",
+            "changeset": 21242929,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "tags": {
+                "addr:city": "Folgaria",
+                "addr:housenumber": "329",
+                "addr:street": "Via Emilio Colpi",
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "Trattoria al Fogolar"
+            },
+            "nodes": [
+                2733677432,
+                2733677426,
+                2733677434,
+                2733677433,
+                2733677432
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2733677432,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:50Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.914405,
+            "lon": 11.1758478
+        },
+        {
+            "type": "node",
+            "id": 2733677426,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:50Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9144323,
+            "lon": 11.1757901
+        },
+        {
+            "type": "node",
+            "id": 2733677434,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:50Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9145072,
+            "lon": 11.1758647
+        },
+        {
+            "type": "node",
+            "id": 2733677433,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:50Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9144831,
+            "lon": 11.1759241
+        },
+        {
+            "type": "way",
+            "id": 268014579,
+            "version": 1,
+            "timestamp": "2014-03-22T13:46:20Z",
+            "changeset": 21244034,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "tags": {
+                "addr:city": "Folgaria",
+                "addr:housenumber": "235",
+                "addr:postcode": "38064",
+                "addr:street": "Via E. Colpi",
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "Forst Pizzeria"
+            },
+            "nodes": [
+                2733855905,
+                2733855909,
+                2733855913,
+                2733855917,
+                2733855905
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2733855905,
+            "version": 1,
+            "timestamp": "2014-03-22T13:46:20Z",
+            "changeset": 21244034,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "lat": 45.914755,
+            "lon": 11.1743845
+        },
+        {
+            "type": "node",
+            "id": 2733855909,
+            "version": 1,
+            "timestamp": "2014-03-22T13:46:20Z",
+            "changeset": 21244034,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "lat": 45.91472,
+            "lon": 11.1744909
+        },
+        {
+            "type": "node",
+            "id": 2733855913,
+            "version": 1,
+            "timestamp": "2014-03-22T13:46:20Z",
+            "changeset": 21244034,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "lat": 45.9148425,
+            "lon": 11.1745669
+        },
+        {
+            "type": "node",
+            "id": 2733855917,
+            "version": 1,
+            "timestamp": "2014-03-22T13:46:20Z",
+            "changeset": 21244034,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "lat": 45.9148719,
+            "lon": 11.1744504
+        },
+        {
+            "type": "way",
+            "id": 268014580,
+            "version": 1,
+            "timestamp": "2014-03-22T13:46:21Z",
+            "changeset": 21244034,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "tags": {
+                "addr:city": "Folgaria",
+                "addr:housenumber": "233",
+                "addr:postcode": "38064",
+                "addr:street": "Via E. Colpi",
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "Scoiattolo Pizzeria"
+            },
+            "nodes": [
+                2733855920,
+                2733855917,
+                2733855905,
+                2733855923,
+                2733855920
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2733855920,
+            "version": 1,
+            "timestamp": "2014-03-22T13:46:20Z",
+            "changeset": 21244034,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "lat": 45.9149003,
+            "lon": 11.1743461
+        },
+        {
+            "type": "node",
+            "id": 2733855923,
+            "version": 1,
+            "timestamp": "2014-03-22T13:46:20Z",
+            "changeset": 21244034,
+            "uid": 149831,
+            "user": "Robert Reeves",
+            "lat": 45.9147835,
+            "lon": 11.1742803
+        },
+        {
+            "type": "way",
+            "id": 85739247,
+            "version": 2,
+            "timestamp": "2019-08-19T16:26:26Z",
+            "changeset": 73506511,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "contact:phone": "+39 0464 721322",
+                "contact:website": "http://www.ristoranteallasegheria.it/",
+                "name": "alla Segheria",
+                "source": "PCN ortofoto_colore 2006 - autorizzazione 10687/TRI"
+            },
+            "nodes": [
+                995290262,
+                6724439190,
+                6724439189,
+                995290033,
+                995290161,
+                995290557,
+                995290262
+            ]
+        },
+        {
+            "type": "node",
+            "id": 995290262,
+            "version": 2,
+            "timestamp": "2019-08-19T16:26:26Z",
+            "changeset": 73506511,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.911531,
+            "lon": 11.1812698
+        },
+        {
+            "type": "node",
+            "id": 6724439190,
+            "version": 1,
+            "timestamp": "2019-08-19T16:26:26Z",
+            "changeset": 73506511,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9116055,
+            "lon": 11.1814707
+        },
+        {
+            "type": "node",
+            "id": 6724439189,
+            "version": 1,
+            "timestamp": "2019-08-19T16:26:26Z",
+            "changeset": 73506511,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9116353,
+            "lon": 11.1814478
+        },
+        {
+            "type": "node",
+            "id": 995290033,
+            "version": 2,
+            "timestamp": "2019-08-19T16:26:26Z",
+            "changeset": 73506511,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9116761,
+            "lon": 11.1815578
+        },
+        {
+            "type": "node",
+            "id": 995290161,
+            "version": 2,
+            "timestamp": "2019-08-19T16:26:26Z",
+            "changeset": 73506511,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9115738,
+            "lon": 11.1816362
+        },
+        {
+            "type": "node",
+            "id": 995290557,
+            "version": 2,
+            "timestamp": "2019-08-19T16:26:26Z",
+            "changeset": 73506511,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9114585,
+            "lon": 11.1813253
+        }
+    ]
+}

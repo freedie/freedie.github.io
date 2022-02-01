@@ -1,0 +1,157 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 8093496708,
+            "version": 1,
+            "timestamp": "2020-11-08T12:21:53Z",
+            "changeset": 93737050,
+            "uid": 45684,
+            "user": "Niouta",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Europeo"
+            },
+            "lat": 46.1562929,
+            "lon": 10.7664638
+        },
+        {
+            "type": "node",
+            "id": 8093532431,
+            "version": 1,
+            "timestamp": "2020-11-08T12:20:31Z",
+            "changeset": 93737000,
+            "uid": 45684,
+            "user": "Niouta",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Caffè Genzianella"
+            },
+            "lat": 46.1569736,
+            "lon": 10.7662113
+        },
+        {
+            "type": "node",
+            "id": 4328283797,
+            "version": 3,
+            "timestamp": "2017-02-01T22:22:28Z",
+            "changeset": 45728961,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar pasticceria Carpe Diem"
+            },
+            "lat": 46.1584603,
+            "lon": 10.7657627
+        },
+        {
+            "type": "node",
+            "id": 8875613965,
+            "version": 1,
+            "timestamp": "2021-06-29T16:33:50Z",
+            "changeset": 107159630,
+            "uid": 45684,
+            "user": "Niouta",
+            "tags": {
+                "amenity": "bar",
+                "name": "Osteria Bar Bagat"
+            },
+            "lat": 46.1574153,
+            "lon": 10.7653011
+        },
+        {
+            "type": "node",
+            "id": 8875723182,
+            "version": 1,
+            "timestamp": "2021-06-29T17:19:09Z",
+            "changeset": 107161969,
+            "uid": 45684,
+            "user": "Niouta",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Dolom'ICE"
+            },
+            "lat": 46.158552,
+            "lon": 10.7651298
+        },
+        {
+            "type": "node",
+            "id": 2422074148,
+            "version": 3,
+            "timestamp": "2018-11-15T15:52:23Z",
+            "changeset": 64534694,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:housenumber": "20",
+                "addr:postcode": "38086",
+                "addr:street": "Via Manci",
+                "amenity": "restaurant",
+                "email": "info@alcardo.com",
+                "internet_access": "wlan",
+                "name": "Pizzeria Al Cardo",
+                "phone": "+39 0465 502580",
+                "website": "http://www.alcardo.com/",
+                "wifi": "free"
+            },
+            "lat": 46.1586363,
+            "lon": 10.7627012
+        },
+        {
+            "type": "node",
+            "id": 5624428609,
+            "version": 1,
+            "timestamp": "2018-05-17T12:13:12Z",
+            "changeset": 59048491,
+            "uid": 8280214,
+            "user": "crillion",
+            "tags": {
+                "addr:city": "Pinzolo",
+                "addr:housenumber": "11",
+                "addr:postcode": "38086",
+                "addr:street": "Viale Guglielmo Marconi",
+                "amenity": "restaurant",
+                "cuisine": "regional;pizza",
+                "name": "La Roda"
+            },
+            "lat": 46.1590439,
+            "lon": 10.7639145
+        },
+        {
+            "type": "node",
+            "id": 804068698,
+            "version": 1,
+            "timestamp": "2010-07-06T18:01:40Z",
+            "changeset": 5152677,
+            "uid": 45684,
+            "user": "Niouta",
+            "tags": {
+                "amenity": "bar",
+                "name": "Egal"
+            },
+            "lat": 46.1566669,
+            "lon": 10.7607935
+        },
+        {
+            "type": "node",
+            "id": 4097598013,
+            "version": 2,
+            "timestamp": "2018-11-15T15:52:23Z",
+            "changeset": 64534694,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:housenumber": "25",
+                "addr:postcode": "38086",
+                "addr:street": "Via allo stadio",
+                "amenity": "bar",
+                "name": "Bocciodromo"
+            },
+            "lat": 46.1558283,
+            "lon": 10.7598573
+        }
+    ]
+}

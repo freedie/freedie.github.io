@@ -1,0 +1,245 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 616524576,
+            "version": 3,
+            "timestamp": "2020-08-03T21:13:36Z",
+            "changeset": 88895313,
+            "uid": 123131,
+            "user": "snaut",
+            "tags": {
+                "addr:city": "Rabbi",
+                "addr:housenumber": "150",
+                "addr:place": "San Bernardo",
+                "addr:postcode": "38020",
+                "amenity": "cafe",
+                "name": "Bar Centrale"
+            },
+            "lat": 46.401116,
+            "lon": 10.8452695
+        },
+        {
+            "type": "node",
+            "id": 616524561,
+            "version": 3,
+            "timestamp": "2020-08-03T21:13:36Z",
+            "changeset": 88895313,
+            "uid": 123131,
+            "user": "snaut",
+            "tags": {
+                "addr:city": "Rabbi",
+                "addr:country": "IT",
+                "addr:housenumber": "105",
+                "addr:place": "San Bernardo",
+                "addr:postcode": "38020",
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "name": "Ristorante Pizzeria 800"
+            },
+            "lat": 46.4007023,
+            "lon": 10.8471823
+        },
+        {
+            "type": "node",
+            "id": 616524577,
+            "version": 1,
+            "timestamp": "2010-01-19T00:57:59Z",
+            "changeset": 3655545,
+            "uid": 1987,
+            "user": "niubii",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Trafojer"
+            },
+            "lat": 46.4008924,
+            "lon": 10.8468011
+        },
+        {
+            "type": "way",
+            "id": 331045899,
+            "version": 2,
+            "timestamp": "2020-08-03T21:13:36Z",
+            "changeset": 88895313,
+            "uid": 123131,
+            "user": "snaut",
+            "tags": {
+                "addr:city": "Rabbi",
+                "addr:housenumber": "134",
+                "addr:place": "San Bernardo",
+                "addr:postcode": "38020",
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "regional",
+                "name": "Osteria al Rabies"
+            },
+            "nodes": [
+                3380928857,
+                3380928893,
+                3380928889,
+                3380928853,
+                3380928857
+            ]
+        },
+        {
+            "type": "node",
+            "id": 3380928857,
+            "version": 2,
+            "timestamp": "2020-08-03T21:13:36Z",
+            "changeset": 88895313,
+            "uid": 123131,
+            "user": "snaut",
+            "lat": 46.400843,
+            "lon": 10.8458077
+        },
+        {
+            "type": "node",
+            "id": 3380928893,
+            "version": 2,
+            "timestamp": "2020-08-03T21:13:36Z",
+            "changeset": 88895313,
+            "uid": 123131,
+            "user": "snaut",
+            "lat": 46.4009373,
+            "lon": 10.8458463
+        },
+        {
+            "type": "node",
+            "id": 3380928889,
+            "version": 2,
+            "timestamp": "2020-08-03T21:13:36Z",
+            "changeset": 88895313,
+            "uid": 123131,
+            "user": "snaut",
+            "lat": 46.4009033,
+            "lon": 10.8460169
+        },
+        {
+            "type": "node",
+            "id": 3380928853,
+            "version": 2,
+            "timestamp": "2020-08-03T21:13:36Z",
+            "changeset": 88895313,
+            "uid": 123131,
+            "user": "snaut",
+            "lat": 46.4008076,
+            "lon": 10.8459828
+        },
+        {
+            "type": "way",
+            "id": 395318007,
+            "version": 2,
+            "timestamp": "2016-03-24T17:35:42Z",
+            "changeset": 38045977,
+            "uid": 54491,
+            "user": "FloSch",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "Mas de la Bolp",
+                "website": "http://www.masdelabolp.it"
+            },
+            "nodes": [
+                3982279190,
+                3982279191,
+                3982279192,
+                3982279193,
+                3982279194,
+                3982279195,
+                3982279196,
+                3982279197,
+                3982279190
+            ]
+        },
+        {
+            "type": "node",
+            "id": 3982279190,
+            "version": 1,
+            "timestamp": "2016-02-01T16:25:36Z",
+            "changeset": 36940160,
+            "uid": 3583783,
+            "user": "Lorenzo Iachelini",
+            "lat": 46.3971004,
+            "lon": 10.8423392
+        },
+        {
+            "type": "node",
+            "id": 3982279191,
+            "version": 1,
+            "timestamp": "2016-02-01T16:25:36Z",
+            "changeset": 36940160,
+            "uid": 3583783,
+            "user": "Lorenzo Iachelini",
+            "lat": 46.3971019,
+            "lon": 10.8423105
+        },
+        {
+            "type": "node",
+            "id": 3982279192,
+            "version": 1,
+            "timestamp": "2016-02-01T16:25:36Z",
+            "changeset": 36940160,
+            "uid": 3583783,
+            "user": "Lorenzo Iachelini",
+            "lat": 46.397027,
+            "lon": 10.8423062
+        },
+        {
+            "type": "node",
+            "id": 3982279193,
+            "version": 1,
+            "timestamp": "2016-02-01T16:25:36Z",
+            "changeset": 36940160,
+            "uid": 3583783,
+            "user": "Lorenzo Iachelini",
+            "lat": 46.3970182,
+            "lon": 10.8425265
+        },
+        {
+            "type": "node",
+            "id": 3982279194,
+            "version": 1,
+            "timestamp": "2016-02-01T16:25:36Z",
+            "changeset": 36940160,
+            "uid": 3583783,
+            "user": "Lorenzo Iachelini",
+            "lat": 46.3970953,
+            "lon": 10.8425308
+        },
+        {
+            "type": "node",
+            "id": 3982279195,
+            "version": 1,
+            "timestamp": "2016-02-01T16:25:36Z",
+            "changeset": 36940160,
+            "uid": 3583783,
+            "user": "Lorenzo Iachelini",
+            "lat": 46.3970967,
+            "lon": 10.8425084
+        },
+        {
+            "type": "node",
+            "id": 3982279196,
+            "version": 1,
+            "timestamp": "2016-02-01T16:25:36Z",
+            "changeset": 36940160,
+            "uid": 3583783,
+            "user": "Lorenzo Iachelini",
+            "lat": 46.3971121,
+            "lon": 10.8425063
+        },
+        {
+            "type": "node",
+            "id": 3982279197,
+            "version": 1,
+            "timestamp": "2016-02-01T16:25:36Z",
+            "changeset": 36940160,
+            "uid": 3583783,
+            "user": "Lorenzo Iachelini",
+            "lat": 46.3971187,
+            "lon": 10.8423456
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 600916200,
+            "version": 4,
+            "timestamp": "2013-07-22T20:13:52Z",
+            "changeset": 17053808,
+            "uid": 35400,
+            "user": "Davide Albanese",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Centrale"
+            },
+            "lat": 45.9917124,
+            "lon": 11.2625953
+        },
+        {
+            "type": "node",
+            "id": 1984744024,
+            "version": 2,
+            "timestamp": "2020-03-03T20:15:15Z",
+            "changeset": 81743689,
+            "uid": 5359461,
+            "user": "Daniele Caporrella",
+            "tags": {
+                "addr:city": "Caldonazzo",
+                "addr:housenumber": "12",
+                "addr:postcode": "38052",
+                "addr:street": "Piazza Vecchia",
+                "amenity": "bar",
+                "brewery": "yes",
+                "name": "Da Emma"
+            },
+            "lat": 45.9926072,
+            "lon": 11.2612062
+        },
+        {
+            "type": "node",
+            "id": 2133570096,
+            "version": 6,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Caldonazzo",
+                "addr:country": "IT",
+                "addr:housenumber": "13",
+                "addr:postcode": "38052",
+                "addr:province": "TN",
+                "addr:street": "Piazza Municipio",
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "name": "Pizza d'Asporto 50 Special",
+                "operator": "Scodro Simone",
+                "phone": "+39 0461 1720580",
+                "ref:vatin": "IT03216510242"
+            },
+            "lat": 45.9915865,
+            "lon": 11.262037
+        },
+        {
+            "type": "node",
+            "id": 2393235151,
+            "version": 1,
+            "timestamp": "2013-07-22T20:04:34Z",
+            "changeset": 17053683,
+            "uid": 35400,
+            "user": "Davide Albanese",
+            "tags": {
+                "amenity": "bar",
+                "name": "Blue Coffee",
+                "smoking": "no",
+                "wheelchair": "yes"
+            },
+            "lat": 45.9926942,
+            "lon": 11.2629155
+        },
+        {
+            "type": "node",
+            "id": 5662788361,
+            "version": 3,
+            "timestamp": "2018-12-12T22:55:01Z",
+            "changeset": 65425160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant"
+            },
+            "lat": 45.9919842,
+            "lon": 11.2619734
+        },
+        {
+            "type": "node",
+            "id": 5865253501,
+            "version": 5,
+            "timestamp": "2021-06-30T16:42:43Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Caldonazzo",
+                "addr:country": "IT",
+                "addr:housenumber": "5",
+                "addr:postcode": "38052",
+                "addr:province": "TN",
+                "addr:street": "Via della Polla",
+                "amenity": "ice_cream",
+                "name": "Fiocco di neve",
+                "outdoor_seating": "no",
+                "takeaway": "yes"
+            },
+            "lat": 45.9913384,
+            "lon": 11.2622221
+        },
+        {
+            "type": "node",
+            "id": 6574523149,
+            "version": 3,
+            "timestamp": "2021-06-30T16:42:47Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Caldonazzo",
+                "addr:country": "IT",
+                "addr:housenumber": "13",
+                "addr:postcode": "38052",
+                "addr:province": "TN",
+                "addr:street": "Via Roma",
+                "amenity": "restaurant",
+                "entrance": "yes",
+                "name": "Aquila D'oro"
+            },
+            "lat": 45.9918138,
+            "lon": 11.2631157
+        },
+        {
+            "type": "node",
+            "id": 5724991017,
+            "version": 3,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Caldonazzo",
+                "addr:country": "IT",
+                "addr:housenumber": "22",
+                "addr:postcode": "38052",
+                "addr:province": "TN",
+                "addr:street": "Via Brenta",
+                "amenity": "restaurant",
+                "cuisine": "pizza;italian",
+                "name": "Gilda Ristorante Pizzeria"
+            },
+            "lat": 45.9955902,
+            "lon": 11.2673839
+        },
+        {
+            "type": "node",
+            "id": 1824386417,
+            "version": 1,
+            "timestamp": "2012-07-13T14:43:57Z",
+            "changeset": 12207461,
+            "uid": 504502,
+            "user": "kkklllppp",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.9965411,
+            "lon": 11.2587739
+        },
+        {
+            "type": "node",
+            "id": 8401767870,
+            "version": 1,
+            "timestamp": "2021-02-07T11:39:40Z",
+            "changeset": 98846692,
+            "uid": 504502,
+            "user": "kkklllppp",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Ideal"
+            },
+            "lat": 45.9973101,
+            "lon": 11.2670072
+        },
+        {
+            "type": "node",
+            "id": 8401768367,
+            "version": 1,
+            "timestamp": "2021-02-07T11:32:05Z",
+            "changeset": 98846436,
+            "uid": 504502,
+            "user": "kkklllppp",
+            "tags": {
+                "amenity": "fast_food",
+                "name": "Pizza d'asporto 50 Special"
+            },
+            "lat": 45.9970688,
+            "lon": 11.2659913
+        }
+    ]
+}

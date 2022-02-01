@@ -1,0 +1,133 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2416095112,
+            "version": 1,
+            "timestamp": "2013-08-12T14:58:23Z",
+            "changeset": 17318507,
+            "uid": 163090,
+            "user": "zonta72",
+            "tags": {
+                "amenity": "restaurant"
+            },
+            "lat": 45.8547529,
+            "lon": 10.5707095
+        },
+        {
+            "type": "way",
+            "id": 165535910,
+            "version": 3,
+            "timestamp": "2015-04-06T07:49:14Z",
+            "changeset": 30008642,
+            "uid": 163090,
+            "user": "zonta72",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "commercial",
+                "name": "Ristoro"
+            },
+            "nodes": [
+                1770759536,
+                1770759533,
+                1770759545,
+                1770759552,
+                1770759509,
+                1770759508,
+                1770759531,
+                1770759538,
+                1770759536
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1770759536,
+            "version": 1,
+            "timestamp": "2012-05-30T20:23:26Z",
+            "changeset": 11752267,
+            "uid": 140995,
+            "user": "costoro",
+            "lat": 45.8546771,
+            "lon": 10.5672127
+        },
+        {
+            "type": "node",
+            "id": 1770759533,
+            "version": 1,
+            "timestamp": "2012-05-30T20:23:26Z",
+            "changeset": 11752267,
+            "uid": 140995,
+            "user": "costoro",
+            "lat": 45.854676,
+            "lon": 10.567203
+        },
+        {
+            "type": "node",
+            "id": 1770759545,
+            "version": 1,
+            "timestamp": "2012-05-30T20:23:26Z",
+            "changeset": 11752267,
+            "uid": 140995,
+            "user": "costoro",
+            "lat": 45.854726,
+            "lon": 10.5671919
+        },
+        {
+            "type": "node",
+            "id": 1770759552,
+            "version": 1,
+            "timestamp": "2012-05-30T20:23:26Z",
+            "changeset": 11752267,
+            "uid": 140995,
+            "user": "costoro",
+            "lat": 45.8547372,
+            "lon": 10.5672953
+        },
+        {
+            "type": "node",
+            "id": 1770759509,
+            "version": 1,
+            "timestamp": "2012-05-30T20:23:26Z",
+            "changeset": 11752267,
+            "uid": 140995,
+            "user": "costoro",
+            "lat": 45.8545962,
+            "lon": 10.5673265
+        },
+        {
+            "type": "node",
+            "id": 1770759508,
+            "version": 1,
+            "timestamp": "2012-05-30T20:23:26Z",
+            "changeset": 11752267,
+            "uid": 140995,
+            "user": "costoro",
+            "lat": 45.8545889,
+            "lon": 10.5672583
+        },
+        {
+            "type": "node",
+            "id": 1770759531,
+            "version": 1,
+            "timestamp": "2012-05-30T20:23:26Z",
+            "changeset": 11752267,
+            "uid": 140995,
+            "user": "costoro",
+            "lat": 45.854662,
+            "lon": 10.567242
+        },
+        {
+            "type": "node",
+            "id": 1770759538,
+            "version": 1,
+            "timestamp": "2012-05-30T20:23:26Z",
+            "changeset": 11752267,
+            "uid": 140995,
+            "user": "costoro",
+            "lat": 45.8546798,
+            "lon": 10.567238
+        }
+    ]
+}

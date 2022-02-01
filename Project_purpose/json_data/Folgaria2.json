@@ -1,0 +1,201 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 294466911,
+            "version": 3,
+            "timestamp": "2010-11-23T20:58:43Z",
+            "changeset": 6442515,
+            "uid": 76312,
+            "user": "scratera",
+            "tags": {
+                "amenity": "ice_cream"
+            },
+            "lat": 45.9172003,
+            "lon": 11.1864066
+        },
+        {
+            "type": "node",
+            "id": 7054924421,
+            "version": 2,
+            "timestamp": "2020-04-06T21:07:53Z",
+            "changeset": 83165572,
+            "uid": 10987228,
+            "user": "Wilhelmson",
+            "tags": {
+                "addr:city": "Folgaria",
+                "addr:housenumber": "52",
+                "addr:postcode": "38064",
+                "addr:street": "Via Maffei",
+                "amenity": "restaurant",
+                "cuisine": "italian;regional;international",
+                "name": "Hotel Rech-Hof Sayonara",
+                "phone": "+39 0464 721186",
+                "website": "https://www.hotelsayonara.tn.it"
+            },
+            "lat": 45.9174562,
+            "lon": 11.1869697
+        },
+        {
+            "type": "node",
+            "id": 1984418523,
+            "version": 3,
+            "timestamp": "2020-02-15T22:02:00Z",
+            "changeset": 81056308,
+            "uid": 160229,
+            "user": "sorcrosc",
+            "tags": {
+                "addr:hamlet": "Costa di Folgaria",
+                "addr:housenumber": "62",
+                "addr:postcode": "38064",
+                "addr:street": "Via Negheli",
+                "amenity": "restaurant",
+                "name": "L'Alpe",
+                "phone": "+39 0464 723204",
+                "wheelchair": "yes"
+            },
+            "lat": 45.9175509,
+            "lon": 11.1913075
+        },
+        {
+            "type": "way",
+            "id": 36782118,
+            "version": 4,
+            "timestamp": "2019-01-28T20:00:52Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "regional",
+                "name": "Osteria del Carador"
+            },
+            "nodes": [
+                427637305,
+                427637306,
+                427637307,
+                427637308,
+                1001467186,
+                427637309,
+                427637310,
+                6242514500,
+                6242514501,
+                427637311,
+                427637305
+            ]
+        },
+        {
+            "type": "node",
+            "id": 427637305,
+            "version": 3,
+            "timestamp": "2019-01-28T20:00:37Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9169915,
+            "lon": 11.1905626
+        },
+        {
+            "type": "node",
+            "id": 427637306,
+            "version": 3,
+            "timestamp": "2019-01-28T20:00:37Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9169513,
+            "lon": 11.190484
+        },
+        {
+            "type": "node",
+            "id": 427637307,
+            "version": 3,
+            "timestamp": "2019-01-28T20:00:37Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9170221,
+            "lon": 11.1904093
+        },
+        {
+            "type": "node",
+            "id": 427637308,
+            "version": 3,
+            "timestamp": "2019-01-28T20:00:37Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9171849,
+            "lon": 11.1907281
+        },
+        {
+            "type": "node",
+            "id": 1001467186,
+            "version": 2,
+            "timestamp": "2019-01-28T20:00:45Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9171109,
+            "lon": 11.1908061
+        },
+        {
+            "type": "node",
+            "id": 427637309,
+            "version": 3,
+            "timestamp": "2019-01-28T20:00:37Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9170815,
+            "lon": 11.1907486
+        },
+        {
+            "type": "node",
+            "id": 427637310,
+            "version": 3,
+            "timestamp": "2019-01-28T20:00:37Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9170401,
+            "lon": 11.1907923
+        },
+        {
+            "type": "node",
+            "id": 6242514500,
+            "version": 1,
+            "timestamp": "2019-01-28T20:00:25Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9170917,
+            "lon": 11.1908934
+        },
+        {
+            "type": "node",
+            "id": 6242514501,
+            "version": 1,
+            "timestamp": "2019-01-28T20:00:25Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9170063,
+            "lon": 11.1909834
+        },
+        {
+            "type": "node",
+            "id": 427637311,
+            "version": 3,
+            "timestamp": "2019-01-28T20:00:37Z",
+            "changeset": 66716814,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9168615,
+            "lon": 11.1906997
+        }
+    ]
+}

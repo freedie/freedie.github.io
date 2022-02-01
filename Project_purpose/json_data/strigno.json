@@ -1,0 +1,160 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 4202838207,
+            "version": 7,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Scurelle",
+                "addr:country": "IT",
+                "addr:housenumber": "4",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Via 15 Agosto",
+                "amenity": "pub",
+                "name": "Rosy's Pub",
+                "operator": "Rosy's pub S.N.C. di Stenico Diego & C.",
+                "phone": "+39 0461 762370"
+            },
+            "lat": 46.0624944,
+            "lon": 11.5155949
+        },
+        {
+            "type": "node",
+            "id": 2338572873,
+            "version": 5,
+            "timestamp": "2017-01-09T21:12:42Z",
+            "changeset": 45037345,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 46.0668006,
+            "lon": 11.5218754
+        },
+        {
+            "type": "node",
+            "id": 2706220782,
+            "version": 12,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Castel Ivano",
+                "addr:country": "IT",
+                "addr:district": "Strigno",
+                "addr:housenumber": "13",
+                "addr:postcode": "38059",
+                "addr:province": "TN",
+                "addr:street": "Piazza 4 Novembre",
+                "amenity": "cafe",
+                "name": "Bar Centrale",
+                "operator": "Bar Centrale di Costa Alberto e C. S.A.S.",
+                "phone": "+39 339 589 7401",
+                "ref:vatin": "IT01889560221"
+            },
+            "lat": 46.066106,
+            "lon": 11.5229379
+        },
+        {
+            "type": "node",
+            "id": 2706220790,
+            "version": 11,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Castel Ivano",
+                "addr:country": "IT",
+                "addr:district": "Strigno",
+                "addr:housenumber": "4",
+                "addr:postcode": "38059",
+                "addr:province": "TN",
+                "addr:street": "Piazza del Municipio",
+                "amenity": "cafe",
+                "name": "Moomba Cafè di Rinaldi",
+                "operator": "Rinaldi Manuela",
+                "phone": "+39 0461 762032"
+            },
+            "lat": 46.0662618,
+            "lon": 11.5235434
+        },
+        {
+            "type": "node",
+            "id": 3686167484,
+            "version": 8,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Castel Ivano",
+                "addr:country": "IT",
+                "addr:district": "Strigno",
+                "addr:housenumber": "27",
+                "addr:postcode": "38059",
+                "addr:province": "TN",
+                "addr:street": "Via Roma",
+                "amenity": "cafe",
+                "name": "Bar Incontri"
+            },
+            "lat": 46.0636376,
+            "lon": 11.5239348
+        },
+        {
+            "type": "node",
+            "id": 3876011271,
+            "version": 11,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Castel Ivano",
+                "addr:country": "IT",
+                "addr:district": "Strigno",
+                "addr:housenumber": "2",
+                "addr:postcode": "38059",
+                "addr:province": "TN",
+                "addr:street": "Via 24 Maggio",
+                "amenity": "cafe",
+                "name": "Bar Nazionale"
+            },
+            "lat": 46.066878,
+            "lon": 11.5234713
+        },
+        {
+            "type": "node",
+            "id": 3910683995,
+            "version": 8,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Castel Ivano",
+                "addr:country": "IT",
+                "addr:district": "Strigno",
+                "addr:housenumber": "11",
+                "addr:postcode": "38059",
+                "addr:province": "TN",
+                "addr:street": "Via Marconi",
+                "amenity": "restaurant",
+                "cuisine:it": "pizza;regional",
+                "name": "Ristorante Pizzeria Al Torchio",
+                "phone": "+39 0461 762866"
+            },
+            "lat": 46.0668107,
+            "lon": 11.5219365
+        }
+    ]
+}

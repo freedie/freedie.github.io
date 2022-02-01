@@ -1,0 +1,117 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 8506320843,
+            "version": 1,
+            "timestamp": "2021-03-11T09:09:42Z",
+            "changeset": 100829260,
+            "uid": 7007430,
+            "user": "genk87",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzeria Diana"
+            },
+            "lat": 45.9848783,
+            "lon": 10.6707847
+        },
+        {
+            "type": "node",
+            "id": 8506320844,
+            "version": 1,
+            "timestamp": "2021-03-11T09:09:42Z",
+            "changeset": 100829260,
+            "uid": 7007430,
+            "user": "genk87",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Diana"
+            },
+            "lat": 45.9848686,
+            "lon": 10.6707954
+        },
+        {
+            "type": "node",
+            "id": 8506320845,
+            "version": 1,
+            "timestamp": "2021-03-11T09:09:42Z",
+            "changeset": 100829260,
+            "uid": 7007430,
+            "user": "genk87",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Centrale"
+            },
+            "lat": 45.9846904,
+            "lon": 10.6704617
+        },
+        {
+            "type": "way",
+            "id": 372966334,
+            "version": 3,
+            "timestamp": "2020-01-20T15:32:07Z",
+            "changeset": 79804782,
+            "uid": 8445331,
+            "user": "JuaFritz",
+            "tags": {
+                "amenity": "bar",
+                "building": "yes",
+                "name": "Snoopy Lake"
+            },
+            "nodes": [
+                3765142726,
+                3765142728,
+                3765142727,
+                3765142725,
+                3765142726
+            ]
+        },
+        {
+            "type": "node",
+            "id": 3765142726,
+            "version": 1,
+            "timestamp": "2015-09-30T10:39:14Z",
+            "changeset": 34343968,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.9854449,
+            "lon": 10.6739725
+        },
+        {
+            "type": "node",
+            "id": 3765142728,
+            "version": 1,
+            "timestamp": "2015-09-30T10:39:14Z",
+            "changeset": 34343968,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.9855857,
+            "lon": 10.6742089
+        },
+        {
+            "type": "node",
+            "id": 3765142727,
+            "version": 1,
+            "timestamp": "2015-09-30T10:39:14Z",
+            "changeset": 34343968,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.9854778,
+            "lon": 10.674342
+        },
+        {
+            "type": "node",
+            "id": 3765142725,
+            "version": 1,
+            "timestamp": "2015-09-30T10:39:14Z",
+            "changeset": 34343968,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 45.985337,
+            "lon": 10.6741056
+        }
+    ]
+}

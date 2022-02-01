@@ -1,0 +1,1013 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1105959228,
+            "version": 3,
+            "timestamp": "2020-10-20T19:11:47Z",
+            "changeset": 92786842,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Arco",
+                "addr:country": "IT",
+                "addr:housenumber": "2",
+                "addr:postcode": "38062",
+                "addr:street": "Via Frumento",
+                "amenity": "fast_food",
+                "name": "Pizzeria Kebab Kejepi"
+            },
+            "lat": 45.9156892,
+            "lon": 10.8784405
+        },
+        {
+            "type": "node",
+            "id": 2490648335,
+            "version": 1,
+            "timestamp": "2013-10-10T06:40:10Z",
+            "changeset": 18275789,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.9168157,
+            "lon": 10.8748449
+        },
+        {
+            "type": "node",
+            "id": 2189070388,
+            "version": 1,
+            "timestamp": "2013-03-06T22:27:33Z",
+            "changeset": 15276511,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.9161046,
+            "lon": 10.8792528
+        },
+        {
+            "type": "node",
+            "id": 2189686876,
+            "version": 3,
+            "timestamp": "2020-10-19T14:25:57Z",
+            "changeset": 92715227,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.9174099,
+            "lon": 10.8823077
+        },
+        {
+            "type": "node",
+            "id": 2555229803,
+            "version": 4,
+            "timestamp": "2019-06-10T05:10:06Z",
+            "changeset": 71087521,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:postcode": "38062",
+                "amenity": "bar",
+                "name": "Villa delle Rose"
+            },
+            "lat": 45.9168998,
+            "lon": 10.8805731
+        },
+        {
+            "type": "node",
+            "id": 903513399,
+            "version": 3,
+            "timestamp": "2017-11-06T10:44:53Z",
+            "changeset": 53551226,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Arco",
+                "addr:country": "IT",
+                "addr:housenumber": "31",
+                "addr:postcode": "38062",
+                "addr:street": "Via Bruno Galas",
+                "amenity": "bar",
+                "contact:email": "caffeviennese@yahoo.it",
+                "contact:facebook": "https://www.facebook.com/Caffe-Viennese-97042596919/",
+                "contact:phone": "+39 0464 030067",
+                "name": "Caffe Viennese",
+                "opening_hours": "Mo-Su 08:00-20:00; Tu off",
+                "operator": "Alfarc S.N.C. si Stabile Angelo & C.",
+                "ref:vatin": "IT01909640227"
+            },
+            "lat": 45.9171081,
+            "lon": 10.8859513
+        },
+        {
+            "type": "node",
+            "id": 1864713076,
+            "version": 1,
+            "timestamp": "2012-08-13T19:08:14Z",
+            "changeset": 12718198,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.9162604,
+            "lon": 10.8855297
+        },
+        {
+            "type": "node",
+            "id": 5926176060,
+            "version": 1,
+            "timestamp": "2018-09-24T09:08:54Z",
+            "changeset": 62872956,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.9151648,
+            "lon": 10.8863515
+        },
+        {
+            "type": "node",
+            "id": 7274664705,
+            "version": 1,
+            "timestamp": "2020-03-07T17:51:04Z",
+            "changeset": 81905622,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.9201874,
+            "lon": 10.8785263
+        },
+        {
+            "type": "node",
+            "id": 902539232,
+            "version": 5,
+            "timestamp": "2020-10-17T18:46:38Z",
+            "changeset": 92639034,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Arco",
+                "addr:country": "IT",
+                "addr:housenumber": "6",
+                "addr:postcode": "38062",
+                "addr:street": "Via delle Palme",
+                "amenity": "bar",
+                "contact:facebook": "https://www.facebook.com/caffecasinocittadiarco/",
+                "contact:phone": "+39 0464 512874",
+                "name": "Caffè Casinò Città di Arco",
+                "opening_hours": "Mo-Su 08:00-20:00; Tu off",
+                "operator": "Sissipartner SRL",
+                "ref:vatin": "IT02130470228"
+            },
+            "lat": 45.9182738,
+            "lon": 10.8837061
+        },
+        {
+            "type": "node",
+            "id": 1431628407,
+            "version": 2,
+            "timestamp": "2017-05-11T19:05:19Z",
+            "changeset": 48601896,
+            "uid": 194751,
+            "user": "Goffredo",
+            "tags": {
+                "addr:housenumber": "42",
+                "addr:postcode": "38062",
+                "addr:street": "Via Vergolano",
+                "amenity": "restaurant",
+                "cuisine": "pizza;italian",
+                "email": "info@pizzeriapace.it",
+                "fax": "+39 0464 519495",
+                "name": "Pizzeria Ristorante Pace",
+                "phone": "+39 0464 519495",
+                "restaurant:type:it": "Pizzeria"
+            },
+            "lat": 45.919716,
+            "lon": 10.8841607
+        },
+        {
+            "type": "node",
+            "id": 2335415593,
+            "version": 6,
+            "timestamp": "2020-10-17T12:10:12Z",
+            "changeset": 92626260,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Arco",
+                "addr:housenumber": "8",
+                "addr:postcode": "38062",
+                "addr:street": "Via Vergolano",
+                "amenity": "restaurant",
+                "cuisine": "italian;regional",
+                "name": "Ristorante Alla Lega",
+                "opening_hours": "Mo-Fr 18:30-22:30; Sa-Su 12:00-14:00,18:30-22:30",
+                "phone": "+39 0464 516205",
+                "website": "http://www.ristoranteallalega.com/",
+                "wheelchair": "limited"
+            },
+            "lat": 45.9195974,
+            "lon": 10.8850028
+        },
+        {
+            "type": "node",
+            "id": 2484983368,
+            "version": 3,
+            "timestamp": "2020-10-17T13:09:40Z",
+            "changeset": 92628128,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "chinese"
+            },
+            "lat": 45.9202273,
+            "lon": 10.8835117
+        },
+        {
+            "type": "node",
+            "id": 5817248052,
+            "version": 3,
+            "timestamp": "2019-07-02T13:32:21Z",
+            "changeset": 71822474,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:city": "Arco",
+                "addr:housenumber": "3",
+                "addr:postcode": "38062",
+                "addr:street": "Largo Pina",
+                "amenity": "restaurant",
+                "cuisine": "italian;pizza;regional",
+                "name": "Birreria Arciduca",
+                "outdoor_seating": "yes",
+                "phone": "+39 0464 710365",
+                "website": "https://birreria-arciduca-arco.business.site/"
+            },
+            "lat": 45.9198242,
+            "lon": 10.8831418
+        },
+        {
+            "type": "node",
+            "id": 6038788911,
+            "version": 4,
+            "timestamp": "2020-12-02T13:33:32Z",
+            "changeset": 95159241,
+            "uid": 12273703,
+            "user": "David Evangelista",
+            "tags": {
+                "access": "customers",
+                "amenity": "restaurant",
+                "bicycle": "yes",
+                "motorcar": "no",
+                "operator": "Hotel Pace 1954",
+                "socket:schuko": "4",
+                "voltage": "230"
+            },
+            "lat": 45.9198022,
+            "lon": 10.8837856
+        },
+        {
+            "type": "node",
+            "id": 508788335,
+            "version": 1,
+            "timestamp": "2009-09-26T17:22:21Z",
+            "changeset": 2643203,
+            "uid": 66900,
+            "user": "Fabry",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.9213952,
+            "lon": 10.887582
+        },
+        {
+            "type": "node",
+            "id": 902531895,
+            "version": 4,
+            "timestamp": "2018-11-05T09:29:02Z",
+            "changeset": 64190874,
+            "uid": 114161,
+            "user": "Polarbear",
+            "tags": {
+                "addr:city": "Arco",
+                "addr:country": "IT",
+                "addr:housenumber": "3",
+                "addr:postcode": "38062",
+                "addr:street": "Via Giovanni Segantini",
+                "amenity": "cafe",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "Bar Free Master",
+                "operator": "Made di Miori Maurizio"
+            },
+            "lat": 45.9206929,
+            "lon": 10.8892736
+        },
+        {
+            "type": "node",
+            "id": 904600325,
+            "version": 4,
+            "timestamp": "2016-05-21T15:38:44Z",
+            "changeset": 39471444,
+            "uid": 3991092,
+            "user": "Stefania V",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzeria Ristorante Antica Corte",
+                "phone": "+39 0464 512789",
+                "takeaway": "yes"
+            },
+            "lat": 45.9207581,
+            "lon": 10.8909989
+        },
+        {
+            "type": "node",
+            "id": 928786698,
+            "version": 5,
+            "timestamp": "2018-11-05T09:34:04Z",
+            "changeset": 64191018,
+            "uid": 114161,
+            "user": "Polarbear",
+            "tags": {
+                "addr:city": "Arco",
+                "addr:housenumber": "2",
+                "addr:postcode": "38062",
+                "addr:street": "Via Giovanni Segantini",
+                "amenity": "ice_cream",
+                "contact:facebook": "https://www.facebook.com/gelatomioarco",
+                "contact:foursquare": "https://foursquare.com/v/gelato-mio/4e6b41ad52b1c120602a0151",
+                "contact:tripadvisor": "https://www.tripadvisor.com/Restaurant_Review-g670770-d3598778-Reviews-Gelato_Mio-Arco_Province_of_Trento_Trentino_Alto_Adige.html",
+                "contact:yelp": "https://www.yelp.com/biz/gelato-mio-arco",
+                "diet:vegan": "yes",
+                "email": "elvis.rossi@hotmail.it",
+                "name": "Gelato Mio",
+                "opening_hours": "Mo-Su 10:00-22:30",
+                "operator": "Daniela Nichelatti",
+                "phone": "+39 334 1481698",
+                "ref:vatin": "IT02277680225",
+                "start_date": "2015-02-09"
+            },
+            "lat": 45.9207916,
+            "lon": 10.8895166
+        },
+        {
+            "type": "node",
+            "id": 1024789858,
+            "version": 5,
+            "timestamp": "2020-10-16T13:48:30Z",
+            "changeset": 92588870,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "addr:housenumber": "2",
+                "addr:postcode": "38062",
+                "addr:street": "Via Bruno Galas",
+                "amenity": "cafe",
+                "internet_access": "yes",
+                "internet_access:fee": "no",
+                "name": "Cafè Centrale",
+                "phone": "+39 0464 512061"
+            },
+            "lat": 45.9185516,
+            "lon": 10.8860532
+        },
+        {
+            "type": "node",
+            "id": 1024831047,
+            "version": 3,
+            "timestamp": "2018-10-31T18:23:08Z",
+            "changeset": 64055642,
+            "uid": 114161,
+            "user": "Polarbear",
+            "tags": {
+                "addr:city": "Arco",
+                "addr:country": "IT",
+                "addr:housenumber": "12",
+                "addr:postcode": "38062",
+                "addr:street": "Via Giovanni Segantini",
+                "amenity": "pub",
+                "name": "Il Gatto Nero"
+            },
+            "lat": 45.9207721,
+            "lon": 10.8891817
+        },
+        {
+            "type": "node",
+            "id": 1110591774,
+            "version": 4,
+            "timestamp": "2019-06-12T08:02:40Z",
+            "changeset": 71169584,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:city": "Arco",
+                "addr:housenumber": "2",
+                "addr:postcode": "38062",
+                "addr:street": "Piazza Marchetti",
+                "amenity": "cafe",
+                "name": "Caffè Contì d'Arco",
+                "operator": "Be. Sa. s.r.l.",
+                "ref:vatin": "IT01593840224",
+                "website": "http://www.aicontiarco.it/"
+            },
+            "lat": 45.9189291,
+            "lon": 10.8861067
+        },
+        {
+            "type": "node",
+            "id": 1110602907,
+            "version": 4,
+            "timestamp": "2019-06-10T05:10:08Z",
+            "changeset": 71087521,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:housenumber": "4",
+                "addr:postcode": "38062",
+                "addr:street": "Piazza 3 Novembre",
+                "amenity": "ice_cream",
+                "name": "Il Gelatiere",
+                "phone": "+39 0464 531541"
+            },
+            "lat": 45.9193877,
+            "lon": 10.8856022
+        },
+        {
+            "type": "node",
+            "id": 1240999982,
+            "version": 4,
+            "timestamp": "2014-01-02T10:03:32Z",
+            "changeset": 19762197,
+            "uid": 1198074,
+            "user": "DoubleA",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Gelateria Artigianale Tarifa"
+            },
+            "lat": 45.9197818,
+            "lon": 10.8881166
+        },
+        {
+            "type": "node",
+            "id": 1366770285,
+            "version": 6,
+            "timestamp": "2019-05-06T18:55:05Z",
+            "changeset": 69948092,
+            "uid": 7527695,
+            "user": "usbe",
+            "tags": {
+                "addr:city": "Arco",
+                "addr:housenumber": "1",
+                "addr:postcode": "38062",
+                "addr:street": "Piazza III Novembre",
+                "amenity": "cafe",
+                "name": "Caffè Trentino",
+                "operator": "Donegani Carlo & C. s.a.s.",
+                "outdoor_seating": "yes",
+                "ref:vatin": "IT01882710229",
+                "wheelchair": "yes"
+            },
+            "lat": 45.9193948,
+            "lon": 10.8861295
+        },
+        {
+            "type": "node",
+            "id": 1445808059,
+            "version": 4,
+            "timestamp": "2019-06-10T05:10:06Z",
+            "changeset": 71087521,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:postcode": "38062",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Ritorante Pizzeria Cantina Marchetti"
+            },
+            "lat": 45.9190235,
+            "lon": 10.8861699
+        },
+        {
+            "type": "node",
+            "id": 1475075466,
+            "version": 4,
+            "timestamp": "2019-06-10T05:10:06Z",
+            "changeset": 71087521,
+            "uid": 3807347,
+            "user": "_Pancake_",
+            "tags": {
+                "addr:postcode": "38062",
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "name": "Il Pizzaiolo"
+            },
+            "lat": 45.9194494,
+            "lon": 10.8856287
+        },
+        {
+            "type": "node",
+            "id": 1760241067,
+            "version": 3,
+            "timestamp": "2020-10-18T18:58:28Z",
+            "changeset": 92666444,
+            "uid": 1972608,
+            "user": "rabon",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Indimenicabile"
+            },
+            "lat": 45.9194323,
+            "lon": 10.8869789
+        },
+        {
+            "type": "node",
+            "id": 2552192968,
+            "version": 1,
+            "timestamp": "2013-11-26T08:24:31Z",
+            "changeset": 19122605,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.9208303,
+            "lon": 10.8911018
+        },
+        {
+            "type": "node",
+            "id": 3396099194,
+            "version": 3,
+            "timestamp": "2015-09-15T20:32:37Z",
+            "changeset": 34049243,
+            "uid": 194751,
+            "user": "Goffredo",
+            "tags": {
+                "addr:city": "Arco",
+                "addr:housenumber": "55",
+                "addr:postcode": "38062",
+                "addr:street": "Via Giovanni Segantini",
+                "amenity": "restaurant",
+                "name": "Peccato di Vino",
+                "operator": "Nichelatti Roberto",
+                "ref:vatin": "IT02127530224"
+            },
+            "lat": 45.9196912,
+            "lon": 10.8880421
+        },
+        {
+            "type": "node",
+            "id": 4756588954,
+            "version": 1,
+            "timestamp": "2017-03-26T17:08:10Z",
+            "changeset": 47180134,
+            "uid": 194751,
+            "user": "Goffredo",
+            "tags": {
+                "addr:housenumber": "5",
+                "addr:street": "Via Foro Boario",
+                "amenity": "cafe",
+                "name": "Hotel Al Sole",
+                "operator": "Tarolli N. & C. s.a.s.",
+                "outdoor_seating": "yes",
+                "phone": "+39 0464 516676",
+                "ref:vatin": "IT01381850229",
+                "wheelchair": "yes"
+            },
+            "lat": 45.918538,
+            "lon": 10.887006
+        },
+        {
+            "type": "node",
+            "id": 6096089813,
+            "version": 1,
+            "timestamp": "2018-11-27T17:14:29Z",
+            "changeset": 64944416,
+            "uid": 4213793,
+            "user": "LaniusCollurio",
+            "tags": {
+                "addr:city": "Arco",
+                "addr:housenumber": "92",
+                "addr:postcode": "38062",
+                "addr:street": "Via Giovanni Segantini",
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Spaghetteria moderna"
+            },
+            "lat": 45.9196749,
+            "lon": 10.8875809
+        },
+        {
+            "type": "node",
+            "id": 6115752454,
+            "version": 1,
+            "timestamp": "2018-12-04T13:14:32Z",
+            "changeset": 65160214,
+            "uid": 4213793,
+            "user": "LaniusCollurio",
+            "tags": {
+                "addr:city": "Arco",
+                "addr:housenumber": "114",
+                "addr:postcode": "38062",
+                "addr:street": "Via Giovanni Segantini",
+                "amenity": "bar",
+                "name": "Nardi Caffè",
+                "outdoor_seating": "yes"
+            },
+            "lat": 45.9194781,
+            "lon": 10.886558
+        },
+        {
+            "type": "node",
+            "id": 8019079953,
+            "version": 1,
+            "timestamp": "2020-10-18T18:57:29Z",
+            "changeset": 92666428,
+            "uid": 1972608,
+            "user": "rabon",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Piccola Osteria",
+                "opening_hours": "Tu-Th, Su 18:30-21:00; Fr, Sa 18:30-21:30"
+            },
+            "lat": 45.9197685,
+            "lon": 10.8870951
+        },
+        {
+            "type": "way",
+            "id": 638141773,
+            "version": 1,
+            "timestamp": "2018-10-26T07:20:04Z",
+            "changeset": 63890592,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "ice_cream",
+                "building": "yes",
+                "name": "Garda Gelati"
+            },
+            "nodes": [
+                6014777015,
+                6014777016,
+                6014777017,
+                6014777018,
+                6014777015
+            ]
+        },
+        {
+            "type": "node",
+            "id": 6014777015,
+            "version": 1,
+            "timestamp": "2018-10-26T07:20:03Z",
+            "changeset": 63890592,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 45.9175401,
+            "lon": 10.8744626
+        },
+        {
+            "type": "node",
+            "id": 6014777016,
+            "version": 1,
+            "timestamp": "2018-10-26T07:20:03Z",
+            "changeset": 63890592,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 45.9175159,
+            "lon": 10.8745461
+        },
+        {
+            "type": "node",
+            "id": 6014777017,
+            "version": 1,
+            "timestamp": "2018-10-26T07:20:03Z",
+            "changeset": 63890592,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 45.9175607,
+            "lon": 10.874573
+        },
+        {
+            "type": "node",
+            "id": 6014777018,
+            "version": 1,
+            "timestamp": "2018-10-26T07:20:03Z",
+            "changeset": 63890592,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 45.917585,
+            "lon": 10.8744895
+        },
+        {
+            "type": "way",
+            "id": 242122355,
+            "version": 2,
+            "timestamp": "2017-12-28T09:44:33Z",
+            "changeset": 54977988,
+            "uid": 65798,
+            "user": "Mich74",
+            "tags": {
+                "amenity": "bar",
+                "name": "Chiosco Dei Giardini"
+            },
+            "nodes": [
+                2496660417,
+                2496660416,
+                2496660414,
+                2496660413,
+                2496660415,
+                2496660418,
+                2496660421,
+                2496660423,
+                2496660425,
+                2496660424,
+                2496660422,
+                2496660420,
+                2496660419,
+                2496660417
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2496660417,
+            "version": 2,
+            "timestamp": "2020-10-16T15:54:15Z",
+            "changeset": 92593855,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9179721,
+            "lon": 10.8848151
+        },
+        {
+            "type": "node",
+            "id": 2496660416,
+            "version": 2,
+            "timestamp": "2020-10-16T15:54:15Z",
+            "changeset": 92593855,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.917966,
+            "lon": 10.8848208
+        },
+        {
+            "type": "node",
+            "id": 2496660414,
+            "version": 2,
+            "timestamp": "2020-10-16T15:54:15Z",
+            "changeset": 92593855,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9179627,
+            "lon": 10.8848269
+        },
+        {
+            "type": "node",
+            "id": 2496660413,
+            "version": 2,
+            "timestamp": "2020-10-16T15:54:15Z",
+            "changeset": 92593855,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9179606,
+            "lon": 10.8848456
+        },
+        {
+            "type": "node",
+            "id": 2496660415,
+            "version": 2,
+            "timestamp": "2020-10-16T15:54:15Z",
+            "changeset": 92593855,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9179658,
+            "lon": 10.8848593
+        },
+        {
+            "type": "node",
+            "id": 2496660418,
+            "version": 2,
+            "timestamp": "2020-10-16T15:54:15Z",
+            "changeset": 92593855,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9179743,
+            "lon": 10.8848663
+        },
+        {
+            "type": "node",
+            "id": 2496660421,
+            "version": 2,
+            "timestamp": "2020-10-16T15:54:15Z",
+            "changeset": 92593855,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9179838,
+            "lon": 10.8848662
+        },
+        {
+            "type": "node",
+            "id": 2496660423,
+            "version": 2,
+            "timestamp": "2020-10-16T15:54:15Z",
+            "changeset": 92593855,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9179927,
+            "lon": 10.8848586
+        },
+        {
+            "type": "node",
+            "id": 2496660425,
+            "version": 2,
+            "timestamp": "2020-10-16T15:54:15Z",
+            "changeset": 92593855,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9179974,
+            "lon": 10.8848454
+        },
+        {
+            "type": "node",
+            "id": 2496660424,
+            "version": 2,
+            "timestamp": "2020-10-16T15:54:15Z",
+            "changeset": 92593855,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9179965,
+            "lon": 10.8848306
+        },
+        {
+            "type": "node",
+            "id": 2496660422,
+            "version": 2,
+            "timestamp": "2020-10-16T15:54:15Z",
+            "changeset": 92593855,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9179899,
+            "lon": 10.8848183
+        },
+        {
+            "type": "node",
+            "id": 2496660420,
+            "version": 2,
+            "timestamp": "2020-10-16T15:54:15Z",
+            "changeset": 92593855,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9179835,
+            "lon": 10.884814
+        },
+        {
+            "type": "node",
+            "id": 2496660419,
+            "version": 2,
+            "timestamp": "2020-10-16T15:54:15Z",
+            "changeset": 92593855,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9179791,
+            "lon": 10.8848132
+        },
+        {
+            "type": "way",
+            "id": 76608290,
+            "version": 6,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "Ristorante \"Al Fiume\"",
+                "phone": "+39 0464 517683",
+                "website": "https://www.pizzeriaalfiume.com/"
+            },
+            "nodes": [
+                902830690,
+                8013124809,
+                8013124802,
+                902830725,
+                8013124799,
+                8013124798,
+                902830682,
+                902830719,
+                8013124898,
+                902830690
+            ]
+        },
+        {
+            "type": "node",
+            "id": 902830690,
+            "version": 2,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9203319,
+            "lon": 10.8903246
+        },
+        {
+            "type": "node",
+            "id": 8013124809,
+            "version": 1,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9203246,
+            "lon": 10.8903428
+        },
+        {
+            "type": "node",
+            "id": 8013124802,
+            "version": 1,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9202437,
+            "lon": 10.8905441
+        },
+        {
+            "type": "node",
+            "id": 902830725,
+            "version": 2,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9202896,
+            "lon": 10.8905835
+        },
+        {
+            "type": "node",
+            "id": 8013124799,
+            "version": 1,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9203664,
+            "lon": 10.8906461
+        },
+        {
+            "type": "node",
+            "id": 8013124798,
+            "version": 1,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9203824,
+            "lon": 10.8906593
+        },
+        {
+            "type": "node",
+            "id": 902830682,
+            "version": 2,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9204428,
+            "lon": 10.8907095
+        },
+        {
+            "type": "node",
+            "id": 902830719,
+            "version": 2,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.920531,
+            "lon": 10.8904899
+        },
+        {
+            "type": "node",
+            "id": 8013124898,
+            "version": 1,
+            "timestamp": "2020-10-16T11:17:37Z",
+            "changeset": 92580486,
+            "uid": 6098724,
+            "user": "CCCGGG",
+            "lat": 45.9204719,
+            "lon": 10.8904409
+        }
+    ]
+}

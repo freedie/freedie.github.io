@@ -1,0 +1,53 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 616524688,
+            "version": 4,
+            "timestamp": "2018-09-30T07:10:56Z",
+            "changeset": 63054900,
+            "uid": 8313119,
+            "user": "TEPOIMAENATTE",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "name": "Al Molin",
+                "tourism": "hotel",
+                "website": "http://www.almolin.it"
+            },
+            "lat": 46.4084443,
+            "lon": 10.797753
+        },
+        {
+            "type": "node",
+            "id": 333696251,
+            "version": 2,
+            "timestamp": "2016-11-20T19:07:24Z",
+            "changeset": 43829748,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Caffè Posta"
+            },
+            "lat": 46.4078686,
+            "lon": 10.811127
+        },
+        {
+            "type": "node",
+            "id": 1100567903,
+            "version": 1,
+            "timestamp": "2011-01-12T20:43:26Z",
+            "changeset": 6951438,
+            "uid": 1987,
+            "user": "niubii",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.4076516,
+            "lon": 10.8097661
+        }
+    ]
+}

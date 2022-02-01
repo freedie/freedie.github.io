@@ -1,0 +1,151 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 5258618122,
+            "version": 3,
+            "timestamp": "2019-08-19T00:03:38Z",
+            "changeset": 73475754,
+            "uid": 2795427,
+            "user": "vitoplus",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar in piazza"
+            },
+            "lat": 46.0815233,
+            "lon": 11.5232575
+        },
+        {
+            "type": "node",
+            "id": 6720516413,
+            "version": 1,
+            "timestamp": "2019-08-18T08:57:30Z",
+            "changeset": 73458685,
+            "uid": 2795427,
+            "user": "vitoplus",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Laresoti"
+            },
+            "lat": 46.0830025,
+            "lon": 11.5253919
+        },
+        {
+            "type": "way",
+            "id": 232580438,
+            "version": 5,
+            "timestamp": "2019-03-26T01:50:57Z",
+            "changeset": 68529216,
+            "uid": 9451067,
+            "user": "b-jazz-bot",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "italian, regional, pizza",
+                "email": "info@hotelcristodoro.it",
+                "name": "Hotel Cristo d'Oro",
+                "phone": "+39 0461 762243",
+                "ref:vatin": "IT01445000225",
+                "restaurant:type:it": "pizzeria",
+                "tourism": "hotel",
+                "website": "https://hotelcristodoro.it/"
+            },
+            "nodes": [
+                2409249272,
+                2409249269,
+                2409249268,
+                5030182151,
+                2409249270,
+                2409249273,
+                2409249271,
+                2409249272
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2409249272,
+            "version": 1,
+            "timestamp": "2013-08-06T20:27:57Z",
+            "changeset": 17246608,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0841293,
+            "lon": 11.519114
+        },
+        {
+            "type": "node",
+            "id": 2409249269,
+            "version": 1,
+            "timestamp": "2013-08-06T20:27:57Z",
+            "changeset": 17246608,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0839886,
+            "lon": 11.5192157
+        },
+        {
+            "type": "node",
+            "id": 2409249268,
+            "version": 1,
+            "timestamp": "2013-08-06T20:27:57Z",
+            "changeset": 17246608,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0839092,
+            "lon": 11.5189875
+        },
+        {
+            "type": "node",
+            "id": 5030182151,
+            "version": 1,
+            "timestamp": "2017-08-12T09:59:25Z",
+            "changeset": 51053896,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "tags": {
+                "addr:city": "Samone",
+                "addr:housenumber": "33",
+                "addr:postcode": "38050",
+                "addr:street": "Via Monte Cima",
+                "entrance": "main"
+            },
+            "lat": 46.0840512,
+            "lon": 11.5188848
+        },
+        {
+            "type": "node",
+            "id": 2409249270,
+            "version": 4,
+            "timestamp": "2017-08-12T09:59:26Z",
+            "changeset": 51053896,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0840921,
+            "lon": 11.5188552
+        },
+        {
+            "type": "node",
+            "id": 2409249273,
+            "version": 1,
+            "timestamp": "2013-08-06T20:27:57Z",
+            "changeset": 17246608,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0841354,
+            "lon": 11.5189797
+        },
+        {
+            "type": "node",
+            "id": 2409249271,
+            "version": 1,
+            "timestamp": "2013-08-06T20:27:57Z",
+            "changeset": 17246608,
+            "uid": 607510,
+            "user": "simone_girardelli",
+            "lat": 46.0840932,
+            "lon": 11.5190102
+        }
+    ]
+}

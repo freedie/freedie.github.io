@@ -1,0 +1,201 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1403121855,
+            "version": 1,
+            "timestamp": "2011-08-18T08:50:40Z",
+            "changeset": 9054876,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "addr:city": "Tesero",
+                "addr:country": "IT",
+                "addr:housenumber": "6",
+                "addr:postcode": "38038",
+                "addr:street": "Piazza Cesare Battisti",
+                "amenity": "cafe",
+                "name": "Cafè Filò",
+                "operator": "Varesco Andrea",
+                "ref:it:vat": "00495780223"
+            },
+            "lat": 46.2885427,
+            "lon": 11.5104565
+        },
+        {
+            "type": "node",
+            "id": 4481686090,
+            "version": 3,
+            "timestamp": "2021-08-15T09:00:08Z",
+            "changeset": 109693089,
+            "uid": 11220113,
+            "user": "ivanbranco",
+            "tags": {
+                "addr:housenumber": "4",
+                "addr:street": "Via Quattro Novembre",
+                "amenity": "cafe",
+                "name": "Caffè Pasticceria Elisiana",
+                "opening_hours": "08:00-12:30,14:00-20:00; Tu off"
+            },
+            "lat": 46.2886236,
+            "lon": 11.5127083
+        },
+        {
+            "type": "node",
+            "id": 6397060066,
+            "version": 1,
+            "timestamp": "2019-04-10T18:58:29Z",
+            "changeset": 69094089,
+            "uid": 9601757,
+            "user": "Roberta Orienteering",
+            "tags": {
+                "addr:city": "Tesero",
+                "addr:housenumber": "2",
+                "addr:postcode": "38038",
+                "addr:street": "Via Stava",
+                "amenity": "bar",
+                "name": "Bar Topo"
+            },
+            "lat": 46.2901925,
+            "lon": 11.5114271
+        },
+        {
+            "type": "node",
+            "id": 6397060067,
+            "version": 1,
+            "timestamp": "2019-04-10T18:58:29Z",
+            "changeset": 69094089,
+            "uid": 9601757,
+            "user": "Roberta Orienteering",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Stella"
+            },
+            "lat": 46.2894715,
+            "lon": 11.5100269
+        },
+        {
+            "type": "node",
+            "id": 6397206527,
+            "version": 2,
+            "timestamp": "2020-09-30T08:25:04Z",
+            "changeset": 91753770,
+            "uid": 11663482,
+            "user": "Fonmir",
+            "tags": {
+                "addr:housenumber": "10 b",
+                "addr:street": "Via Benesin",
+                "amenity": "pub",
+                "name": "Dixie Pub - ex Tolo"
+            },
+            "lat": 46.2897232,
+            "lon": 11.5100971
+        },
+        {
+            "type": "node",
+            "id": 8976351018,
+            "version": 1,
+            "timestamp": "2021-08-03T06:59:25Z",
+            "changeset": 109070677,
+            "uid": 4237851,
+            "user": "s(e)ven",
+            "tags": {
+                "amenity": "bar",
+                "name": "pizzaria bar ancora"
+            },
+            "lat": 46.2895201,
+            "lon": 11.5103897
+        },
+        {
+            "type": "way",
+            "id": 115849758,
+            "version": 1,
+            "timestamp": "2011-06-01T13:26:16Z",
+            "changeset": 8310289,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "Agritur Darial"
+            },
+            "nodes": [
+                1307699339,
+                1307699327,
+                1307699344,
+                1307699364,
+                1307699298,
+                1307699341,
+                1307699339
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1307699339,
+            "version": 1,
+            "timestamp": "2011-06-01T13:26:13Z",
+            "changeset": 8310289,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2917229,
+            "lon": 11.517389
+        },
+        {
+            "type": "node",
+            "id": 1307699327,
+            "version": 1,
+            "timestamp": "2011-06-01T13:26:13Z",
+            "changeset": 8310289,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2917785,
+            "lon": 11.5174258
+        },
+        {
+            "type": "node",
+            "id": 1307699344,
+            "version": 1,
+            "timestamp": "2011-06-01T13:26:13Z",
+            "changeset": 8310289,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.291833,
+            "lon": 11.5174618
+        },
+        {
+            "type": "node",
+            "id": 1307699364,
+            "version": 1,
+            "timestamp": "2011-06-01T13:26:14Z",
+            "changeset": 8310289,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2917788,
+            "lon": 11.5176334
+        },
+        {
+            "type": "node",
+            "id": 1307699298,
+            "version": 1,
+            "timestamp": "2011-06-01T13:26:11Z",
+            "changeset": 8310289,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2916688,
+            "lon": 11.5175607
+        },
+        {
+            "type": "node",
+            "id": 1307699341,
+            "version": 1,
+            "timestamp": "2011-06-01T13:26:13Z",
+            "changeset": 8310289,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.291691,
+            "lon": 11.51749
+        }
+    ]
+}

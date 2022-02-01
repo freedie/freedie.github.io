@@ -1,0 +1,272 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 355968440,
+            "version": 10,
+            "timestamp": "2017-10-21T13:19:32Z",
+            "changeset": 53128013,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "San Michele all'Adige",
+                "addr:country": "IT",
+                "addr:housenumber": "47",
+                "addr:postcode": "38010",
+                "addr:street": "Via Don A. Tamanini",
+                "amenity": "restaurant",
+                "contact:phone": "+39 0461 650699",
+                "cuisine": "pizza;regional",
+                "name": "Capriccio",
+                "operator": "Corazza Barbara, Mauro & C.",
+                "ref:vatin": "IT02160810228"
+            },
+            "lat": 46.1891991,
+            "lon": 11.1287253
+        },
+        {
+            "type": "node",
+            "id": 1289151753,
+            "version": 1,
+            "timestamp": "2011-05-17T15:27:24Z",
+            "changeset": 8172831,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Andreis"
+            },
+            "lat": 46.1977018,
+            "lon": 11.1252121
+        },
+        {
+            "type": "node",
+            "id": 303850136,
+            "version": 6,
+            "timestamp": "2013-05-29T16:18:46Z",
+            "changeset": 16340001,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:housenumber": "2",
+                "amenity": "bar",
+                "contact:phone": "+39 0461 650422",
+                "name": "L'aquila nera",
+                "opening_hours": "Mo-Sa 7:30-21:00",
+                "operator": "Calliari Carmen",
+                "ref:vatin": "IT02216760229",
+                "wheelchair": "yes"
+            },
+            "lat": 46.1937066,
+            "lon": 11.1327878
+        },
+        {
+            "type": "node",
+            "id": 944586213,
+            "version": 1,
+            "timestamp": "2010-10-10T20:47:58Z",
+            "changeset": 6006687,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "amenity": "bar",
+                "name": "Centro Ricreativo Sant'Anna"
+            },
+            "lat": 46.1946186,
+            "lon": 11.1299911
+        },
+        {
+            "type": "node",
+            "id": 1279641998,
+            "version": 3,
+            "timestamp": "2016-06-09T14:58:29Z",
+            "changeset": 39910429,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "addr:city": "San Michele all'Adige",
+                "addr:country": "IT",
+                "addr:housenumber": "32",
+                "addr:postcode": "38010",
+                "addr:street": "Via Brennero",
+                "amenity": "bar",
+                "contact:phone": "+39 0461 650540",
+                "name": "Al turista",
+                "operator": "Zeni Giorgio",
+                "ref:vatin": "IT00078770229"
+            },
+            "lat": 46.1939602,
+            "lon": 11.1324816
+        },
+        {
+            "type": "node",
+            "id": 1496706607,
+            "version": 4,
+            "timestamp": "2021-07-02T10:13:32Z",
+            "changeset": 107304020,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:country": "IT",
+                "addr:housenumber": "7",
+                "amenity": "bar",
+                "name": "905 Wine Bar",
+                "operator": "Barzon Giovanni & C.",
+                "outdoor_seating": "yes",
+                "ref:vatin": "IT02503760221"
+            },
+            "lat": 46.1950048,
+            "lon": 11.1339336
+        },
+        {
+            "type": "node",
+            "id": 2984498949,
+            "version": 1,
+            "timestamp": "2014-07-28T13:55:29Z",
+            "changeset": 24402743,
+            "uid": 2219053,
+            "user": "OscarM",
+            "tags": {
+                "amenity": "cafe",
+                "internet_access": "yes",
+                "name": "Bar Sicilia"
+            },
+            "lat": 46.1963215,
+            "lon": 11.1293414
+        },
+        {
+            "type": "node",
+            "id": 4695403491,
+            "version": 2,
+            "timestamp": "2018-01-21T10:21:10Z",
+            "changeset": 55623888,
+            "uid": 1462614,
+            "user": "_Andrea_",
+            "tags": {
+                "addr:housenumber": "29",
+                "addr:postcode": "38010",
+                "addr:street": "Via Roma",
+                "amenity": "restaurant",
+                "cuisine": "regional;italian;pizza;crepe;italian_pizza;local;coffee_shop",
+                "name": "Pizzeria Cantuccio",
+                "name:en": "Pizzeria Cantuccio",
+                "name:it": "Pizzeria Cantuccio",
+                "opening_hours": "Tu-Su 11:30-12:00",
+                "operator": "Volkmer Gertrud Karla",
+                "phone": "+39 371 3579272"
+            },
+            "lat": 46.1944253,
+            "lon": 11.1329064
+        },
+        {
+            "type": "node",
+            "id": 2779346908,
+            "version": 1,
+            "timestamp": "2014-04-09T12:47:08Z",
+            "changeset": 21588530,
+            "uid": 13591,
+            "user": "lucadelu",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 46.1946813,
+            "lon": 11.1353469
+        },
+        {
+            "type": "way",
+            "id": 75310719,
+            "version": 5,
+            "timestamp": "2021-02-09T13:43:28Z",
+            "changeset": 98981257,
+            "uid": 2879052,
+            "user": "IlPiega",
+            "tags": {
+                "addr:city": "Grumo",
+                "addr:country": "IT",
+                "addr:housenumber": "39",
+                "addr:postcode": "38010",
+                "addr:street": "Via G. Postal",
+                "amenity": "restaurant",
+                "building": "yes",
+                "contact:email": "ristorantedapino@ristorantedapino.it",
+                "contact:fax": "+39 0461 662941",
+                "contact:phone": "+39 0461 650435",
+                "contact:website": "http://www.ristorantedapino.it/",
+                "cuisine": "italian;regional;pizza",
+                "name": "Ristorante da Pino",
+                "opening_hours": "Mo Off",
+                "operator": "Moresco DAnilo e Caset Luciana",
+                "ref:vatin": "IT00600320220"
+            },
+            "nodes": [
+                889273629,
+                889274176,
+                889274468,
+                1589724837,
+                889275824,
+                889273629
+            ]
+        },
+        {
+            "type": "node",
+            "id": 889273629,
+            "version": 2,
+            "timestamp": "2020-01-12T20:45:39Z",
+            "changeset": 79487163,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1979423,
+            "lon": 11.1241527
+        },
+        {
+            "type": "node",
+            "id": 889274176,
+            "version": 2,
+            "timestamp": "2020-01-12T20:45:39Z",
+            "changeset": 79487163,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1983225,
+            "lon": 11.1244036
+        },
+        {
+            "type": "node",
+            "id": 889274468,
+            "version": 2,
+            "timestamp": "2020-01-12T20:45:39Z",
+            "changeset": 79487163,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1982728,
+            "lon": 11.124561
+        },
+        {
+            "type": "node",
+            "id": 1589724837,
+            "version": 3,
+            "timestamp": "2021-02-09T13:43:28Z",
+            "changeset": 98981257,
+            "uid": 2879052,
+            "user": "IlPiega",
+            "tags": {
+                "addr:housenumber": "43",
+                "addr:street": "Via Postal"
+            },
+            "lat": 46.1979788,
+            "lon": 11.124367
+        },
+        {
+            "type": "node",
+            "id": 889275824,
+            "version": 2,
+            "timestamp": "2020-01-12T20:45:39Z",
+            "changeset": 79487163,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1978926,
+            "lon": 11.1243102
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2732485798,
+            "version": 1,
+            "timestamp": "2014-03-21T21:15:13Z",
+            "changeset": 21234488,
+            "uid": 350864,
+            "user": "demon_box",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Roma"
+            },
+            "lat": 46.2943671,
+            "lon": 10.6855286
+        },
+        {
+            "type": "node",
+            "id": 1843660150,
+            "version": 1,
+            "timestamp": "2012-07-30T09:23:41Z",
+            "changeset": 12545283,
+            "uid": 668138,
+            "user": "pietrop",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Bazzega"
+            },
+            "lat": 46.2984356,
+            "lon": 10.6913187
+        },
+        {
+            "type": "way",
+            "id": 169149660,
+            "version": 2,
+            "timestamp": "2012-07-28T14:37:08Z",
+            "changeset": 12524077,
+            "uid": 668138,
+            "user": "pietrop",
+            "tags": {
+                "amenity": "cafe",
+                "building": "yes",
+                "name": "Bar Carolina"
+            },
+            "nodes": [
+                1803182707,
+                1803182705,
+                1803182712,
+                1803182718,
+                1803182707
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1803182707,
+            "version": 1,
+            "timestamp": "2012-06-26T19:55:33Z",
+            "changeset": 12030130,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.2969802,
+            "lon": 10.6948182
+        },
+        {
+            "type": "node",
+            "id": 1803182705,
+            "version": 1,
+            "timestamp": "2012-06-26T19:55:33Z",
+            "changeset": 12030130,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.2969375,
+            "lon": 10.6946411
+        },
+        {
+            "type": "node",
+            "id": 1803182712,
+            "version": 1,
+            "timestamp": "2012-06-26T19:55:33Z",
+            "changeset": 12030130,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.2970407,
+            "lon": 10.6945889
+        },
+        {
+            "type": "node",
+            "id": 1803182718,
+            "version": 1,
+            "timestamp": "2012-06-26T19:55:33Z",
+            "changeset": 12030130,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.2970834,
+            "lon": 10.6947661
+        },
+        {
+            "type": "way",
+            "id": 173581756,
+            "version": 1,
+            "timestamp": "2012-07-30T09:54:26Z",
+            "changeset": 12545621,
+            "uid": 668138,
+            "user": "pietrop",
+            "tags": {
+                "amenity": "cafe",
+                "building": "yes",
+                "name": "Bar Uceli"
+            },
+            "nodes": [
+                1843699912,
+                1843699905,
+                1843699910,
+                1843699939,
+                1843699912
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1843699912,
+            "version": 1,
+            "timestamp": "2012-07-30T09:54:23Z",
+            "changeset": 12545621,
+            "uid": 668138,
+            "user": "pietrop",
+            "lat": 46.2989903,
+            "lon": 10.693829
+        },
+        {
+            "type": "node",
+            "id": 1843699905,
+            "version": 1,
+            "timestamp": "2012-07-30T09:54:23Z",
+            "changeset": 12545621,
+            "uid": 668138,
+            "user": "pietrop",
+            "lat": 46.2988709,
+            "lon": 10.6936629
+        },
+        {
+            "type": "node",
+            "id": 1843699910,
+            "version": 1,
+            "timestamp": "2012-07-30T09:54:23Z",
+            "changeset": 12545621,
+            "uid": 668138,
+            "user": "pietrop",
+            "lat": 46.2989671,
+            "lon": 10.6935181
+        },
+        {
+            "type": "node",
+            "id": 1843699939,
+            "version": 1,
+            "timestamp": "2012-07-30T09:54:23Z",
+            "changeset": 12545621,
+            "uid": 668138,
+            "user": "pietrop",
+            "lat": 46.2990785,
+            "lon": 10.6936958
+        }
+    ]
+}

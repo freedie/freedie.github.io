@@ -1,0 +1,88 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 4123997254,
+            "version": 2,
+            "timestamp": "2019-03-16T14:08:37Z",
+            "changeset": 68204193,
+            "uid": 830106,
+            "user": "literan",
+            "tags": {
+                "amenity": "bar",
+                "name": "Alpino"
+            },
+            "lat": 46.3156459,
+            "lon": 10.8019144
+        },
+        {
+            "type": "node",
+            "id": 4123999071,
+            "version": 3,
+            "timestamp": "2020-12-05T10:48:53Z",
+            "changeset": 95329238,
+            "uid": 11220113,
+            "user": "ivanbranco",
+            "tags": {
+                "addr:city": "Mezzana",
+                "addr:street": "Via Quattro Novembre",
+                "amenity": "bar",
+                "name": "al Sole"
+            },
+            "lat": 46.315884,
+            "lon": 10.8019788
+        },
+        {
+            "type": "node",
+            "id": 4123999073,
+            "version": 2,
+            "timestamp": "2019-03-16T14:08:37Z",
+            "changeset": 68204193,
+            "uid": 830106,
+            "user": "literan",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "al Sole"
+            },
+            "lat": 46.3159952,
+            "lon": 10.8019185
+        },
+        {
+            "type": "node",
+            "id": 6341429313,
+            "version": 1,
+            "timestamp": "2019-03-16T14:08:28Z",
+            "changeset": 68204193,
+            "uid": 830106,
+            "user": "literan",
+            "tags": {
+                "amenity": "bar",
+                "name": "da Renato"
+            },
+            "lat": 46.3160831,
+            "lon": 10.8049759
+        },
+        {
+            "type": "node",
+            "id": 2412844972,
+            "version": 3,
+            "timestamp": "2018-07-20T16:49:59Z",
+            "changeset": 60913348,
+            "uid": 8152307,
+            "user": "Pino Navato",
+            "tags": {
+                "addr:city": "Mezzana",
+                "addr:housenumber": "1",
+                "addr:street": "Localita Marilleva 900",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Bar ristorante pizzeria Kristall"
+            },
+            "lat": 46.3140417,
+            "lon": 10.810332
+        }
+    ]
+}

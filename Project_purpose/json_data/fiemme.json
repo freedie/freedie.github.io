@@ -1,0 +1,70 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 261081650,
+            "version": 5,
+            "timestamp": "2014-07-08T18:18:59Z",
+            "changeset": 24031334,
+            "uid": 24126,
+            "user": "dforsi",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar La Torre"
+            },
+            "lat": 46.280372,
+            "lon": 11.4349689
+        },
+        {
+            "type": "node",
+            "id": 261086638,
+            "version": 9,
+            "timestamp": "2016-03-28T22:06:04Z",
+            "changeset": 38131007,
+            "uid": 645593,
+            "user": "Viking81",
+            "tags": {
+                "addr:housenumber": "9",
+                "addr:street": "Via Roma",
+                "amenity": "cafe",
+                "name": "Bar caffè Castello",
+                "phone": "+39 0462 340033"
+            },
+            "lat": 46.2814562,
+            "lon": 11.4346433
+        },
+        {
+            "type": "node",
+            "id": 261081683,
+            "version": 2,
+            "timestamp": "2020-04-29T13:20:22Z",
+            "changeset": 84342146,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Agritur"
+            },
+            "lat": 46.2789911,
+            "lon": 11.4354671
+        },
+        {
+            "type": "node",
+            "id": 268803099,
+            "version": 4,
+            "timestamp": "2011-01-22T19:09:27Z",
+            "changeset": 7054089,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "name": "Agritur Maso Sorte"
+            },
+            "lat": 46.2779665,
+            "lon": 11.4452067
+        }
+    ]
+}

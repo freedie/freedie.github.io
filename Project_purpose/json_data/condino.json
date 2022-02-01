@@ -1,0 +1,67 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2018656030,
+            "version": 1,
+            "timestamp": "2012-11-17T20:36:29Z",
+            "changeset": 13910729,
+            "uid": 457880,
+            "user": "Michele_69",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Corona"
+            },
+            "lat": 45.8886525,
+            "lon": 10.5998361
+        },
+        {
+            "type": "node",
+            "id": 2018656031,
+            "version": 1,
+            "timestamp": "2012-11-17T20:36:29Z",
+            "changeset": 13910729,
+            "uid": 457880,
+            "user": "Michele_69",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar alla Pesa"
+            },
+            "lat": 45.888328,
+            "lon": 10.599316
+        },
+        {
+            "type": "node",
+            "id": 2431204314,
+            "version": 2,
+            "timestamp": "2013-09-03T10:20:56Z",
+            "changeset": 17651115,
+            "uid": 457880,
+            "user": "Michele_69",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Chiara"
+            },
+            "lat": 45.8903468,
+            "lon": 10.5986564
+        },
+        {
+            "type": "node",
+            "id": 2431204320,
+            "version": 2,
+            "timestamp": "2013-09-03T10:20:56Z",
+            "changeset": 17651115,
+            "uid": 457880,
+            "user": "Michele_69",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "San Rocco"
+            },
+            "lat": 45.8897871,
+            "lon": 10.5985696
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 388930801,
+            "version": 2,
+            "timestamp": "2010-07-30T14:53:45Z",
+            "changeset": 5355450,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "La Lanterna"
+            },
+            "lat": 46.3001554,
+            "lon": 11.4475121
+        },
+        {
+            "type": "node",
+            "id": 1688616579,
+            "version": 3,
+            "timestamp": "2013-03-15T13:51:03Z",
+            "changeset": 15371695,
+            "uid": 893327,
+            "user": "mcheckimport",
+            "tags": {
+                "addr:housenumber": "61",
+                "addr:street": "Via San Tommaso",
+                "amenity": "bar",
+                "name": "Cafe Vienna",
+                "wifi": "free"
+            },
+            "lat": 46.3000582,
+            "lon": 11.4515373
+        },
+        {
+            "type": "node",
+            "id": 5352766113,
+            "version": 1,
+            "timestamp": "2018-01-21T15:21:21Z",
+            "changeset": 55630303,
+            "uid": 4414783,
+            "user": "Vvf Varena",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Pizzeria Ristorante La Cantinetta"
+            },
+            "lat": 46.3029796,
+            "lon": 11.4544453
+        },
+        {
+            "type": "node",
+            "id": 5352766111,
+            "version": 1,
+            "timestamp": "2018-01-21T15:21:20Z",
+            "changeset": 55630303,
+            "uid": 4414783,
+            "user": "Vvf Varena",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Caffè Varena"
+            },
+            "lat": 46.3036633,
+            "lon": 11.4560037
+        },
+        {
+            "type": "node",
+            "id": 5352766112,
+            "version": 1,
+            "timestamp": "2018-01-21T15:21:20Z",
+            "changeset": 55630303,
+            "uid": 4414783,
+            "user": "Vvf Varena",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar al Drago"
+            },
+            "lat": 46.3027609,
+            "lon": 11.4558696
+        }
+    ]
+}

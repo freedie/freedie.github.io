@@ -1,0 +1,549 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1224415785,
+            "version": 5,
+            "timestamp": "2012-06-27T09:36:52Z",
+            "changeset": 12034786,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Pozza di Fassa",
+                "addr:country": "IT",
+                "addr:housenumber": "105",
+                "addr:postcode": "38036",
+                "addr:street": "Strada Dolomites",
+                "amenity": "bar",
+                "name": "Bar Re Laurino",
+                "opening_hours": "Mo-Sa 07:30-20:00",
+                "operator": "Anna Maria Czaplicka",
+                "ref:vatin": "IT02146120221"
+            },
+            "lat": 46.4284886,
+            "lon": 11.6841192
+        },
+        {
+            "type": "node",
+            "id": 722987884,
+            "version": 5,
+            "timestamp": "2013-07-31T10:33:42Z",
+            "changeset": 17164011,
+            "uid": 893327,
+            "user": "mcheckimport",
+            "tags": {
+                "addr:city": "Pozza di Fassa",
+                "addr:country": "IT",
+                "addr:housenumber": "9",
+                "addr:postcode": "38036",
+                "addr:street": "Piaza de Comun",
+                "amenity": "bar",
+                "name": "Bar Gelateria Leon d'Oro",
+                "opening_hours": "Mo-Su 08:00-24:00"
+            },
+            "lat": 46.4300927,
+            "lon": 11.686136
+        },
+        {
+            "type": "node",
+            "id": 724349525,
+            "version": 6,
+            "timestamp": "2013-07-31T10:33:48Z",
+            "changeset": 17164011,
+            "uid": 893327,
+            "user": "mcheckimport",
+            "tags": {
+                "addr:city": "Pozza di Fassa",
+                "addr:country": "IT",
+                "addr:postcode": "38036",
+                "addr:street": "Piaza del Malgher",
+                "amenity": "pub",
+                "name": "Pub Mirò"
+            },
+            "lat": 46.430621,
+            "lon": 11.6877508
+        },
+        {
+            "type": "node",
+            "id": 724391083,
+            "version": 2,
+            "timestamp": "2011-04-02T12:57:20Z",
+            "changeset": 7743852,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "addr:city": "Pozza di Fassa",
+                "addr:country": "IT",
+                "addr:housenumber": "44",
+                "addr:postcode": "38036",
+                "addr:street": "Strada de Meida",
+                "amenity": "bar",
+                "name": "Bar Anny"
+            },
+            "lat": 46.4299347,
+            "lon": 11.6891796
+        },
+        {
+            "type": "node",
+            "id": 736750203,
+            "version": 2,
+            "timestamp": "2011-04-02T08:56:12Z",
+            "changeset": 7742036,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "addr:city": "Pozza di Fassa",
+                "addr:country": "IT",
+                "addr:housenumber": "1",
+                "addr:postcode": "38036",
+                "addr:street": "Piaza de Comun",
+                "amenity": "bar",
+                "name": "Bar Al Ponte"
+            },
+            "lat": 46.430471,
+            "lon": 11.6863624
+        },
+        {
+            "type": "node",
+            "id": 1228464461,
+            "version": 2,
+            "timestamp": "2011-04-02T11:27:21Z",
+            "changeset": 7743201,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "addr:city": "Pozza di Fassa",
+                "addr:country": "IT",
+                "addr:housenumber": "135",
+                "addr:postcode": "38036",
+                "addr:street": "Strada Dolomites",
+                "amenity": "restaurant",
+                "cuisine": "breton",
+                "opening_hours": "Mo-Su 16:00-20:30"
+            },
+            "lat": 46.4294616,
+            "lon": 11.6854527
+        },
+        {
+            "type": "node",
+            "id": 1229166759,
+            "version": 3,
+            "timestamp": "2011-04-03T12:42:02Z",
+            "changeset": 7753660,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "addr:city": "Pozza di Fassa",
+                "addr:country": "IT",
+                "addr:housenumber": "32",
+                "addr:postcode": "38036",
+                "addr:street": "Strada de Meida",
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizza Asporto",
+                "opening_hours": "Mo-Sa 11:30-14:00,17:00-20:30",
+                "takeaway": "yes"
+            },
+            "lat": 46.4300746,
+            "lon": 11.6887936
+        },
+        {
+            "type": "node",
+            "id": 1817273242,
+            "version": 1,
+            "timestamp": "2012-07-08T07:44:31Z",
+            "changeset": 12146670,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "addr:city": "Pozza di Fassa",
+                "addr:country": "IT",
+                "addr:housenumber": "0",
+                "addr:postcode": "38036",
+                "addr:street": "Strada de Meida",
+                "amenity": "bar"
+            },
+            "lat": 46.4300563,
+            "lon": 11.6895202
+        },
+        {
+            "type": "node",
+            "id": 1230287511,
+            "version": 1,
+            "timestamp": "2011-04-03T07:49:01Z",
+            "changeset": 7750981,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "addr:city": "Pozza di Fassa",
+                "addr:country": "IT",
+                "addr:housenumber": "169",
+                "addr:postcode": "38036",
+                "addr:street": "Strada Dolomites",
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzeria Da Salin"
+            },
+            "lat": 46.435889,
+            "lon": 11.69011
+        },
+        {
+            "type": "node",
+            "id": 738926326,
+            "version": 1,
+            "timestamp": "2010-05-18T20:39:09Z",
+            "changeset": 4742756,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "amenity": "biergarten",
+                "name": "Birreria Ta Mongo"
+            },
+            "lat": 46.4282885,
+            "lon": 11.6974711
+        },
+        {
+            "type": "node",
+            "id": 1230713773,
+            "version": 3,
+            "timestamp": "2011-12-24T07:38:27Z",
+            "changeset": 10192163,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "addr:city": "Pozza di Fassa",
+                "addr:country": "IT",
+                "addr:housenumber": "112",
+                "addr:postcode": "38036",
+                "addr:street": "Strada de Meida",
+                "amenity": "bar",
+                "internet_access": "no",
+                "name": "Bar Jodler",
+                "smoking": "no"
+            },
+            "lat": 46.4297885,
+            "lon": 11.6922296
+        },
+        {
+            "type": "node",
+            "id": 1230713777,
+            "version": 2,
+            "timestamp": "2011-04-03T12:52:32Z",
+            "changeset": 7753771,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "addr:city": "Pozza di Fassa",
+                "addr:country": "IT",
+                "addr:housenumber": "16",
+                "addr:postcode": "38036",
+                "addr:street": "Strada de Meida",
+                "amenity": "bar",
+                "name": "Bar Meeting",
+                "opening_hours": "Mo-Sa 08:00-24:00"
+            },
+            "lat": 46.4292795,
+            "lon": 11.6944569
+        },
+        {
+            "type": "way",
+            "id": 58425582,
+            "version": 4,
+            "timestamp": "2011-04-02T13:21:56Z",
+            "changeset": 7744021,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "italian;pizza;regional",
+                "name": "Bar Pizzaria Le Giarre"
+            },
+            "nodes": [
+                724315370,
+                724315384,
+                724315397,
+                1229183923,
+                724315375,
+                724315370
+            ]
+        },
+        {
+            "type": "node",
+            "id": 724315370,
+            "version": 3,
+            "timestamp": "2013-07-31T10:33:58Z",
+            "changeset": 17164011,
+            "uid": 893327,
+            "user": "mcheckimport",
+            "lat": 46.4311346,
+            "lon": 11.6884389
+        },
+        {
+            "type": "node",
+            "id": 724315384,
+            "version": 3,
+            "timestamp": "2013-07-31T10:33:58Z",
+            "changeset": 17164011,
+            "uid": 893327,
+            "user": "mcheckimport",
+            "lat": 46.4310475,
+            "lon": 11.6887526
+        },
+        {
+            "type": "node",
+            "id": 724315397,
+            "version": 3,
+            "timestamp": "2013-07-31T10:33:59Z",
+            "changeset": 17164011,
+            "uid": 893327,
+            "user": "mcheckimport",
+            "lat": 46.4309092,
+            "lon": 11.6886718
+        },
+        {
+            "type": "node",
+            "id": 1229183923,
+            "version": 2,
+            "timestamp": "2013-07-31T10:33:45Z",
+            "changeset": 17164011,
+            "uid": 893327,
+            "user": "mcheckimport",
+            "tags": {
+                "addr:city": "Pozza di Fassa",
+                "addr:country": "IT",
+                "addr:housenumber": "20",
+                "addr:postcode": "38036",
+                "addr:street": "Piaza del Malgher"
+            },
+            "lat": 46.430949,
+            "lon": 11.6885284
+        },
+        {
+            "type": "node",
+            "id": 724315375,
+            "version": 3,
+            "timestamp": "2013-07-31T10:33:58Z",
+            "changeset": 17164011,
+            "uid": 893327,
+            "user": "mcheckimport",
+            "lat": 46.4309963,
+            "lon": 11.6883581
+        },
+        {
+            "type": "way",
+            "id": 58429469,
+            "version": 2,
+            "timestamp": "2010-10-13T09:40:36Z",
+            "changeset": 6027582,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "italian;regional",
+                "name": "Ristorante Al vecchio mulino"
+            },
+            "nodes": [
+                724359683,
+                724359665,
+                724359674,
+                724359655,
+                724359683
+            ]
+        },
+        {
+            "type": "node",
+            "id": 724359683,
+            "version": 1,
+            "timestamp": "2010-05-06T18:40:37Z",
+            "changeset": 4624249,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.4305194,
+            "lon": 11.6915063
+        },
+        {
+            "type": "node",
+            "id": 724359665,
+            "version": 1,
+            "timestamp": "2010-05-06T18:40:37Z",
+            "changeset": 4624249,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.4304737,
+            "lon": 11.6916947
+        },
+        {
+            "type": "node",
+            "id": 724359674,
+            "version": 1,
+            "timestamp": "2010-05-06T18:40:37Z",
+            "changeset": 4624249,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.4303913,
+            "lon": 11.6916595
+        },
+        {
+            "type": "node",
+            "id": 724359655,
+            "version": 1,
+            "timestamp": "2010-05-06T18:40:36Z",
+            "changeset": 4624249,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.4304334,
+            "lon": 11.6914609
+        },
+        {
+            "type": "way",
+            "id": 58533321,
+            "version": 3,
+            "timestamp": "2015-01-12T23:12:50Z",
+            "changeset": 28100162,
+            "uid": 1893120,
+            "user": "Zerrossetto",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "pizza",
+                "name": "Bar Pizzeria Winkler"
+            },
+            "nodes": [
+                725431625,
+                725431620,
+                725431667,
+                725431648,
+                946528473,
+                725431625
+            ]
+        },
+        {
+            "type": "node",
+            "id": 725431625,
+            "version": 1,
+            "timestamp": "2010-05-07T18:43:08Z",
+            "changeset": 4632606,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.4286248,
+            "lon": 11.6970625
+        },
+        {
+            "type": "node",
+            "id": 725431620,
+            "version": 1,
+            "timestamp": "2010-05-07T18:43:08Z",
+            "changeset": 4632606,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.4286942,
+            "lon": 11.6971732
+        },
+        {
+            "type": "node",
+            "id": 725431667,
+            "version": 1,
+            "timestamp": "2010-05-07T18:43:10Z",
+            "changeset": 4632606,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.4285717,
+            "lon": 11.6973348
+        },
+        {
+            "type": "node",
+            "id": 725431648,
+            "version": 1,
+            "timestamp": "2010-05-07T18:43:09Z",
+            "changeset": 4632606,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.4285023,
+            "lon": 11.697224
+        },
+        {
+            "type": "node",
+            "id": 946528473,
+            "version": 4,
+            "timestamp": "2015-01-12T23:12:49Z",
+            "changeset": 28100162,
+            "uid": 1893120,
+            "user": "Zerrossetto",
+            "tags": {
+                "addr:street": "Strada de Sot Comedon",
+                "entrance": "main"
+            },
+            "lat": 46.4285431,
+            "lon": 11.6971702
+        },
+        {
+            "type": "way",
+            "id": 58430604,
+            "version": 2,
+            "timestamp": "2010-05-18T20:35:29Z",
+            "changeset": 4742708,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "amenity": "fast_food",
+                "building": "yes",
+                "name": "Da Michele"
+            },
+            "nodes": [
+                724395897,
+                724395898,
+                724395895,
+                724395900,
+                724395897
+            ]
+        },
+        {
+            "type": "node",
+            "id": 724395897,
+            "version": 1,
+            "timestamp": "2010-05-06T19:05:57Z",
+            "changeset": 4624507,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.429543,
+            "lon": 11.6949516
+        },
+        {
+            "type": "node",
+            "id": 724395898,
+            "version": 1,
+            "timestamp": "2010-05-06T19:05:57Z",
+            "changeset": 4624507,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.4294599,
+            "lon": 11.6950721
+        },
+        {
+            "type": "node",
+            "id": 724395895,
+            "version": 1,
+            "timestamp": "2010-05-06T19:05:57Z",
+            "changeset": 4624507,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.4294071,
+            "lon": 11.6949956
+        },
+        {
+            "type": "node",
+            "id": 724395900,
+            "version": 1,
+            "timestamp": "2010-05-06T19:05:57Z",
+            "changeset": 4624507,
+            "uid": 51822,
+            "user": "Pizzak",
+            "lat": 46.4294902,
+            "lon": 11.694875
+        }
+    ]
+}

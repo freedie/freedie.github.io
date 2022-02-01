@@ -1,0 +1,149 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1805481738,
+            "version": 1,
+            "timestamp": "2012-06-28T20:35:46Z",
+            "changeset": 12050718,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 46.3816529,
+            "lon": 10.9705974
+        },
+        {
+            "type": "node",
+            "id": 334787448,
+            "version": 2,
+            "timestamp": "2010-12-06T16:37:44Z",
+            "changeset": 6565364,
+            "uid": 1987,
+            "user": "niubii",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "name": "Al Pescatore"
+            },
+            "lat": 46.3824461,
+            "lon": 10.9721387
+        },
+        {
+            "type": "way",
+            "id": 518731748,
+            "version": 2,
+            "timestamp": "2017-08-26T06:44:32Z",
+            "changeset": 51451276,
+            "uid": 61042,
+            "user": "Agh",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "Agritur Solasna"
+            },
+            "nodes": [
+                5059573228,
+                5059573229,
+                5059573230,
+                5059573231,
+                5059573232,
+                5059573233,
+                5059573234,
+                5059573235,
+                5059573228
+            ]
+        },
+        {
+            "type": "node",
+            "id": 5059573228,
+            "version": 1,
+            "timestamp": "2017-08-26T06:43:49Z",
+            "changeset": 51451266,
+            "uid": 61042,
+            "user": "Agh",
+            "lat": 46.3790203,
+            "lon": 10.9627765
+        },
+        {
+            "type": "node",
+            "id": 5059573229,
+            "version": 1,
+            "timestamp": "2017-08-26T06:43:49Z",
+            "changeset": 51451266,
+            "uid": 61042,
+            "user": "Agh",
+            "lat": 46.3791181,
+            "lon": 10.9628466
+        },
+        {
+            "type": "node",
+            "id": 5059573230,
+            "version": 1,
+            "timestamp": "2017-08-26T06:43:49Z",
+            "changeset": 51451266,
+            "uid": 61042,
+            "user": "Agh",
+            "lat": 46.3790184,
+            "lon": 10.9631394
+        },
+        {
+            "type": "node",
+            "id": 5059573231,
+            "version": 1,
+            "timestamp": "2017-08-26T06:43:49Z",
+            "changeset": 51451266,
+            "uid": 61042,
+            "user": "Agh",
+            "lat": 46.3789178,
+            "lon": 10.9630674
+        },
+        {
+            "type": "node",
+            "id": 5059573232,
+            "version": 1,
+            "timestamp": "2017-08-26T06:43:49Z",
+            "changeset": 51451266,
+            "uid": 61042,
+            "user": "Agh",
+            "lat": 46.3789357,
+            "lon": 10.9630149
+        },
+        {
+            "type": "node",
+            "id": 5059573233,
+            "version": 1,
+            "timestamp": "2017-08-26T06:43:49Z",
+            "changeset": 51451266,
+            "uid": 61042,
+            "user": "Agh",
+            "lat": 46.3788528,
+            "lon": 10.9629555
+        },
+        {
+            "type": "node",
+            "id": 5059573234,
+            "version": 1,
+            "timestamp": "2017-08-26T06:43:49Z",
+            "changeset": 51451266,
+            "uid": 61042,
+            "user": "Agh",
+            "lat": 46.378912,
+            "lon": 10.9627818
+        },
+        {
+            "type": "node",
+            "id": 5059573235,
+            "version": 1,
+            "timestamp": "2017-08-26T06:43:49Z",
+            "changeset": 51451266,
+            "uid": 61042,
+            "user": "Agh",
+            "lat": 46.3789976,
+            "lon": 10.9628431
+        }
+    ]
+}

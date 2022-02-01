@@ -1,0 +1,113 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1765623834,
+            "version": 3,
+            "timestamp": "2017-04-16T21:57:53Z",
+            "changeset": 47850225,
+            "uid": 5682826,
+            "user": "Mauro Baratella",
+            "tags": {
+                "addr:housenumber": "134",
+                "addr:street": "Via Giuseppe Garibaldi",
+                "amenity": "bar",
+                "name": "Bar centrale",
+                "name:it": "Bar centrale"
+            },
+            "lat": 45.8483514,
+            "lon": 10.5794367
+        },
+        {
+            "type": "node",
+            "id": 1765623837,
+            "version": 2,
+            "timestamp": "2019-08-27T11:37:26Z",
+            "changeset": 73793099,
+            "uid": 9598051,
+            "user": "ioshikenzu",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Pergola"
+            },
+            "lat": 45.8487148,
+            "lon": 10.5785965
+        },
+        {
+            "type": "node",
+            "id": 1765623838,
+            "version": 2,
+            "timestamp": "2015-04-06T07:59:42Z",
+            "changeset": 30008825,
+            "uid": 163090,
+            "user": "zonta72",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.8492612,
+            "lon": 10.5800239
+        },
+        {
+            "type": "node",
+            "id": 1765623839,
+            "version": 1,
+            "timestamp": "2012-05-25T22:02:32Z",
+            "changeset": 11702445,
+            "uid": 140995,
+            "user": "costoro",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.8496128,
+            "lon": 10.5795257
+        },
+        {
+            "type": "node",
+            "id": 1765623840,
+            "version": 1,
+            "timestamp": "2012-05-25T22:02:32Z",
+            "changeset": 11702445,
+            "uid": 140995,
+            "user": "costoro",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.849621,
+            "lon": 10.5800203
+        },
+        {
+            "type": "node",
+            "id": 3440511808,
+            "version": 2,
+            "timestamp": "2018-10-01T11:54:48Z",
+            "changeset": 63091985,
+            "uid": 604999,
+            "user": "White_Rabbit",
+            "tags": {
+                "addr:housenumber": "1",
+                "addr:street": "Piazza Europa",
+                "amenity": "bar",
+                "name": "Dolce&Peccato",
+                "shop": "pastry"
+            },
+            "lat": 45.849272,
+            "lon": 10.5800366
+        },
+        {
+            "type": "node",
+            "id": 1765623830,
+            "version": 2,
+            "timestamp": "2015-04-06T07:58:04Z",
+            "changeset": 30008791,
+            "uid": 163090,
+            "user": "zonta72",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 45.8479088,
+            "lon": 10.5809268
+        }
+    ]
+}

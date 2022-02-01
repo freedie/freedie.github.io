@@ -1,0 +1,66 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 367891752,
+            "version": 3,
+            "timestamp": "2014-01-05T13:11:51Z",
+            "changeset": 19822446,
+            "uid": 1850423,
+            "user": "andzan75",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Caffè del Centro"
+            },
+            "lat": 45.9397116,
+            "lon": 11.2694047
+        },
+        {
+            "type": "node",
+            "id": 367891767,
+            "version": 2,
+            "timestamp": "2014-01-04T17:30:21Z",
+            "changeset": 19808996,
+            "uid": 1850423,
+            "user": "andzan75",
+            "tags": {
+                "amenity": "pub",
+                "name": "Bismarck Pub"
+            },
+            "lat": 45.9403338,
+            "lon": 11.2721518
+        },
+        {
+            "type": "node",
+            "id": 2433994739,
+            "version": 2,
+            "timestamp": "2014-01-03T18:15:59Z",
+            "changeset": 19792070,
+            "uid": 1850423,
+            "user": "andzan75",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Tabacchi Giornali"
+            },
+            "lat": 45.9363946,
+            "lon": 11.2749386
+        },
+        {
+            "type": "node",
+            "id": 1813472290,
+            "version": 2,
+            "timestamp": "2012-07-05T07:45:36Z",
+            "changeset": 12117454,
+            "uid": 224342,
+            "user": "mircozorzo",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "La Baita del Gelato"
+            },
+            "lat": 45.9398572,
+            "lon": 11.2727504
+        }
+    ]
+}

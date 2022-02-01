@@ -1,0 +1,529 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "way",
+            "id": 95708700,
+            "version": 3,
+            "timestamp": "2020-08-13T04:28:55Z",
+            "changeset": 89330841,
+            "uid": 3981461,
+            "user": "TizB",
+            "tags": {
+                "amenity": "bar",
+                "building": "yes",
+                "name": "Bar Trento"
+            },
+            "nodes": [
+                1109602739,
+                3246012956,
+                1109601550,
+                1109602833,
+                1109602715,
+                1109602739
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1109602739,
+            "version": 1,
+            "timestamp": "2011-01-18T20:58:27Z",
+            "changeset": 7014828,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2889548,
+            "lon": 11.4545961
+        },
+        {
+            "type": "node",
+            "id": 3246012956,
+            "version": 1,
+            "timestamp": "2014-12-21T13:04:38Z",
+            "changeset": 27608426,
+            "uid": 579545,
+            "user": "Aury88",
+            "lat": 46.2889016,
+            "lon": 11.4545523
+        },
+        {
+            "type": "node",
+            "id": 1109601550,
+            "version": 1,
+            "timestamp": "2011-01-18T20:58:06Z",
+            "changeset": 7014828,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2888398,
+            "lon": 11.4545014
+        },
+        {
+            "type": "node",
+            "id": 1109602833,
+            "version": 1,
+            "timestamp": "2011-01-18T20:58:30Z",
+            "changeset": 7014828,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2888964,
+            "lon": 11.4543576
+        },
+        {
+            "type": "node",
+            "id": 1109602715,
+            "version": 1,
+            "timestamp": "2011-01-18T20:58:26Z",
+            "changeset": 7014828,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.2890114,
+            "lon": 11.4544522
+        },
+        {
+            "type": "node",
+            "id": 1263209697,
+            "version": 3,
+            "timestamp": "2021-07-19T19:59:42Z",
+            "changeset": 108273413,
+            "uid": 12564085,
+            "user": "aledue",
+            "tags": {
+                "addr:city": "Cavalese",
+                "addr:housenumber": "9",
+                "addr:place": "Piazza Giuseppe Verdi",
+                "addr:postcode": "38033",
+                "amenity": "ice_cream",
+                "name": "Tre Valli",
+                "operator": "Prodotti Trentini Sas",
+                "ref:vatin": "IT02066920220",
+                "takeaway": "yes"
+            },
+            "lat": 46.2906422,
+            "lon": 11.4604291
+        },
+        {
+            "type": "node",
+            "id": 2967728499,
+            "version": 1,
+            "timestamp": "2014-07-17T15:41:52Z",
+            "changeset": 24203836,
+            "uid": 504502,
+            "user": "kkklllppp",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Caffè... da te"
+            },
+            "lat": 46.2913017,
+            "lon": 11.4600744
+        },
+        {
+            "type": "node",
+            "id": 2967729897,
+            "version": 2,
+            "timestamp": "2016-12-31T10:54:47Z",
+            "changeset": 44803706,
+            "uid": 3981461,
+            "user": "TizB",
+            "tags": {
+                "addr:city": "Cavalese",
+                "addr:housenumber": "9",
+                "addr:postcode": "38033",
+                "addr:street": "Piazza Ress",
+                "amenity": "bar",
+                "name": "Osteria la Segosta"
+            },
+            "lat": 46.2908046,
+            "lon": 11.4588768
+        },
+        {
+            "type": "node",
+            "id": 2967730253,
+            "version": 1,
+            "timestamp": "2014-07-17T15:41:48Z",
+            "changeset": 24203836,
+            "uid": 504502,
+            "user": "kkklllppp",
+            "tags": {
+                "amenity": "bar",
+                "name": "Giardinetto"
+            },
+            "lat": 46.2912279,
+            "lon": 11.4589151
+        },
+        {
+            "type": "node",
+            "id": 4586898946,
+            "version": 1,
+            "timestamp": "2017-01-03T11:59:01Z",
+            "changeset": 44869243,
+            "uid": 3981461,
+            "user": "TizB",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Angelo D'Oro"
+            },
+            "lat": 46.2906381,
+            "lon": 11.4600157
+        },
+        {
+            "type": "node",
+            "id": 1257221027,
+            "version": 2,
+            "timestamp": "2016-09-01T14:36:59Z",
+            "changeset": 41850573,
+            "uid": 2856022,
+            "user": "Loris Mich",
+            "tags": {
+                "amenity": "bar",
+                "name": "Cheers",
+                "smoking": "outside"
+            },
+            "lat": 46.2921141,
+            "lon": 11.4586229
+        },
+        {
+            "type": "node",
+            "id": 1257221199,
+            "version": 2,
+            "timestamp": "2016-03-28T22:06:04Z",
+            "changeset": 38131007,
+            "uid": 645593,
+            "user": "Viking81",
+            "tags": {
+                "addr:housenumber": "2",
+                "addr:street": "Via Balderoni",
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "email": "info@hotellastua.com",
+                "internet_access": "wlan",
+                "internet_access:fee": "no",
+                "name": "Hotel La Stua",
+                "phone": "+39 0462 340235",
+                "stars": "4",
+                "tourism": "hotel"
+            },
+            "lat": 46.2925262,
+            "lon": 11.4587886
+        },
+        {
+            "type": "node",
+            "id": 4582441585,
+            "version": 2,
+            "timestamp": "2016-12-31T13:38:11Z",
+            "changeset": 44806546,
+            "uid": 3981461,
+            "user": "TizB",
+            "tags": {
+                "addr:city": "Cavalese",
+                "addr:housenumber": "11",
+                "addr:postcode": "38033",
+                "addr:street": "Piazza Cesare Battisti",
+                "amenity": "restaurant",
+                "name": "Bar Pizzeria Excelsior"
+            },
+            "lat": 46.2917532,
+            "lon": 11.4595574
+        },
+        {
+            "type": "node",
+            "id": 4582692757,
+            "version": 3,
+            "timestamp": "2021-11-02T21:26:24Z",
+            "changeset": 113303434,
+            "uid": 6136738,
+            "user": "osmmichl",
+            "tags": {
+                "addr:city": "Cavalese",
+                "addr:country": "IT",
+                "addr:housenumber": "8",
+                "addr:postcode": "38033",
+                "addr:street": "Piazza Cesare Battisti",
+                "amenity": "bar",
+                "name": "Aspen",
+                "outdoor_seating": "yes"
+            },
+            "lat": 46.2918752,
+            "lon": 11.4591272
+        },
+        {
+            "type": "node",
+            "id": 4582692759,
+            "version": 1,
+            "timestamp": "2016-12-31T13:38:10Z",
+            "changeset": 44806546,
+            "uid": 3981461,
+            "user": "TizB",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "El Molin"
+            },
+            "lat": 46.2920844,
+            "lon": 11.4595289
+        },
+        {
+            "type": "node",
+            "id": 4594549033,
+            "version": 1,
+            "timestamp": "2017-01-07T16:25:47Z",
+            "changeset": 44982663,
+            "uid": 3981461,
+            "user": "TizB",
+            "tags": {
+                "amenity": "bar",
+                "name": "Vicoletto"
+            },
+            "lat": 46.292165,
+            "lon": 11.4602603
+        },
+        {
+            "type": "node",
+            "id": 859560059,
+            "version": 5,
+            "timestamp": "2019-08-27T20:01:20Z",
+            "changeset": 73813065,
+            "uid": 3981461,
+            "user": "TizB",
+            "tags": {
+                "addr:housenumber": "2",
+                "addr:street": "Piazza Verdi",
+                "amenity": "cafe",
+                "layer": "1",
+                "name": "Caffè Pizzeria Tana del Grillo",
+                "phone": "+39 0462 235617"
+            },
+            "lat": 46.2908149,
+            "lon": 11.4608728
+        },
+        {
+            "type": "node",
+            "id": 1263209698,
+            "version": 4,
+            "timestamp": "2016-12-19T20:18:08Z",
+            "changeset": 44524770,
+            "uid": 3981461,
+            "user": "TizB",
+            "tags": {
+                "addr:city": "Cavalese",
+                "addr:housenumber": "2",
+                "addr:postcode": "38033",
+                "addr:street": "Via Unterberger",
+                "amenity": "pub",
+                "name": "Bar Canton",
+                "operator": "Battisti Bruno",
+                "ref:it:vat": "01412530220"
+            },
+            "lat": 46.2913035,
+            "lon": 11.4605887
+        },
+        {
+            "type": "node",
+            "id": 3244177632,
+            "version": 1,
+            "timestamp": "2014-12-20T09:07:15Z",
+            "changeset": 27584183,
+            "uid": 579545,
+            "user": "Aury88",
+            "tags": {
+                "amenity": "restaurant",
+                "contact:phone": "+39 0462 232060",
+                "cuisine": "pizza",
+                "name": "La Pieve"
+            },
+            "lat": 46.2886055,
+            "lon": 11.461516
+        },
+        {
+            "type": "node",
+            "id": 4586771955,
+            "version": 1,
+            "timestamp": "2017-01-03T10:17:21Z",
+            "changeset": 44866894,
+            "uid": 3981461,
+            "user": "TizB",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Roma"
+            },
+            "lat": 46.2908324,
+            "lon": 11.4618875
+        },
+        {
+            "type": "node",
+            "id": 1256563370,
+            "version": 5,
+            "timestamp": "2017-01-03T10:17:22Z",
+            "changeset": 44866894,
+            "uid": 3981461,
+            "user": "TizB",
+            "tags": {
+                "addr:city": "Cavalese",
+                "addr:country": "IT",
+                "addr:housenumber": "56",
+                "addr:postcode": "38033",
+                "addr:street": "Via Fratelli Bronzetti",
+                "amenity": "ice_cream",
+                "contact:phone": "+39 0462 231625",
+                "delivery": "no",
+                "name": "Gelateria Tre Valli",
+                "operator": "Simonazzi Franco",
+                "ref:it:vat": "01274420221",
+                "takeaway": "yes",
+                "wheelchair": "limited"
+            },
+            "lat": 46.2902811,
+            "lon": 11.4635264
+        },
+        {
+            "type": "node",
+            "id": 2967727728,
+            "version": 2,
+            "timestamp": "2014-07-17T21:45:02Z",
+            "changeset": 24210517,
+            "uid": 504502,
+            "user": "kkklllppp",
+            "tags": {
+                "amenity": "bar",
+                "name": "Kiss"
+            },
+            "lat": 46.2908948,
+            "lon": 11.4630784
+        },
+        {
+            "type": "node",
+            "id": 2967730228,
+            "version": 1,
+            "timestamp": "2014-07-17T15:41:55Z",
+            "changeset": 24203836,
+            "uid": 504502,
+            "user": "kkklllppp",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Corona"
+            },
+            "lat": 46.2908838,
+            "lon": 11.4626112
+        },
+        {
+            "type": "node",
+            "id": 3245940264,
+            "version": 2,
+            "timestamp": "2016-10-28T16:22:13Z",
+            "changeset": 43249545,
+            "uid": 290680,
+            "user": "wheelmap_visitor",
+            "tags": {
+                "addr:street": "Piazza Stazione",
+                "amenity": "bar",
+                "facebook": "https://www.facebook.com/pages/Bar-Stazione-Cavalese/508182142637774",
+                "name": "Bar Stazione",
+                "wheelchair": "yes"
+            },
+            "lat": 46.2880633,
+            "lon": 11.4635875
+        },
+        {
+            "type": "node",
+            "id": 4586519626,
+            "version": 1,
+            "timestamp": "2017-01-03T07:29:55Z",
+            "changeset": 44863970,
+            "uid": 3981461,
+            "user": "TizB",
+            "tags": {
+                "amenity": "bar",
+                "name": "Fitness Bar"
+            },
+            "lat": 46.2890125,
+            "lon": 11.4666095
+        },
+        {
+            "type": "node",
+            "id": 1257221101,
+            "version": 4,
+            "timestamp": "2017-01-02T08:45:57Z",
+            "changeset": 44839630,
+            "uid": 3981461,
+            "user": "TizB",
+            "tags": {
+                "addr:city": "Cavalese",
+                "addr:housenumber": "14",
+                "addr:street": "Via IX Novembre",
+                "amenity": "restaurant",
+                "cuisine": "steak_house",
+                "delivery": "no",
+                "name": "Vecchia Osteria",
+                "outdoor_seating": "terrace",
+                "takeaway": "yes"
+            },
+            "lat": 46.292883,
+            "lon": 11.4570321
+        },
+        {
+            "type": "node",
+            "id": 1257221143,
+            "version": 2,
+            "timestamp": "2016-12-26T08:14:34Z",
+            "changeset": 44676922,
+            "uid": 3981461,
+            "user": "TizB",
+            "tags": {
+                "amenity": "fast_food",
+                "name": "Pizza Take Away"
+            },
+            "lat": 46.2929403,
+            "lon": 11.4558212
+        },
+        {
+            "type": "node",
+            "id": 1526314493,
+            "version": 2,
+            "timestamp": "2017-01-07T16:25:48Z",
+            "changeset": 44982663,
+            "uid": 3981461,
+            "user": "TizB",
+            "tags": {
+                "addr:city": "Cavalese",
+                "addr:housenumber": "3",
+                "addr:postcode": "38033",
+                "addr:street": "Via Pizzegoda",
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "La Salera"
+            },
+            "lat": 46.2917338,
+            "lon": 11.4624067
+        },
+        {
+            "type": "node",
+            "id": 9025458425,
+            "version": 1,
+            "timestamp": "2021-08-21T21:10:33Z",
+            "changeset": 110042238,
+            "uid": 12919,
+            "user": "Cerritus",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Plaza"
+            },
+            "lat": 46.291384,
+            "lon": 11.4623063
+        },
+        {
+            "type": "node",
+            "id": 274303880,
+            "version": 3,
+            "timestamp": "2014-12-18T10:12:54Z",
+            "changeset": 27547612,
+            "uid": 579545,
+            "user": "Aury88",
+            "tags": {
+                "amenity": "pub",
+                "contact:mobile": "+39 349 3351426",
+                "name": "Pub SottoZero"
+            },
+            "lat": 46.2864764,
+            "lon": 11.4641409
+        }
+    ]
+}

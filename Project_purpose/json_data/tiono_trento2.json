@@ -1,0 +1,110 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 8942982791,
+            "version": 1,
+            "timestamp": "2021-07-23T02:45:20Z",
+            "changeset": 108456243,
+            "uid": 1198131,
+            "user": "lorenzomercurio",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Arnò"
+            },
+            "lat": 46.0344128,
+            "lon": 10.7327302
+        },
+        {
+            "type": "node",
+            "id": 1945868045,
+            "version": 1,
+            "timestamp": "2012-10-04T10:46:59Z",
+            "changeset": 13358680,
+            "uid": 946580,
+            "user": "KevinBazzoli",
+            "tags": {
+                "amenity": "bar",
+                "name": "Happy Days"
+            },
+            "lat": 46.0369277,
+            "lon": 10.7302289
+        },
+        {
+            "type": "way",
+            "id": 87054865,
+            "version": 3,
+            "timestamp": "2018-03-20T21:32:04Z",
+            "changeset": 57366536,
+            "uid": 1896251,
+            "user": "simoleo89",
+            "tags": {
+                "addr:city": "Tre Ville",
+                "addr:housenumber": "34",
+                "addr:postcode": "38079",
+                "addr:street": "Via San Antonio",
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "regional;italian",
+                "delivery": "no",
+                "name": "La Contea Pizzeria Ristorante Snow Pub",
+                "outdoor_seating": "yes",
+                "smoking": "outside",
+                "takeaway": "yes"
+            },
+            "nodes": [
+                1012511895,
+                1012512048,
+                1012512002,
+                1012511945,
+                1012511895
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1012511895,
+            "version": 3,
+            "timestamp": "2021-03-05T21:47:39Z",
+            "changeset": 100515949,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0306373,
+            "lon": 10.7330668
+        },
+        {
+            "type": "node",
+            "id": 1012512048,
+            "version": 3,
+            "timestamp": "2021-03-05T21:47:39Z",
+            "changeset": 100515949,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0308704,
+            "lon": 10.7330053
+        },
+        {
+            "type": "node",
+            "id": 1012512002,
+            "version": 3,
+            "timestamp": "2021-03-05T21:47:39Z",
+            "changeset": 100515949,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0309234,
+            "lon": 10.7334224
+        },
+        {
+            "type": "node",
+            "id": 1012511945,
+            "version": 4,
+            "timestamp": "2021-03-05T21:47:39Z",
+            "changeset": 100515949,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0306903,
+            "lon": 10.7334839
+        }
+    ]
+}

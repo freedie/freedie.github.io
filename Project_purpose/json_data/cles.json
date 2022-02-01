@@ -1,0 +1,637 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 943372500,
+            "version": 4,
+            "timestamp": "2020-12-17T19:43:39Z",
+            "changeset": 96025683,
+            "uid": 9006927,
+            "user": "francians",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:housenumber": "18",
+                "addr:postcode": "38023",
+                "addr:street": "Via Armando Diaz",
+                "amenity": "restaurant",
+                "brewery": "yes",
+                "cuisine": "pizza",
+                "delivery": "no",
+                "name": "Caprice",
+                "operator": "Donati Marcello e Concini Marisa SNC",
+                "phone": "+39 0463 810093",
+                "ref:vatin": "IT02323520227",
+                "takeaway": "yes"
+            },
+            "lat": 46.3604218,
+            "lon": 11.0286706
+        },
+        {
+            "type": "node",
+            "id": 945390437,
+            "version": 6,
+            "timestamp": "2020-10-01T12:23:02Z",
+            "changeset": 91826741,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "amenity": "cafe",
+                "currency:XBT": "yes",
+                "name": "Nicky's Bar",
+                "payment:bitcoin": "yes",
+                "payment:bitcoin:operator": "inbitcoin.it",
+                "wheelchair": "yes"
+            },
+            "lat": 46.3631705,
+            "lon": 11.0331384
+        },
+        {
+            "type": "node",
+            "id": 946077508,
+            "version": 2,
+            "timestamp": "2020-10-01T12:23:02Z",
+            "changeset": 91826741,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:country": "IT",
+                "addr:housenumber": "44",
+                "addr:postcode": "38023",
+                "addr:street": "Via Alcide Degasperi",
+                "amenity": "cafe",
+                "name": "Caffè Grazia"
+            },
+            "lat": 46.3628192,
+            "lon": 11.0328503
+        },
+        {
+            "type": "node",
+            "id": 946228722,
+            "version": 4,
+            "timestamp": "2020-09-11T08:55:23Z",
+            "changeset": 90746793,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "addr:housenumber": "66",
+                "addr:street": "Viale Alcide de Gasperi",
+                "amenity": "cafe",
+                "name": "Bar Blu",
+                "operator": "Ciardi Nicoletta"
+            },
+            "lat": 46.3601222,
+            "lon": 11.0311007
+        },
+        {
+            "type": "node",
+            "id": 943772764,
+            "version": 2,
+            "timestamp": "2010-10-28T18:54:10Z",
+            "changeset": 6211261,
+            "uid": 24126,
+            "user": "dforsi",
+            "tags": {
+                "agritourism": "yes",
+                "amenity": "restaurant",
+                "name": "Al Cermolo"
+            },
+            "lat": 46.3594694,
+            "lon": 11.039789
+        },
+        {
+            "type": "node",
+            "id": 943772827,
+            "version": 6,
+            "timestamp": "2021-06-14T17:10:02Z",
+            "changeset": 106349663,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:housenumber": "20",
+                "addr:postcode": "38023",
+                "addr:street": "Via Romana",
+                "amenity": "cafe",
+                "cuisine": "sandwich",
+                "email": "info@lanternamagicacles.com",
+                "internet_access": "no",
+                "name": "Lanterna Magica",
+                "opening_hours": "Mo 07:30-15.00; Tu-Fr 07:30-21:00; Sa 08:30-22.00",
+                "outdoor_seating": "yes",
+                "ref:vatin": "IT02473540223",
+                "website": "http://lanternamagicacles.com",
+                "wheelchair": "yes"
+            },
+            "lat": 46.3634483,
+            "lon": 11.0366814
+        },
+        {
+            "type": "node",
+            "id": 943890849,
+            "version": 4,
+            "timestamp": "2020-08-20T15:10:05Z",
+            "changeset": 89699172,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:country": "IT",
+                "addr:housenumber": "52",
+                "addr:postcode": "38023",
+                "addr:street": "Via Trento",
+                "amenity": "restaurant",
+                "cuisine": "italian;pizza;indian",
+                "name": "Nazionale"
+            },
+            "lat": 46.3622706,
+            "lon": 11.036373
+        },
+        {
+            "type": "node",
+            "id": 939588720,
+            "version": 7,
+            "timestamp": "2020-08-31T15:32:25Z",
+            "changeset": 90199901,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza;regional;italian",
+                "name": "Giardino"
+            },
+            "lat": 46.3645572,
+            "lon": 11.0331226
+        },
+        {
+            "type": "node",
+            "id": 939588781,
+            "version": 7,
+            "timestamp": "2020-10-04T20:30:41Z",
+            "changeset": 91945507,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:country": "IT",
+                "addr:housenumber": "1",
+                "addr:postcode": "38023",
+                "addr:street": "Via Romana",
+                "amenity": "restaurant",
+                "contact:mobile": "+39 339 5215470",
+                "contact:phone": "+39 0463 421105",
+                "cuisine": "pizza;italian",
+                "name": "Flamingo",
+                "opening_hours": "Mo-Su 00:00-01:00,11:00-14:00,18:00-24:00; We 00:00-01:00; Th 11:00-14:00,18:00-24:00",
+                "ref:it:vat": "02154130229"
+            },
+            "lat": 46.364303,
+            "lon": 11.0361891
+        },
+        {
+            "type": "node",
+            "id": 943285753,
+            "version": 5,
+            "timestamp": "2020-09-13T15:27:26Z",
+            "changeset": 90822959,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:country": "IT",
+                "addr:housenumber": "54",
+                "addr:postcode": "38023",
+                "addr:street": "Piazza Granda",
+                "amenity": "restaurant",
+                "contact:email": "info@pizzagranda.it",
+                "contact:phone": "+39 0463 424007",
+                "contact:website": "http://www.pizzagranda.it/",
+                "cuisine": "pizza",
+                "name": "Pizza Granda",
+                "operator": "KM s.r.l.",
+                "ref:vatin": "IT02033020229"
+            },
+            "lat": 46.3652479,
+            "lon": 11.0334435
+        },
+        {
+            "type": "node",
+            "id": 943766910,
+            "version": 3,
+            "timestamp": "2020-09-13T17:56:09Z",
+            "changeset": 90827060,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "amenity": "fast_food",
+                "name": "Polleria",
+                "shop": "butcher"
+            },
+            "lat": 46.3659542,
+            "lon": 11.034938
+        },
+        {
+            "type": "node",
+            "id": 943767056,
+            "version": 3,
+            "timestamp": "2020-09-03T12:40:03Z",
+            "changeset": 90363228,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Meridiana"
+            },
+            "lat": 46.366486,
+            "lon": 11.0355416
+        },
+        {
+            "type": "node",
+            "id": 945133241,
+            "version": 4,
+            "timestamp": "2020-12-11T20:46:15Z",
+            "changeset": 95702620,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:housenumber": "2",
+                "addr:postcode": "38023",
+                "addr:street": "Piazza Navarrino",
+                "air_conditioning": "no",
+                "amenity": "cafe",
+                "internet_access": "no",
+                "name": "Bar Cles",
+                "phone": "+39 347 988 2837",
+                "ref:vatin": "IT02000880225"
+            },
+            "lat": 46.3648747,
+            "lon": 11.035348
+        },
+        {
+            "type": "node",
+            "id": 945133408,
+            "version": 3,
+            "timestamp": "2020-11-18T15:30:16Z",
+            "changeset": 94375580,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:country": "IT",
+                "addr:housenumber": "10",
+                "addr:postcode": "38023",
+                "addr:street": "Corso Dante",
+                "amenity": "cafe",
+                "name": "Bar Centrale",
+                "operator": "ALFEL SAS di Fellin Alessandro & C.",
+                "ref:vatin": "IT01700280223"
+            },
+            "lat": 46.364926,
+            "lon": 11.0351152
+        },
+        {
+            "type": "node",
+            "id": 945390432,
+            "version": 2,
+            "timestamp": "2020-10-11T19:19:45Z",
+            "changeset": 92311533,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Posta"
+            },
+            "lat": 46.3640687,
+            "lon": 11.0343378
+        },
+        {
+            "type": "node",
+            "id": 945430402,
+            "version": 3,
+            "timestamp": "2020-09-13T18:21:05Z",
+            "changeset": 90827607,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Roma"
+            },
+            "lat": 46.3652188,
+            "lon": 11.0328134
+        },
+        {
+            "type": "node",
+            "id": 945430407,
+            "version": 3,
+            "timestamp": "2020-09-25T13:42:12Z",
+            "changeset": 91513696,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Sport"
+            },
+            "lat": 46.364314,
+            "lon": 11.0354348
+        },
+        {
+            "type": "node",
+            "id": 945430413,
+            "version": 5,
+            "timestamp": "2020-09-15T14:59:32Z",
+            "changeset": 90933691,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:country": "IT",
+                "addr:housenumber": "5",
+                "addr:postcode": "38023",
+                "addr:street": "Piazza Granda",
+                "amenity": "cafe",
+                "name": "Caffè Europa"
+            },
+            "lat": 46.36519,
+            "lon": 11.0330302
+        },
+        {
+            "type": "node",
+            "id": 945470814,
+            "version": 3,
+            "timestamp": "2020-09-13T18:21:05Z",
+            "changeset": 90827607,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Antica Trattoria"
+            },
+            "lat": 46.3651365,
+            "lon": 11.033377
+        },
+        {
+            "type": "node",
+            "id": 945470823,
+            "version": 4,
+            "timestamp": "2020-09-13T15:27:26Z",
+            "changeset": 90822959,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Gelateria Veneta"
+            },
+            "lat": 46.3654283,
+            "lon": 11.0360262
+        },
+        {
+            "type": "node",
+            "id": 945470837,
+            "version": 4,
+            "timestamp": "2020-09-25T13:42:12Z",
+            "changeset": 91513696,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "El Magic"
+            },
+            "lat": 46.3642113,
+            "lon": 11.0356357
+        },
+        {
+            "type": "node",
+            "id": 945470842,
+            "version": 3,
+            "timestamp": "2020-09-13T17:56:09Z",
+            "changeset": 90827060,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:country": "IT",
+                "addr:housename": "Palazzina Elena",
+                "addr:housenumber": "17c",
+                "addr:postcode": "38023",
+                "addr:street": "Via Fabio Filzi",
+                "amenity": "restaurant",
+                "name": "Il Glicine"
+            },
+            "lat": 46.3664036,
+            "lon": 11.0324192
+        },
+        {
+            "type": "node",
+            "id": 945470844,
+            "version": 6,
+            "timestamp": "2020-10-07T16:03:23Z",
+            "changeset": 92122466,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:country": "IT",
+                "addr:housenumber": "6",
+                "addr:postcode": "38023",
+                "addr:street": "Via Guglielmo Marconi",
+                "amenity": "fast_food",
+                "cuisine": "kebab;pizza",
+                "name": "Istanbul Kebap & Pizzeria"
+            },
+            "lat": 46.3651442,
+            "lon": 11.0359744
+        },
+        {
+            "type": "node",
+            "id": 945470857,
+            "version": 3,
+            "timestamp": "2020-10-28T10:30:32Z",
+            "changeset": 93172693,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:country": "IT",
+                "addr:housenumber": "23",
+                "addr:postcode": "38023",
+                "addr:street": "Via Fabio Filzi",
+                "amenity": "restaurant",
+                "cuisine": "piadina;sandwich",
+                "email": "piadineriapicasso@gmail.com",
+                "name": "Piadineria Picasso",
+                "opening_hours": "Mo-Fr 10:00-22:30; Sa 17:00-22:30",
+                "outdoor_seating": "yes",
+                "phone": "+39 0463 428001",
+                "takeaway": "yes",
+                "website": "http://piadineriapicasso.it"
+            },
+            "lat": 46.3668066,
+            "lon": 11.0317157
+        },
+        {
+            "type": "node",
+            "id": 945776009,
+            "version": 2,
+            "timestamp": "2010-10-12T16:52:24Z",
+            "changeset": 6022745,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:country": "IT",
+                "addr:housenumber": "34",
+                "addr:postcode": "38023",
+                "addr:street": "Via Giambattista Lampi",
+                "amenity": "cafe",
+                "name": "Bar Claudia"
+            },
+            "lat": 46.3637337,
+            "lon": 11.0317576
+        },
+        {
+            "type": "node",
+            "id": 1821220620,
+            "version": 3,
+            "timestamp": "2020-09-13T15:27:26Z",
+            "changeset": 90822959,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "amenity": "restaurant",
+                "contact:phone": "+39 0463 421300",
+                "cuisine": "regional",
+                "name": "Osteria Palazan",
+                "operator": "Famiglia Fellin"
+            },
+            "lat": 46.3651749,
+            "lon": 11.0355005
+        },
+        {
+            "type": "node",
+            "id": 4020339038,
+            "version": 5,
+            "timestamp": "2021-07-05T16:30:42Z",
+            "changeset": 107450911,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:country": "IT",
+                "addr:housenumber": "4",
+                "addr:postcode": "38023",
+                "addr:street": "Piazza 1 Maggio",
+                "amenity": "fast_food",
+                "cuisine": "pizza",
+                "name": "Al Pagi RistoPub",
+                "phone": "+39 09 366 760 6067"
+            },
+            "lat": 46.3655663,
+            "lon": 11.0341191
+        },
+        {
+            "type": "node",
+            "id": 4020339039,
+            "version": 7,
+            "timestamp": "2020-12-26T10:41:38Z",
+            "changeset": 96446209,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:housenumber": "1",
+                "addr:postcode": "38023",
+                "addr:street": "Piazza Primo Maggio",
+                "amenity": "cafe",
+                "name": "La Casa di Marzapane",
+                "ref:vatin": "IT02797840838"
+            },
+            "lat": 46.3654754,
+            "lon": 11.0340726
+        },
+        {
+            "type": "node",
+            "id": 4516745809,
+            "version": 4,
+            "timestamp": "2021-02-24T03:39:24Z",
+            "changeset": 99862876,
+            "uid": 1778799,
+            "user": "SomeoneElse_Revert",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:housenumber": "10",
+                "addr:postcode": "38023",
+                "addr:street": "Via Roma",
+                "amenity": "cafe",
+                "internet_access": "wlan",
+                "name": "Pasticceria Ramus",
+                "pastry": "cafe",
+                "phone": "+39 0463421771",
+                "website": "https://www.facebook.com/pasticceriaramus"
+            },
+            "lat": 46.3651411,
+            "lon": 11.0336183
+        },
+        {
+            "type": "node",
+            "id": 4589498554,
+            "version": 4,
+            "timestamp": "2020-12-23T14:01:45Z",
+            "changeset": 96331076,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:housenumber": "43/45",
+                "addr:postcode": "38023",
+                "addr:street": "Piazza Granda",
+                "amenity": "cafe",
+                "name": "Caffe Bertolasi",
+                "outdoor_seating": "yes",
+                "phone": "+39 0463 600481",
+                "ref:vatin": "IT02305600229",
+                "source": "note 840711"
+            },
+            "lat": 46.3655616,
+            "lon": 11.0335706
+        },
+        {
+            "type": "node",
+            "id": 7829919059,
+            "version": 3,
+            "timestamp": "2021-08-12T19:39:19Z",
+            "changeset": 109591488,
+            "uid": 11220113,
+            "user": "ivanbranco",
+            "tags": {
+                "addr:city": "Cles",
+                "addr:postcode": "38023",
+                "addr:street": "Via Quattro Novembre",
+                "amenity": "bar",
+                "name": "Incontro",
+                "operator": "Vieriu Rozalia",
+                "ref:vatin": "IT02189560226"
+            },
+            "lat": 46.3673271,
+            "lon": 11.0335428
+        },
+        {
+            "type": "node",
+            "id": 4380569085,
+            "version": 2,
+            "timestamp": "2020-10-05T17:33:27Z",
+            "changeset": 92000290,
+            "uid": 9364404,
+            "user": "davidecorradini",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Stazione"
+            },
+            "lat": 46.3645085,
+            "lon": 11.0389087
+        }
+    ]
+}

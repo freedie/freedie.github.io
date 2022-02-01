@@ -1,0 +1,40 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 4369741290,
+            "version": 2,
+            "timestamp": "2021-08-06T16:52:52Z",
+            "changeset": 109274533,
+            "uid": 6269039,
+            "user": "giocomai",
+            "tags": {
+                "amenity": "bar",
+                "name": "Rustik"
+            },
+            "lat": 46.1298249,
+            "lon": 10.7577141
+        },
+        {
+            "type": "node",
+            "id": 6533808581,
+            "version": 1,
+            "timestamp": "2019-06-08T13:47:31Z",
+            "changeset": 71051473,
+            "uid": 6269039,
+            "user": "giocomai",
+            "tags": {
+                "addr:housenumber": "8",
+                "addr:street": "Via Regina Elena",
+                "amenity": "bar",
+                "entrance": "yes",
+                "name": "Bar alla Torre",
+                "outdoor_seating": "yes"
+            },
+            "lat": 46.1293107,
+            "lon": 10.7570592
+        }
+    ]
+}

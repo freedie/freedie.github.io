@@ -1,0 +1,391 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 305506283,
+            "version": 1,
+            "timestamp": "2008-10-18T21:57:43Z",
+            "changeset": 425372,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Ladin"
+            },
+            "lat": 46.4202107,
+            "lon": 11.6737469
+        },
+        {
+            "type": "node",
+            "id": 305506310,
+            "version": 1,
+            "timestamp": "2008-10-18T21:57:46Z",
+            "changeset": 425372,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Mirella"
+            },
+            "lat": 46.4202886,
+            "lon": 11.6756878
+        },
+        {
+            "type": "node",
+            "id": 1915825371,
+            "version": 3,
+            "timestamp": "2019-01-27T18:00:14Z",
+            "changeset": 66683532,
+            "uid": 2611295,
+            "user": "cbeddow",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "regional;italian;pizza",
+                "email": "info@familyhotellagrotta.it",
+                "name": "La Grotta",
+                "outdoor_seating": "yes",
+                "phone": "+39 0462 764047",
+                "smoking": "no",
+                "website": "www.familyhotellagrotta.it"
+            },
+            "lat": 46.4210171,
+            "lon": 11.6737903
+        },
+        {
+            "type": "node",
+            "id": 2405088378,
+            "version": 1,
+            "timestamp": "2013-08-02T12:40:20Z",
+            "changeset": 17191597,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "bar",
+                "name": "Picol Bar"
+            },
+            "lat": 46.4205012,
+            "lon": 11.673846
+        },
+        {
+            "type": "node",
+            "id": 3674418127,
+            "version": 1,
+            "timestamp": "2015-07-31T06:52:50Z",
+            "changeset": 32999348,
+            "uid": 646083,
+            "user": "freak_antoni",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Rezia"
+            },
+            "lat": 46.4202833,
+            "lon": 11.6733784
+        },
+        {
+            "type": "node",
+            "id": 5788019253,
+            "version": 1,
+            "timestamp": "2018-07-26T20:32:27Z",
+            "changeset": 61100360,
+            "uid": 2088235,
+            "user": "dbf_",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "El Tobia"
+            },
+            "lat": 46.4201298,
+            "lon": 11.6736526
+        },
+        {
+            "type": "node",
+            "id": 1211103522,
+            "version": 2,
+            "timestamp": "2019-01-16T14:30:26Z",
+            "changeset": 66365236,
+            "uid": 2611295,
+            "user": "cbeddow",
+            "tags": {
+                "amenity": "cafe",
+                "cuisine": "coffee_shop",
+                "name": "Bar Bianco",
+                "outdoor_seating": "yes"
+            },
+            "lat": 46.4200611,
+            "lon": 11.6718773
+        },
+        {
+            "type": "node",
+            "id": 4318695290,
+            "version": 2,
+            "timestamp": "2016-07-25T04:53:29Z",
+            "changeset": 41002497,
+            "uid": 3081810,
+            "user": "Nicodemo",
+            "tags": {
+                "amenity": "restaurant",
+                "internet_access": "wlan",
+                "name": "Ristorante Pizzeria Daniel Zen"
+            },
+            "lat": 46.4216236,
+            "lon": 11.6717039
+        },
+        {
+            "type": "way",
+            "id": 232137895,
+            "version": 1,
+            "timestamp": "2013-08-02T12:36:07Z",
+            "changeset": 17191527,
+            "uid": 24966,
+            "user": "alessioz",
+            "tags": {
+                "amenity": "bar",
+                "building": "yes",
+                "shop": "kiosk"
+            },
+            "nodes": [
+                2405075309,
+                2405075302,
+                2405075296,
+                2405075290,
+                2405075287,
+                2405075291,
+                2405075292,
+                2405075300,
+                2405075304,
+                2405075306,
+                2405075312,
+                2405075318,
+                2405075321,
+                2405075309
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2405075309,
+            "version": 1,
+            "timestamp": "2013-08-02T12:36:07Z",
+            "changeset": 17191527,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.4193694,
+            "lon": 11.6739728
+        },
+        {
+            "type": "node",
+            "id": 2405075302,
+            "version": 1,
+            "timestamp": "2013-08-02T12:36:07Z",
+            "changeset": 17191527,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.4193599,
+            "lon": 11.6739682
+        },
+        {
+            "type": "node",
+            "id": 2405075296,
+            "version": 1,
+            "timestamp": "2013-08-02T12:36:07Z",
+            "changeset": 17191527,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.419351,
+            "lon": 11.6739721
+        },
+        {
+            "type": "node",
+            "id": 2405075290,
+            "version": 1,
+            "timestamp": "2013-08-02T12:36:07Z",
+            "changeset": 17191527,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.4193454,
+            "lon": 11.6739817
+        },
+        {
+            "type": "node",
+            "id": 2405075287,
+            "version": 1,
+            "timestamp": "2013-08-02T12:36:07Z",
+            "changeset": 17191527,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.419344,
+            "lon": 11.6739927
+        },
+        {
+            "type": "node",
+            "id": 2405075291,
+            "version": 1,
+            "timestamp": "2013-08-02T12:36:07Z",
+            "changeset": 17191527,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.4193459,
+            "lon": 11.6740022
+        },
+        {
+            "type": "node",
+            "id": 2405075292,
+            "version": 1,
+            "timestamp": "2013-08-02T12:36:07Z",
+            "changeset": 17191527,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.4193494,
+            "lon": 11.6740085
+        },
+        {
+            "type": "node",
+            "id": 2405075300,
+            "version": 1,
+            "timestamp": "2013-08-02T12:36:07Z",
+            "changeset": 17191527,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.419355,
+            "lon": 11.6740131
+        },
+        {
+            "type": "node",
+            "id": 2405075304,
+            "version": 1,
+            "timestamp": "2013-08-02T12:36:07Z",
+            "changeset": 17191527,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.4193617,
+            "lon": 11.6740141
+        },
+        {
+            "type": "node",
+            "id": 2405075306,
+            "version": 1,
+            "timestamp": "2013-08-02T12:36:07Z",
+            "changeset": 17191527,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.4193669,
+            "lon": 11.6740119
+        },
+        {
+            "type": "node",
+            "id": 2405075312,
+            "version": 1,
+            "timestamp": "2013-08-02T12:36:07Z",
+            "changeset": 17191527,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.4193709,
+            "lon": 11.6740077
+        },
+        {
+            "type": "node",
+            "id": 2405075318,
+            "version": 1,
+            "timestamp": "2013-08-02T12:36:07Z",
+            "changeset": 17191527,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.4193747,
+            "lon": 11.6739993
+        },
+        {
+            "type": "node",
+            "id": 2405075321,
+            "version": 1,
+            "timestamp": "2013-08-02T12:36:07Z",
+            "changeset": 17191527,
+            "uid": 24966,
+            "user": "alessioz",
+            "lat": 46.4193751,
+            "lon": 11.673985
+        },
+        {
+            "type": "node",
+            "id": 5787238853,
+            "version": 2,
+            "timestamp": "2019-01-16T14:30:26Z",
+            "changeset": 66365236,
+            "uid": 2611295,
+            "user": "cbeddow",
+            "tags": {
+                "amenity": "bar",
+                "name": "Alpen sport",
+                "outdoor_seating": "yes"
+            },
+            "lat": 46.420179,
+            "lon": 11.671272
+        },
+        {
+            "type": "node",
+            "id": 946581603,
+            "version": 1,
+            "timestamp": "2010-10-13T12:18:07Z",
+            "changeset": 6028642,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar El Zirm"
+            },
+            "lat": 46.4277494,
+            "lon": 11.6828293
+        },
+        {
+            "type": "node",
+            "id": 946581637,
+            "version": 2,
+            "timestamp": "2011-04-02T11:22:34Z",
+            "changeset": 7743169,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "addr:city": "Pozza di Fassa",
+                "addr:country": "IT",
+                "addr:housenumber": "103",
+                "addr:postcode": "38036",
+                "addr:street": "Strada Dolomites",
+                "amenity": "restaurant",
+                "name": "Ristorante El Filò"
+            },
+            "lat": 46.4282785,
+            "lon": 11.6839431
+        },
+        {
+            "type": "node",
+            "id": 623894359,
+            "version": 1,
+            "timestamp": "2010-01-31T10:27:15Z",
+            "changeset": 3757640,
+            "uid": 29755,
+            "user": "Enrico Zini",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Malga Aloch"
+            },
+            "lat": 46.423254,
+            "lon": 11.6889092
+        },
+        {
+            "type": "node",
+            "id": 1256745268,
+            "version": 1,
+            "timestamp": "2011-04-23T14:38:17Z",
+            "changeset": 7944032,
+            "uid": 51822,
+            "user": "Pizzak",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "italian",
+                "name": "Do Vea",
+                "opening_hours": "Mo-Su 19:00-23:00; We off"
+            },
+            "lat": 46.4273725,
+            "lon": 11.686742
+        }
+    ]
+}

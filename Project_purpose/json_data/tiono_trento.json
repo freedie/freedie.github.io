@@ -1,0 +1,368 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 922129790,
+            "version": 2,
+            "timestamp": "2010-09-23T01:28:39Z",
+            "changeset": 5850578,
+            "uid": 350293,
+            "user": "THe_ZiPMaN",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Brevine"
+            },
+            "lat": 46.031036,
+            "lon": 10.7230629
+        },
+        {
+            "type": "node",
+            "id": 2378435766,
+            "version": 2,
+            "timestamp": "2015-09-15T20:35:27Z",
+            "changeset": 34049297,
+            "uid": 194751,
+            "user": "Goffredo",
+            "tags": {
+                "addr:city": "Tione",
+                "addr:housenumber": "12/A",
+                "addr:street": "Via Filzi",
+                "amenity": "cafe",
+                "name": "La Tazzina",
+                "ref:vatin": "IT00898580147"
+            },
+            "lat": 46.0313428,
+            "lon": 10.725168
+        },
+        {
+            "type": "node",
+            "id": 2378445724,
+            "version": 2,
+            "timestamp": "2017-06-26T20:25:40Z",
+            "changeset": 49846239,
+            "uid": 351361,
+            "user": "dvdzero",
+            "tags": {
+                "addr:city": "Tione",
+                "addr:housenumber": "11",
+                "addr:street": "Via Damiano Chiesa",
+                "amenity": "cafe",
+                "name": "Bar Autostazione",
+                "wifi": "no"
+            },
+            "lat": 46.032778,
+            "lon": 10.7263901
+        },
+        {
+            "type": "node",
+            "id": 8610425491,
+            "version": 1,
+            "timestamp": "2021-04-09T09:49:41Z",
+            "changeset": 102630251,
+            "uid": 7007430,
+            "user": "genk87",
+            "tags": {
+                "amenity": "cafe",
+                "cuisine": "coffee_shop;ice_cream",
+                "name": "Caffetteria Incontra",
+                "outdoor_seating": "no"
+            },
+            "lat": 46.0308754,
+            "lon": 10.7243912
+        },
+        {
+            "type": "node",
+            "id": 8942982791,
+            "version": 1,
+            "timestamp": "2021-07-23T02:45:20Z",
+            "changeset": 108456243,
+            "uid": 1198131,
+            "user": "lorenzomercurio",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Arnò"
+            },
+            "lat": 46.0344128,
+            "lon": 10.7327302
+        },
+        {
+            "type": "node",
+            "id": 3709298228,
+            "version": 1,
+            "timestamp": "2015-08-22T14:21:54Z",
+            "changeset": 33506264,
+            "uid": 457880,
+            "user": "Michele_69",
+            "tags": {
+                "amenity": "bar",
+                "name": "Caffè al Corso"
+            },
+            "lat": 46.0359829,
+            "lon": 10.7264256
+        },
+        {
+            "type": "way",
+            "id": 87032731,
+            "version": 3,
+            "timestamp": "2018-02-12T17:03:01Z",
+            "changeset": 56299930,
+            "uid": 7552321,
+            "user": "MichthePuk",
+            "tags": {
+                "amenity": "bar",
+                "building": "yes",
+                "name": "Bar '900"
+            },
+            "nodes": [
+                1012340856,
+                1012341220,
+                1012340908,
+                1012340610,
+                1012340856
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1012340856,
+            "version": 1,
+            "timestamp": "2010-11-29T13:41:06Z",
+            "changeset": 6486525,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.0339916,
+            "lon": 10.725289
+        },
+        {
+            "type": "node",
+            "id": 1012341220,
+            "version": 1,
+            "timestamp": "2010-11-29T13:41:20Z",
+            "changeset": 6486525,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.0340902,
+            "lon": 10.7254036
+        },
+        {
+            "type": "node",
+            "id": 1012340908,
+            "version": 1,
+            "timestamp": "2010-11-29T13:41:08Z",
+            "changeset": 6486525,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.0340225,
+            "lon": 10.7255244
+        },
+        {
+            "type": "node",
+            "id": 1012340610,
+            "version": 1,
+            "timestamp": "2010-11-29T13:40:58Z",
+            "changeset": 6486525,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.0339239,
+            "lon": 10.7254097
+        },
+        {
+            "type": "way",
+            "id": 87054865,
+            "version": 3,
+            "timestamp": "2018-03-20T21:32:04Z",
+            "changeset": 57366536,
+            "uid": 1896251,
+            "user": "simoleo89",
+            "tags": {
+                "addr:city": "Tre Ville",
+                "addr:housenumber": "34",
+                "addr:postcode": "38079",
+                "addr:street": "Via San Antonio",
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "regional;italian",
+                "delivery": "no",
+                "name": "La Contea Pizzeria Ristorante Snow Pub",
+                "outdoor_seating": "yes",
+                "smoking": "outside",
+                "takeaway": "yes"
+            },
+            "nodes": [
+                1012511895,
+                1012512048,
+                1012512002,
+                1012511945,
+                1012511895
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1012511895,
+            "version": 3,
+            "timestamp": "2021-03-05T21:47:39Z",
+            "changeset": 100515949,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0306373,
+            "lon": 10.7330668
+        },
+        {
+            "type": "node",
+            "id": 1012512048,
+            "version": 3,
+            "timestamp": "2021-03-05T21:47:39Z",
+            "changeset": 100515949,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0308704,
+            "lon": 10.7330053
+        },
+        {
+            "type": "node",
+            "id": 1012512002,
+            "version": 3,
+            "timestamp": "2021-03-05T21:47:39Z",
+            "changeset": 100515949,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0309234,
+            "lon": 10.7334224
+        },
+        {
+            "type": "node",
+            "id": 1012511945,
+            "version": 4,
+            "timestamp": "2021-03-05T21:47:39Z",
+            "changeset": 100515949,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.0306903,
+            "lon": 10.7334839
+        },
+        {
+            "type": "node",
+            "id": 5731537800,
+            "version": 1,
+            "timestamp": "2018-07-01T04:21:48Z",
+            "changeset": 60314094,
+            "uid": 172099,
+            "user": "Biker69",
+            "tags": {
+                "addr:city": "Tione di Trento",
+                "addr:housenumber": "4/A",
+                "addr:postcode": "38079",
+                "addr:street": "Via Durone",
+                "amenity": "restaurant",
+                "name": "Pizza al Taglio Le Ghinghe"
+            },
+            "lat": 46.037712,
+            "lon": 10.7275206
+        },
+        {
+            "type": "node",
+            "id": 1945868045,
+            "version": 1,
+            "timestamp": "2012-10-04T10:46:59Z",
+            "changeset": 13358680,
+            "uid": 946580,
+            "user": "KevinBazzoli",
+            "tags": {
+                "amenity": "bar",
+                "name": "Happy Days"
+            },
+            "lat": 46.0369277,
+            "lon": 10.7302289
+        },
+        {
+            "type": "node",
+            "id": 5446414999,
+            "version": 2,
+            "timestamp": "2018-03-02T19:16:19Z",
+            "changeset": 56830041,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Tione di Trento",
+                "addr:country": "IT",
+                "addr:housenumber": "5",
+                "addr:postcode": "38079",
+                "addr:street": "Via Legione Trentina",
+                "amenity": "restaurant",
+                "contact:fax": "+39 0465 329756",
+                "contact:phone": "+39 0465 326249",
+                "name": "C'era una volta",
+                "operator": "Pedretti N. & C SAS",
+                "ref:vatin": "IT01530350220"
+            },
+            "lat": 46.0362246,
+            "lon": 10.728761
+        },
+        {
+            "type": "way",
+            "id": 87032693,
+            "version": 2,
+            "timestamp": "2012-09-02T11:15:22Z",
+            "changeset": 12952390,
+            "uid": 275253,
+            "user": "Ghostrider",
+            "tags": {
+                "amenity": "fast_food",
+                "building": "yes",
+                "cuisine": "pizza"
+            },
+            "nodes": [
+                1012341453,
+                1012340926,
+                1012340627,
+                1012340784,
+                1012341453
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1012341453,
+            "version": 2,
+            "timestamp": "2015-07-07T13:40:00Z",
+            "changeset": 32472014,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 46.0377919,
+            "lon": 10.7266267
+        },
+        {
+            "type": "node",
+            "id": 1012340926,
+            "version": 2,
+            "timestamp": "2015-07-07T13:40:00Z",
+            "changeset": 32472014,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 46.0379892,
+            "lon": 10.726625
+        },
+        {
+            "type": "node",
+            "id": 1012340627,
+            "version": 2,
+            "timestamp": "2015-07-07T13:40:00Z",
+            "changeset": 32472014,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 46.0379901,
+            "lon": 10.7268308
+        },
+        {
+            "type": "node",
+            "id": 1012340784,
+            "version": 2,
+            "timestamp": "2015-07-07T13:40:00Z",
+            "changeset": 32472014,
+            "uid": 163090,
+            "user": "zonta72",
+            "lat": 46.0377927,
+            "lon": 10.7268324
+        }
+    ]
+}

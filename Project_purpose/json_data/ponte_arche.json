@@ -1,0 +1,293 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 702858552,
+            "version": 4,
+            "timestamp": "2018-02-09T11:01:02Z",
+            "changeset": 56213248,
+            "uid": 7552321,
+            "user": "MichthePuk",
+            "tags": {
+                "amenity": "bar",
+                "name": "Al Pont"
+            },
+            "lat": 46.0349479,
+            "lon": 10.8713502
+        },
+        {
+            "type": "node",
+            "id": 702858655,
+            "version": 4,
+            "timestamp": "2021-07-04T20:09:18Z",
+            "changeset": 107405345,
+            "uid": 8766366,
+            "user": "zancloud",
+            "tags": {
+                "amenity": "pub",
+                "name": "Pub Saloon"
+            },
+            "lat": 46.0355036,
+            "lon": 10.8696165
+        },
+        {
+            "type": "node",
+            "id": 702858982,
+            "version": 3,
+            "timestamp": "2011-08-08T19:49:34Z",
+            "changeset": 8961041,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Saionara"
+            },
+            "lat": 46.0316103,
+            "lon": 10.8691315
+        },
+        {
+            "type": "node",
+            "id": 702859059,
+            "version": 2,
+            "timestamp": "2010-05-15T18:33:04Z",
+            "changeset": 4709213,
+            "uid": 47802,
+            "user": "gomatteo",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Posta"
+            },
+            "lat": 46.0349105,
+            "lon": 10.8719622
+        },
+        {
+            "type": "node",
+            "id": 5375594313,
+            "version": 3,
+            "timestamp": "2018-09-10T10:20:54Z",
+            "changeset": 62448371,
+            "uid": 7552321,
+            "user": "MichthePuk",
+            "tags": {
+                "amenity": "bar",
+                "name": "Baraonda"
+            },
+            "lat": 46.0331635,
+            "lon": 10.8704538
+        },
+        {
+            "type": "node",
+            "id": 5406973242,
+            "version": 3,
+            "timestamp": "2019-09-19T13:24:35Z",
+            "changeset": 74673518,
+            "uid": 7552321,
+            "user": "MichthePuk",
+            "tags": {
+                "amenity": "bar",
+                "name": "WunderBAR",
+                "wheelchair": "limited"
+            },
+            "lat": 46.0347811,
+            "lon": 10.8716352
+        },
+        {
+            "type": "node",
+            "id": 5400760153,
+            "version": 2,
+            "timestamp": "2020-01-31T14:06:18Z",
+            "changeset": 80378312,
+            "uid": 7552321,
+            "user": "MichthePuk",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Mamì",
+                "outdoor_seating": "yes"
+            },
+            "lat": 46.0355958,
+            "lon": 10.8729683
+        },
+        {
+            "type": "node",
+            "id": 702858942,
+            "version": 3,
+            "timestamp": "2018-02-26T10:33:30Z",
+            "changeset": 56685589,
+            "uid": 7552321,
+            "user": "MichthePuk",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Bucaneve"
+            },
+            "lat": 46.0361176,
+            "lon": 10.8741943
+        },
+        {
+            "type": "node",
+            "id": 702859043,
+            "version": 4,
+            "timestamp": "2018-02-19T11:21:04Z",
+            "changeset": 56489034,
+            "uid": 7552321,
+            "user": "MichthePuk",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Don Pedro"
+            },
+            "lat": 46.0364928,
+            "lon": 10.8755266
+        },
+        {
+            "type": "node",
+            "id": 5375513960,
+            "version": 2,
+            "timestamp": "2018-09-10T10:20:54Z",
+            "changeset": 62448371,
+            "uid": 7552321,
+            "user": "MichthePuk",
+            "tags": {
+                "amenity": "ice_cream",
+                "delivery": "no",
+                "name": "Gelateria Al Parco",
+                "outdoor_seating": "yes",
+                "takeaway": "yes"
+            },
+            "lat": 46.0367654,
+            "lon": 10.8735231
+        },
+        {
+            "type": "way",
+            "id": 89723503,
+            "version": 4,
+            "timestamp": "2020-05-12T09:10:14Z",
+            "changeset": 85074944,
+            "uid": 7552321,
+            "user": "MichthePuk",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "italian;italian_pizza",
+                "name": "Lo Scoiattolo",
+                "tourism": "motel"
+            },
+            "nodes": [
+                1039787910,
+                1039788283,
+                1039788108,
+                1039788011,
+                1039787910
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1039787910,
+            "version": 1,
+            "timestamp": "2010-12-15T20:16:46Z",
+            "changeset": 6671123,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.0369452,
+            "lon": 10.8668438
+        },
+        {
+            "type": "node",
+            "id": 1039788283,
+            "version": 1,
+            "timestamp": "2010-12-15T20:16:56Z",
+            "changeset": 6671123,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.0371643,
+            "lon": 10.866729
+        },
+        {
+            "type": "node",
+            "id": 1039788108,
+            "version": 1,
+            "timestamp": "2010-12-15T20:16:52Z",
+            "changeset": 6671123,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.0372081,
+            "lon": 10.8669026
+        },
+        {
+            "type": "node",
+            "id": 1039788011,
+            "version": 1,
+            "timestamp": "2010-12-15T20:16:49Z",
+            "changeset": 6671123,
+            "uid": 65798,
+            "user": "Mich74",
+            "lat": 46.036989,
+            "lon": 10.8670174
+        },
+        {
+            "type": "way",
+            "id": 560024840,
+            "version": 1,
+            "timestamp": "2018-02-09T08:31:02Z",
+            "changeset": 56209606,
+            "uid": 7552321,
+            "user": "MichthePuk",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "IL Picchio"
+            },
+            "nodes": [
+                5400760072,
+                5400760073,
+                5400760074,
+                5400760075,
+                5400760072
+            ]
+        },
+        {
+            "type": "node",
+            "id": 5400760072,
+            "version": 1,
+            "timestamp": "2018-02-09T08:30:59Z",
+            "changeset": 56209606,
+            "uid": 7552321,
+            "user": "MichthePuk",
+            "lat": 46.0367936,
+            "lon": 10.8612924
+        },
+        {
+            "type": "node",
+            "id": 5400760073,
+            "version": 1,
+            "timestamp": "2018-02-09T08:30:59Z",
+            "changeset": 56209606,
+            "uid": 7552321,
+            "user": "MichthePuk",
+            "lat": 46.0366614,
+            "lon": 10.8616518
+        },
+        {
+            "type": "node",
+            "id": 5400760074,
+            "version": 1,
+            "timestamp": "2018-02-09T08:30:59Z",
+            "changeset": 56209606,
+            "uid": 7552321,
+            "user": "MichthePuk",
+            "lat": 46.0365608,
+            "lon": 10.8615848
+        },
+        {
+            "type": "node",
+            "id": 5400760075,
+            "version": 1,
+            "timestamp": "2018-02-09T08:30:59Z",
+            "changeset": 56209606,
+            "uid": 7552321,
+            "user": "MichthePuk",
+            "lat": 46.0366967,
+            "lon": 10.8612227
+        }
+    ]
+}

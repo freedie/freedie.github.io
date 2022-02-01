@@ -1,0 +1,95 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 430548245,
+            "version": 5,
+            "timestamp": "2010-04-12T12:19:08Z",
+            "changeset": 4403875,
+            "uid": 66900,
+            "user": "Fabry",
+            "tags": {
+                "amenity": "pub",
+                "name": "Cafè Nol"
+            },
+            "lat": 45.9956301,
+            "lon": 11.2149231
+        },
+        {
+            "type": "way",
+            "id": 37811920,
+            "version": 3,
+            "timestamp": "2020-09-18T09:29:53Z",
+            "changeset": 91101149,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Vattaro",
+                "addr:country": "IT",
+                "addr:housenumber": "31",
+                "addr:postcode": "38049",
+                "addr:street": "Via Doss del Bue",
+                "amenity": "restaurant",
+                "building": "yes",
+                "cuisine": "italian;pizza",
+                "name": "Ristorante TEX",
+                "operator": "Colace Agostino e figli s.a.s.",
+                "outdoor_seating": "yes",
+                "ref:vatin": "IT02189380229"
+            },
+            "nodes": [
+                443503975,
+                443503972,
+                443503973,
+                443503974,
+                443503975
+            ]
+        },
+        {
+            "type": "node",
+            "id": 443503975,
+            "version": 4,
+            "timestamp": "2020-09-18T09:29:53Z",
+            "changeset": 91101149,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9917612,
+            "lon": 11.2156513
+        },
+        {
+            "type": "node",
+            "id": 443503972,
+            "version": 3,
+            "timestamp": "2020-09-18T09:29:53Z",
+            "changeset": 91101149,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.991446,
+            "lon": 11.2156116
+        },
+        {
+            "type": "node",
+            "id": 443503973,
+            "version": 4,
+            "timestamp": "2020-09-18T09:29:53Z",
+            "changeset": 91101149,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9914324,
+            "lon": 11.2158353
+        },
+        {
+            "type": "node",
+            "id": 443503974,
+            "version": 3,
+            "timestamp": "2020-09-18T09:29:53Z",
+            "changeset": 91101149,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 45.9917476,
+            "lon": 11.215875
+        }
+    ]
+}

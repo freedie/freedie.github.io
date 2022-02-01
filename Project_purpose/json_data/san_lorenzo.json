@@ -1,0 +1,98 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1357188733,
+            "version": 1,
+            "timestamp": "2011-07-10T22:49:06Z",
+            "changeset": 8689318,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe"
+            },
+            "lat": 46.0768716,
+            "lon": 10.9081893
+        },
+        {
+            "type": "node",
+            "id": 6181885334,
+            "version": 1,
+            "timestamp": "2019-01-03T20:07:29Z",
+            "changeset": 66000528,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.0772106,
+            "lon": 10.9119585
+        },
+        {
+            "type": "way",
+            "id": 229220957,
+            "version": 2,
+            "timestamp": "2013-08-15T10:22:39Z",
+            "changeset": 17357475,
+            "uid": 118863,
+            "user": "bstegmaier",
+            "tags": {
+                "amenity": "bar",
+                "building": "yes"
+            },
+            "nodes": [
+                2378421977,
+                2378422031,
+                2378422021,
+                2378422018,
+                2378421977
+            ]
+        },
+        {
+            "type": "node",
+            "id": 2378421977,
+            "version": 1,
+            "timestamp": "2013-07-08T21:10:20Z",
+            "changeset": 16879723,
+            "uid": 118863,
+            "user": "bstegmaier",
+            "lat": 46.0734098,
+            "lon": 10.8964086
+        },
+        {
+            "type": "node",
+            "id": 2378422031,
+            "version": 1,
+            "timestamp": "2013-07-08T21:10:21Z",
+            "changeset": 16879723,
+            "uid": 118863,
+            "user": "bstegmaier",
+            "lat": 46.0733997,
+            "lon": 10.8965467
+        },
+        {
+            "type": "node",
+            "id": 2378422021,
+            "version": 1,
+            "timestamp": "2013-07-08T21:10:21Z",
+            "changeset": 16879723,
+            "uid": 118863,
+            "user": "bstegmaier",
+            "lat": 46.0734909,
+            "lon": 10.8965606
+        },
+        {
+            "type": "node",
+            "id": 2378422018,
+            "version": 1,
+            "timestamp": "2013-07-08T21:10:21Z",
+            "changeset": 16879723,
+            "uid": 118863,
+            "user": "bstegmaier",
+            "lat": 46.073501,
+            "lon": 10.8964225
+        }
+    ]
+}

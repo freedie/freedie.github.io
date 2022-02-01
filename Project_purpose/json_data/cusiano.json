@@ -1,0 +1,96 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 4510120958,
+            "version": 2,
+            "timestamp": "2018-09-30T20:34:10Z",
+            "changeset": 63075334,
+            "uid": 683102,
+            "user": "NonnEmilia",
+            "tags": {
+                "addr:city": "Cusiano",
+                "addr:housenumber": "16",
+                "addr:postcode": "38020",
+                "addr:street": "Via Santa Maria Maddalena",
+                "amenity": "restaurant",
+                "cuisine": "pizza;regional",
+                "diet:vegetarian": "yes",
+                "level": "0",
+                "name": "Bar Pizzeria Niagara",
+                "operator": "La Canadese s.r.l.",
+                "phone": "+39 0463 751626"
+            },
+            "lat": 46.309876,
+            "lon": 10.7466287
+        },
+        {
+            "type": "node",
+            "id": 1100566962,
+            "version": 2,
+            "timestamp": "2016-08-31T14:59:40Z",
+            "changeset": 41828788,
+            "uid": 351361,
+            "user": "dvdzero",
+            "tags": {
+                "addr:city": "Ossana",
+                "addr:housenumber": "4",
+                "addr:postcode": "38026",
+                "addr:street": "Via Venezia",
+                "amenity": "bar",
+                "fax": "+39 0463 752523",
+                "name": "Delleva Sandro",
+                "operator": "Delleva Sandro & C. snc",
+                "phone": "+39 0463 752523"
+            },
+            "lat": 46.3072962,
+            "lon": 10.736846
+        },
+        {
+            "type": "node",
+            "id": 1100568256,
+            "version": 2,
+            "timestamp": "2018-04-28T08:26:18Z",
+            "changeset": 58498137,
+            "uid": 683102,
+            "user": "NonnEmilia",
+            "tags": {
+                "addr:housenumber": "1",
+                "addr:postcode": "38026",
+                "addr:street": "Via Venezia",
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "name": "Antica Osteria",
+                "opening_hours": "We off",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "phone": "+39 0463 751713",
+                "website": "http://www.anticaosteriaossana.net",
+                "wheelchair": "no"
+            },
+            "lat": 46.3070829,
+            "lon": 10.7372721
+        },
+        {
+            "type": "node",
+            "id": 2589668245,
+            "version": 3,
+            "timestamp": "2016-11-19T08:32:25Z",
+            "changeset": 43793354,
+            "uid": 683102,
+            "user": "NonnEmilia",
+            "tags": {
+                "addr:city": "Pellizzano",
+                "addr:housenumber": "45",
+                "addr:postcode": "38020",
+                "addr:street": "Via Nazionale",
+                "amenity": "bar",
+                "name": "Al Tabià"
+            },
+            "lat": 46.3110713,
+            "lon": 10.7557119
+        }
+    ]
+}

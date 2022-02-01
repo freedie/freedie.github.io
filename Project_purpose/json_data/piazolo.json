@@ -1,0 +1,37 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 616524794,
+            "version": 2,
+            "timestamp": "2014-04-18T15:56:38Z",
+            "changeset": 21771310,
+            "uid": 2037455,
+            "user": "matteo17",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "name": "Al Cervo"
+            },
+            "lat": 46.4084995,
+            "lon": 10.8247999
+        },
+        {
+            "type": "node",
+            "id": 2799076104,
+            "version": 2,
+            "timestamp": "2020-08-02T08:32:14Z",
+            "changeset": 88833251,
+            "uid": 123131,
+            "user": "snaut",
+            "tags": {
+                "amenity": "cafe",
+                "name": "Bar Rosa delle Alpi"
+            },
+            "lat": 46.4105255,
+            "lon": 10.8181541
+        }
+    ]
+}

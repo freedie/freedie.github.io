@@ -1,0 +1,69 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 304632837,
+            "version": 2,
+            "timestamp": "2011-01-21T16:06:09Z",
+            "changeset": 7041640,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Ristorante Pizzeria Le Roi"
+            },
+            "lat": 46.2325953,
+            "lon": 10.8254299
+        },
+        {
+            "type": "node",
+            "id": 304626782,
+            "version": 3,
+            "timestamp": "2011-01-21T16:06:26Z",
+            "changeset": 7041640,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Torre Brenta"
+            },
+            "lat": 46.2333836,
+            "lon": 10.826961
+        },
+        {
+            "type": "node",
+            "id": 2952518898,
+            "version": 2,
+            "timestamp": "2018-09-11T07:04:38Z",
+            "changeset": 62476622,
+            "uid": 852319,
+            "user": "vrmap",
+            "tags": {
+                "addr:city": "Madonna di Campiglio",
+                "addr:housenumber": "104",
+                "addr:postcode": "38086",
+                "addr:street": "Via Cima Tosa",
+                "amenity": "restaurant",
+                "name": "Osteria del Circo"
+            },
+            "lat": 46.2349608,
+            "lon": 10.8271099
+        },
+        {
+            "type": "node",
+            "id": 6341426156,
+            "version": 1,
+            "timestamp": "2019-03-16T14:08:24Z",
+            "changeset": 68204193,
+            "uid": 830106,
+            "user": "literan",
+            "tags": {
+                "amenity": "restaurant"
+            },
+            "lat": 46.236962,
+            "lon": 10.8360842
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 414988154,
+            "version": 4,
+            "timestamp": "2019-07-22T15:05:58Z",
+            "changeset": 72520535,
+            "uid": 6269039,
+            "user": "giocomai",
+            "tags": {
+                "addr:housenumber": "29",
+                "addr:street": "Via Roma",
+                "amenity": "pub",
+                "name": "Al filo",
+                "outdoor_seating": "yes",
+                "ref:vatin": "IT01296860222",
+                "wheelchair": "yes"
+            },
+            "lat": 46.3515584,
+            "lon": 10.6939322
+        },
+        {
+            "type": "node",
+            "id": 6044816338,
+            "version": 4,
+            "timestamp": "2018-11-07T20:22:30Z",
+            "changeset": 64273002,
+            "uid": 3193928,
+            "user": "pippo_01",
+            "tags": {
+                "addr:city": "Cogolo",
+                "addr:housenumber": "7",
+                "addr:street": "Via delle Roge",
+                "amenity": "restaurant",
+                "cuisine": "regional;pizza",
+                "name": "Ristorante-pizzeria \"La Presef\"",
+                "phone": "+390463754022"
+            },
+            "lat": 46.3512594,
+            "lon": 10.6934714
+        },
+        {
+            "type": "node",
+            "id": 6611481842,
+            "version": 1,
+            "timestamp": "2019-07-13T09:41:20Z",
+            "changeset": 72205776,
+            "uid": 1462614,
+            "user": "_Andrea_",
+            "tags": {
+                "amenity": "pub",
+                "name": "Rive Bar"
+            },
+            "lat": 46.3467443,
+            "lon": 10.6974019
+        }
+    ]
+}

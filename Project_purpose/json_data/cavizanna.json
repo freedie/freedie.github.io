@@ -1,0 +1,124 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1404359364,
+            "version": 5,
+            "timestamp": "2021-06-26T10:04:44Z",
+            "changeset": 106996948,
+            "uid": 1462614,
+            "user": "_Andrea_",
+            "tags": {
+                "addr:city": "Cavizzana",
+                "addr:country": "IT",
+                "addr:housenumber": "10",
+                "addr:postcode": "38022",
+                "addr:street": "Piazza dell'Emigrante",
+                "amenity": "restaurant",
+                "contact:phone": "+39 0463 900162",
+                "cuisine": "italian_pizza;italian",
+                "name": "Bar Pizzeria Cucina San Francesco",
+                "operator": "Mara Rizzi",
+                "ref:vatin": "IT01671190229"
+            },
+            "lat": 46.3674649,
+            "lon": 10.9578153
+        },
+        {
+            "type": "way",
+            "id": 966990745,
+            "version": 2,
+            "timestamp": "2021-07-24T11:20:30Z",
+            "changeset": 108528596,
+            "uid": 4555725,
+            "user": "Andreas Lattmann",
+            "tags": {
+                "addr:street": "Via ai Cei",
+                "amenity": "restaurant",
+                "contact:email": "locanda.cavizzana@gmail.com",
+                "contact:phone": "+39 0463 900222",
+                "cuisine": "regional",
+                "level": "0",
+                "name": "Locanda San Martino",
+                "wheelchair": "limited"
+            },
+            "nodes": [
+                8946388366,
+                8946388369,
+                8946388370,
+                8946388371,
+                8946388372,
+                8946388368,
+                8946388366
+            ]
+        },
+        {
+            "type": "node",
+            "id": 8946388366,
+            "version": 1,
+            "timestamp": "2021-07-24T11:19:49Z",
+            "changeset": 108528560,
+            "uid": 4555725,
+            "user": "Andreas Lattmann",
+            "lat": 46.3683723,
+            "lon": 10.9589138
+        },
+        {
+            "type": "node",
+            "id": 8946388369,
+            "version": 1,
+            "timestamp": "2021-07-24T11:19:49Z",
+            "changeset": 108528560,
+            "uid": 4555725,
+            "user": "Andreas Lattmann",
+            "lat": 46.3684719,
+            "lon": 10.9587903
+        },
+        {
+            "type": "node",
+            "id": 8946388370,
+            "version": 1,
+            "timestamp": "2021-07-24T11:19:49Z",
+            "changeset": 108528560,
+            "uid": 4555725,
+            "user": "Andreas Lattmann",
+            "lat": 46.3685439,
+            "lon": 10.9589123
+        },
+        {
+            "type": "node",
+            "id": 8946388371,
+            "version": 1,
+            "timestamp": "2021-07-24T11:19:49Z",
+            "changeset": 108528560,
+            "uid": 4555725,
+            "user": "Andreas Lattmann",
+            "lat": 46.3685261,
+            "lon": 10.9589344
+        },
+        {
+            "type": "node",
+            "id": 8946388372,
+            "version": 1,
+            "timestamp": "2021-07-24T11:19:49Z",
+            "changeset": 108528560,
+            "uid": 4555725,
+            "user": "Andreas Lattmann",
+            "lat": 46.3685517,
+            "lon": 10.9589777
+        },
+        {
+            "type": "node",
+            "id": 8946388368,
+            "version": 1,
+            "timestamp": "2021-07-24T11:19:49Z",
+            "changeset": 108528560,
+            "uid": 4555725,
+            "user": "Andreas Lattmann",
+            "lat": 46.3684699,
+            "lon": 10.9590791
+        }
+    ]
+}

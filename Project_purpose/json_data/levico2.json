@@ -1,0 +1,107 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 568433880,
+            "version": 3,
+            "timestamp": "2012-01-20T11:45:13Z",
+            "changeset": 10445425,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Selva"
+            },
+            "lat": 46.0141083,
+            "lon": 11.3180702
+        },
+        {
+            "type": "way",
+            "id": 511337508,
+            "version": 1,
+            "timestamp": "2017-07-29T19:34:15Z",
+            "changeset": 50679047,
+            "uid": 5769150,
+            "user": "rondock",
+            "tags": {
+                "amenity": "restaurant",
+                "building": "yes",
+                "name": "Ristorante Scaranò"
+            },
+            "nodes": [
+                5002054020,
+                5002054021,
+                5002054022,
+                5002054023,
+                5002054020
+            ]
+        },
+        {
+            "type": "node",
+            "id": 5002054020,
+            "version": 1,
+            "timestamp": "2017-07-29T19:34:14Z",
+            "changeset": 50679047,
+            "uid": 5769150,
+            "user": "rondock",
+            "lat": 46.0161809,
+            "lon": 11.3155468
+        },
+        {
+            "type": "node",
+            "id": 5002054021,
+            "version": 1,
+            "timestamp": "2017-07-29T19:34:14Z",
+            "changeset": 50679047,
+            "uid": 5769150,
+            "user": "rondock",
+            "lat": 46.016084,
+            "lon": 11.3155516
+        },
+        {
+            "type": "node",
+            "id": 5002054022,
+            "version": 1,
+            "timestamp": "2017-07-29T19:34:14Z",
+            "changeset": 50679047,
+            "uid": 5769150,
+            "user": "rondock",
+            "lat": 46.0160887,
+            "lon": 11.3157433
+        },
+        {
+            "type": "node",
+            "id": 5002054023,
+            "version": 1,
+            "timestamp": "2017-07-29T19:34:14Z",
+            "changeset": 50679047,
+            "uid": 5769150,
+            "user": "rondock",
+            "lat": 46.0161856,
+            "lon": 11.3157385
+        },
+        {
+            "type": "node",
+            "id": 963849190,
+            "version": 5,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Levico Terme",
+                "addr:country": "IT",
+                "addr:housenumber": "9",
+                "addr:postcode": "38056",
+                "addr:province": "TN",
+                "addr:street": "Via Domenico Giannettini",
+                "amenity": "restaurant",
+                "name": "Papillon"
+            },
+            "lat": 46.0090104,
+            "lon": 11.3118736
+        }
+    ]
+}

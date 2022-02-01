@@ -1,0 +1,89 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 4390451735,
+            "version": 1,
+            "timestamp": "2016-09-07T19:57:36Z",
+            "changeset": 41988355,
+            "uid": 852319,
+            "user": "vrmap",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Agriturismo Bontempelli",
+                "tourism": "guest_house"
+            },
+            "lat": 46.3131199,
+            "lon": 10.7846341
+        },
+        {
+            "type": "way",
+            "id": 168298002,
+            "version": 2,
+            "timestamp": "2021-06-26T07:25:17Z",
+            "changeset": 106992937,
+            "uid": 1462614,
+            "user": "_Andrea_",
+            "tags": {
+                "amenity": "pub",
+                "building": "yes",
+                "food": "yes",
+                "name": "Stal Beer&Grill",
+                "website": "https://www.birreriastal.it/"
+            },
+            "nodes": [
+                1795867028,
+                1795867025,
+                1795867034,
+                1795867041,
+                1795867028
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1795867028,
+            "version": 1,
+            "timestamp": "2012-06-20T15:36:00Z",
+            "changeset": 11960067,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.3155956,
+            "lon": 10.7797422
+        },
+        {
+            "type": "node",
+            "id": 1795867025,
+            "version": 1,
+            "timestamp": "2012-06-20T15:36:00Z",
+            "changeset": 11960067,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.3155534,
+            "lon": 10.7794975
+        },
+        {
+            "type": "node",
+            "id": 1795867034,
+            "version": 1,
+            "timestamp": "2012-06-20T15:36:00Z",
+            "changeset": 11960067,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.3156872,
+            "lon": 10.779449
+        },
+        {
+            "type": "node",
+            "id": 1795867041,
+            "version": 1,
+            "timestamp": "2012-06-20T15:36:00Z",
+            "changeset": 11960067,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.3157294,
+            "lon": 10.7796937
+        }
+    ]
+}

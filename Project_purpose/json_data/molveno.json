@@ -1,0 +1,362 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 1523289654,
+            "version": 3,
+            "timestamp": "2011-11-30T22:06:36Z",
+            "changeset": 10003770,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "name": "Bar Malibù"
+            },
+            "lat": 46.1423254,
+            "lon": 10.9635864
+        },
+        {
+            "type": "node",
+            "id": 459656419,
+            "version": 4,
+            "timestamp": "2011-12-24T17:41:57Z",
+            "changeset": 10195529,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Molveno",
+                "addr:country": "IT",
+                "addr:housenumber": "4",
+                "addr:postcode": "38018",
+                "addr:street": "Via Cima Tosa",
+                "amenity": "restaurant",
+                "contact:email": "info@tavernalabotte.it",
+                "contact:fax": "+39 0461 587340",
+                "contact:mobile": "+39 348 3033396",
+                "contact:phone": "+39 0461 586948",
+                "contact:website": "http://www.tavernalabotte.it/",
+                "name": "Taverna La Botte",
+                "ref:vatin": "IT00641710223"
+            },
+            "lat": 46.1431234,
+            "lon": 10.9660326
+        },
+        {
+            "type": "node",
+            "id": 1512648046,
+            "version": 1,
+            "timestamp": "2011-11-22T12:04:09Z",
+            "changeset": 9908183,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "El Filò"
+            },
+            "lat": 46.1426074,
+            "lon": 10.9646752
+        },
+        {
+            "type": "node",
+            "id": 1524975600,
+            "version": 2,
+            "timestamp": "2011-11-30T22:06:36Z",
+            "changeset": 10003770,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Antica Bosnia"
+            },
+            "lat": 46.1425997,
+            "lon": 10.967
+        },
+        {
+            "type": "node",
+            "id": 1524975624,
+            "version": 3,
+            "timestamp": "2011-11-30T22:06:37Z",
+            "changeset": 10003770,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar",
+                "name": "Meeting"
+            },
+            "lat": 46.1427859,
+            "lon": 10.9655748
+        },
+        {
+            "type": "node",
+            "id": 1524976160,
+            "version": 3,
+            "timestamp": "2011-11-30T22:06:36Z",
+            "changeset": 10003770,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Bertolini"
+            },
+            "lat": 46.1427974,
+            "lon": 10.9655207
+        },
+        {
+            "type": "node",
+            "id": 1524976201,
+            "version": 3,
+            "timestamp": "2011-11-30T22:06:36Z",
+            "changeset": 10003770,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Molveno",
+                "addr:country": "IT",
+                "addr:housenumber": "2",
+                "addr:postcode": "38018",
+                "addr:street": "Piazza Scuole",
+                "amenity": "bar",
+                "name": "Cristallo",
+                "source": "survey"
+            },
+            "lat": 46.1428847,
+            "lon": 10.9648973
+        },
+        {
+            "type": "node",
+            "id": 1525276858,
+            "version": 1,
+            "timestamp": "2011-11-30T21:01:42Z",
+            "changeset": 10003189,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "addr:city": "Molveno",
+                "addr:country": "IT",
+                "addr:housenumber": "1",
+                "addr:postcode": "38018",
+                "addr:street": "Piazza San Carlo",
+                "amenity": "bar",
+                "name": "Imperia",
+                "source": "survey"
+            },
+            "lat": 46.1425447,
+            "lon": 10.9665729
+        },
+        {
+            "type": "node",
+            "id": 1525277252,
+            "version": 1,
+            "timestamp": "2011-11-30T21:01:49Z",
+            "changeset": 10003189,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "bar"
+            },
+            "lat": 46.1426012,
+            "lon": 10.9663414
+        },
+        {
+            "type": "node",
+            "id": 1525442359,
+            "version": 1,
+            "timestamp": "2011-11-30T23:01:08Z",
+            "changeset": 10004201,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "name": "Bucaneve"
+            },
+            "lat": 46.1433071,
+            "lon": 10.9667632
+        },
+        {
+            "type": "node",
+            "id": 1511958499,
+            "version": 4,
+            "timestamp": "2014-07-14T21:12:11Z",
+            "changeset": 24149417,
+            "uid": 351361,
+            "user": "dvdzero",
+            "tags": {
+                "addr:city": "Molveno",
+                "addr:country": "IT",
+                "addr:housenumber": "22",
+                "addr:postcode": "38018",
+                "addr:street": "Via Nazionale",
+                "amenity": "restaurant",
+                "name": "Bar Ciao"
+            },
+            "lat": 46.1441243,
+            "lon": 10.9651517
+        },
+        {
+            "type": "node",
+            "id": 1523289665,
+            "version": 2,
+            "timestamp": "2014-08-20T09:07:47Z",
+            "changeset": 24878851,
+            "uid": 106198,
+            "user": "Schlupp",
+            "tags": {
+                "addr:housenumber": "7",
+                "addr:street": "Via Lungolago",
+                "amenity": "restaurant",
+                "name": "L'Osteria del Maso",
+                "website": "http://osteriadelmaso.it/"
+            },
+            "lat": 46.141513,
+            "lon": 10.9656808
+        },
+        {
+            "type": "node",
+            "id": 459656425,
+            "version": 2,
+            "timestamp": "2017-08-09T14:37:18Z",
+            "changeset": 50975465,
+            "uid": 45263,
+            "user": "Noframe",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "Al Caminetto"
+            },
+            "lat": 46.1406246,
+            "lon": 10.9619447
+        },
+        {
+            "type": "node",
+            "id": 2929049984,
+            "version": 3,
+            "timestamp": "2014-07-14T21:12:12Z",
+            "changeset": 24149417,
+            "uid": 351361,
+            "user": "dvdzero",
+            "tags": {
+                "addr:city": "Molveno",
+                "addr:country": "IT",
+                "addr:housenumber": "19",
+                "addr:postcode": "38018",
+                "addr:street": "Via Lungolago",
+                "amenity": "restaurant",
+                "cuisine": "pizza",
+                "name": "Pizzico"
+            },
+            "lat": 46.1405816,
+            "lon": 10.9634598
+        },
+        {
+            "type": "node",
+            "id": 2929049985,
+            "version": 2,
+            "timestamp": "2016-08-28T08:48:02Z",
+            "changeset": 41751025,
+            "uid": 513434,
+            "user": "whellmut",
+            "tags": {
+                "addr:city": "Molveno",
+                "addr:country": "IT",
+                "addr:housenumber": "11/B",
+                "addr:postcode": "38018",
+                "addr:street": "Via Lungolago",
+                "amenity": "restaurant",
+                "contact:phone": "+39 461 58 69 60",
+                "cuisine": "ice_cream",
+                "name": "Bar L'Aquilone",
+                "operator": "Filippo Sartori"
+            },
+            "lat": 46.1406058,
+            "lon": 10.9639212
+        },
+        {
+            "type": "node",
+            "id": 1512680703,
+            "version": 2,
+            "timestamp": "2011-11-30T18:24:26Z",
+            "changeset": 10001706,
+            "uid": 330007,
+            "user": "pikappa79",
+            "tags": {
+                "amenity": "cafe",
+                "name": "La Perla"
+            },
+            "lat": 46.1462573,
+            "lon": 10.9717714
+        },
+        {
+            "type": "way",
+            "id": 137884766,
+            "version": 4,
+            "timestamp": "2017-07-03T23:37:49Z",
+            "changeset": 50021142,
+            "uid": 351361,
+            "user": "dvdzero",
+            "tags": {
+                "addr:city": "Molveno",
+                "addr:country": "IT",
+                "addr:housenumber": "23",
+                "addr:postcode": "38018",
+                "addr:street": "Via Lungolago",
+                "amenity": "cafe",
+                "building": "yes",
+                "name": "Bar Spiaggia",
+                "wheelchair": "yes"
+            },
+            "nodes": [
+                1511955842,
+                1511955841,
+                1511955828,
+                1511955829,
+                1511955842
+            ]
+        },
+        {
+            "type": "node",
+            "id": 1511955842,
+            "version": 1,
+            "timestamp": "2011-11-21T21:26:16Z",
+            "changeset": 9902160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1395334,
+            "lon": 10.9620785
+        },
+        {
+            "type": "node",
+            "id": 1511955841,
+            "version": 1,
+            "timestamp": "2011-11-21T21:26:15Z",
+            "changeset": 9902160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1395319,
+            "lon": 10.9622413
+        },
+        {
+            "type": "node",
+            "id": 1511955828,
+            "version": 1,
+            "timestamp": "2011-11-21T21:26:14Z",
+            "changeset": 9902160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1393725,
+            "lon": 10.9622381
+        },
+        {
+            "type": "node",
+            "id": 1511955829,
+            "version": 1,
+            "timestamp": "2011-11-21T21:26:15Z",
+            "changeset": 9902160,
+            "uid": 330007,
+            "user": "pikappa79",
+            "lat": 46.1393741,
+            "lon": 10.9620753
+        }
+    ]
+}

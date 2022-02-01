@@ -1,0 +1,103 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 2232233337,
+            "version": 9,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Castelnuovo",
+                "addr:country": "IT",
+                "addr:housenumber": "13",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Piazza del Municipio",
+                "amenity": "cafe",
+                "contact:phone": "+39 0461 753446",
+                "name": "Bar Chin",
+                "operator": "Chin Roberto",
+                "ref:vatin": "IT01274650223"
+            },
+            "lat": 46.0522497,
+            "lon": 11.49451
+        },
+        {
+            "type": "node",
+            "id": 2237889662,
+            "version": 9,
+            "timestamp": "2021-06-30T16:42:38Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Castelnuovo",
+                "addr:country": "IT",
+                "addr:housenumber": "8",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Via Trento",
+                "amenity": "cafe",
+                "contact:phone": "+39 0461 752730",
+                "name": "Al vapore"
+            },
+            "lat": 46.0525322,
+            "lon": 11.4930795
+        },
+        {
+            "type": "node",
+            "id": 6656573063,
+            "version": 2,
+            "timestamp": "2021-06-30T16:42:49Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Castelnuovo",
+                "addr:country": "IT",
+                "addr:housenumber": "17",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Viale Venezia",
+                "amenity": "cafe",
+                "contact:phone": "+39 348 930 7453",
+                "name": "Caffè Noir",
+                "operator": "Campestrin Renza",
+                "ref:vatin": "IT02349780227"
+            },
+            "lat": 46.0521275,
+            "lon": 11.4932799
+        },
+        {
+            "type": "node",
+            "id": 7368915455,
+            "version": 5,
+            "timestamp": "2021-06-30T16:42:50Z",
+            "changeset": 107218913,
+            "uid": 175702,
+            "user": "AxelBoldt",
+            "tags": {
+                "addr:city": "Castelnuovo",
+                "addr:country": "IT",
+                "addr:housenumber": "8",
+                "addr:postcode": "38050",
+                "addr:province": "TN",
+                "addr:street": "Piazza del Municipio",
+                "amenity": "fast_food",
+                "contact:mobile": "+39 3406294386",
+                "cuisine": "pizza",
+                "delivery:covid19": "yes",
+                "name": "Pizza Express",
+                "opening_hours:covid19": "Mo-Su 18:00-21:30",
+                "payment:cash": "yes",
+                "website": "https://www.pizzaexpressvalsugana.com/"
+            },
+            "lat": 46.0525859,
+            "lon": 11.4945285
+        }
+    ]
+}

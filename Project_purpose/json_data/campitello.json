@@ -1,0 +1,355 @@
+{
+    "version": "0.6",
+    "generator": "OpenStreetBrowser",
+    "elements": [
+        {
+            "type": "node",
+            "id": 7248487285,
+            "version": 2,
+            "timestamp": "2021-10-04T13:27:02Z",
+            "changeset": 112077801,
+            "uid": 29765,
+            "user": "Glg11",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza;pasta;italian;noodle;regional",
+                "level": "0",
+                "name": "Restaurant Pizzeria Kamerloy",
+                "wheelchair": "yes"
+            },
+            "lat": 46.4740465,
+            "lon": 11.7385407
+        },
+        {
+            "type": "node",
+            "id": 9144797518,
+            "version": 1,
+            "timestamp": "2021-10-04T13:27:02Z",
+            "changeset": 112077801,
+            "uid": 29765,
+            "user": "Glg11",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza;pasta;italian;noodle;regional",
+                "level": "0",
+                "name": "Ristorante Crepes De Sela",
+                "wheelchair": "yes"
+            },
+            "lat": 46.4746063,
+            "lon": 11.7394068
+        },
+        {
+            "type": "node",
+            "id": 1659161775,
+            "version": 1,
+            "timestamp": "2012-03-04T15:56:57Z",
+            "changeset": 10870141,
+            "uid": 573575,
+            "user": "hme84",
+            "tags": {
+                "addr:housename": "Mini Restaurant",
+                "addr:housenumber": "27",
+                "addr:postcode": "38031",
+                "addr:street": "strèda de Morandin",
+                "amenity": "restaurant",
+                "cuisine": "regional",
+                "name": "Mini Restaurant",
+                "website": "www.minirestauran.it"
+            },
+            "lat": 46.4766139,
+            "lon": 11.7396999
+        },
+        {
+            "type": "node",
+            "id": 2991891922,
+            "version": 2,
+            "timestamp": "2021-10-04T10:51:36Z",
+            "changeset": 112070960,
+            "uid": 29765,
+            "user": "Glg11",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza;italian;noodle;regional",
+                "name": "Osteria Heidi"
+            },
+            "lat": 46.4762847,
+            "lon": 11.7418012
+        },
+        {
+            "type": "node",
+            "id": 5787238954,
+            "version": 4,
+            "timestamp": "2021-08-16T07:42:39Z",
+            "changeset": 109732787,
+            "uid": 4566058,
+            "user": "kndffnm",
+            "tags": {
+                "addr:city": "Campitello di Fassa",
+                "addr:housenumber": "4",
+                "addr:postcode": "38031",
+                "addr:street": "Strèda dò Ruf",
+                "amenity": "cafe",
+                "bar": "yes",
+                "contact:phone": "+39 0462 750434",
+                "description": "Pasticceria Tee e Cafè Stube",
+                "email": "pasticceriamarlene@gmail.com",
+                "name": "Pasticceria Marlene",
+                "opening_hours": "Mo-Su 07:30-12:00,15:15-19:00",
+                "outdoor_seating": "yes",
+                "payment:bancomat": "yes",
+                "payment:cash": "yes",
+                "payment:coins": "yes",
+                "phone": "+39 0462 750434",
+                "shop": "bakery",
+                "takeaway": "yes",
+                "takeaway:covid19": "yes",
+                "wheelchair": "limited"
+            },
+            "lat": 46.4774871,
+            "lon": 11.7412569
+        },
+        {
+            "type": "node",
+            "id": 5787239054,
+            "version": 1,
+            "timestamp": "2018-07-26T13:10:06Z",
+            "changeset": 61088345,
+            "uid": 2088235,
+            "user": "dbf_",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza"
+            },
+            "lat": 46.4773495,
+            "lon": 11.7409478
+        },
+        {
+            "type": "node",
+            "id": 5787239153,
+            "version": 2,
+            "timestamp": "2021-10-04T10:51:36Z",
+            "changeset": 112070960,
+            "uid": 29765,
+            "user": "Glg11",
+            "tags": {
+                "amenity": "pub",
+                "cuisine": "pizza;pasta;hamburger",
+                "level": "0",
+                "name": "Pub Evita",
+                "outdoor_seating": "yes"
+            },
+            "lat": 46.4769801,
+            "lon": 11.7415532
+        },
+        {
+            "type": "node",
+            "id": 5787239253,
+            "version": 2,
+            "timestamp": "2021-10-04T10:51:36Z",
+            "changeset": 112070960,
+            "uid": 29765,
+            "user": "Glg11",
+            "tags": {
+                "amenity": "bar",
+                "level": "0",
+                "name": "Tirol",
+                "outdoor_seating": "yes"
+            },
+            "lat": 46.4769131,
+            "lon": 11.7415953
+        },
+        {
+            "type": "node",
+            "id": 6203284000,
+            "version": 3,
+            "timestamp": "2021-10-04T10:51:36Z",
+            "changeset": 112070960,
+            "uid": 29765,
+            "user": "Glg11",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "La stalla del nonno",
+                "phone": "+39 0462 750516",
+                "website": "http://lastalladelnonno.it"
+            },
+            "lat": 46.4774961,
+            "lon": 11.7408017
+        },
+        {
+            "type": "node",
+            "id": 6739952574,
+            "version": 1,
+            "timestamp": "2019-08-23T19:01:32Z",
+            "changeset": 73680831,
+            "uid": 1972608,
+            "user": "rabon",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "tobià"
+            },
+            "lat": 46.4764749,
+            "lon": 11.7405614
+        },
+        {
+            "type": "node",
+            "id": 6739988301,
+            "version": 1,
+            "timestamp": "2019-08-23T19:01:25Z",
+            "changeset": 73680827,
+            "uid": 1972608,
+            "user": "rabon",
+            "tags": {
+                "amenity": "restaurant",
+                "name": "tobià"
+            },
+            "lat": 46.4765359,
+            "lon": 11.7406188
+        },
+        {
+            "type": "node",
+            "id": 9140041708,
+            "version": 2,
+            "timestamp": "2021-10-02T15:54:11Z",
+            "changeset": 112006434,
+            "uid": 29765,
+            "user": "Glg11",
+            "tags": {
+                "amenity": "bar",
+                "level": "0",
+                "name": "Bar Agnello",
+                "outdoor_seating": "yes"
+            },
+            "lat": 46.4769325,
+            "lon": 11.7408488
+        },
+        {
+            "type": "node",
+            "id": 9140041709,
+            "version": 2,
+            "timestamp": "2021-10-02T15:54:11Z",
+            "changeset": 112006434,
+            "uid": 29765,
+            "user": "Glg11",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "italian;pizza;pasta",
+                "level": "1",
+                "name": "Ristaurante Pizzeria Agnello",
+                "outdoor_seating": "yes",
+                "takeaway": "yes",
+                "toilets": "yes"
+            },
+            "lat": 46.4768608,
+            "lon": 11.7408864
+        },
+        {
+            "type": "node",
+            "id": 9144412337,
+            "version": 2,
+            "timestamp": "2021-10-04T13:27:02Z",
+            "changeset": 112077801,
+            "uid": 29765,
+            "user": "Glg11",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza;italian;noodle",
+                "name": "Ristaurante della Villa"
+            },
+            "lat": 46.4758698,
+            "lon": 11.7398147
+        },
+        {
+            "type": "node",
+            "id": 9144490184,
+            "version": 2,
+            "timestamp": "2021-10-04T12:06:05Z",
+            "changeset": 112074188,
+            "uid": 29765,
+            "user": "Glg11",
+            "tags": {
+                "amenity": "fast_food",
+                "name": "Rosticceria"
+            },
+            "lat": 46.4765672,
+            "lon": 11.7419207
+        },
+        {
+            "type": "node",
+            "id": 9144490193,
+            "version": 1,
+            "timestamp": "2021-10-04T11:23:12Z",
+            "changeset": 112072277,
+            "uid": 29765,
+            "user": "Glg11",
+            "tags": {
+                "amenity": "bar",
+                "name": "na Bela Vida"
+            },
+            "lat": 46.4763979,
+            "lon": 11.7423404
+        },
+        {
+            "type": "node",
+            "id": 9144688119,
+            "version": 1,
+            "timestamp": "2021-10-04T12:36:40Z",
+            "changeset": 112075567,
+            "uid": 29765,
+            "user": "Glg11",
+            "tags": {
+                "amenity": "ice_cream",
+                "name": "Bar Gelateria Regina",
+                "takeaway": "yes"
+            },
+            "lat": 46.4761531,
+            "lon": 11.7428952
+        },
+        {
+            "type": "node",
+            "id": 9144688122,
+            "version": 2,
+            "timestamp": "2021-10-04T12:41:37Z",
+            "changeset": 112075772,
+            "uid": 29765,
+            "user": "Glg11",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza;pasta;italian;noodle;regional",
+                "name": "Stua De Macoch"
+            },
+            "lat": 46.4762426,
+            "lon": 11.7420769
+        },
+        {
+            "type": "node",
+            "id": 9145165083,
+            "version": 1,
+            "timestamp": "2021-10-04T15:11:16Z",
+            "changeset": 112082593,
+            "uid": 29765,
+            "user": "Glg11",
+            "tags": {
+                "amenity": "restaurant",
+                "cuisine": "pizza;italian",
+                "name": "Pizzeria Speckstube"
+            },
+            "lat": 46.4769693,
+            "lon": 11.7386041
+        },
+        {
+            "type": "node",
+            "id": 7240881786,
+            "version": 1,
+            "timestamp": "2020-02-24T20:26:00Z",
+            "changeset": 81422323,
+            "uid": 3938034,
+            "user": "Евгений Горностаев",
+            "tags": {
+                "amenity": "restaurant",
+                "name:en": "Baita Ischia"
+            },
+            "lat": 46.4760027,
+            "lon": 11.7475985
+        }
+    ]
+}
