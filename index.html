@@ -1,152 +1,106 @@
 <!DOCTYPE html>
-<html>
-<title>Knowledge and Data Integration Project</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
-<style>
-body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
-.w3-bar-block .w3-bar-item {padding:20px}
-</style>
-<body>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
 
-<!-- Top menu -->
-<div class="w3-top">
-  <div class="w3-white w3-xlarge" style="max-width:1200px;margin:auto">
-    <div class="w3-button w3-padding-16 w3-left" onclick="w3_open()">☰</div>
-    <div class="w3-right w3-padding-16">Mail</div>
-    <div class="w3-center w3-padding-16">My Food</div>
-  </div>
-</div>
-  
-<!-- !PAGE CONTENT! -->
-<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Knowledge and Data Integration</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Food and Accommodation" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Repository for Trentino Food and Accommodation data integration project" />
+<meta property="og:description" content="Repository for Trentino Food and Accommodation data integration project" />
+<link rel="canonical" href="https://github.com/freedie/freedie.github.io" />
+<meta property="og:url" content="https://github.com/freedie/freedie.github.io" />
+<meta property="og:site_name" content="Trentino_Food_Accommodation" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Trentino Food Accommodation" />
+<script type="application/ld+json">
+{"description":"Repository for Trentino Food Accommodation data integration project","headline":"Trentino Food Accommodation","url":"https://github.com/freedie/freedie.github.io/","@type":"WebSite","name":"Trentino_Food_Accommodation","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-  <!-- First Photo Grid-->
-  <div class="w3-row-padding w3-padding-16 w3-center" id="food">
-    <div class="w3-quarter">
-      <img src="/w3images/sandwich.jpg" alt="Sandwich" style="width:100%">
-      <h3>The Perfect Sandwich, A Real NYC Classic</h3>
-      <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="/w3images/steak.jpg" alt="Steak" style="width:100%">
-      <h3>Let Me Tell You About This Steak</h3>
-      <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="/w3images/cherries.jpg" alt="Cherries" style="width:100%">
-      <h3>Cherries, interrupted</h3>
-      <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-      <p>What else?</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="/w3images/wine.jpg" alt="Pasta and Wine" style="width:100%">
-      <h3>Once Again, Robust Wine and Vegetable Pasta</h3>
-      <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-  </div>
-  
-  <!-- Second Photo Grid-->
-  <div class="w3-row-padding w3-padding-16 w3-center">
-    <div class="w3-quarter">
-      <img src="/w3images/popsicle.jpg" alt="Popsicle" style="width:100%">
-      <h3>All I Need Is a Popsicle</h3>
-      <p>Lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="/w3images/salmon.jpg" alt="Salmon" style="width:100%">
-      <h3>Salmon For Your Skin</h3>
-      <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="/w3images/sandwich.jpg" alt="Sandwich" style="width:100%">
-      <h3>The Perfect Sandwich, A Real Classic</h3>
-      <p>Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-    <div class="w3-quarter">
-      <img src="/w3images/croissant.jpg" alt="Croissant" style="width:100%">
-      <h3>Le French</h3>
-      <p>Lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
-  </div>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="/Trentino_Transportation/assets/css/style.css?v=">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
-  <!-- Pagination -->
-  <div class="w3-center w3-padding-32">
-    <div class="w3-bar">
-      <a href="#" class="w3-bar-item w3-button w3-hover-black">«</a>
-      <a href="#" class="w3-bar-item w3-black w3-button">1</a>
-      <a href="#" class="w3-bar-item w3-button w3-hover-black">2</a>
-      <a href="#" class="w3-bar-item w3-button w3-hover-black">3</a>
-      <a href="#" class="w3-bar-item w3-button w3-hover-black">4</a>
-      <a href="#" class="w3-bar-item w3-button w3-hover-black">»</a>
-    </div>
-  </div>
-  
-  <hr id="about">
+<!-- Setup Google Analytics -->
 
-  <!-- About Section -->
-  <div class="w3-container w3-padding-32 w3-center">  
-    <h3>About Me, The Food Man</h3><br>
-    <img src="/w3images/chef.jpg" alt="Me" class="w3-image" style="display:block;margin:auto" width="800" height="533">
-    <div class="w3-padding-32">
-      <h4><b>I am Who I Am!</b></h4>
-      <h6><i>With Passion For Real, Good Food</i></h6>
-      <p>Just me, myself and I, exploring the universe of unknownment. I have a heart of love and an interest of lorem ipsum and mauris neque quam blog. I want to share my world with you. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
-    </div>
-  </div>
-  <hr>
-  
-  <!-- Footer -->
-  <footer class="w3-row-padding w3-padding-32">
-    <div class="w3-third">
-      <h3>FOOTER</h3>
-      <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
-      <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
-    </div>
-  
-    <div class="w3-third">
-      <h3>BLOG POSTS</h3>
-      <ul class="w3-ul w3-hoverable">
-        <li class="w3-padding-16">
-          <img src="/w3images/workshop.jpg" class="w3-left w3-margin-right" style="width:50px">
-          <span class="w3-large">Lorem</span><br>
-          <span>Sed mattis nunc</span>
-        </li>
-        <li class="w3-padding-16">
-          <img src="/w3images/gondol.jpg" class="w3-left w3-margin-right" style="width:50px">
-          <span class="w3-large">Ipsum</span><br>
-          <span>Praes tinci sed</span>
-        </li> 
-      </ul>
-    </div>
 
-    <div class="w3-third w3-serif">
-      <h3>POPULAR TAGS</h3>
-      <p>
-        <span class="w3-tag w3-black w3-margin-bottom">Travel</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">New York</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Dinner</span>
-        <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Salmon</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">France</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Drinks</span>
-        <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Ideas</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Flavors</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Cuisine</span>
-        <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Chicken</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Dressing</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Fried</span>
-        <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Fish</span> <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Duck</span>
-      </p>
-    </div>
-  </footer>
 
-<!-- End page content -->
-</div>
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/Trentino_Transportation/favicon.ico" -->
 
-<script>
-// Script to open and close sidebar
-function w3_open() {
-  document.getElementById("mySidebar").style.display = "block";
-}
- 
-function w3_close() {
-  document.getElementById("mySidebar").style.display = "none";
-}
-</script>
+<!-- end custom head snippets -->
 
-</body>
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">Trentino Food Accommodation</h1>
+      <h2 class="project-tagline">Repository for Trentino Food Accommodation data integration project</h2>
+      
+        <a href="https://github.com/freedie/freedie.github.io" class="btn">View on GitHub</a>
+      
+      
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      <h1 id="trentino-transportation">Trentino Food Accommodation</h1>
+
+<p>By Mithat Sinan Ergen and Byambakhishig Ganbold</p>
+
+<h2 id="material">Material</h2>
+
+<h3 id="github">GitHub</h3>
+<p><a href="https://github.com/freedie/freedie.github.io">https://github.com/freedie/freedie.github.io</a></p>
+
+<h2 id="domain">Domain and Purpose</h2>
+<p>The main purpose of this project is to provide users with information regarding food and accommodation
+in the Trentino region. Users will be able to plan their vacations by checking the
+information in the application. They will be able to find places to stay according to their personal
+preferences. They will be able to discover restaurants serving food they enjoy, suitable for their
+budget.
+The accommodation information will include hotels, apartments, private rooms and camping
+with detailed information about price, facilities offered, number of stars, type of rooms in the
+Trentino region. The food information will include restaurants, bars, pizzerias, ice-cream shops
+and their detailed information such as phone number, email and website.</p>
+
+<h2 id="datasets">Datasets</h2>
+<p>The datasets used are gathered from the following sources:</p>
+
+<ol>
+  <li>Open Data Trentino<br />
+<a href="https://dati.trentino.it/">https://dati.trentino.it/</a><br/></li>
+  <li>Inside Airbnb<br />
+<a href="https://www.insideairbnb.com">https://www.insideairbnb.com</a><br /></li>
+  <li>OpenStreet Map<br />
+<a href="https://www.openstreetmap.org">https://www.openstreetmap.org</a><br /></li>
+</ol>
+
+<h2 id="reference-schemas">Reference Schemas</h2>
+
+<h3>Schema.org</h3><br />
+<a href="https://www.schema.org/">https://www.schema.org/</a><br />
+<p>We have picked Schema.org as our guide for the vocabulary we are using in our project.
+Schema.org is a collaborative, community activity with a mission to create, maintain, and
+promote schemas for structured data on the Internet, on web pages, in email messages,
+and beyond.</p>
+
+
+<h2 id="etg">ETG</h2>
+
+<blockquote>
+  <p><a href="https://github.com/freedie/freedie.github.io/blob/main/formal_modeling/Ontology.owl">https://github.com/freedie/freedie.github.io/blob/main/formal_modeling/Ontology.owl</a></p>
+</blockquote>
+
+<h3 id="classes">Classes</h3>
+<p><img src="https://github.com/freedie/freedie.github.io/blob/main/informal_modeling/ER_model/ER_model.png" width="520px" alt="Classes" /></p>
+
+    </main>
+  </body>
 </html>
