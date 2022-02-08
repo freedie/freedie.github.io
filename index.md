@@ -21,6 +21,14 @@ with detailed information about price, facilities offered, number of stars, type
 Trentino region. The food information will include restaurants, bars, pizzerias, ice-cream shops
 and their detailed information such as phone number, email and website.
 
+## Report
+
+[https://github.com/freedie/freedie.github.io/blob/main/report.pdf](https://github.com/freedie/freedie.github.io/blob/main/report.pdf)
+
+## Presentation
+
+[https://github.com/freedie/freedie.github.io/blob/main/kdi_presentation.pdf](https://github.com/freedie/freedie.github.io/blob/main/kdi_presentation.pdf)
+
 ## Datasets
 
 The datasets used are gathered from the following sources:
@@ -53,10 +61,3 @@ and beyond.
 
 [https://github.com/freedie/freedie.github.io/blob/main/informal_modeling/ER_model/ER_model.png](https://github.com/freedie/freedie.github.io/blob/main/informal_modeling/ER_model/ER_model.png)
 
-## Report
-
-[https://github.com/freedie/freedie.github.io/blob/main/report.pdf](https://github.com/freedie/freedie.github.io/blob/main/report.pdf)
-
-## Presentation
-
-[https://github.com/freedie/freedie.github.io/blob/main/kdi_presentation.pdf](https://github.com/freedie/freedie.github.io/blob/main/kdi_presentation.pdf)
