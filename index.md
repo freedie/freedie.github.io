@@ -55,7 +55,7 @@ and beyond.
 
 ## Report
 
-[https://github.com/freedie/freedie.github.io/blob/main/kdi_presentation.pdf](https://github.com/freedie/freedie.github.io/blob/main/kdi_presentation.pdf)
+[https://github.com/freedie/freedie.github.io/blob/main/report.pdf](https://github.com/freedie/freedie.github.io/blob/main/report.pdf)
 
 ## Presentation
 
