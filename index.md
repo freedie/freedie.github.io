@@ -54,9 +54,9 @@ and beyond.
 [https://github.com/freedie/freedie.github.io/blob/main/informal_modeling/ER_model/ER_model.png](https://github.com/freedie/freedie.github.io/blob/main/informal_modeling/ER_model/ER_model.png)
 
 ## Report
-[https://github.com/freedie/freedie.github.io/blob/main/kdi_presentation.pdf]
+
 (https://github.com/freedie/freedie.github.io/blob/main/kdi_presentation.pdf)
 
 ## Presentation
-[https://github.com/freedie/freedie.github.io/blob/main/kdi_presentation.pdf]
+
 (https://github.com/freedie/freedie.github.io/blob/main/kdi_presentation.pdf)
