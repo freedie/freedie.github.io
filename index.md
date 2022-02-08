@@ -61,3 +61,5 @@ and beyond.
 
 [https://github.com/freedie/freedie.github.io/blob/main/informal_modeling/ER_model/ER_model.png](https://github.com/freedie/freedie.github.io/blob/main/informal_modeling/ER_model/ER_model.png)
 
+## KG
+[https://github.com/freedie/freedie.github.io/tree/main/Data_integration](https://github.com/freedie/freedie.github.io/tree/main/Data_integration)
