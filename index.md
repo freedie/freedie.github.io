@@ -3,7 +3,7 @@
 This page is about our Knowledge and Data Integration project prepared in 2021 on Food and Accommodation in the Trentino Region.
 
 
-# Repository for Trentino Food Accommodation data integration project
+# Repository for Trentino Food and Accommodation data integration project
 
 You can find the project GitHub repository here: [GitHub Repository](https://github.com/freedie/freedie.github.io/)
 
@@ -53,4 +53,10 @@ and beyond.
 
 [https://github.com/freedie/freedie.github.io/blob/main/informal_modeling/ER_model/ER_model.png](https://github.com/freedie/freedie.github.io/blob/main/informal_modeling/ER_model/ER_model.png)
 
+## Report
+[https://github.com/freedie/freedie.github.io/blob/main/kdi_presentation.pdf]
+(https://github.com/freedie/freedie.github.io/blob/main/kdi_presentation.pdf)
 
+## Presentation
+[https://github.com/freedie/freedie.github.io/blob/main/kdi_presentation.pdf]
+(https://github.com/freedie/freedie.github.io/blob/main/kdi_presentation.pdf)
